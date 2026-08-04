@@ -53,6 +53,6 @@ Commit directly to main with the project token, one logical change per commit, d
 
 ## file conventions
 
-Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown. Canvas-only items (reflection prompts, portfolio-component assignments, discussion and quiz items) keep their Markdown source in the week folders and are copied into Canvas by hand.
+Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown. Canvas-only items (reflection prompts, portfolio-component assignments, discussion and quiz items) keep their Markdown source in the week folders and are copied into Canvas by hand. The weekly module pages (weekNN.html at the repo root) are comprehensive: each carries that week's readings with a short guide, the reflection prompt, and the portfolio-component prompt on the page itself, so the prompts live on the live site as well as in Canvas. Whether to also keep separate week-folder Markdown source for the gradable Canvas versions is open.
 
 Instructor-facing Markdown that feeds Canvas is written in two parts: a structured top half for reading and editing (headings, rubric, outcomes addressed, level notes, internal notes), then a horizontal rule, then a "PASTE INTO CANVAS BELOW THIS LINE" block in plain prose for direct paste. Both halves carry the same substance; do not let them drift.
