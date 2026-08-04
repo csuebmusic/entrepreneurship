@@ -12,12 +12,12 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six movements.
 - Canonical internal docs scaffolded: this file, conventions.md, levels.md.
-- Week 1 module page built (week01.html): framing, a guided reading list, the reflection prompt, and the Creative Identity Statement, on new weekly-page styles in the stylesheet.
+- Week 1 and 2 module pages built (week01.html, week02.html) with reading notes, on the shared weekly-page styles.
 
 ## next
 
 - Component guides: the HTML pages that teach each concept while doing the component. Fifteen of them.
-- Weekly module pages: weeks 2 through 15 (week 1 done), each with the readings, the reflection, and the portfolio component.
+- Weekly module pages: weeks 3 through 15 (weeks 1 and 2 done), each with the readings, the reflection, and the portfolio component.
 - Canvas source: the Markdown for each week's Reflection and Portfolio Component (weekN/reflection.md, weekN/portfolio-component.md) in the two-part paste-block format, plus per-component rubrics.
 - Week 5 outside readings: assemble and source the scholarly and industry set for the power-and-identity week.
 - Final-portfolio landing page (HTML).
