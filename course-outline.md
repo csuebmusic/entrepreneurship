@@ -52,7 +52,7 @@ Reflection is the thinking. One to two pages at graduate level, written before M
 
 Portfolio Component is the building. Each is one named, working professional artifact drafted that week, workshopped in seminar, and revised into the final portfolio. Length varies by component: a Mission Statement is a few lines, an Audience Profile or Business Model Snapshot runs longer. At 603 the marketing components carry an implemented step and accumulate into the marketing plan SLO 4 asks students to develop and implement, presented at the end.
 
-The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). Fourteen weeks carry a Portfolio Component (week 3 produces two), for fifteen components. Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced.
+The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so it is built after the seminar discussion. The two asynchronous weeks (3 and 14) have no Monday session, so their reflection dates are set per week. Fourteen weeks carry a Portfolio Component (week 3 produces two), for fifteen components. Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced.
 
 ## reflections and portfolio components
 
@@ -101,22 +101,3 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 **week 15.** Reflection: the societal impact you want your practice to have and one concrete way to pursue it. Portfolio Component, Portfolio Overview Statement: a short integrative introduction naming the through-line across the components, so the portfolio reads as one document.
 
 **finals.** Compile, revise for coherence, and present. Not a weekly Portfolio Component.
-
-## what's locked
-
-Async placement went to the two most independent-friendly topics: mission and vision (week 3), which is template-driven and follows the identity weeks, and financial sustainability (week 14), dense how-to material that reads well as independent work.
-
-The two outcomes with the thinnest reading base each get a dedicated session. 603-1 (power and social identity) anchors week 5; 603-5 (societal impact and community benefit) anchors week 15. The lens is also named at weeks 1 and 4 so it runs as a thread. Week 5 is the one week the shelf cannot carry alone: Rabideau 7 is the only chapter that treats the subject, so that week needs roughly three outside scholarly or industry readings, sourced before publishing.
-
-The marketing-plan build path for 603 SLO 4 accumulates through weeks 6, 7, 11, and 12, then moves to implemented form and the synchronous presentation across week 15 and finals.
-
-The portfolio spine holds fifteen components. Fourteen weeks carry a Portfolio Component (week 3 produces two, mission and vision); week 13 is the one Reflection-only week. Week 5 leaves a durable Positionality and Access Reflection, so the two thinnest and most defining outcomes both leave a keeper. Fundraising folds into week 14 (Rabideau 11, NYFA funding chapters) rather than taking its own week.
-
-## levels
-
-This term runs 603, so the schedule traces to the graduate SLOs. The topics and readings are the shared spine both course numbers use. The 303 course-SLO and GE traces for the same subjects live in the subject-outcome overlay and move into levels.md when that file is set up. The 303 breadth area is GE-UD-C (Upper Division Arts or Humanities), per the catalog; the "GE-UD-3" label in the project instructions is the one to reconcile. When 303 next runs, delivery reverts to online asynchronous (discussion boards replace the live seminar), grading adds CR/NC as a student option, and rigor steps down from 603's implemented marketing plan to a constructed framework.
-
-## still open
-
-- The Reflection prompts and Portfolio Component descriptions above are seeds. The Canvas assignment text for each, and the per-component rubrics, are still to be written.
-- The three source charts behind this outline (chapter-by-chapter, by-subject, and the subject-outcome overlay) are not yet in the repo.
