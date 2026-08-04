@@ -12,7 +12,7 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six movements.
 - Canonical internal docs scaffolded: this file, conventions.md, levels.md.
-- Week 1 to 5 module pages built (week01.html through week05.html) with reading notes; week 3 is the first async week. Week 5 uses three sourced, open-access outside readings (Goldin & Rouse 2000; Mellon 2022; Panic! 2018) alongside Rabideau 7.
+- Week 1 to 5 module pages built (week01.html through week05.html) with reading notes; week 3 is the first async week. Week 5 uses two sourced, open-access outside readings (Goldin & Rouse 2000; Panic! 2018) alongside Rabideau 7.
 
 ## next
 
