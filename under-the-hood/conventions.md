@@ -73,6 +73,8 @@ Page structure:
 - "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
 - "portfolio component": the component name, what it is and why it matters, guiding questions, a short written brief in a callout, and a line connecting it forward.
 
+Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so students build it after the seminar discussion. The two asynchronous weeks (3 and 14) have no live session, so set their reflection due dates when those weeks are built.
+
 Leave off the page: outcome-tracing and next-week notes. Those traces live in course-outline.md and levels.md, not on the student page.
 
 Styling: reuse the shared weekly-page components in style.css (weekbar, rd, callout, duetag, qlist) rather than adding per-page CSS.
