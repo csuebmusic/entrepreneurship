@@ -71,7 +71,7 @@ Page structure:
 - "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use.
 - "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and why it is here, and a mono "look for" line aimed at the part that matters most.
 - "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
-- "portfolio component": the component name, what it is and why it matters, guiding questions, a short written brief in a callout, and a line connecting it forward.
+- "portfolio component": the component name, what it is and why it matters, guiding questions, and a short written brief in a callout. End on the brief; no closing "what a strong X is" line and no forward or next-week note.
 
 Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so students build it after the seminar discussion. The two asynchronous weeks (3 and 14) have no live session; there the reflection is due the Sunday evening before the async Monday, and the component the following Friday, both on Canvas.
 
