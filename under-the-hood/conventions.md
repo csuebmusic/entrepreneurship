@@ -29,7 +29,7 @@ Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302'
 
 DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS). The shared visual-language block in the project instructions still carries 302's placeholder palette and should be updated with the variables above.
 
-## the two instruments
+## course work
 
 - Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio.
 - Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Fifteen across the term; week 13 is reflection only.

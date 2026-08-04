@@ -11,7 +11,7 @@ The student-facing pages publish from this repository:
 
 - Root holds the student-facing HTML: the syllabus, the weekly module pages (week01.html and so on), and later the component guides and the final-portfolio page. Pages are self-contained and built on the shared stylesheet.
 - assets/ holds style.css and images.
-- course-outline.md is the locked schedule: the fifteen-week arc, the weekly readings with page ranges, and the two weekly instruments (a reflection and a portfolio component).
+- course-outline.md is the locked schedule: the fifteen-week arc, the weekly readings with page ranges, and the two kinds of weekly work (a reflection and a portfolio component).
 - reading notes/ holds a summary of each week's readings.
 - under-the-hood/ holds the working files: STATUS.md (current build state, read first), conventions.md (design and editorial decisions), and levels.md (the differences between the 303 and 603 versions).
 

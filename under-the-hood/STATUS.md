@@ -7,7 +7,7 @@ Active term: Fall 2026, MUS 603 (graduate).
 ## done
 
 - Course outline and 15-week schedule locked (course-outline.md): six movements, weekly topics, three to four readings per week across the six-text shelf, 603 outcome traces, and the fifteen Portfolio Components mapped onto the fixed Monday calendar. Readings carry page ranges (Kolb, Rabideau, Andrews, Landry printed pages; NYFA PDF positions; McCurdy by chapter).
-- The two instruments defined and hashed out per week (course-outline.md): Reflection and Portfolio Component, with a prompt and a component description for each week.
+- The reflection and portfolio component defined and hashed out per week (course-outline.md): a prompt and a component description for each week.
 - Reading core set: Kolb, NYFA, and Rabideau anchor; Andrews, Landry, and McCurdy are drawn on as assigned; Branagan removed.
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six movements.
