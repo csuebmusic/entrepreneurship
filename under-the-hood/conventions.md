@@ -14,6 +14,7 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
 - Week folders (week01/ and so on) hold the Markdown source for Canvas-only items: weekN/reflection.md and weekN/portfolio-component.md. These are not rendered on the live site.
+- reading notes/ holds a Markdown summary of each week's readings (weekNN.md), instructor-facing, drawn from the chapters themselves before the weekly page is drafted.
 
 GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only.
 
