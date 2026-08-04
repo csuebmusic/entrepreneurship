@@ -22,7 +22,6 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Week 5 outside readings: assemble and source the scholarly and industry set for the power-and-identity week.
 - Final-portfolio landing page (HTML).
 - Source charts: the chapter-by-chapter, by-subject, and subject-outcome overlay built in earlier sessions are not yet in the repo; add under under-the-hood/ if we want the analysis alongside the outline.
-- README.md is still a stub.
 
 ## open
 
