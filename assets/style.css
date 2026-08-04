@@ -328,3 +328,66 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+
+/* --- weekly module pages ------------------------------------------------ */
+
+.weekbar {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  margin: 0 0 2.4rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--rule);
+}
+.weekbar .k { color: var(--accent); }
+
+.rd {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.rd:last-child { border-bottom: 0; }
+.rd .cite { font-weight: 600; margin: 0 0 0.35rem; }
+.rd .cite .pages {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--ink-soft);
+}
+.rd p { margin: 0 0 0.45rem; }
+.rd .look {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--accent-deep);
+  margin: 0;
+}
+.rd .look .k { color: var(--accent); }
+
+.callout {
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+  padding: 1.2rem 1.4rem;
+  margin: 1.1rem 0 1.6rem;
+}
+.callout > :first-child { margin-top: 0; }
+.callout > :last-child { margin-bottom: 0; }
+
+.duetag {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--accent-deep);
+  background: var(--bg-alt);
+  border-radius: 999px;
+  padding: 0.14rem 0.62rem;
+  margin-left: 0.5rem;
+  vertical-align: 0.12em;
+}
+
+.qlist { margin: 0.4rem 0 1.1rem; padding-left: 1.3rem; }
+.qlist li { margin-bottom: 0.5rem; padding-left: 0.2rem; }
