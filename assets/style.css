@@ -208,6 +208,11 @@ strong { font-weight: 600; }
 ol.outcomes { margin: 0 0 var(--step); padding-left: 1.3rem; }
 ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 
+/* --- bibliography list -------------------------------------------------- */
+
+.biblist { margin: 0.3rem 0 1.3rem; padding-left: 1.3rem; }
+.biblist li { margin-bottom: 0.55rem; padding-left: 0.2rem; }
+
 /* --- schedule ----------------------------------------------------------- */
 
 .schedule { margin-top: 0.5rem; }
@@ -222,14 +227,14 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 }
 .movement .rn {
   font-family: var(--mono);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 500;
   color: var(--accent);
   line-height: 1;
 }
 .movement h3 {
   margin: 0;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -248,15 +253,15 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 }
 .week-no {
   font-family: var(--mono);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   letter-spacing: 0.02em;
   color: var(--ink-soft);
 }
-.week-title { font-weight: 600; }
+.week-title { font-size: 1rem; font-weight: 600; }
 
 .async {
   font-family: var(--mono);
-  font-size: 0.68rem;
+  font-size: 0.8rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--accent-deep);
@@ -266,12 +271,12 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 }
 
 .reading { color: var(--ink-soft); margin: 0.15rem 0 0.4rem; }
-.reading .r { font-size: 0.98rem; }
+.reading .r { font-size: 0.9rem; }
 
 .deliv {
   margin-top: 0.5rem;
   font-family: var(--mono);
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   line-height: 1.55;
 }
 .deliv .reflect { color: var(--ink-soft); }
