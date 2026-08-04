@@ -1,6 +1,6 @@
 # course outline and schedule
 
-Fall 2026, MUS 603 (graduate). Online synchronous, Mondays 6–9pm by Zoom. Term August 18 to December 5, 2026; finals December 7–12. This file locks the topical arc, the weekly schedule, the reading assignments, and the two weekly instruments with their per-week prompts. Refinements still in flux are listed under "still open."
+Fall 2026, MUS 603 (graduate). Online synchronous, Mondays 6–9pm by Zoom. Term August 18 to December 5, 2026; finals December 7–12. This file locks the topical arc, the weekly schedule, the reading assignments, and the two kinds of weekly work with their per-week prompts.
 
 ## calendar and delivery
 
@@ -44,9 +44,9 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 15 · Nov 30 | Impact, Leadership & Futures | Rabideau 2 (17–30); Andrews 7 (208–239); McCurdy 8; Kolb 11 (249–271) | 5, 1 | Portfolio Overview Statement |
 | Finals · Dec 7–12 | Final portfolio due; 603 synchronous final presentation | | 4 | compiled portfolio |
 
-## the two instruments
+## course work
 
-Two weekly instruments, distinct in purpose.
+Two kinds of weekly work, distinct in purpose.
 
 Reflection is the thinking. One to two pages at graduate level, written before Monday and used to seed discussion. Each makes two moves: engage the week's readings with analytical bite rather than summary, and connect that to a concrete question or decision in the student's own practice. It is the lower-stakes place to test ideas and bring something to workshop, and it primes the Portfolio Component that follows. The power and identity lens is a standing question any week's Reflection can pick up. It is not a keeper: it feeds the seminar and the component, then its job is done.
 
