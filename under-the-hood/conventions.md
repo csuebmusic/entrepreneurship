@@ -54,6 +54,25 @@ Commit directly to main with the project token, one logical change per commit, d
 
 ## file conventions
 
-Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown. Canvas-only items (reflection prompts, portfolio-component assignments, discussion and quiz items) keep their Markdown source in the week folders and are copied into Canvas by hand. The weekly module pages (weekNN.html at the repo root) are comprehensive: each carries that week's readings with a short guide, the reflection prompt, and the portfolio-component prompt on the page itself, so the prompts live on the live site as well as in Canvas. Whether to also keep separate week-folder Markdown source for the gradable Canvas versions is open.
+Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown. Canvas-only items (reflection prompts, portfolio-component assignments, discussion and quiz items) keep their Markdown source in the week folders and are copied into Canvas by hand. The weekly module pages carry the reflection and portfolio-component prompts on the page itself (see "weekly module pages" below), so the prompts live on the live site as well as in Canvas. Whether to also keep separate week-folder Markdown source for the gradable Canvas versions is open.
 
 Instructor-facing Markdown that feeds Canvas is written in two parts: a structured top half for reading and editing (headings, rubric, outcomes addressed, level notes, internal notes), then a horizontal rule, then a "PASTE INTO CANVAS BELOW THIS LINE" block in plain prose for direct paste. Both halves carry the same substance; do not let them drift.
+
+
+## weekly module pages
+
+Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. The page is comprehensive but lean, and it guides rather than spoon-feeds: the reader should leave knowing what to read, what to notice, and what to make, and should still have to do the thinking.
+
+Build in this order: read that week's chapters from the texts, not from memory; write the summaries into reading notes/weekNN.md; then draft the page from those notes.
+
+Page structure:
+- eyebrow (week number and date), title (the week's topic), subtitle (the movement), and a one or two sentence lede.
+- a weekbar: the at-a-glance line naming the reading, what is due before class, and the portfolio component.
+- "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use.
+- "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and why it is here, and a mono "look for" line aimed at the part that matters most.
+- "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
+- "portfolio component": the component name, what it is and why it matters, guiding questions, a short written brief in a callout, and a line connecting it forward.
+
+Leave off the page: outcome-tracing and next-week notes. Those traces live in course-outline.md and levels.md, not on the student page.
+
+Styling: reuse the shared weekly-page components in style.css (weekbar, rd, callout, duetag, qlist) rather than adding per-page CSS.
