@@ -6,7 +6,7 @@ Active term: Fall 2026, MUS 603 (graduate).
 
 ## done
 
-- Course outline and 15-week schedule locked (course-outline.md): six movements, weekly topics, three to four readings per week across the six-text shelf, 603 outcome traces, and the fifteen Portfolio Components mapped onto the fixed Monday calendar.
+- Course outline and 15-week schedule locked (course-outline.md): six movements, weekly topics, three to four readings per week across the six-text shelf, 603 outcome traces, and the fifteen Portfolio Components mapped onto the fixed Monday calendar. Readings carry page ranges (Kolb, Rabideau, Andrews, Landry; NYFA and McCurdy by chapter).
 - The two instruments defined and hashed out per week (course-outline.md): Reflection and Portfolio Component, with a prompt and a component description for each week.
 - Reading core set: Kolb, NYFA, and Rabideau anchor; Andrews, Landry, and McCurdy are drawn on as assigned; Branagan removed.
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
@@ -29,4 +29,5 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Modality: the catalog lists on-ground; Fall 2026 runs online synchronous. Confirm the online offering is approved through scheduling.
 - Fonts load from Google Fonts, so the pages are not fully offline. Decide whether to self-host DM Sans and DM Mono.
 - The shared visual-language block in the project instructions still carries 302's placeholder palette; update it with this course's variables (recorded in conventions.md).
+- NYFA and McCurdy reading page numbers are not in the provided files: the NYFA text lost its pagination in extraction, and McCurdy is a reflowable ebook. Pull them from the Canvas copies if per-page citations are wanted for those two.
 - The week-folder filename convention is reflection.md / portfolio-component.md; the project-instructions example (activity-a.md / portfolio-builder.md) predates the rename and should be reconciled.
