@@ -56,7 +56,7 @@ The fourteen-component portfolio spine is intact. Weeks 5 and 13 are Activity-A-
 
 ## levels
 
-This term runs 603, so the schedule traces to the graduate SLOs. The topics and readings are the shared spine both course numbers use. The 303 course-SLO and GE-UD-3 traces for the same subjects live in the subject-outcome overlay and move into levels.md when that file is set up. When 303 next runs, delivery reverts to online asynchronous (discussion boards replace the live seminar), grading adds CR/NC as a student option, and rigor steps down from 603's implemented marketing plan to a constructed framework.
+This term runs 603, so the schedule traces to the graduate SLOs. The topics and readings are the shared spine both course numbers use. The 303 course-SLO and GE traces for the same subjects live in the subject-outcome overlay and move into levels.md when that file is set up. The 303 breadth area is GE-UD-C (Upper Division Arts or Humanities), per the catalog; the "GE-UD-3" label in the project instructions is the one to reconcile. When 303 next runs, delivery reverts to online asynchronous (discussion boards replace the live seminar), grading adds CR/NC as a student option, and rigor steps down from 603's implemented marketing plan to a constructed framework.
 
 ## still open
 
