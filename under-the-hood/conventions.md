@@ -10,7 +10,7 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 
 ## repo layout
 
-- Root holds student-facing HTML (syllabus.html now; weekly framings, component guides, and the final-portfolio page later) and the course outline (course-outline.md).
+- Root holds the student-facing HTML (the syllabus, the weekly module pages, and later the component guides and the final-portfolio page) and the course outline (course-outline.md).
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
 - Week folders (week01/ and so on) hold the Markdown source for Canvas-only items: weekN/reflection.md and weekN/portfolio-component.md. These are not rendered on the live site.
