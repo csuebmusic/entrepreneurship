@@ -1,6 +1,6 @@
 # week 8 reading notes
 
-Product, Practice & Offerings, the week that closes Movement II. Three readings on describing what you offer as value rather than as a list of activities. Kolb 4 is the new reading; Landry 2 and NYFA 11 were read earlier for other sections, and this week takes their product parts. Summaries drawn from the chapters.
+Product, Practice & Offerings, the week that closes Module II. Three readings on describing what you offer as value rather than as a list of activities. Kolb 4 is the new reading; Landry 2 and NYFA 11 were read earlier for other sections, and this week takes their product parts. Summaries drawn from the chapters.
 
 ## Kolb, ch. 4, "Analyzing the product and its benefits" (pp. 82–103)
 

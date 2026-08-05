@@ -1,6 +1,6 @@
 # week 10 reading notes
 
-Pricing & Money, Movement III continued. Four readings on setting a price and defending it, plus the access dimension the course adds on top of the readings. Summaries drawn from the chapters.
+Pricing & Money, Module III continued. Four readings on setting a price and defending it, plus the access dimension the course adds on top of the readings. Summaries drawn from the chapters.
 
 ## NYFA, ch. 13, "Pricing Your Art" (pp. 206–215)
 

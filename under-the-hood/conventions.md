@@ -66,7 +66,7 @@ Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. T
 Build in this order: read that week's chapters from the texts, not from memory; write the summaries into reading notes/weekNN.md; then draft the page from those notes.
 
 Page structure:
-- eyebrow (week number and date), title (the week's topic), subtitle (the movement), and a one or two sentence lede.
+- eyebrow (week number and date), title (the week's topic), subtitle (the module), and a one or two sentence lede.
 - a weekbar: the at-a-glance line naming the reading, what is due before class, and the portfolio component.
 - "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use.
 - "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and why it is here, and a mono "look for" line aimed at the part that matters most.

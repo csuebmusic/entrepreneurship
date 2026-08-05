@@ -1,6 +1,6 @@
 # week 9 reading notes
 
-Business Models for Artists, the week that opens Movement III. Four mostly-new readings on the business model, how a practice creates, delivers, and captures value on a one-page canvas. Summaries drawn from the chapters.
+Business Models for Artists, the week that opens Module III. Four mostly-new readings on the business model, how a practice creates, delivers, and captures value on a one-page canvas. Summaries drawn from the chapters.
 
 ## NYFA, ch. 2, "The Business Model Canvas and Lean Methodology" (pp. 34–51)
 
@@ -28,4 +28,4 @@ key ideas: revenue versus profit; the business model reduced to how you get paid
 
 ## how they fit together
 
-The four map onto one structure. NYFA supplies the canvas and the discipline behind it: a business model is a set of hypotheses you test and revise, not a fixed plan. Rabideau anchors the create-value side with the value proposition, the offer at the center that every other block serves. Kolb is the deliver-value side, the channels through which the offer reaches the audience. Landry is the capture-value side, revenue against cost, and the question of which streams actually pay. Together they define the business model as how a practice creates, delivers, and captures value, held on one page. That is the Business Model Snapshot (outcome 2), which pulls the audience, positioning, product, and value work of Movement II into a working whole. The reflection has students sketch their revenue across more than one stream and locate where the model is fragile.
+The four map onto one structure. NYFA supplies the canvas and the discipline behind it: a business model is a set of hypotheses you test and revise, not a fixed plan. Rabideau anchors the create-value side with the value proposition, the offer at the center that every other block serves. Kolb is the deliver-value side, the channels through which the offer reaches the audience. Landry is the capture-value side, revenue against cost, and the question of which streams actually pay. Together they define the business model as how a practice creates, delivers, and captures value, held on one page. That is the Business Model Snapshot (outcome 2), which pulls the audience, positioning, product, and value work of Module II into a working whole. The reflection has students sketch their revenue across more than one stream and locate where the model is fragile.
