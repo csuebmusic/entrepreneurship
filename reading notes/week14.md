@@ -1,6 +1,6 @@
 # week 14 reading notes
 
-Financial Sustainability & Funding, the async week of Movement V (Fall Recess, no live meeting). Four readings on two questions: what sustaining the practice costs (money in and out) and where the money comes from (a funding path). Summaries drawn from the chapters.
+Financial Sustainability & Funding, the async week of Module V (Fall Recess, no live meeting). Four readings on two questions: what sustaining the practice costs (money in and out) and where the money comes from (a funding path). Summaries drawn from the chapters.
 
 ## NYFA, ch. 6, "Budgets" (pp. 109–116)
 

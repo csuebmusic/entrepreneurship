@@ -1,6 +1,6 @@
 # week 12 reading notes
 
-Social Media, Platforms & Relationships, the week that closes Movement IV, and the point where the graduate "implement" verb lands: the marketing work becomes a concrete, relational plan. Four mostly-new readings. Summaries drawn from the chapters.
+Social Media, Platforms & Relationships, the week that closes Module IV, and the point where the graduate "implement" verb lands: the marketing work becomes a concrete, relational plan. Four mostly-new readings. Summaries drawn from the chapters.
 
 ## Kolb, ch. 9, "Building social media relationships" (pp. 198–222)
 

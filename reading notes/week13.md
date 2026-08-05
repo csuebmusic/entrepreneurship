@@ -1,6 +1,6 @@
 # week 13 reading notes
 
-Legal & Professional Issues, the first week of Movement V. Reflection only, no portfolio component. Four legal chapters, and the aim is legal awareness rather than legal advice: know the concepts, protect your work, and know when to bring in a professional. This is the most fact-sensitive week, so the summaries stay to what the readings actually state. Drawn from the chapters.
+Legal & Professional Issues, the first week of Module V. Reflection only, no portfolio component. Four legal chapters, and the aim is legal awareness rather than legal advice: know the concepts, protect your work, and know when to bring in a professional. This is the most fact-sensitive week, so the summaries stay to what the readings actually state. Drawn from the chapters.
 
 ## NYFA, ch. 3, "Intellectual Property" (pp. 55–74)
 

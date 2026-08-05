@@ -1,6 +1,6 @@
 # week 6 reading notes
 
-Understanding Audiences, the week that opens Movement II. Four readings that converge on one move: stop imagining "everyone" and draw the specific people who actually value your work. Summaries drawn from the chapters.
+Understanding Audiences, the week that opens Module II. Four readings that converge on one move: stop imagining "everyone" and draw the specific people who actually value your work. Summaries drawn from the chapters.
 
 ## Kolb, ch. 5, "Targeting the right customer" (pp. 104–127)
 
