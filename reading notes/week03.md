@@ -1,6 +1,6 @@
 # week 3 reading notes
 
-Mission & Vision. The first asynchronous week (Labor Day, no meeting). Four planning chapters that converge on mission and vision as the foundation of a plan and the filter for decisions. Summaries drawn from the chapters themselves.
+Mission & Vision. Four planning chapters that converge on mission and vision as the foundation of a plan and the filter for decisions. Summaries drawn from the chapters themselves.
 
 ## NYFA, ch. 1, "Strategic Planning for Artists" (pp. 18–33)
 
