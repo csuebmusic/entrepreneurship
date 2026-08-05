@@ -285,6 +285,7 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
   content: "portfolio component \2192\00a0";
   color: var(--accent);
 }
+.deliv .due { color: var(--ink-soft); }
 
 /* --- resources panel ---------------------------------------------------- */
 
