@@ -12,12 +12,12 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six movements.
 - Canonical internal docs scaffolded: this file, conventions.md, levels.md.
-- Week 1 to 12 module pages built (week01.html through week12.html) with reading notes; week 3 is the first async week. Weeks 11 to 12 complete Movement IV. Note: week10.html carries two em dashes, both inside McCurdy ch.4's real title "It's Not about the Money—Yet!" (a faithful citation, not prose). Week 5 uses two sourced, open-access outside readings (Goldin & Rouse 2000; Panic! 2018) alongside Rabideau 7.
+- Week 1 to 13 module pages built (week01.html through week13.html) with reading notes; week 3 is the first async week. Week 13 opens Movement V and is Reflection-only (no component; page has no portfolio-component section and ends on the reflection). Note: week10.html carries two em dashes, both inside McCurdy ch.4's real title "It's Not about the Money—Yet!" (a faithful citation, not prose). Week 5 uses two sourced, open-access outside readings (Goldin & Rouse 2000; Panic! 2018) alongside Rabideau 7.
 
 ## next
 
 - Component guides: the HTML pages that teach each concept while doing the component. Fifteen of them.
-- Weekly module pages: weeks 13 through 15 (weeks 1 to 12 done), each with the readings, the reflection, and the portfolio component. Week 13 is Reflection-only (no component).
+- Weekly module pages: weeks 14 and 15 (weeks 1 to 13 done). Week 14 is async (Financial Sustainability & Funding, Financial Snapshot); week 15 closes with the Portfolio Overview Statement.
 - Canvas source: the Markdown for each week's Reflection and Portfolio Component (weekN/reflection.md, weekN/portfolio-component.md) in the two-part paste-block format, plus per-component rubrics.
 - Week 5 outside readings: assemble and source the scholarly and industry set for the power-and-identity week.
 - Final-portfolio landing page (HTML).
