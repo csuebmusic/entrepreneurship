@@ -11,6 +11,7 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Reading core set: Kolb, NYFA, and Rabideau anchor; Andrews, Landry, and McCurdy are drawn on as assigned; Branagan removed.
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six modules.
+- Grade scale corrected (syllabus.html, Aug 5). The inherited MUS 111 table carried two incompatible conversions of the same 0–4 average: a GPA column and a percentage column. On a 0–4 scale a 3.0 average is 75% of points, so the GPA column read B and the percentage column read C, and at 2.7 the split was B– against 67.5%. Dropped the percentage column, expanded the GPA column into the eleven grade-point anchors so the rounding rule is legible, and added a worked example. The score-of-2 rubric row now carries the graduate consequence. The same flaw sits in the MUS 111 master and is not yet fixed there.
 - Canonical internal docs scaffolded: this file, conventions.md, levels.md.
 - All fifteen module pages built (week01.html through week15.html) with reading notes; weeks 1 and 4 are async (the opening week and Labor Day), week 13 is Reflection-only. The weekly spine is complete.
 - Calendar shifted back one week (Aug 4 revision): week 1 now runs asynchronously in the opening week (Tuesday, Aug 18 start, no Monday meeting), which pulls every week one Monday earlier and makes Fall Recess (Nov 23) a true break with no content. Async weeks are now 1 and 4; weeks 3 and 14 became live. Week 15 unchanged (Nov 30). Dates updated across all pages, the syllabus, the outline, and conventions. This resolved the old Thanksgiving-Friday due date. Week 1: reflection due Sun Aug 23, component due Fri Aug 28 (falls together with week 2, which is light). Note: week10.html carries one em dash inside McCurdy ch.4's real title "It's Not about the Money—Yet!" (a faithful citation, not prose). Week 5 uses two sourced, open-access outside readings (Goldin & Rouse 2000; Panic! 2018) alongside Rabideau 7.
@@ -20,12 +21,12 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Component guides: the HTML pages that teach each concept while doing the component. Fifteen of them.
 - Weekly module pages: complete (weeks 1 to 15). Next build targets: the fifteen component guides (HTML), the final-portfolio landing page, and the Canvas source md plus rubrics.
 - Canvas source: the Markdown for each week's Reflection and Portfolio Component (weekN/reflection.md, weekN/portfolio-component.md) in the two-part paste-block format, plus per-component rubrics.
-- Week 5 outside readings: assemble and source the scholarly and industry set for the power-and-identity week.
 - Final-portfolio landing page (HTML).
 - Source charts: the chapter-by-chapter, by-subject, and subject-outcome overlay built in earlier sessions are not yet in the repo; add under under-the-hood/ if we want the analysis alongside the outline.
 
 ## open
 
+- Canvas grading scheme: Canvas computes percent of points earned, so a 3.0 average displays as 75% and the default scheme would post it as a C. Upload a custom scheme keyed to the anchor midpoints so the posted letter matches the syllabus: A 96.25, A– 87.5, B+ 78.75, B 71.25, B– 62.5, C+ 53.75, C 46.25, C– 37.5, D+ 28.75, D 25, F below 25. Until that is uploaded, the syllabus line saying the letter follows the scale is a promise the LMS is not keeping.
 - Module labels: "movement" relabeled to "module" across the site and notes. Six modules (I to VI) confirmed by Ines. Roman numerals kept; Arabic (Module 1 to 6) available if preferred later.
 - Syllabus fill-ins for Fall 2026: office hours day and time, the final-presentation date and time, the section number, and the feedback turnaround (currently stated as within one week).
 - Modality: the catalog lists on-ground; Fall 2026 runs online synchronous. Confirm the online offering is approved through scheduling.
