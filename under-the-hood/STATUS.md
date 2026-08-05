@@ -12,13 +12,13 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Palette chosen and shared stylesheet written (assets/style.css): warm chalk paper, pine-teal accent, DM Sans and DM Mono.
 - Student-facing syllabus written and catalog-compliant (syllabus.html): all CSUEB required elements in the 601 house structure, description and outcomes verbatim from the catalog, units 3, A–F, the approved AI policy, the 65/35 split, the bibliography with verified publication data, and the schedule as six modules.
 - Canonical internal docs scaffolded: this file, conventions.md, levels.md.
-- Week 1 to 14 module pages built (week01.html through week14.html) with reading notes; weeks 3 and 14 are async. Week 13 is Reflection-only.
+- All fifteen module pages built (week01.html through week15.html) with reading notes; weeks 3 and 14 are async, week 13 is Reflection-only. The weekly spine is complete.
 - OPEN: week 14 component due date. Following the locked async cadence it is Fri Nov 27, which is the day after Thanksgiving (Fall Recess week). Ines to confirm or move (e.g. to Mon Nov 30 or later); one-line change on week14.html and the outline if so. Note: week10.html carries two em dashes, both inside McCurdy ch.4's real title "It's Not about the Money—Yet!" (a faithful citation, not prose). Week 5 uses two sourced, open-access outside readings (Goldin & Rouse 2000; Panic! 2018) alongside Rabideau 7.
 
 ## next
 
 - Component guides: the HTML pages that teach each concept while doing the component. Fifteen of them.
-- Weekly module pages: week 15 only (weeks 1 to 14 done). Week 15 closes the course with the Portfolio Overview Statement.
+- Weekly module pages: complete (weeks 1 to 15). Next build targets: the fifteen component guides (HTML), the final-portfolio landing page, and the Canvas source md plus rubrics.
 - Canvas source: the Markdown for each week's Reflection and Portfolio Component (weekN/reflection.md, weekN/portfolio-component.md) in the two-part paste-block format, plus per-component rubrics.
 - Week 5 outside readings: assemble and source the scholarly and industry set for the power-and-identity week.
 - Final-portfolio landing page (HTML).
