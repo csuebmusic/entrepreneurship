@@ -8,6 +8,8 @@ Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesd
 
 ## reading core
 
+Four chapters carry across more than one week: NYFA 11, Andrews 3, Landry 1, and Landry 2. Each week takes a different section, and the citation names the section rather than the whole chapter, so a student is never told to reread pages already assigned. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
+
 Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Branagan is removed from consideration. The graduate-seminar model drives the reading load: three to four shorter readings per week pulled across the shelf, rather than one text per week. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition, so its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
 
 - Kolb, *Entrepreneurship in the Arts* (3rd ed.)
@@ -28,15 +30,15 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 4 · Sep 7 *async* | Career Paths & Arts Ecosystems | Andrews 8 (240–274); McCurdy 3; McCurdy 6; Rabideau Epilogue (147–152) | 1, 3 | Career Ecosystem Map; Résumé; Cover Letter (no reflection) |
 | 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); + outside scholarly/industry readings | 1, 5 | Positionality and Access Reflection |
 | **II. Audience, positioning, product** | | | | |
-| 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 (167–181); Landry 2 (21–52); Andrews 3 (67–105) | 2, 4 | Audience Profile |
-| 7 · Sep 28 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 (167–181); Andrews 3 (67–105); Landry 1 (1–20) | 4 | Positioning Statement |
-| 8 · Oct 5 | Product, Practice & Offerings | Kolb 4 (82–103); Landry 2 (21–52); NYFA 11 (167–181) | 2, 4 | Product or Service Description |
+| 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 §Understanding Your Audience; Landry 2 §Defining Your Audiences (29–37); Andrews 3 §§Exchange Model, Market Research (70–72) | 2, 4 | Audience Profile |
+| 7 · Sep 28 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
+| 8 · Oct 5 | Product, Practice & Offerings | Kolb 4 (82–103); Landry 2 §§Products and Services through Designing and Creating Your Offering (40–52) | 2, 4 | Product or Service Description |
 | **III. Business model and money** | | | | |
 | 9 · Oct 12 | Business Models for Artists | NYFA 2 (34–51); Kolb 7 (151–174); Rabideau 8 (85–100); Landry 5 (109–128) | 2 | Business Model Snapshot |
 | 10 · Oct 19 | Pricing & Money | NYFA 13 (206–215); Kolb 6 (128–150); Landry 3 (53–74); McCurdy 4 | 2, 4 | Pricing Rationale |
 | **IV. Marketing, brand, outreach** | | | | |
-| 11 · Oct 26 | Marketing, Brand & Story | Kolb 8 (175–197); NYFA 11 (167–181); Rabideau 10 (115–132); Andrews 3 (67–105) | 3, 4 | Brand Narrative |
-| 12 · Nov 2 | Social Media, Platforms & Relationships | Kolb 9 (198–222); NYFA 12 (182–205); McCurdy 9; Rabideau Toolkit (184–189) | 3, 4 | Outreach & Platform Strategy |
+| 11 · Oct 26 | Marketing, Brand & Story | Kolb 8 (175–197); NYFA 11 §Branding; Rabideau 10 (115–132); Andrews 3 §Role of Marketing in Shaping Your Image (68–69) | 3, 4 | Brand Narrative |
+| 12 · Nov 2 | Social Media, Platforms & Relationships | Kolb 9 (198–222); NYFA 12 (182–205); NYFA 11 §Establishing Short- and Long-Term Goals; McCurdy 9; Rabideau Toolkit (184–189) | 3, 4 | Outreach & Platform Strategy |
 | **V. Legal and financial sustainability** | | | | |
 | 13 · Nov 9 | Legal & Professional Issues | NYFA 3 (55–74); NYFA 4 (75–82); NYFA 5 (83–103); Andrews 5 (145–177) | 2 | none (reflection only) |
 | 14 · Nov 16 | Financial Sustainability & Funding | NYFA 6 (109–116); NYFA 7 (117–135); Rabideau 11 (133–146); Kolb 10 (224–248) | 2 | Financial Snapshot |

@@ -8,19 +8,19 @@ The segmentation argument. Kolb's premise is that creative entrepreneurs, convin
 
 key ideas: segments and targeting (not everyone); market depth versus breadth; psychographic over demographic grouping; a message tuned to each segment's felt need.
 
-## NYFA, ch. 11, "Marketing Principles and Strategies" (pp. 167–181)
+## NYFA, ch. 11, section "Understanding Your Audience"
 
 The chapter runs from understanding your work and its place in the market, through the audience, to goals and branding. For this week the "Understanding Your Audience" section is the core. It defines the audience as whoever actually consumes your work (attends, reads, watches, buys, or interacts online) and works through the who, what, where, when, and why of a single real audience member, plus the practical how: how they learned of you, whether through a friend, a listing, the venue, a mailing list, or social media. NYFA borrows the composite-sketch method from larger companies but notes that artists often have more direct access to their audience, a smaller circle of supporters and clients, which is an advantage for gathering real data. It ends by pushing toward how that audience consumes information generally, which platforms and sources they trust.
 
 key ideas: the audience as who actually shows up; the who/what/where/when/why/how of a real audience member; the composite sketch; artists' direct-access advantage; how people find and follow your work.
 
-## Landry, ch. 2, "Build and Test" (pp. 21–52)
+## Landry, ch. 2, "Build and Test," section "Defining Your Audiences" (pp. 29–37)
 
 The chapter covers brainstorming, audiences, survey tools, and the minimum viable product. The "Defining Your Audiences" section is the practical toolkit for this week. Landry opens on the essential question, who are your people, and separates demographic traits (external: geography, age, income, education) from psychographic ones (internal: values, tastes, beliefs, causes, lifestyle, aspirations), which he calls the more important of the two. He gives concrete checklists for both and warns against "everyone is my customer," arguing that niche audiences with defined characteristics are the better bet. He also notes that in the arts the startup framing of "solving a problem" often does not fit: substitute needs or desires, which may be physical, emotional, or spiritual, since people buy a painting or a song for aesthetic pleasure, curiosity, or feeling as much as for use.
 
 key ideas: demographic versus psychographic (the latter more telling); concrete traits to profile; the "everyone" trap and the case for niche; value in the arts as often a feeling rather than a solved problem.
 
-## Andrews, ch. 3, "Marketing" (pp. 67–105)
+## Andrews, ch. 3, "Marketing," sections "The Exchange Model" and "Market Research and Competitive Analysis" (pp. 70–72)
 
 A full marketing chapter; the audience-relevant sections are the exchange model and market research. Andrews frames marketing as an exchange that delivers value to each side: a venue sells a ticket, the patron gets an experience, the musicians and staff get income and recognition, and the value traded need not be money. Understanding your audience therefore means understanding what they get from the exchange and how they perceive its value. Market research is how you learn that: the goal is to know your customers' interests, how they choose to engage with the arts, where they live, how they learn about new work, and what they treat as incentives or barriers. He stresses that research runs across the whole business cycle (before launch, during introduction, once established) rather than once, and that studying similar organizations, often through collaboration rather than competition, is a way to learn about an audience you do not yet have.
 

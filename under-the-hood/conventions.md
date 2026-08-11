@@ -67,6 +67,8 @@ Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. T
 
 Build in this order: read that week's chapters from the texts, not from memory; write the summaries into reading notes/weekNN.md; then draft the page from those notes.
 
+When a chapter is assigned in more than one week, cite the section rather than the chapter, in the outline, in the syllabus schedule, and on the module page. Give the printed sub-range for Kolb, Rabideau, Andrews, and Landry. NYFA's digital edition has no folios, so name the section alone. A whole-chapter citation repeated across weeks tells a student to reread pages they have already read.
+
 Page structure:
 - eyebrow (week number and date), title (the week's topic), subtitle (the module), and a one or two sentence lede.
 - a weekbar: the at-a-glance line naming the reading, what is due before class, and the portfolio component.

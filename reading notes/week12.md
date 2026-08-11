@@ -14,6 +14,12 @@ The practical tools. NYFA turns from the theory of earlier chapters to the nuts 
 
 key ideas: social media as the key tool; each platform has its own culture and audience; go where your audience is; the statistics are out of date, the fit logic is not.
 
+## NYFA, ch. 11, section "Establishing Short- and Long-Term Goals"
+
+Added to this week in the Aug 10 reading audit; it was the one section of ch. 11 assigned nowhere, and it is the largest. It is the goal-setting frame the Outreach and Platform Strategy needs. NYFA holds that a marketing plan's most important function is a clear set of objectives, short term and long term, built on SMART goal setting (specific, measurable, attainable, relevant, timely) carried over from ch. 1. The threshold question is whether you are marketing a single event or your practice in general, and NYFA starts with the practice, since an event's success rests on awareness already built. Marketing a practice has its own goals: engage the audience, stay relevant, communicate career moments, keep a dialogue going, rather than drive one specific action. On building a timeline it is unusually concrete: tie posts to outside events, to designated days and observances, to the birthday of an influence, and it flags the discomfort of linking work to a tragedy. It also names teaching and sharing the realities of an artist's life as marketing strategies that build trust, and argues for posting career updates (a residency, a panel, an article) even when you are not marketing that event, because they give context for when you do.
+
+key ideas: SMART goals applied to marketing; marketing a practice against marketing an event; the timeline built from outside dates; teaching and transparency as marketing; updates as context for the ask.
+
 ## McCurdy, ch. 9, "Marketing and the Use of Social Media" (chapter)
 
 Platform and plan together. McCurdy opens on the artist's dilemma (you made something and no one knows) and, citing Gail Z. Martin, argues you should build your platform and your plan at the same time. The practical heart is building a fan base: start from your close circle and expand outward, and gather contact information (names, emails) at every performance, since engagement matters more than raw follower counts and a mailing list you own is worth more than a like you do not. He runs through the website as a hub, the major social platforms, and newsletters and mass mailing as the channel that keeps a relationship going.

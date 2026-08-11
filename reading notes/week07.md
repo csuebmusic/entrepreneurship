@@ -1,6 +1,6 @@
 # week 7 reading notes
 
-Competition, Positioning & Value. Four readings on where your work sits among others and the distinct value it offers. Three of them (NYFA 11, Andrews 3, Landry 1) were read earlier for other sections; this week takes their positioning-relevant parts. Kolb 3 is the new reading. Summaries drawn from the chapters.
+Competition, Positioning & Value. Three readings on where your work sits among others and the distinct value it offers. Kolb 3 is the new reading; NYFA 11 and Landry 1 supply one section each. Andrews 3 was dropped from this week in the Aug 10 reading audit: the competitive-analysis pages it contributed (pp. 71-72) sit inside the Exchange Model and Market Research pages already assigned in week 6, so the week 7 assignment was a reread. Summaries drawn from the chapters.
 
 ## Kolb, ch. 3, "Researching competitors and customers" (pp. 55–80)
 
@@ -14,11 +14,6 @@ Read here for two sections. "Understanding Your Work and Your Place in the Marke
 
 key ideas: your place in the market, found by segment; branding as the clear, consistent expression of that place; the artist's resistance to it.
 
-## Andrews, ch. 3, "Marketing" (pp. 67–105)
-
-Read here for the competitive-analysis strand of the market-research section. Andrews treats competitive analysis as of a piece with getting to know your audience: studying the organizations near you, how they reach customers and what kinds of people they attract, tells you both about your audience and about where you sit relative to others. He notes that arts organizations often collaborate rather than compete, so studying a peer can mean partnership as much as rivalry. (The exchange model and the broader market-research material were the week 6 reading.)
-
-key ideas: competitive analysis as part of market research; learning your position by studying peers; collaboration as well as competition.
 
 ## Landry, ch. 1, "Plan" (pp. 1–20)
 
