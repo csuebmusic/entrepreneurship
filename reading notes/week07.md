@@ -8,19 +8,18 @@ The research chapter, and the new anchor for the week. Kolb treats research as a
 
 key ideas: competitors defined by shared benefit, not identical product; research widely; competitor analysis as the way to name your competitive advantage; layered customer motivation.
 
-## NYFA, ch. 11, "Marketing Principles and Strategies" (pp. 167–181)
+## NYFA, ch. 11, section "Understanding Your Work and Your Place in the Market"
 
-Read here for two sections. "Understanding Your Work and Your Place in the Market" defines a market as the consumers with the interest, resources, and permission to acquire your work, and pushes you to locate your place within it by segment, the way a car sits somewhere in a field defined by price, safety, size, and aesthetics. "Branding" defines a brand as the customer experience carried by a set of images and ideas (name, logo, associations), notes that strong brands can command a premium (Advil over identical ibuprofen), and stresses that brands aim above all for clarity and consistency, which is exactly why many artists resist the idea that their art is a brand. (The audience section of this chapter was the week 6 reading.)
+One section only, since the Aug 10 reading audit moved "Branding" to week 11 alone. It defines a market as the consumers with the interest, resources, and permission to acquire your work, and pushes you to locate your place within it by segment, the way a car sits somewhere in a field defined by price, safety, size, and aesthetics. Getting there runs through understanding the work itself: medium, materials, subject, scale, and how work like yours is consumed, whether by ticket, by purchase, in a space dedicated to art or in a public one. Those factors taken together are what set your place. The chapter's other sections go to weeks 6 (audience), 11 (branding), and 12 (marketing goals).
 
-key ideas: your place in the market, found by segment; branding as the clear, consistent expression of that place; the artist's resistance to it.
+key ideas: a market defined by interest, resources, and permission; your place in it found by segment; the features of the work that decide that placement.
 
+## Landry, ch. 1, "Plan," section "Defining the UVP (Unique Value Principle)" (pp. 14–16)
 
-## Landry, ch. 1, "Plan" (pp. 1–20)
-
-Read here for the UVP section. Landry's Unique Value Principle is the name he gives to what makes you and your work special, and his key move is to tie it back to identity and mission: in business the UVP attaches to what is sold, but it stems from the creator, and when a creative struggles to gain traction it often traces to uncertainty about what makes them distinct. He recommends developing the UVP and the mission together, since each sharpens the other. (The planning and mission material was the week 3 reading.)
+A short return to the chapter read in full in week 3. Landry's Unique Value Principle is the name he gives to what makes you and your work special, and his key move is to tie it back to identity and mission: in business the UVP attaches to what is sold, but it stems from the creator, and when a creative struggles to gain traction it often traces to uncertainty about what makes them distinct. He recommends developing the UVP and the mission together, since each sharpens the other. (The planning and mission material was the week 3 reading; only these three pages are reassigned here.)
 
 key ideas: unique value as the ground of a position; the UVP rooted in identity and mission; developing value and mission together.
 
 ## how they fit together
 
-Kolb and Andrews supply the outward look: you cannot name your position without researching the field, and a competitor is anyone offering a similar benefit to your audience, so competitive analysis is how you find your distinct advantage. Landry supplies the inward half, the unique value that a position rests on, rooted in the identity and mission from Module I. NYFA names the result, your place in the market, and the clarity and consistency of a brand that holds it. Together they define positioning as the distinct value you offer, to whom, relative to the field, which rests directly on the Audience Profile from week 6. That is the Positioning Statement (outcome 4). The reflection has students position themselves against two or three real others and name to whom the difference actually matters.
+Kolb supplies the outward look: you cannot name your position without researching the field, and a competitor is anyone offering a similar benefit to your audience, so competitive analysis is how you find your distinct advantage. Landry supplies the inward half, the unique value that a position rests on, rooted in the identity and mission from Module I. NYFA names the result, your place in the market. Together they define positioning as the distinct value you offer, to whom, relative to the field, which rests directly on the Audience Profile from week 6. That is the Positioning Statement (outcome 4). The reflection has students position themselves against two or three real others and name to whom the difference actually matters.
