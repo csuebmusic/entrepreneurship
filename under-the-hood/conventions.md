@@ -27,7 +27,7 @@ Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302'
 - --accent #1d6a5e, --accent-deep #16544a, --accent-soft #e1e9e4
 - --rule #d8d4c9
 
-DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS). The shared visual-language block in the project instructions still carries 302's placeholder palette and should be updated with the variables above.
+DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS).
 
 Page width is one variable, `--measure` (58rem), with the body size (1.125rem) tuned to it so the line holds at roughly eighty to ninety characters. Change `--measure` alone to widen or narrow every page at once; raising it much past 60rem without also raising the body size pushes the line past a comfortable length. Below 620px the body drops back to 1.0625rem.
 
@@ -36,13 +36,13 @@ Page width is one variable, `--measure` (58rem), with the body size (1.125rem) t
 - Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio. Fourteen across the term; week 4 has none.
 - Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Seventeen across the term; week 3 produces two and week 4 produces three. Week 13 is reflection only, and week 4 is components only.
 
-These names are locked; they replaced "Activity A" and "Portfolio Builder." The week-folder filenames follow: reflection.md and portfolio-component.md. The project-instructions example filenames (activity-a.md, portfolio-builder.md) predate the rename and should be reconciled there.
+These names are locked. The week-folder filenames follow: reflection.md and portfolio-component.md.
 
 ## writing and register
 
-The instructor's "How I want you to communicate" profile governs all student-facing and public-facing text and is airtight there: student-facing pages and feedback, repo READMEs, Canvas announcements, anything shared beyond the instructor. Process (reasoning, verification, judgment calls) stays in the between-us layer: working exchanges and the instructor-facing side of any file, which includes this file, STATUS, levels, commit messages, and the colleague breakdown on a graded item.
+The instructor's "how I want you to communicate" profile governs three layers by destination. Process (reasoning, verification, judgment calls) belongs in chat with her and nowhere else. Instructor-facing files, which include this file, STATUS, levels, commit messages, and the colleague breakdown on a graded item, record state and rules rather than deliberation: the decision, the rule, the current status, the open question, without why the rule was chosen or what was weighed against it. Student-facing and public-facing text carries no process and no justification, and the style rules below are airtight there.
 
-Style, airtight in anything student-facing or public-facing: prose, not bullet fragments, except for genuine lists. No em dashes; en dashes in number ranges are fine. Do not stack negatives; state what a thing is. Cut hedging. Do not announce what the next sentence will do. Headings stay lowercase and minimal. State the point and leave the process out.
+Style, airtight in anything student-facing or public-facing: prose, not bullet fragments, except for genuine lists. No em dashes; en dashes in number ranges are fine. Do not stack negatives; state what a thing is. Cut hedging filler, keeping real qualification where a claim is genuinely uncertain or contested. Do not announce what the next sentence will do or restate what the last one delivered. Do not justify: state the requirement, the fact, or the point, and stop, without explaining why a requirement is set as it is or what a design choice accomplishes. Headings stay lowercase and minimal. State the point and leave the process out.
 
 Register shifts by level. 303 includes non-majors, so define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate, so assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
 
