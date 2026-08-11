@@ -8,7 +8,7 @@ The brand chapter. Kolb treats a brand as more than a mark: it becomes an expres
 
 key ideas: brand as image and values, not a logo; brand carries mission; the creator's story as a brand; clarity matters most for intangible work.
 
-## NYFA, ch. 11, "Marketing Principles and Strategies" (pp. 167–181)
+## NYFA, ch. 11, section "Branding"
 
 Revisited for the "Branding" section (also read in week 7). NYFA defines a brand as a customer experience carried by a collection of images and ideas (a name, logo, associations), notes that strong brands earn trust and can command a premium, and insists that the whole aim of a brand is clarity and consistency, which is precisely why many artists resist the idea that their work is a brand.
 
@@ -20,7 +20,7 @@ The story spine, by Elizabeth Hinckley. The chapter opens with "Bob's Tale," a p
 
 key ideas: the three things a stranger needs (why, what makes you special, where you take them); the Hero Declaration as a one-line through-line; consistency across platforms; the origin story.
 
-## Andrews, ch. 3, "Marketing" (pp. 67–105)
+## Andrews, ch. 3, "Marketing," section "The Role of Marketing in Shaping Your Image" (pp. 68–69)
 
 Revisited for the image-and-audience opening (the exchange, market-research, and competitive-analysis sections were the week 6 and 7 readings). Andrews frames marketing as communication aimed at outcomes, the first being awareness, and describes how a venture crafts and disseminates its image and identity through names, logos, written material, and audio or video pieces that tell the story behind a product or an artist's vision. The next step is educating the audience through information, examples, and testimonials so they can make an informed choice.
 

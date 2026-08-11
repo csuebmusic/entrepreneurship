@@ -1,6 +1,6 @@
 # week 8 reading notes
 
-Product, Practice & Offerings, the week that closes Module II. Three readings on describing what you offer as value rather than as a list of activities. Kolb 4 is the new reading; Landry 2 and NYFA 11 were read earlier for other sections, and this week takes their product parts. Summaries drawn from the chapters.
+Product, Practice & Offerings, the week that closes Module II. Two readings on describing what you offer as value rather than as a list of activities. Kolb 4 is the new reading; Landry 2 supplies its product section, pp. 40-52, distinct from the audience pages assigned in week 6. NYFA 11 was dropped from this week in the Aug 10 reading audit: the "Understanding Your Work and Your Place in the Market" pages it contributed are a single short section, and assigning them here and in week 7 meant reading them twice. They now sit in week 7 alone. Summaries drawn from the chapters.
 
 ## Kolb, ch. 4, "Analyzing the product and its benefits" (pp. 82–103)
 
@@ -8,17 +8,12 @@ The new anchor. Kolb opens on commoditization: when products are undifferentiate
 
 key ideas: creative work competes on value, not price; the specialty category; product as a bundle of benefits across the core, actual, and augmented levels.
 
-## Landry, ch. 2, "Build and Test" (pp. 21–52)
+## Landry, ch. 2, "Build and Test," sections "Products and Services" through "Designing and Creating Your Offering" (pp. 40–52)
 
 Read here for the products-and-services section. Landry has you name the form your offering takes, a product, a service, or an experience, and notes that in the arts it is often a service or an experience because it happens in real time (his clowning example: a performance is a service, juggling balls are a product, a clowning party is an experience). He gives distinct sets of questions for describing each. The move that matters most for this week is his features-and-benefits table: a feature is what something is, a benefit is what it does, and benefits, the feeling, convenience, lifestyle, or identity a buyer gets, are the primary reason people buy, while features are secondary. (The "Defining Your Audiences" section of this chapter was the week 6 reading.)
 
 key ideas: naming the form (product, service, or experience); the features-versus-benefits distinction; benefit as what the offering does for the buyer.
 
-## NYFA, ch. 11, "Marketing Principles and Strategies" (pp. 167–181)
-
-Read here for the "Understanding Your Work" opening. Before any marketing, NYFA asks what you actually do and, past the basic label (painter, composer, filmmaker), what makes your work uniquely yours: the material, the instrument, the subject, the conditions it needs, and how work like yours is consumed. Taken together those answers begin to locate the offering. (The audience, place-in-market, and branding sections were the week 6 and week 7 readings.)
-
-key ideas: start from understanding your own work; push past the label to what is specific about the offering.
 
 ## how they fit together
 
