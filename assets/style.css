@@ -31,8 +31,11 @@
   --sans: "DM Sans", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
   --mono: "DM Mono", ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, monospace;
 
-  /* measure and rhythm */
-  --measure: 46rem;
+  /* measure and rhythm.
+     --measure is the page width dial: raise it to widen the text column,
+     lower it to narrow. The body size is tuned to it so the line stays
+     around eighty to ninety characters. */
+  --measure: 58rem;
   --step: 1.15rem;
 }
 
@@ -47,7 +50,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--sans);
-  font-size: 1.0625rem;   /* ~17px */
+  font-size: 1.125rem;    /* ~18px, paired with --measure */
   line-height: 1.62;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -57,7 +60,7 @@ body {
 .page {
   max-width: var(--measure);
   margin: 0 auto;
-  padding: 4.5rem 1.5rem 6rem;
+  padding: 4.5rem 2rem 6rem;
 }
 
 /* --- links -------------------------------------------------------------- */
@@ -108,7 +111,7 @@ h1 {
   font-size: 1.14rem;
   color: var(--ink);
   margin: 0 0 2.5rem;
-  max-width: 40rem;
+  max-width: 50rem;
 }
 
 /* --- section headings --------------------------------------------------- */
@@ -320,6 +323,7 @@ ol.outcomes li { margin-bottom: 0.5rem; padding-left: 0.3rem; }
 
 @media (max-width: 620px) {
   .page { padding: 3rem 1.15rem 4.5rem; }
+  body { font-size: 1.0625rem; }
   .info th { width: 8.5rem; font-size: 0.76rem; }
   .info th, .info td { display: block; }
   .info th { border-bottom: 0; padding-bottom: 0; }

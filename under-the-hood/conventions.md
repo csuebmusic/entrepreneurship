@@ -29,6 +29,8 @@ Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302'
 
 DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS). The shared visual-language block in the project instructions still carries 302's placeholder palette and should be updated with the variables above.
 
+Page width is one variable, `--measure` (58rem), with the body size (1.125rem) tuned to it so the line holds at roughly eighty to ninety characters. Change `--measure` alone to widen or narrow every page at once; raising it much past 60rem without also raising the body size pushes the line past a comfortable length. Below 620px the body drops back to 1.0625rem.
+
 ## course work
 
 - Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio.
