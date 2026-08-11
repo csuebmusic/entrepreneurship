@@ -18,9 +18,9 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Page measure widened (Aug 10): `--measure` 46rem to 58rem with the body at 1.125rem, so the column fills a desktop screen while the line holds at roughly eighty to ninety characters. One variable drives every page; see conventions.md.
 - Register sweep on the student pages (Aug 10): announcement and justification sentences cut across the syllabus and all fifteen module pages. The recurring offenders were the intro line under "the reading" that pre-summarised the citation list below it, end-of-paragraph lines announcing the reflection or component that follows in its own section, and attribution sentences standing in front of the claim they introduce.
 - Week 4 rebuilt (Aug 10): reflection dropped, Résumé and Cover Letter components added alongside the Career Ecosystem Map. Seventeen components, fourteen reflections, propagated across the week pages, syllabus, outline, conventions, and levels. This closes the SLO 3 gap.
-- SLO 4 ruled on (Aug 10): "implement" is satisfied by the students' concurrent practice, not by a separate graded artifact. The syllabus line promising an implemented form has been removed, since nothing collected it; levels.md records the reasoning.
+- SLO 4 ruled on (Aug 10): "implement" is satisfied by the students' concurrent practice rather than by a separate graded artifact. The syllabus line promising an implemented form is removed. levels.md carries the rule.
 - Late policy set: 2% per day to a maximum deduction of 50%, replacing the flat half-credit rule. Written feedback still goes to on-time work.
-- Office hours set: Wednesdays 1–3pm, in person, MB 2012, or by appointment by email. Note that the section is fully online, so a remote student cannot reach them; a Zoom-on-request line is worth adding.
+- Office hours set: Wednesdays 1–3pm in MB 2012, by Zoom on request, or by appointment by email. The same block serves every course this term.
 - Component guides dropped (Aug 10). The weekly module pages already carry each component's definition, guiding questions, and brief. No second source of truth.
 - Repeated chapters fixed (Aug 10), after a section-by-section check against the texts. Four chapters ran across more than one week and were cited as whole chapters each time. Landry 1 and 2 were genuinely different parts and are now cited by sub-range. NYFA 11's "Understanding Your Work and Your Place in the Market" ran in weeks 7 and 8 and now sits in week 7 alone; its "Branding" ran in weeks 7 and 11 and now sits in week 11 alone; Andrews 3's competitive-analysis pages sat inside week 6's assignment, so Andrews 3 came out of week 7. NYFA 11's "Establishing Short- and Long-Term Goals," the largest section and previously unassigned, went to week 12. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once. conventions.md carries the rule.
 - Reading load recalculated after the citation fix. The nominal spread was mostly an artifact: week 6 falls from 110 pages to about 40, week 7 to 29, week 8 to 35, week 11 to 46. The genuinely heavy weeks are 3 (92), 13 (82), and 9 (78).
@@ -36,7 +36,6 @@ Active term: Fall 2026, MUS 603 (graduate).
 ## open
 
 - **Week 8 now carries two readings**, Kolb 4 and Landry 2's product section, about 35 pages. That is the lightest week in the term after the citation fix. A third reading would balance it; McCurdy 5, 7, 10, and 11 are the unassigned chapters, and none is a clean fit for product framing, so this may be worth leaving alone.
-- **Office hours are in person only** (MB 2012) for a fully online synchronous section. A remote student cannot reach them. Adding "or by Zoom on request" would cover it.
 - **Zoom link on the public syllabus.** syllabus.html publishes the personal meeting room link and ID on a public GitHub Pages site, and the ID is the office phone number. Decide whether the link moves to Canvas with the syllabus pointing there.
 - **Component name collision.** Week 5's Portfolio Component is called "Positionality and Access Reflection," which collides with Reflection as the locked name for the other weekly genre. The page has to spend a sentence disambiguating it. "Positionality and Access Statement" would match the other statement components.
 
@@ -47,7 +46,5 @@ Active term: Fall 2026, MUS 603 (graduate).
 - Syllabus fill-ins for Fall 2026: the final-presentation date and time, the section number, and the feedback turnaround (currently stated as within one week).
 - Modality: the catalog lists on-ground; Fall 2026 runs online synchronous. Confirm the online offering is approved through scheduling.
 - Fonts load from Google Fonts, so the pages are not fully offline. Decide whether to self-host DM Sans and DM Mono.
-- The shared visual-language block in the project instructions still carries 302's placeholder palette; update it with this course's variables (recorded in conventions.md).
 - McCurdy readings stay chapter-only: it is a reflowable ebook with no fixed pages. NYFA uses PDF page positions, taken from the real PDF's bookmarks (that digital edition has no printed folios).
-- The week-folder filename convention is reflection.md / portfolio-component.md; the project-instructions example (activity-a.md / portfolio-builder.md) predates the rename and should be reconciled.
 - The repo is public, which includes under-the-hood/ and reading notes/. Nothing in them is sensitive, but they are readable by anyone who finds the repo.
