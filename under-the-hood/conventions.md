@@ -10,7 +10,7 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 
 ## repo layout
 
-- Root holds the student-facing HTML (the syllabus, the weekly module pages, and later the component guides and the final-portfolio page) and the course outline (course-outline.md).
+- Root holds the student-facing HTML (the syllabus, the weekly module pages, and the final-portfolio page) and the course outline (course-outline.md). There are no separate component guides: each weekly module page carries its component's definition, guiding questions, and brief.
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
 - Week folders (week01/ and so on) hold the Markdown source for Canvas-only items: weekN/reflection.md and weekN/portfolio-component.md. These are not rendered on the live site.
@@ -27,6 +27,8 @@ Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302'
 - --accent #1d6a5e, --accent-deep #16544a, --accent-soft #e1e9e4
 - --rule #d8d4c9
 
+Every ink-on-surface and accent-on-surface pair in use clears WCAG AA at 4.5:1. Check any new pair before adding it.
+
 DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS).
 
 Page width is one variable, `--measure` (58rem), with the body size (1.125rem) tuned to it so the line holds at roughly eighty to ninety characters. Change `--measure` alone to widen or narrow every page at once; raising it much past 60rem without also raising the body size pushes the line past a comfortable length. Below 620px the body drops back to 1.0625rem.
@@ -42,7 +44,7 @@ These names are locked. The week-folder filenames follow: reflection.md and port
 
 The instructor's "how I want you to communicate" profile governs three layers by destination. Process (reasoning, verification, judgment calls) belongs in chat with her and nowhere else. Instructor-facing files, which include this file, STATUS, levels, commit messages, and the colleague breakdown on a graded item, record state and rules rather than deliberation: the decision, the rule, the current status, the open question, without why the rule was chosen or what was weighed against it. Student-facing and public-facing text carries no process and no justification, and the style rules below are airtight there.
 
-Style, airtight in anything student-facing or public-facing: prose, not bullet fragments, except for genuine lists. No em dashes; en dashes in number ranges are fine. Do not stack negatives; state what a thing is. Cut hedging filler, keeping real qualification where a claim is genuinely uncertain or contested. Do not announce what the next sentence will do or restate what the last one delivered. Do not justify: state the requirement, the fact, or the point, and stop, without explaining why a requirement is set as it is or what a design choice accomplishes. Headings stay lowercase and minimal. State the point and leave the process out.
+Style, airtight in anything student-facing or public-facing: prose, not bullet fragments, except for genuine lists. No em dashes; en dashes in number ranges are fine. An em dash inside a cited title stays, since the title is a citation rather than prose. Do not stack negatives; state what a thing is. Cut hedging filler, keeping real qualification where a claim is genuinely uncertain or contested. Do not announce what the next sentence will do or restate what the last one delivered. Do not justify: state the requirement, the fact, or the point, and stop, without explaining why a requirement is set as it is or what a design choice accomplishes. Headings stay lowercase and minimal. State the point and leave the process out.
 
 Register shifts by level. 303 includes non-majors, so define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate, so assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
 
