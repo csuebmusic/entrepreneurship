@@ -1,6 +1,6 @@
 # levels
 
-One shared spine, two course numbers. The spine (weekly topics, readings, the fifteen Portfolio Components, the final portfolio, the term calendar, and the delivery frame) is common. This file holds only the deltas. When drafting any material, name the level it targets and trace it to that level's outcomes. 603 material traces to 603 outcomes and 303 material to 303 outcomes; the two sets do not map one to one.
+One shared spine, two course numbers. The spine (weekly topics, readings, the seventeen Portfolio Components, the final portfolio, the term calendar, and the delivery frame) is common. This file holds only the deltas. When drafting any material, name the level it targets and trace it to that level's outcomes. 603 material traces to 603 outcomes and 303 material to 303 outcomes; the two sets do not map one to one.
 
 Active term: Fall 2026, MUS 603. The 303 side is a stub, populated enough to be a fill-in when 303 next runs rather than a rebuild.
 
@@ -9,7 +9,7 @@ Active term: Fall 2026, MUS 603. The 303 side is a stub, populated enough to be 
 - Units: 3. Grading: A–F only.
 - Delivery: online synchronous, Mondays 6–9pm by Zoom. The Monday session is the seminar core (discussion, case analysis, peer workshop); readings, reflections, and components sit async around it.
 - Audience: graduate music students.
-- Rigor: SLO 4 is "develop and implement a comprehensive marketing plan." The marketing components move past a written framework into an implemented form and are presented in a synchronous final. Heavier engagement with the readings and outside sources, at graduate writing expectations.
+- Rigor: SLO 4 is "develop and implement a comprehensive marketing plan." Ines's ruling (Aug 10): "implement" is satisfied by the students' concurrent practice rather than by a separate graded artifact. Graduate students are running careers while they take the seminar, so the plan is built for a live practice and tested against it. The course collects the plan, not evidence of its execution. The graduate load sits in the reading, the outside sources, the writing expectations, and the synchronous final presentation.
 - No GE overlay.
 - Outcomes (catalog, verbatim on the syllabus):
   1. Analyze the impact of power and social identity on career options in various arts disciplines.

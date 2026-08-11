@@ -33,8 +33,8 @@ Page width is one variable, `--measure` (58rem), with the body size (1.125rem) t
 
 ## course work
 
-- Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio.
-- Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Fifteen across the term; week 13 is reflection only.
+- Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio. Fourteen across the term; week 4 has none.
+- Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Seventeen across the term; week 3 produces two and week 4 produces three. Week 13 is reflection only, and week 4 is components only.
 
 These names are locked; they replaced "Activity A" and "Portfolio Builder." The week-folder filenames follow: reflection.md and portfolio-component.md. The project-instructions example filenames (activity-a.md, portfolio-builder.md) predate the rename and should be reconciled there.
 

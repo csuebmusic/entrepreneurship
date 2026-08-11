@@ -25,7 +25,7 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 1 · Aug 18 *async* | Art, Culture & the Creative Career | Kolb 1 (8–30); Andrews 1 (1–34); Rabideau 1 (1–16); McCurdy 1 | 2, 5 | Creative Identity Statement |
 | 2 · Aug 24 | Creative Identity, Voice & Values | McCurdy 2; Rabideau 3 (31–42); Rabideau 4 (43–56) | 3 | Values Statement |
 | 3 · Aug 31 | Mission & Vision | NYFA 1 (18–33); Kolb 2 (31–54); Landry 1 (1–20); Andrews 2 (35–66) | 2 | Mission + Vision Statements |
-| 4 · Sep 7 *async* | Career Paths & Arts Ecosystems | Andrews 8 (240–274); McCurdy 3; McCurdy 6; Rabideau Epilogue (147–152) | 1, 3 | Career Ecosystem Map |
+| 4 · Sep 7 *async* | Career Paths & Arts Ecosystems | Andrews 8 (240–274); McCurdy 3; McCurdy 6; Rabideau Epilogue (147–152) | 1, 3 | Career Ecosystem Map; Résumé; Cover Letter (no reflection) |
 | 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); + outside scholarly/industry readings | 1, 5 | Positionality and Access Reflection |
 | **II. Audience, positioning, product** | | | | |
 | 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 (167–181); Landry 2 (21–52); Andrews 3 (67–105) | 2, 4 | Audience Profile |
@@ -52,7 +52,7 @@ Reflection is the thinking. One to two pages at graduate level, written before M
 
 Portfolio Component is the building. Each is one named, working professional artifact drafted that week, workshopped in seminar, and revised into the final portfolio. Length varies by component: a Mission Statement is a few lines, an Audience Profile or Business Model Snapshot runs longer. At 603 the marketing components carry an implemented step and accumulate into the marketing plan SLO 4 asks students to develop and implement, presented at the end.
 
-The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so it is built after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks carry a Portfolio Component (week 3 produces two), for fifteen components. Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced.
+The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so it is built after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks carry a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced. Week 4 is the mirror image, three components and no reflection: it is asynchronous, its old reflection prompt duplicated the Career Ecosystem Map, and the two career documents are substantial enough to be the week's writing. This is where SLO 3's named tools land.
 
 ## reflections and portfolio components
 
@@ -66,7 +66,7 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 
 **week 3.** Reflection: draft a one-sentence mission and a one-sentence vision, and note where they pull against each other. Portfolio Component, Mission Statement and Vision Statement: mission (what you do, for whom, why, now) and vision (the change you work toward).
 
-**week 4 (async).** Reflection: map the ecosystem around one path you are considering, its roles, gatekeepers, and organizations, and where power sits. Portfolio Component, Career Ecosystem Map: the people, organizations, venues, and revenue points around your path, and where you fit.
+**week 4 (async, no reflection).** Portfolio Component, Career Ecosystem Map: the people, organizations, venues, and revenue points around your path, and where you fit. Portfolio Component, Résumé: the general one-to-two-page version, chronological, functional, or hybrid, grounded in Andrews pp. 253–255. Portfolio Component, Cover Letter: up to one page, written against a real posting the student finds and submits with it, grounded in Andrews p. 256.
 
 **week 5.** Reflection: how power and social identity have shaped access and opportunity in your discipline, drawing on Rabideau and the outside readings. Portfolio Component, Positionality and Access Reflection: your own position in the field, the access and barriers it carries, and what that means for the framework you are building. A durable anchor weeks 6 through 15 can refer back to.
 
