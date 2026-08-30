@@ -20,6 +20,8 @@ GitHub Pages serves main at the root path. There is no index page; the HTML page
 
 The repository is public, which includes under-the-hood/ and reading notes/. Keep anything sensitive out of it.
 
+No student information goes in the repository: no names, no submitted work, no grades or feedback, no enrollment or accommodation details. Student material stays in Canvas.
+
 ## palette and type
 
 Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302's cream-and-rust and from the music-curriculum oxblood memo look. Reference the variables by name; never hardcode hex in page CSS.
