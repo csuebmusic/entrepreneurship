@@ -12,3 +12,4 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 ## open
 
 - levels.md sends the 303 per-week outcome traces to a subject-outcome overlay; no such file is in the repo.
+- The 303 stub in levels.md is written to the pre-sweep prose rules and will need the same pass when 303 is populated.

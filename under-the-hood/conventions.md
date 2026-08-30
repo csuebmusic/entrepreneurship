@@ -54,6 +54,14 @@ Course-specific additions to those rules:
 
 An em dash inside a cited title stays. The title is a citation rather than prose.
 
+Quoted and reported language from a text stays as the author wrote it, in student-facing pages and in the reading notes. The rules govern the surrounding prose.
+
+Terms of art that stay: landing page, anchor date, through-line, hero declaration, scale anchor (the 0 to 4 rubric points).
+
+Names in title case stay: the weekly topic titles and the Portfolio Component names. Section headings are lowercase.
+
+A superlative locating a maximum inside one text stays (the sharpest passage in the chapter). Ranking one assigned reading against another does not.
+
 Register shifts by level. 303 includes non-majors: define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate: assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
 
 ## sourcing
