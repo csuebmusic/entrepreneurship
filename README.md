@@ -1,6 +1,6 @@
 # entrepreneurship in the arts
 
-Course site and source for Entrepreneurship in the Arts at California State University, East Bay: MUS 303 (undergraduate) and MUS 603 (graduate). The two share one spine of readings, weekly work, and a cumulative portfolio, and only one runs in a given term. The active term is Fall 2026, MUS 603-01.
+Course site and source for Entrepreneurship in the Arts at California State University, East Bay: MUS 303 (undergraduate) and MUS 603 (graduate). The two share one set of readings, weekly work, and a cumulative portfolio, and only one runs in a given term. The active term is Fall 2026, MUS 603-01.
 
 ## student-facing links
 
