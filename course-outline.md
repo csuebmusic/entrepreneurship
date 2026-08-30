@@ -10,7 +10,7 @@ Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesd
 
 Four chapters carry across more than one week: NYFA 11, Andrews 3, Landry 1, and Landry 2. Each week takes a different section, and the citation names the section rather than the whole chapter, so a student is never told to reread pages already assigned. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
 
-Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Branagan is removed from consideration. The graduate-seminar model drives the reading load: three to four shorter readings per week pulled across the shelf, rather than one text per week. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition, so its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
+Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. Week 5 adds two open-access outside readings, cited in the schedule and posted on Canvas. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Branagan is removed from consideration. The graduate-seminar model drives the reading load: three to four shorter readings per week pulled across the shelf, rather than one text per week. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition, so its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
 
 - Kolb, *Entrepreneurship in the Arts* (3rd ed.)
 - NYFA, *The Profitable Artist*
@@ -28,7 +28,7 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 2 · Aug 24 | Creative Identity, Voice & Values | McCurdy 2; Rabideau 3 (31–42); Rabideau 4 (43–56) | 3 | Values Statement |
 | 3 · Aug 31 | Mission & Vision | NYFA 1 (18–33); Kolb 2 (31–54); Landry 1 (1–20); Andrews 2 (35–66) | 2 | Mission + Vision Statements |
 | 4 · Sep 7 *async* | Career Paths & Arts Ecosystems | Andrews 8 (240–274); McCurdy 3; McCurdy 6; Rabideau Epilogue (147–152) | 1, 3 | Career Ecosystem Map; Résumé; Cover Letter (no reflection) |
-| 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); + outside scholarly/industry readings | 1, 5 | Positionality and Access Statement |
+| 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); Goldin & Rouse (2000), "Orchestrating Impartiality," *American Economic Review* 90(4), 715–741 (introduction and results); Brook, O'Brien & Taylor (2018), *Panic! Social Class, Taste and Inequalities in the Creative Industries*, Create London (introduction, parts 1–2) | 1, 5 | Positionality and Access Statement |
 | **II. Audience, positioning, product** | | | | |
 | 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 §Understanding Your Audience; Landry 2 §Defining Your Audiences (29–37); Andrews 3 §§Exchange Model, Market Research (70–72) | 2, 4 | Audience Profile |
 | 7 · Sep 28 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
@@ -38,7 +38,7 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 10 · Oct 19 | Pricing & Money | NYFA 13 (206–215); Kolb 6 (128–150); Landry 3 (53–74); McCurdy 4 | 2, 4 | Pricing Rationale |
 | **IV. Marketing, brand, outreach** | | | | |
 | 11 · Oct 26 | Marketing, Brand & Story | Kolb 8 (175–197); NYFA 11 §Branding; Rabideau 10 (115–132); Andrews 3 §Role of Marketing in Shaping Your Image (68–69) | 3, 4 | Brand Narrative |
-| 12 · Nov 2 | Social Media, Platforms & Relationships | Kolb 9 (198–222); NYFA 12 (182–205); NYFA 11 §Establishing Short- and Long-Term Goals; McCurdy 9; Rabideau Toolkit (184–189) | 3, 4 | Outreach & Platform Strategy |
+| 12 · Nov 2 | Social Media, Platforms & Relationships | Kolb 9 (198–222); NYFA 12 (182–205); NYFA 11 §Establishing Short- and Long-Term Goals; McCurdy 9; Rabideau Toolkit (184–189) | 3, 4 | Outreach and Platform Strategy |
 | **V. Legal and financial sustainability** | | | | |
 | 13 · Nov 9 | Legal & Professional Issues | NYFA 3 (55–74); NYFA 4 (75–82); NYFA 5 (83–103); Andrews 5 (145–177) | 2 | none (reflection only) |
 | 14 · Nov 16 | Financial Sustainability & Funding | NYFA 6 (109–116); NYFA 7 (117–135); Rabideau 11 (133–146); Kolb 10 (224–248) | 2 | Financial Snapshot |
