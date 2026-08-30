@@ -6,9 +6,7 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 
 ## next
 
-- Per-component rubrics in course-outline.md, one with each component. None written yet. Week 1's Creative Identity Statement and week 2's Values Statement are being graded now and come first.
 - Final-portfolio landing page (HTML), including the presentation format and what the graduate implemented layer requires.
-- Source charts: the chapter-by-chapter, by-subject, and subject-outcome overlay built in earlier sessions are not in the repo. They go under under-the-hood/ as course-construction documents.
 - Upload the Canvas custom grading scheme from course-outline.md. Until it is uploaded, the syllabus line saying the letter follows the scale is a promise the LMS is not keeping.
 
 ## open

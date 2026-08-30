@@ -62,7 +62,35 @@ Weekly Reflections and Portfolio Components 65%, final portfolio and presentatio
 
 Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the standard grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up.
 
-Per-component rubrics live in this file, with the component they belong to.
+Two rubrics cover all weekly work, one for Reflections and one for Portfolio Components. There are no per-component rubrics. Both read the same 0 to 4 anchors for their genre. Length and format are not scored on their own; they matter only where they keep the piece from doing its work.
+
+### reflection rubric
+
+Scored on engagement with the week's reading and the connection to a decision in the student's own practice. Correctness is not the measure.
+
+- **4.** Engages the reading closely enough to argue with it, and ties it to a specific decision or problem in the student's own practice. Goes past the obvious reading of the text and the obvious statement about themselves.
+- **3.** Real engagement with the reading and a genuine connection to the student's own practice, in specific terms. The thinking may be partial, the reading may be strained, the connection may be loose. A serious attempt that does not land is a 3.
+- **2.** The reading is summarized rather than engaged, or the connection to practice stays general enough to belong to anyone.
+- **1.** Little engagement with the reading or with the student's own practice.
+- **0.** No submission, or a submission that does not engage with the prompt.
+
+### portfolio component rubric
+
+Scored on whether the student made the artifact the brief asked for, in their own terms and specific to their own practice. It is a draft, and it will be revised.
+
+- **4.** The artifact the brief asked for, and usable: specific, defensible, written so someone outside the student's field could follow it. Coherent with the components already in the portfolio.
+- **3.** The artifact the brief asked for, with the thinking done in the student's own terms and with real specifics. Parts are underdeveloped and revision will improve it. A serious draft that misses the target is a 3.
+- **2.** Present but generic, or answering a different question than the brief asked.
+- **1.** Fragmentary, or not an attempt at the artifact.
+- **0.** Not submitted.
+
+### feedback
+
+Feedback on a Reflection expands the student's thinking: take what the student said and push past it, name the question they did not ask, point to the part of the reading that complicates their claim.
+
+Feedback on a Portfolio Component improves the draft: name what is working, name the one or two changes that would make it stronger, and point at the component it has to hold up next.
+
+Both are specific and actionable, tied to the criteria above and to the outcomes in levels.md.
 
 ### Canvas grading scheme
 

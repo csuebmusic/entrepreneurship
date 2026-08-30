@@ -62,7 +62,7 @@ Commit directly to main with the project token, one logical change per commit, d
 
 Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown.
 
-The weekly module page is the single source for a week's Reflection prompt and Portfolio Component brief. There is no parallel Markdown source for Canvas: the prompts are copied into Canvas from the page. Rubrics live in course-outline.md with the component they belong to.
+The weekly module page is the single source for a week's Reflection prompt and Portfolio Component brief. There is no parallel Markdown source for Canvas: the prompts are copied into Canvas from the page. Two rubrics cover all weekly work, one for Reflections and one for Portfolio Components. They live in course-outline.md. There are no per-component rubrics.
 
 
 ## weekly module pages
