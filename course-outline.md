@@ -44,7 +44,7 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. And
 | 14 · Nov 16 | Financial Sustainability & Funding | NYFA 6 (109–116); NYFA 7 (117–135); Rabideau 11 (133–146); Kolb 10 (224–248) | 2 | Financial Snapshot |
 | **VI. Impact, integration, futures** | | | | |
 | 15 · Nov 30 | Impact, Leadership & Futures | Rabideau 2 (17–30); Andrews 7 (208–239); McCurdy 8; Kolb 11 (249–271) | 5, 1 | Portfolio Overview Statement |
-| Finals · Dec 7–12 | Final portfolio due; 603 synchronous final presentation | | 4 | compiled portfolio |
+| Finals · Dec 7 | Final portfolio due; 603 synchronous final presentation, Monday 6–9pm | | 4 | compiled portfolio |
 
 ## course work
 
