@@ -92,6 +92,8 @@ Feedback on a Portfolio Component improves the draft: name what is working, name
 
 Both are specific and actionable, tied to the criteria above and to the outcomes in levels.md.
 
+Point at what a passage does and what to do with it next. Do not rank the parts of a student's work against each other and do not rank one student's work against another's: no strongest, sharpest, best, weakest, or most interesting.
+
 ### Canvas grading scheme
 
 Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, keyed to the midpoints between grade-point anchors, so the posted letter matches the syllabus scale.
