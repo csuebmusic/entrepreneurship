@@ -11,5 +11,4 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 
 ## open
 
-- Printed sub-ranges for the repeated chapters (Landry 1, Landry 2, Andrews 3, NYFA 11) are on the module pages but not in the syllabus schedule.
 - levels.md sends the 303 per-week outcome traces to a subject-outcome overlay; no such file is in the repo.
