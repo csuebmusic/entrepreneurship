@@ -1,16 +1,16 @@
 # course outline and schedule
 
-Fall 2026, MUS 603 (graduate). Online synchronous, Mondays 6–9pm by Zoom. Term August 18 to December 5, 2026; finals December 7–12. This file locks the topical arc, the weekly schedule, the reading assignments, and the two kinds of weekly work with their per-week prompts.
+Fall 2026, MUS 603 (graduate). Online synchronous, Mondays 6–9pm by Zoom. Term August 18 to December 5, 2026; finals December 7–12. This file holds the topical arc, the weekly schedule, the reading assignments, and the two kinds of weekly work with their per-week prompts.
 
 ## calendar and delivery
 
-Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesday, August 18, with no Monday meeting; and Labor Day, September 7), a Fall Recess break with no content (November 23), and finals week. Fifteen content slots feed the portfolio, then the final. The live Monday is the seminar core: reading discussion, case analysis, and peer workshop of portfolio components in progress. Async work surrounds it, with readings completed before class, the weekly Reflection, and the weekly Portfolio Component.
+Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesday, August 18, with no Monday meeting; and Labor Day, September 7), a Fall Recess break with no content (November 23), and finals week. Fifteen content slots produce the portfolio, then the final. The live Monday is the seminar core: reading discussion, case analysis, and peer workshop of portfolio components in progress. Async work sits around it: readings completed before class, the weekly Reflection, and the weekly Portfolio Component.
 
 ## reading core
 
-Four chapters carry across more than one week: NYFA 11, Andrews 3, Landry 1, and Landry 2. Each week takes a different section, and the citation names the section rather than the whole chapter, so a student is never told to reread pages already assigned. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
+Four chapters are split across more than one week: NYFA 11, Andrews 3, Landry 1, and Landry 2. Each week takes a different section, and the citation names the section rather than the whole chapter. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
 
-Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. Week 5 adds two open-access outside readings, cited in the schedule and posted on Canvas. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Branagan is removed from consideration. The graduate-seminar model drives the reading load: three to four shorter readings per week pulled across the shelf, rather than one text per week. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition, so its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
+Kolb, NYFA, and Rabideau are the required texts and appear in nearly every week. Week 5 adds two open-access outside readings, cited in the schedule and posted on Canvas. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Each week assigns three to four shorter readings pulled across the six texts. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition; its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
 
 - Kolb, *Entrepreneurship in the Arts* (3rd ed.)
 - NYFA, *The Profitable Artist*
@@ -50,26 +50,26 @@ Kolb, NYFA, and Rabideau carry nearly every week and are the required texts. Wee
 
 Two kinds of weekly work, distinct in purpose.
 
-Reflection is the thinking. One to two pages at graduate level, written before Monday and used to seed discussion. Each makes two moves: engage the week's readings with analytical bite rather than summary, and connect that to a concrete question or decision in the student's own practice. It is the lower-stakes place to test ideas and bring something to workshop, and it primes the Portfolio Component that follows. The power and identity lens is a standing question any week's Reflection can pick up. It is not a keeper: it feeds the seminar and the component, then its job is done.
+Reflection is the thinking. One to two pages at graduate level, written before Monday and discussed in seminar. Each makes two moves: engage the week's readings with analytical bite rather than summary, and connect that to a concrete question or decision in the student's own practice. It is the lower-stakes place to test ideas and bring something to workshop, and it precedes the Portfolio Component. Power and social identity is a standing question any week's Reflection can take up. It is not part of the portfolio.
 
 Portfolio Component is the building. Each is one named, working professional artifact drafted that week, workshopped in seminar, and revised into the final portfolio. Length varies by component: a Mission Statement is a few lines, an Audience Profile or Business Model Snapshot runs longer. At 603 the marketing components accumulate into the marketing plan named in SLO 4, presented at the end. The course collects the plan; the implement verb is satisfied by the student's concurrent practice rather than by a separate graded artifact.
 
-The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so it is built after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks carry a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced. Week 4 is the mirror image, three components and no reflection: it is asynchronous, its old reflection prompt duplicated the Career Ecosystem Map, and the two career documents are substantial enough to be the week's writing. This is where SLO 3's named tools land.
+The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks have a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only. Week 4 runs three components and no reflection, and it is where SLO 3's named tools sit.
 
 ## assessment
 
-Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component carries equal weight: the fourteen Reflections and seventeen Components average straight into the weekly score.
+Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component counts equally: the fourteen Reflections and seventeen Components average straight into the weekly score.
 
-Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the standard grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up. An average below 1.0 is an F.
+Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up. An average below 1.0 is an F.
 
-Two rubrics cover all weekly work, one for Reflections and one for Portfolio Components. There are no per-component rubrics. Both read the same 0 to 4 anchors for their genre. Length and format are not scored on their own; they matter only where they keep the piece from doing its work.
+Two rubrics cover all weekly work, one for Reflections and one for Portfolio Components. There are no per-component rubrics. Both read the same 0 to 4 anchors for their genre. Length and format are not scored on their own; they matter only where they keep the piece from meeting the brief.
 
 ### reflection rubric
 
 Scored on engagement with the week's reading and the connection to a decision in the student's own practice. Correctness is not the measure.
 
 - **4.** Engages the reading closely enough to argue with it, and ties it to a specific decision or problem in the student's own practice. Goes past the obvious reading of the text and the obvious statement about themselves.
-- **3.** Real engagement with the reading and a genuine connection to the student's own practice, in specific terms. The thinking may be partial, the reading may be strained, the connection may be loose. A serious attempt that does not land is a 3.
+- **3.** Real engagement with the reading and a genuine connection to the student's own practice, in specific terms. The thinking may be partial, the reading may be strained, the connection may be loose. A serious attempt that falls short is a 3.
 - **2.** The reading is summarized rather than engaged, or the connection to practice stays general enough to belong to anyone.
 - **1.** Little engagement with the reading or with the student's own practice.
 - **0.** No submission, or a submission that does not engage with the prompt.
@@ -79,7 +79,7 @@ Scored on engagement with the week's reading and the connection to a decision in
 Scored on whether the student made the artifact the brief asked for, in their own terms and specific to their own practice. It is a draft, and it will be revised.
 
 - **4.** The artifact the brief asked for, and usable: specific, defensible, written so someone outside the student's field could follow it. Coherent with the components already in the portfolio.
-- **3.** The artifact the brief asked for, with the thinking done in the student's own terms and with real specifics. Parts are underdeveloped and revision will improve it. A serious draft that misses the target is a 3.
+- **3.** The artifact the brief asked for, with the thinking done in the student's own terms and with real specifics. Parts are underdeveloped and revision will improve it. A serious draft that misses the brief is a 3.
 - **2.** Present but generic, or answering a different question than the brief asked.
 - **1.** Fragmentary, or not an attempt at the artifact.
 - **0.** Not submitted.
@@ -90,7 +90,7 @@ Feedback to a student is student-facing text. The profile's "how I want you to c
 
 Feedback on a Reflection expands the student's thinking: take what the student said and push past it, name the question they did not ask, point to the part of the reading that complicates their claim.
 
-Feedback on a Portfolio Component improves the draft: name what is working, name the one or two changes that would make it stronger, and point at the component it has to hold up next.
+Feedback on a Portfolio Component improves the draft: name what is working, name the one or two changes that would make it stronger, and point to the component it has to be consistent with next.
 
 Before a comment goes out:
 
@@ -100,7 +100,7 @@ Before a comment goes out:
 
 ### Canvas grading scheme
 
-Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, the midpoints between grade-point anchors expressed as a percent of 4.0, so the posted letter matches the syllabus scale. The D bound is the 1.0 anchor itself rather than a midpoint: an average below 1.0 is an F.
+Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, the midpoints between grade-point anchors expressed as a percent of 4.0. The posted letter then matches the syllabus scale. The D bound is the 1.0 anchor itself rather than a midpoint: an average below 1.0 is an F.
 
 | letter | lower bound (%) |
 |---|---|
@@ -120,27 +120,27 @@ Late work: automatic deduction of 2% per day, lowest possible grade 50%.
 
 ## reflections and portfolio components
 
-Per week: the Reflection prompt, then the Portfolio Component and what it is. Prompts are seeds, refined into the Canvas assignment text later.
+Per week: the Reflection prompt, then the Portfolio Component and what it is. Prompts are drafts, refined into the Canvas assignment text later.
 
 **I. Orientation, identity, and the power lens**
 
-**week 1 (async).** Reflection: what "entrepreneurship" means for an artist in the readings, where you locate yourself in that picture now, and one assumption the readings challenge. Portfolio Component, Creative Identity Statement: a first-person statement of who you are as an artist and the work you do, the anchor the rest of the portfolio refers back to.
+**week 1 (async).** Reflection: what "entrepreneurship" means for an artist in the readings, where you locate yourself in that picture now, and one assumption the readings challenge. Portfolio Component, Creative Identity Statement: a first-person statement of who you are as an artist and the work you do, and what the rest of the portfolio refers back to.
 
 **week 2.** Reflection: two or three values that actually govern your creative decisions, with a real example of each. Portfolio Component, Values Statement: the values that guide your choices, stated so they could guide an actual decision.
 
-**week 3.** Reflection: draft a one-sentence mission and a one-sentence vision, and note where they pull against each other. Portfolio Component, Mission Statement and Vision Statement: mission (what you do, for whom, why, now) and vision (the change you work toward).
+**week 3.** Reflection: draft a one-sentence mission and a one-sentence vision, and note where they conflict. Portfolio Component, Mission Statement and Vision Statement: mission (what you do, for whom, why, now) and vision (the change you work toward).
 
 **week 4 (async, no reflection).** Portfolio Component, Career Ecosystem Map: the people, organizations, venues, and revenue points around your path, and where you fit. Portfolio Component, Résumé: the general one-to-two-page version, chronological, functional, or hybrid, grounded in Andrews pp. 253–255. Portfolio Component, Cover Letter: up to one page, written against a real posting the student finds and submits with it, grounded in Andrews p. 256.
 
-**week 5.** Reflection: how power and social identity have shaped access and opportunity in your discipline, drawing on Rabideau and the outside readings. Portfolio Component, Positionality and Access Statement: your own position in the field, the access and barriers it carries, and what that means for the framework you are building. A durable anchor weeks 6 through 15 can refer back to.
+**week 5.** Reflection: how power and social identity have shaped access and opportunity in your discipline, drawing on Rabideau and the outside readings. Portfolio Component, Positionality and Access Statement: your own position in the field, the access it gives you and the barriers it puts in your way, and what that means for the framework you are building. Weeks 6 through 15 can refer back to it.
 
 **II. Audience, positioning, product**
 
-**week 6.** Reflection: the audiences the readings say you actually have versus the one you imagine, and what you do not yet know about them. Portfolio Component, Audience Profile: who your audience is, what they value, where they are, and how they find work like yours. Opens the marketing plan.
+**week 6.** Reflection: the audiences the readings say you actually have versus the one you imagine, and what you do not yet know about them. Portfolio Component, Audience Profile: who your audience is, what they value, where they are, and how they find work like yours. First component of the marketing plan.
 
 **week 7.** Reflection: position yourself against two or three others working near you, and to whom that difference matters. Portfolio Component, Positioning Statement: the distinct value you offer and to whom, relative to the field.
 
-**week 8.** Reflection: name the offerings your practice produces and which carries the most value for your audience. Portfolio Component, Product or Service Description: what you offer, framed as value rather than a list of activities.
+**week 8.** Reflection: name the offerings your practice produces and which matters most to your audience. Portfolio Component, Product or Service Description: what you offer, framed as value rather than a list of activities.
 
 **III. Business model and money**
 
@@ -150,9 +150,9 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 
 **IV. Marketing, brand, outreach**
 
-**week 11.** Reflection: tell the story of your work in a paragraph a stranger would need, and name the through-line. Portfolio Component, Brand Narrative: that through-line as a coherent story you can carry across contexts.
+**week 11.** Reflection: tell the story of your work in a paragraph a stranger would need, and name the through-line. Portfolio Component, Brand Narrative: that through-line as a coherent story that stays the same across contexts.
 
-**week 12.** Reflection: audit where your audience actually is against where you actually show up, and name the gap. Portfolio Component, Outreach and Platform Strategy: the platforms and relationships you will use and a concrete plan. Where the marketing plan closes.
+**week 12.** Reflection: audit where your audience actually is against where you actually show up, and name the gap. Portfolio Component, Outreach and Platform Strategy: the platforms and relationships you will use and a concrete plan. Last component of the marketing plan.
 
 **V. Legal and financial sustainability**
 
@@ -162,6 +162,6 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 
 **VI. Impact, integration, futures**
 
-**week 15.** Reflection: the societal impact you want your practice to have and one concrete way to pursue it. Portfolio Component, Portfolio Overview Statement: a short integrative introduction naming the through-line across the components, so the portfolio reads as one document.
+**week 15.** Reflection: the societal impact you want your practice to have and one concrete way to pursue it. Portfolio Component, Portfolio Overview Statement: a short integrative introduction naming the through-line across the components.
 
 **finals.** Compile, revise for coherence, and present. Not a weekly Portfolio Component.
