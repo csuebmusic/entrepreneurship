@@ -18,6 +18,8 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 
 GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only.
 
+The repository is public, which includes under-the-hood/ and reading notes/. Keep anything sensitive out of it.
+
 ## palette and type
 
 Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302's cream-and-rust and from the music-curriculum oxblood memo look. Reference the variables by name; never hardcode hex in page CSS.
@@ -29,7 +31,7 @@ Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302'
 
 Every ink-on-surface and accent-on-surface pair in use clears WCAG AA at 4.5:1. Check any new pair before adding it.
 
-DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks; the pages are not yet fully offline (see STATUS).
+DM Sans for body, DM Mono for labels, dates, and data. Loaded from Google Fonts with system fallbacks. The pages are not fully offline.
 
 Page width is one variable, `--measure` (58rem), with the body size (1.125rem) tuned to it so the line holds at roughly eighty to ninety characters. Change `--measure` alone to widen or narrow every page at once; raising it much past 60rem without also raising the body size pushes the line past a comfortable length. Below 620px the body drops back to 1.0625rem.
 
@@ -71,7 +73,7 @@ Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. T
 
 Build in this order: read that week's chapters from the texts, not from memory; write the summaries into reading notes/weekNN.md; then draft the page from those notes.
 
-When a chapter is assigned in more than one week, cite the section rather than the chapter, in the outline, in the syllabus schedule, and on the module page. Give the printed sub-range for Kolb, Rabideau, Andrews, and Landry. NYFA's digital edition has no folios, so name the section alone. A whole-chapter citation repeated across weeks tells a student to reread pages they have already read.
+When a chapter is assigned in more than one week, cite the section rather than the chapter, in the outline, in the syllabus schedule, and on the module page. Give the printed sub-range for Kolb, Rabideau, Andrews, and Landry. NYFA's digital edition has no printed folios: its ranges are positions in the course PDF, and a partial chapter names the section alone. McCurdy is a reflowable ebook with no fixed pages and is cited chapter-only.
 
 Page structure:
 - eyebrow (week number and date), title (the week's topic), subtitle (the module), and a one or two sentence lede.
