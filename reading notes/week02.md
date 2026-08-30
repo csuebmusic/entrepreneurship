@@ -22,7 +22,7 @@ The chapter's four organizing questions, worth putting on the board as they are 
 
 ### craft as the ground voice stands on
 
-The strongest claim in the chapter, and the one to test in seminar: "One of the prerequisites for the creation of great art is mastery of the basic tools of the trade, flawless technique and the understanding of the vocabulary and history of art." The analogies are the carpenter who does not think twice about the hammer and the surgeon who knows every inch of your anatomy. "There are no shortcuts. If you haven't mastered the basics and understand the context and history, you won't have much success telling your story and subsequently great art will be beyond your reach."
+A claim to test in seminar: "One of the prerequisites for the creation of great art is mastery of the basic tools of the trade, flawless technique and the understanding of the vocabulary and history of art." The analogies are the carpenter who does not think twice about the hammer and the surgeon who knows every inch of your anatomy. "There are no shortcuts. If you haven't mastered the basics and understand the context and history, you won't have much success telling your story and subsequently great art will be beyond your reach."
 
 Goodstein's marginal note supplies the aesthetic version: art at a high level "will lead an audience to understand the world in new or different ways," and it is personal experience plus technical mastery plus passionate delivery that makes the story convincing.
 
@@ -43,7 +43,7 @@ The chapter also notes the range of working temperaments rather than prescribing
 
 ### the exercise sequence (2.3 through 2.5)
 
-The chapter's spine, and the reason it is assigned this week.
+The chapter's frame.
 
 - **Exercise 2.3, artistic DNA.** Gather your family history several generations back, write down the genealogy, annotate it, and collect personal stories. Methods offered: interviews with extended family, online genealogy resources, and, in Goodstein's note, consumer DNA testing as source material for the work. The stated payoff is a document that informs you as an artist. The underlying claim is stated twice for emphasis: "understanding who you are and where you come from will help you develop your skills as a creative artist."
 - **Exercise 2.4, personal SWOT.** Strengths, weaknesses, opportunities, threats, on a four-block worksheet of self-identified traits. The authors' warning is the interesting part: "once you dig into the details, you may find that some of your strengths are actually weaknesses and that may present some opportunities and challenges." They recommend a 360-degree version, sharing your self-identified traits with a partner, friend, or relative you trust completely and asking for their input.
@@ -94,7 +94,7 @@ His definition of a real test: "overcoming obstacles to achieve your goals," whe
 
 Guest section by the founder and executive director of Play On, Philly!, an El Sistema-inspired program, and a 2017 TED Fellow. His self-description, quoted, is a compact values statement in its own right and a good model for the week's component: "I believe that society thrives when artists prioritize the needs of their communities, so I create social harmony and opportunity through music."
 
-The etymological argument: failure comes from the mid-seventeenth century and originally meant "nonoccurrence" and "cessation of supply." It has since come to mean "lack of success" and "an unsuccessful person, enterprise, or thing." Under the modern definition we avoid failure and read error as an internal deficiency. Thompson's restoration: "Failure is when you stop supplying ideas to complete the journey." Edison and the ten thousand attempts at the light bulb carry the example.
+The etymological argument: failure comes from the mid-seventeenth century and originally meant "nonoccurrence" and "cessation of supply." It has since come to mean "lack of success" and "an unsuccessful person, enterprise, or thing." Under the modern definition we avoid failure and read error as an internal deficiency. Thompson's restoration: "Failure is when you stop supplying ideas to complete the journey." Edison and the ten thousand attempts at the light bulb are the example.
 
 His prompt, usable verbatim: remember a time you were part of an epic failure. What went wrong, and what would you do differently.
 
@@ -216,7 +216,7 @@ Clague's plural outcomes and Robinson's three questions are the two mechanisms i
 
 ### Bruce Adolphe, "Moonlight and Chocolate: Finding Inspiration" (pp. 52–55)
 
-The chapter's closing guest essay, and the most practical thing on the week's shelf for students who want to know what to do on Monday morning.
+The chapter's closing guest essay, practical for students who want to know what to do on Monday morning.
 
 - Inspiration "may come from anywhere: moonlight, mountains, mathematics, a phrase of Mozart, birdsong, a crack of thunder, a starry night, dark chocolate, a stranger's glance," and the requirement is to be "willing and prepared, open and ready."
 - The mechanism: "Inspiration is the connecting of experience to emotional memory and to imagination." Emotional memories are felt in the body and relived. "Memory and imagination work together."
@@ -244,7 +244,7 @@ The scale exercises that close the chapter transpose to any medium and are the f
 - **Failure is redefined twice, compatibly.** Thompson: failure is when you stop supplying ideas. Clague: failure is only failure if you fail to learn and stop trying to make a difference. McCurdy's "not yet" is the same move in plainer language.
 - **Values are stated as questions rather than nouns.** Robinson's three questions, McBane's six, McCurdy's mission-statement prompt, and Clague's plural outcomes are all instruments for deciding rather than lists of virtues. This is exactly what the Values Statement asks for.
 
-## where they pull against each other
+## where they conflict
 
 1. **Is voice found by looking inward or by looking outward?** McCurdy's route is genealogy, roots, family stories, self-realization. Rosenfeld's superpowers were discovered by talking to many musicians about the challenges they face, and Snoza's creativity is finding connections between disparate things outside herself. Ask students which route their own practice actually uses, and whether the inward route risks producing a statement nobody else needs.
 2. **Attitude as character or as gatekeeping.** McCurdy presents a positive attitude as a controllable skill and the deciding factor in hiring. Rosenfeld names being young, inexperienced, and a woman in a male-dominated field as the conditions her tenacity had to work against. Both accounts of "what gets you hired" are honest; they are not the same account.
@@ -252,9 +252,9 @@ The scale exercises that close the chapter transpose to any medium and are the f
 4. **Whose definition of creativity governs.** Rabideau builds the exercise on the premise that you should define it yourself, then supplies a definition that he immediately admits is flawed and observer-dependent. Snoza's collage version and Gamin's honesty-and-personal version do not reduce to his gap between familiar and yet imagined. The productive question is whether a definition you write for yourself can do any work, or whether it only describes what you already do.
 5. **No Plan B against expanded targets.** McCurdy asks for total consumption with a single goal in the crosshairs. Clague asks you to expand the target area into plural outcomes. These are opposite instructions about the same anxiety. Students in a graduate program are living this one now.
 
-## seminar spine
+## seminar order
 
-A workable order for a three-hour session, with the anchor passage for each move.
+A workable order for a three-hour session, with the passage to work from for each move.
 
 - Open on the tests passage (Rabideau pp. 31–32). Ask what their training prepared them for and what it did not. It is about them, it costs nothing to answer, and it sets the honesty level for the night.
 - Failure, redefined. Thompson's etymology (p. 33) and his epic-failure prompt. Then Clague's "failure is only that if you fail to learn" (p. 52) as the pair.
@@ -274,13 +274,13 @@ The Values Statement asks for values "stated so they could guide an actual decis
 - **McCurdy's SWOT and Exercise 2.5** (McCurdy ch. 2). For students who want a structured inventory before writing. Flag the mission-statement terminology so it does not preempt week 3.
 - **Clague's expanded target** (Rabideau p. 52). Plural outcomes that define success. Useful for anyone whose stated values collapse into a single job title.
 
-The reflection prompt asks for two or three values that actually govern creative decisions with a real example of each, and the sharpest way to enforce that is Robinson's structure: if the value cannot be phrased as a question you could ask about a piece of work, it is not yet a value, it is an adjective. That test is worth saying out loud before they write.
+The reflection prompt asks for two or three values that actually govern creative decisions with a real example of each, and one way to enforce that is Robinson's structure: if the value cannot be phrased as a question you could ask about a piece of work, it is not yet a value, it is an adjective. That test is worth saying out loud before they write.
 
 ## outcome trace
 
 Week 2 traces to MUS 603 outcome 3: identify and articulate personal career paths in the arts, employing tools such as résumés, cover letters, and online media.
 
-The articulation half is what this week carries. Voice, strengths, and values are the material a career path gets articulated from, and Robinson's chapter is a career path being re-identified in real time. The named tools in the outcome land in week 4, so week 2 and week 4 together satisfy it. Rabideau's equity passage at p. 50 and Rosenfeld's account of the conditions she worked against also feed outcome 1, though the outline does not trace them here.
+The articulation half is this week's part of it. Voice, strengths, and values are the material a career path gets articulated from, and Robinson's chapter is a career path being re-identified in real time. The named tools in the outcome are assigned in week 4, so week 2 and week 4 together satisfy it. Rabideau's equity passage at p. 50 and Rosenfeld's account of the conditions she worked against also feed outcome 1, though the outline does not trace them here.
 
 ## corrections
 

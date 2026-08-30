@@ -22,7 +22,7 @@ key ideas: build the budget first; fixed versus variable costs; bookkeeping as t
 
 ## McCurdy, ch. 4, "It's Not about the Money—Yet!" (chapter)
 
-The money mindset. McCurdy rejects the starving-artist premise: a professional artist should expect wages like any other professional, and the chapter's running examples (playing a reception for "punch and cookies," a college gig for a hot dog and a Coke) are aimed at the habit of undervaluing creative work. Their test for when pay is warranted is demand: when people are asking for your talents, you are worth paying, whether or not you feel you have reached excellence. The title's "yet" carries the counterweight: in the earliest developmental stage, money should not be the measure, and craft, aspiration, and creative integrity come first.
+The money mindset. McCurdy rejects the starving-artist premise: a professional artist should expect wages like any other professional, and the chapter's running examples (playing a reception for "punch and cookies," a college gig for a hot dog and a Coke) are aimed at the habit of undervaluing creative work. Their test for when pay is warranted is demand: when people are asking for your talents, you are worth paying, whether or not you feel you have reached excellence. The title's "yet" is the qualification: in the earliest developmental stage, money should not be the measure, and craft, aspiration, and creative integrity come first.
 
 key ideas: reject undervaluation; demand as the signal that pay is warranted; early on, development over money.
 

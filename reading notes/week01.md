@@ -1,6 +1,6 @@
 # week 1 reading notes
 
-Art, Culture & the Creative Career. Kolb 1 (8–30), Andrews 1 (1–34), Rabideau 1 (1–16), McCurdy 1. Four chapters, one from each of the anchor and rotation texts, read against the week's question: what does it mean to build a career as an artist. Summaries and quotations are drawn from the chapters themselves. Page numbers are the books' printed pages; McCurdy is a reflowable ebook and is cited by section heading.
+Art, Culture & the Creative Career. Kolb 1 (8–30), Andrews 1 (1–34), Rabideau 1 (1–16), McCurdy 1. Four chapters, one from each of the required and rotation texts, read against the week's question: what does it mean to build a career as an artist. Summaries and quotations are drawn from the chapters themselves. Page numbers are the books' printed pages; McCurdy is a reflowable ebook and is cited by section heading.
 
 ## the four in one line each
 
@@ -19,7 +19,7 @@ Register: Kolb is a business textbook, Andrews an academic survey, Rabideau a ma
 
 Individual artists, creative industries, and cultural organizations have always been businesses, though many have been poor at pricing, marketing, and distribution (p. 8). Art has always been priced, distributed, and promoted; historically the promoter, agent, or gallery did it rather than the creator. Communication technology now allows the creator to do it directly. The stated mission of the book is that business skill buys back time: fewer hours on a second job for the individual, fewer hours on fundraising inside a nonprofit (p. 8).
 
-### the historical spine (pp. 9–11)
+### the historical account (pp. 9–11)
 
 Kolb builds the chapter's frame from a history of how art has been valued.
 
@@ -40,7 +40,7 @@ Kolb builds the chapter's frame from a history of how art has been valued.
 - **Intermediary:** the party between creator and purchaser, a gallery, dealer, agent, or promoter, who has done the research on consumer needs and frees the artist to work. Intermediaries promote and take part of the profit, and generally only take on artists with an established market (Hadley 2021).
 - The chapter's most quotable line: "Entrepreneurship can be considered as just another means of creative expression" (p. 13).
 - Artists can now act as their own intermediaries: online studios, social media, payment technology that works at distance. The cost is visibility among everything else online, and the demand that you also inform and entertain, not only sell. Kolb's specific advice: use social media to educate the public about your field with stories and videos of how the work is made, and to share information about other creatives and upcoming events even when not immediately relevant to what you are selling.
-- The performing-arts version of the choice: an agent books venues for a percentage and gets paid whether or not the house fills, so agents prefer names. Self-booking means contracting the venue, carrying the risk of unsold tickets, and keeping the upside.
+- The performing-arts version of the choice: an agent books venues for a percentage and gets paid whether or not the house fills, so agents prefer names. Self-booking means contracting the venue, taking the risk of unsold tickets, and keeping the upside.
 - On money: "For both the creative and the entrepreneur, financial success is not the ultimate goal, but rather money is a means to an end." For the creative it means the work is appreciated, and it "is a means to pay the bills, buy more materials and have the freedom to be more creative" (p. 15).
 - Kolb also notes the pressure behind all this: the decline of government grant funding pushes creatives toward earned revenue (p. 15).
 
@@ -84,7 +84,7 @@ Kolb names confusing gross with net as a common cause of business failure, and n
 - **Ending a venture** is not failure: taste changes, or life does, and the same person may start another later (Power 2018).
 - **Business plan:** "simply the dream of the creative individual put into writing." Long plans of 30 to 40 pages are for outside funders; a startup can write a short one as a road map, and should feel free to deviate and experiment (Yaghcha 2023). Components: description of business (including organizational structure and the mission, vision, and value statements), product (benefits and competitive advantage, not just output), customer (demographic, geographic, psychographic), distribution, promotion, financial projections.
 
-**The reversal at p. 28, which is the sharpest teaching moment in the chapter.** The traditional entrepreneur begins with a consumer need and changes the product if research finds no market. The creative entrepreneur begins with the product they wish to create, then analyzes it for benefits in order to find the customer segment most likely to buy. Same components, opposite direction of travel. This reversal is the premise of the entire portfolio sequence: identity and values first, audience and positioning after.
+**The reversal at p. 28, which is the sharpest teaching moment in the chapter.** The traditional entrepreneur begins with a consumer need and changes the product if research finds no market. The creative entrepreneur begins with the product they wish to create, then analyzes it for benefits in order to find the customer segment most likely to buy. Same components, opposite order. This reversal is the premise of the entire portfolio sequence: identity and values first, audience and positioning after.
 
 Box 1.3 (p. 22, de Wal 2024) lists five attributes of successful artists: art at the core of life, understanding how art works in the business world, strong work ethic balancing making and marketing, resilience, and spending time only with supportive people.
 
@@ -166,7 +166,7 @@ Guillebeau also supplies the discipline of building what the customer actually w
 - for-profit, both in equal measure;
 - for-profit forming with the intent to acquire nonprofit status over time, using a fiscal sponsor for contributed income in the meantime.
 
-Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C** (limited liability low profit company), available in certain states. Social ventures carry all the same risks and compliance obligations as any other. His examples: a community-based theater in a disadvantaged neighborhood involving residents as playwrights, actors, and production workers; an arts education organization teaching creative skills to people in psychological or emotional difficulty; a gallery on environmental themes; a performing space pairing political activism with art forms.
+Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C** (limited liability low profit company), available in certain states. Social ventures have all the same risks and compliance obligations as any other. His examples: a community-based theater in a disadvantaged neighborhood involving residents as playwrights, actors, and production workers; an arts education organization teaching creative skills to people in psychological or emotional difficulty; a gallery on environmental themes; a performing space pairing political activism with art forms.
 
 **Nonprofit** (p. 22): "the term nonprofit does not mean that the owners or employees of the organization will not receive appropriate compensation for their efforts." Many pay well and provide benefits. What is unique is that excess income is not distributed; it is reinvested or reserved. Andrews names race, gender, aging, immigration, economic disparity, and climate change as guiding concepts on which arts ventures have been built.
 
@@ -188,13 +188,13 @@ Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C
 
 ## Rabideau, ch. 1, "Being a 21st-Century Musician" (pp. 1–16)
 
-The music-native chapter and the spine of the book. Its rhetorical mode is advocacy, and it should be read that way in seminar.
+The music-native chapter and the frame for the book. Its rhetorical mode is advocacy, and it should be read that way in seminar.
 
 ### the reclamation (pp. 1–3)
 
 Rabideau wrote "Entrepreneurship and the Artist-Revolutionary" in 2015 for two reasons: to celebrate innovative musicians, and "to reclaim the word entrepreneurship. I wanted to move the focus away from monetary gain and make it more about the act of invention."
 
-He prints the strongest objection he received, from Michael Drapkin: "Seriously? Artists, and in particular musicians, are one of the most conservative groups I have ever met. They seek to distinguish themselves by being better at 'sameness' than the other guy, and live in fear of being truly different or innovative. It sounds good, but as they say in Texas, 'That dawg don't hunt.'" Rabideau concedes the comment "still resonate[s] with me on a deep level" and then relocates the fault: not with musicians but with "the schools of music and conservatories across the nation that have placed creativity off to the side in favor of exclusively training excellence."
+He prints an objection he received, from Michael Drapkin: "Seriously? Artists, and in particular musicians, are one of the most conservative groups I have ever met. They seek to distinguish themselves by being better at 'sameness' than the other guy, and live in fear of being truly different or innovative. It sounds good, but as they say in Texas, 'That dawg don't hunt.'" Rabideau concedes the comment "still resonate[s] with me on a deep level" and then relocates the fault: not with musicians but with "the schools of music and conservatories across the nation that have placed creativity off to the side in favor of exclusively training excellence."
 
 His claim of kinship: artists and entrepreneurs are curious, creative, collaborative, tenacious. Entrepreneurs begin with **problem-finding**, identifying the issues and opportunities they are best equipped to address, "driven by the question 'What can be?' rather than 'What is?'" The shared capacity is "the ability to address complexity and thrive while playing in the messy, fertile space of uncertainty, ambiguity, and promise" (pp. 2–3).
 
@@ -278,7 +278,7 @@ The **seagull syndrome**: seagulls at the beach are never just hanging out, they
 
 ### the labor market, stated plainly
 
-This is the bluntest account on the week's shelf, and the reason the chapter is assigned.
+The account here is blunt.
 
 - Over twenty-five years: "the days of touring big bands, steady orchestral jobs, or full-time teaching positions are largely over." Recording studio work is nearly nonexistent, most live, film, and television music "comes out of a box," touring Broadway gigs are rare and largely replaced by reduced orchestras dominated by rhythm players and synthesizers. The same diminishment applies to actors, designers, theater and dance professionals; for visual artists, selling one work at a time is a daunting prospect.
 - Streaming has expanded outlets in television and digital media, but "arts education within higher education has not kept pace with current job opportunities."
@@ -344,7 +344,7 @@ The self-evaluation questions, usable verbatim as a seminar prompt: Do you initi
 - **Artistry belongs to everyone.** Doser: artistry "is present in all cultures, genders, ages, races, and economic strata." Andrews names race, gender, aging, immigration, economic disparity, and climate change as legitimate foundations for a venture, and Musicambia and the community-based theater are the worked cases. This is the first appearance of the power and identity thread that weeks 5 and 15 develop.
 - **Scale is chosen, not given.** Andrews states it outright; Kolb's three strategic goals encode it; Rabideau's local-problem correction is the same point in a different register.
 
-## where they pull against each other
+## where they conflict
 
 Four fault lines to run the seminar on. Each is real in the texts rather than manufactured.
 
@@ -358,9 +358,9 @@ Four fault lines to run the seminar on. Each is real in the texts rather than ma
 
 A fifth, smaller, and useful for graduate students specifically: **the exit strategy question.** Andrews frames open-ended commitment as the arts-native default. Kolb, at p. 26, says ending a venture "is not failure, simply a realization that the venture no longer meets the needs of the entrepreneur." Ask whether a practice you intend to sustain indefinitely is a commitment or a trap, and what the honest exit from an artistic practice looks like.
 
-## seminar spine
+## seminar order
 
-A workable order for a three-hour session, with the anchor passage for each move.
+A workable order for a three-hour session, with the passage to work from for each move.
 
 - Open on the word itself. Say's coinage as "a declaration of dissent" (Andrews p. 1) against Rabideau's reclamation toward invention (p. 1). Get students to define it in their own words before either author does it for them.
 - The history and the class question. Kolb pp. 9–11, the shift from skill to vision and the highbrow-lowbrow judgment. Include the periodization problem noted above.
@@ -373,21 +373,21 @@ A workable order for a three-hour session, with the anchor passage for each move
 
 ## into the component
 
-The Creative Identity Statement is the week's Portfolio Component and the anchor every later component refers back to. The readings supply four distinct entry points, and students should be pointed at whichever one moves them:
+The Creative Identity Statement is the week's Portfolio Component and what every later component refers back to. The readings supply four distinct entry points, and students should be pointed at whichever one moves them:
 
 - McCurdy's "Defining Yourself as an Artist," the most direct match, plus the self-evaluation questions.
 - Andrews's values exercise from the CCI workbook, which is the same first move the Values Statement formalizes in week 2 and the Mission and Vision Statements in week 3.
 - Rabideau's four keys and the composer analogy, which ask what the big moments and transitions of a life's work look like.
 - Kolb's Task 1a, "write in one sentence your passion in life," as the hardest short version.
 
-The reflection prompt's three moves map onto the readings cleanly: define entrepreneurship (all four, and the differences between them are the substance), locate yourself (McCurdy's pipeline account and Rabideau's crossroads give students permission to be honest about stage), and name a challenged assumption (Drapkin, fear-based education, and the optional-disruption claim are the three that most often land).
+The reflection prompt's three moves map onto the readings cleanly: define entrepreneurship (all four, and the differences between them are the substance), locate yourself (McCurdy's pipeline account and Rabideau's crossroads give students permission to be honest about stage), and name a challenged assumption (Drapkin, fear-based education, and the optional-disruption claim are the three that most often come up).
 
 ## outcome trace
 
 Week 1 traces to MUS 603 outcomes 2 and 5.
 
-- **Outcome 2**, navigating the logistical and business aspects of arts industries, drawing inspiration from historical and contemporary perspectives, is carried by Kolb's history and organizational forms and Andrews's definitions, risk categories, and venture mechanics.
-- **Outcome 5**, the societal impact of arts and humanities perspectives for the benefit of local and global communities, is carried by Doser's artistry claim, Musicambia and Decoda, Andrews's social entrepreneurship section, and Rabideau's life of means and life of meaning.
+- **Outcome 2**, navigating the logistical and business aspects of arts industries, drawing inspiration from historical and contemporary perspectives, is covered by Kolb's history and organizational forms and Andrews's definitions, risk categories, and venture mechanics.
+- **Outcome 5**, the societal impact of arts and humanities perspectives for the benefit of local and global communities, is covered by Doser's artistry claim, Musicambia and Decoda, Andrews's social entrepreneurship section, and Rabideau's life of means and life of meaning.
 
 ## corrections
 

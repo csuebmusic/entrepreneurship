@@ -1,6 +1,6 @@
 # week 5 reading notes
 
-Power, Social Identity & Access. The pivot week, and the one the textbook shelf could not carry alone. Rabideau 7 gives the individual-bias-and-inclusion angle plus one case; the two outside readings supply the structural evidence across gender and class. Both outside sources were checked as real and openly available before assigning (citations and links below).
+Power, Social Identity & Access. The one week the six course texts could not cover alone. Rabideau 7 gives the individual-bias-and-inclusion angle plus one case; the two outside readings supply the structural evidence across gender and class. Both outside sources were checked as real and openly available before assigning (citations and links below).
 
 ## Rabideau, ch. 7, "Diversity and Inclusivity: Abandoning Bias and Listening to Voices Unlike Our Own" (pp. 73–84)
 
@@ -10,7 +10,7 @@ The gap: it is music-focused and pitched at the level of individual bias and tea
 
 ## Goldin & Rouse (2000), "Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians," American Economic Review 90(4), 715–741
 
-The study behind Rabideau's blind-audition example, and the scholarly anchor. Using actual audition records from major US orchestras in a fixed-effects design, Goldin and Rouse find that a screen raises the probability a woman advances out of certain preliminary rounds by about 50 percent, and that the shift to blind auditions explains between 30 and 55 percent of the increase in the share of women among new hires since 1970 (women went from under 5 percent of the top-five orchestras to about 25 percent). Open access via NBER (working paper 5903) and Harvard DASH. Worth knowing: the causal claim has since been publicly contested, notably a 2019 statistical critique (Andrew Gelman, and Christina Hoff Sommers in the press) and a 2017 Australian public-service study that failed to replicate the effect. That contest is a feature for a graduate seminar, not a problem: it lets students read a canonical "fix" as argued-over rather than settled. Focus for students: the introduction and the results.
+The study behind Rabideau's blind-audition example, and the scholarly source. Using actual audition records from major US orchestras in a fixed-effects design, Goldin and Rouse find that a screen raises the probability a woman advances out of certain preliminary rounds by about 50 percent, and that the shift to blind auditions explains between 30 and 55 percent of the increase in the share of women among new hires since 1970 (women went from under 5 percent of the top-five orchestras to about 25 percent). Open access via NBER (working paper 5903) and Harvard DASH. Worth knowing: the causal claim has since been publicly contested, notably a 2019 statistical critique (Andrew Gelman, and Christina Hoff Sommers in the press) and a 2017 Australian public-service study that failed to replicate the effect. That contest is a feature for a graduate seminar, not a problem: it lets students read a canonical "fix" as argued-over rather than settled. Focus for students: the introduction and the results.
 
 ## Brook, O'Brien & Taylor (2018), "Panic! Social Class, Taste and Inequalities in the Creative Industries," Create London
 
