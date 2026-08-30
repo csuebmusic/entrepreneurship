@@ -97,6 +97,7 @@ Both are specific and actionable, tied to the criteria above and to the outcomes
 Check every comment against this list before it goes out:
 
 - Open on the observation. Cut lead-ins that frame what follows: "the last two sentences are," "you end on," "what stands out is," "one thing to note."
+- Do not locate a point in the student's text before making it: "your second answer names," "your third paragraph describes," "the opening says." Make the point; the student knows where it came from.
 - No ranking, within a student's work or across students: strongest, sharpest, best, weakest, most interesting, most specific.
 - No recap of the student's own text ahead of the point about it.
 - No em dashes.
