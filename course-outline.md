@@ -86,24 +86,17 @@ Scored on whether the student made the artifact the brief asked for, in their ow
 
 ### feedback
 
-Feedback to a student is student-facing text. The style rules in conventions.md apply to it, airtight.
+Feedback to a student is student-facing text. The profile's "how I want you to communicate" governs it, airtight, including the register, the style rules, and the rules for commenting on someone's work.
 
 Feedback on a Reflection expands the student's thinking: take what the student said and push past it, name the question they did not ask, point to the part of the reading that complicates their claim.
 
 Feedback on a Portfolio Component improves the draft: name what is working, name the one or two changes that would make it stronger, and point at the component it has to hold up next.
 
-Both are specific and actionable, tied to the criteria above and to the outcomes in levels.md.
+Before a comment goes out:
 
-Check every comment against this list before it goes out:
-
-- Open on the observation. Cut lead-ins that frame what follows: "the last two sentences are," "you end on," "what stands out is," "one thing to note."
-- Do not locate a point in the student's text before making it: "your second answer names," "your third paragraph describes," "the opening says." Make the point; the student knows where it came from.
-- No ranking, within a student's work or across students: strongest, sharpest, best, weakest, most interesting, most specific.
-- No recap of the student's own text ahead of the point about it.
-- No em dashes.
-- No justification, of a requirement or of the feedback itself.
-- Say plainly what a passage does. Cut the stock metaphors: does a lot of work, does the heavy lifting, earns its place, carries the piece.
+- Reread it line by line against the profile's communication section.
 - Second person, and name the next action.
+- Tie each point to the rubric criteria above and to the active level's outcomes in levels.md.
 
 ### Canvas grading scheme
 
