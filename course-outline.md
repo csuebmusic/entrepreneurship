@@ -60,7 +60,7 @@ The weekly rhythm is read, then Reflection (think and connect, before class), th
 
 Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component carries equal weight: the fourteen Reflections and seventeen Components average straight into the weekly score.
 
-Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the standard grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up.
+Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the standard grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up. An average below 1.0 is an F.
 
 Two rubrics cover all weekly work, one for Reflections and one for Portfolio Components. There are no per-component rubrics. Both read the same 0 to 4 anchors for their genre. Length and format are not scored on their own; they matter only where they keep the piece from doing its work.
 
@@ -100,7 +100,7 @@ Before a comment goes out:
 
 ### Canvas grading scheme
 
-Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, keyed to the midpoints between grade-point anchors, so the posted letter matches the syllabus scale.
+Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, the midpoints between grade-point anchors expressed as a percent of 4.0, so the posted letter matches the syllabus scale. The D bound is the 1.0 anchor itself rather than a midpoint: an average below 1.0 is an F.
 
 | letter | lower bound (%) |
 |---|---|
