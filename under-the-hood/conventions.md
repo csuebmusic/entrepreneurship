@@ -48,11 +48,11 @@ Weekly Reflections and Portfolio Components carry 65% of the course grade and th
 
 ## writing and register
 
-The instructor's "how I want you to communicate" profile governs three layers by destination. Process (reasoning, verification, judgment calls) belongs in chat with her and nowhere else. Instructor-facing files, which include this file, STATUS, levels, commit messages, and the colleague breakdown on a graded item, record state and rules rather than deliberation: the decision, the rule, the current status, the open question, without why the rule was chosen or what was weighed against it. Student-facing and public-facing text carries no process and no justification, and the style rules below are airtight there.
+The instructor's "how I want you to communicate" profile governs, airtight: the three layers by destination, the register, the style rules, and the rules for commenting on anyone's work. This file, STATUS, levels, commit messages, and the colleague breakdown on a graded item are the instructor-facing layer.
 
-Style, airtight in anything student-facing or public-facing: prose, not bullet fragments, except for genuine lists. No em dashes; en dashes in number ranges are fine. An em dash inside a cited title stays, since the title is a citation rather than prose. Do not stack negatives; state what a thing is. Cut hedging filler, keeping real qualification where a claim is genuinely uncertain or contested. Do not announce what the next sentence will do or restate what the last one delivered. Do not justify: state the requirement, the fact, or the point, and stop, without explaining why a requirement is set as it is or what a design choice accomplishes. Say plainly what a thing does, cutting the stock labor metaphors (does a lot of work, does the heavy lifting, earns its place, carries the piece). Headings stay lowercase and minimal. State the point and leave the process out.
+Course-specific additions to those rules:
 
-When commenting on anyone's work, make the point rather than locating it first, and do not rank the parts of a person's work against each other or one person's work against another's.
+An em dash inside a cited title stays. The title is a citation rather than prose.
 
 Register shifts by level. 303 includes non-majors, so define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate, so assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
 
