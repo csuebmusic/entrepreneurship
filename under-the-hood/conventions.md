@@ -13,8 +13,8 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 - Root holds the student-facing HTML (the syllabus, the weekly module pages, and the final-portfolio page) and the course outline (course-outline.md). There are no separate component guides: each weekly module page carries its component's definition, guiding questions, and brief.
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
-- Week folders (week01/ and so on) hold the Markdown source for Canvas-only items: weekN/reflection.md and weekN/portfolio-component.md. These are not rendered on the live site.
 - reading notes/ holds a Markdown summary of each week's readings (weekNN.md), instructor-facing, drawn from the chapters themselves before the weekly page is drafted.
+- README.md is the instructor's index: the current list of student-facing links for copying into Canvas, plus the layout. Update it whenever a student-facing page is added or renamed.
 
 GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only.
 
@@ -38,7 +38,9 @@ Page width is one variable, `--measure` (58rem), with the body size (1.125rem) t
 - Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio. Fourteen across the term; week 4 has none.
 - Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Seventeen across the term; week 3 produces two and week 4 produces three. Week 13 is reflection only, and week 4 is components only.
 
-These names are locked. The week-folder filenames follow: reflection.md and portfolio-component.md.
+These names are locked.
+
+Weekly Reflections and Portfolio Components carry 65% of the course grade and the final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component carries equal weight. Assessment detail, the 0 to 4 anchors, and the Canvas grading scheme live in course-outline.md.
 
 ## writing and register
 
@@ -58,9 +60,9 @@ Commit directly to main with the project token, one logical change per commit, d
 
 ## file conventions
 
-Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown. Canvas-only items (reflection prompts, portfolio-component assignments, discussion and quiz items) keep their Markdown source in the week folders and are copied into Canvas by hand. The weekly module pages carry the reflection and portfolio-component prompts on the page itself (see "weekly module pages" below), so the prompts live on the live site as well as in Canvas. Whether to also keep separate week-folder Markdown source for the gradable Canvas versions is open.
+Student-facing durable references are HTML on the live site. Instructor-facing materials are Markdown.
 
-Instructor-facing Markdown that feeds Canvas is written in two parts: a structured top half for reading and editing (headings, rubric, outcomes addressed, level notes, internal notes), then a horizontal rule, then a "PASTE INTO CANVAS BELOW THIS LINE" block in plain prose for direct paste. Both halves carry the same substance; do not let them drift.
+The weekly module page is the single source for a week's Reflection prompt and Portfolio Component brief. There is no parallel Markdown source for Canvas: the prompts are copied into Canvas from the page. Rubrics live in course-outline.md with the component they belong to.
 
 
 ## weekly module pages

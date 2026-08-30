@@ -56,6 +56,34 @@ Portfolio Component is the building. Each is one named, working professional art
 
 The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so it is built after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks carry a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only: there the reflective and analytical work is the whole point and no component is produced. Week 4 is the mirror image, three components and no reflection: it is asynchronous, its old reflection prompt duplicated the Career Ecosystem Map, and the two career documents are substantial enough to be the week's writing. This is where SLO 3's named tools land.
 
+## assessment
+
+Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component carries equal weight: the fourteen Reflections and seventeen Components average straight into the weekly score.
+
+Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the standard grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up.
+
+Per-component rubrics live in this file, with the component they belong to.
+
+### Canvas grading scheme
+
+Canvas computes percent of points earned. Upload a custom scheme with these lower bounds, keyed to the midpoints between grade-point anchors, so the posted letter matches the syllabus scale.
+
+| letter | lower bound (%) |
+|---|---|
+| A | 96.25 |
+| A– | 87.5 |
+| B+ | 78.75 |
+| B | 71.25 |
+| B– | 62.5 |
+| C+ | 53.75 |
+| C | 46.25 |
+| C– | 37.5 |
+| D+ | 28.75 |
+| D | 25 |
+| F | 0 |
+
+Late work: automatic deduction of 2% per day, lowest possible grade 50%.
+
 ## reflections and portfolio components
 
 Per week: the Reflection prompt, then the Portfolio Component and what it is. Prompts are seeds, refined into the Canvas assignment text later.
