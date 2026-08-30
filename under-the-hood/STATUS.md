@@ -1,6 +1,6 @@
 # status
 
-Current build state. Read first. Overwritten each session that ships work, resolved items deleted rather than struck through. Two sections: what's next, what's open. Completed work is not listed here; the repo is what was built and the git log is the history.
+Current build state. Read first. Overwritten each session that produces work, resolved items deleted rather than struck through. Two sections: what's next, what's open. Completed work is not listed here; the repo is what was built and the git log is the history.
 
 Active term: Fall 2026, MUS 603-01 (graduate).
 

@@ -4,13 +4,13 @@ Editorial conventions and locked design decisions for the course. Authoritative:
 
 ## the course
 
-One course, two numbers, off one repo. MUS 603 is the graduate version; MUS 303 is the undergraduate version and satisfies GE-UD-C. Enrollment does not overlap, and the content is a shared spine. Only one number runs in a given term. The 303/603 deltas live in levels.md.
+One course, two numbers, off one repo. MUS 603 is the graduate version; MUS 303 is the undergraduate version and satisfies GE-UD-C. Enrollment does not overlap, and the content is shared. Only one number runs in a given term. The 303/603 deltas live in levels.md.
 
 Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 
 ## repo layout
 
-- Root holds the student-facing HTML (the syllabus, the weekly module pages, and the final-portfolio page) and the course outline (course-outline.md). There are no separate component guides: each weekly module page carries its component's definition, guiding questions, and brief.
+- Root holds the student-facing HTML (the syllabus, the weekly module pages, and the final-portfolio page) and the course outline (course-outline.md). There are no separate component guides: each weekly module page holds its component's definition, guiding questions, and brief.
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
 - reading notes/ holds a Markdown summary of each week's readings (weekNN.md), instructor-facing, drawn from the chapters themselves before the weekly page is drafted.
@@ -24,7 +24,7 @@ No student information goes in the repository: no names, no submitted work, no g
 
 ## palette and type
 
-Warm chalk paper with a deep pine-teal accent, chosen to sit apart from MUS 302's cream-and-rust and from the music-curriculum oxblood memo look. Reference the variables by name; never hardcode hex in page CSS.
+Warm chalk paper with a deep pine-teal accent. Reference the variables by name; never hardcode hex in page CSS.
 
 - --bg #f4f2ec, --bg-alt #ebe7db
 - --ink #23241e, --ink-soft #5c5d53
@@ -39,12 +39,12 @@ Page width is one variable, `--measure` (58rem), with the body size (1.125rem) t
 
 ## course work
 
-- Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It seeds discussion and is not part of the portfolio. Fourteen across the term; week 4 has none.
+- Reflection: one to two pages, written before class, engaging the week's reading and connecting it to a decision in the student's own practice. It is discussed in seminar and is not part of the portfolio. Fourteen across the term; week 4 has none.
 - Portfolio Component: the week's durable artifact, drafted, workshopped, and revised into the final portfolio. Seventeen across the term; week 3 produces two and week 4 produces three. Week 13 is reflection only, and week 4 is components only.
 
 These names are locked.
 
-Weekly Reflections and Portfolio Components carry 65% of the course grade and the final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component carries equal weight. Assessment detail, the 0 to 4 anchors, and the Canvas grading scheme live in course-outline.md.
+Weekly Reflections and Portfolio Components are 65% of the course grade and the final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component counts equally. Assessment detail, the 0 to 4 anchors, and the Canvas grading scheme live in course-outline.md.
 
 ## writing and register
 
@@ -54,7 +54,7 @@ Course-specific additions to those rules:
 
 An em dash inside a cited title stays. The title is a citation rather than prose.
 
-Register shifts by level. 303 includes non-majors, so define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate, so assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
+Register shifts by level. 303 includes non-majors: define business vocabulary (positioning, business model canvas, revenue streams, sliding scale) on first use. 603 is graduate: assume more and push the analysis further. Either way, define each framework term the first time it appears and keep it consistent; vocabulary builds across the term.
 
 ## sourcing
 
@@ -83,11 +83,11 @@ Page structure:
 - eyebrow (week number and date), title (the week's topic), subtitle (the module), and a one or two sentence lede.
 - a weekbar: the at-a-glance line naming the reading, what is due before class, and the portfolio component.
 - "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use.
-- "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and why it is here, and a mono "look for" line aimed at the part that matters most.
+- "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and what it covers, and a mono "look for" line aimed at the part that matters most.
 - "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
 - "portfolio component": the component name, what it is and why it matters, guiding questions, and a short written brief in a callout. End on the brief; no closing "what a strong X is" line and no forward or next-week note.
 
-Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, so students build it after the seminar discussion. The two asynchronous weeks (1 and 4) have no live session; there the reflection is due the Sunday evening before, and the component the following Friday, both on Canvas.
+Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no live session; there the reflection is due the Sunday evening before, and the component the following Friday, both on Canvas.
 
 Leave off the page: outcome-tracing and next-week notes. Those traces live in course-outline.md and levels.md, not on the student page.
 

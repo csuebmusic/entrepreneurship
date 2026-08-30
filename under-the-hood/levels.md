@@ -1,6 +1,6 @@
 # levels
 
-One shared spine, two course numbers. The spine (weekly topics, readings, the seventeen Portfolio Components, the final portfolio, the term calendar, and the delivery frame) is common. This file holds only the deltas. When drafting any material, name the level it targets and trace it to that level's outcomes. 603 material traces to 603 outcomes and 303 material to 303 outcomes; the two sets do not map one to one.
+One shared body of material, two course numbers. Weekly topics, readings, the seventeen Portfolio Components, the final portfolio, the term calendar, and the delivery frame are common to both. This file holds only the deltas. When drafting any material, name the level it targets and trace it to that level's outcomes. 603 material traces to 603 outcomes and 303 material to 303 outcomes; the two sets do not map one to one.
 
 Active term: Fall 2026, MUS 603. The 303 side is a stub, populated enough to be a fill-in when 303 next runs rather than a rebuild.
 
