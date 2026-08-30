@@ -8,7 +8,6 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 
 - Final-portfolio landing page (HTML), including the presentation format and what the graduate implemented layer requires.
 - Upload the Canvas custom grading scheme from course-outline.md.
-- Ask GitHub Support to purge cached views of the six rewritten commits.
 
 ## open
 
