@@ -17,7 +17,7 @@ Active term: Fall 2026, MUS 603. The 303 side is a stub, populated enough to be 
   3. Identify and articulate personal career paths in the arts, employing tools such as résumés, cover letters, and online media.
   4. Develop and implement a comprehensive marketing plan tailored to achieve success in a chosen career path.
   5. Demonstrate an understanding of the societal impact of arts and humanities perspectives, using this knowledge for the benefit of local and global communities.
-- Catalog note: the catalog lists the instructional method as on-ground; Fall 2026 runs online synchronous. Course is offered Fall in alternate years.
+- Catalog note: the catalog lists the instructional method as on-ground. The online synchronous offering is approved through scheduling for Fall 2026. Course is offered Fall in alternate years.
 
 ## MUS 303 (undergraduate), stub
 
