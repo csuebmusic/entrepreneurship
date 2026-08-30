@@ -101,6 +101,7 @@ Check every comment against this list before it goes out:
 - No recap of the student's own text ahead of the point about it.
 - No em dashes.
 - No justification, of a requirement or of the feedback itself.
+- Say plainly what a passage does. Cut the stock metaphors: does a lot of work, does the heavy lifting, earns its place, carries the piece.
 - Second person, and name the next action.
 
 ### Canvas grading scheme
