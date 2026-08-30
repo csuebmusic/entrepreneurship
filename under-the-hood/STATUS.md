@@ -8,7 +8,7 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 
 - Final-portfolio landing page (HTML), including the presentation format and what the graduate implemented layer requires.
 - Upload the Canvas custom grading scheme from course-outline.md.
-- Decide whether to purge the week 1 seminar notes from git history. The file is removed from main; the content remains in earlier commits, and a rewrite means a force-push.
+- Ask GitHub Support to purge cached views of the six rewritten commits.
 
 ## open
 
