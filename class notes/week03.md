@@ -17,7 +17,7 @@ Have NYFA chapter 1 and Andrews chapter 2 open for the second half. We work from
 - 7:25 break
 - 7:35 exercise 2, the mission in under two dozen words
 - 7:55 the readings, part two
-- 8:15 exercise 3, the conflict round
+- 8:15 setting up week 4
 - 8:40 what's due Friday
 - 8:55 close
 
@@ -25,7 +25,7 @@ Have NYFA chapter 1 and Andrews chapter 2 open for the second half. We work from
 
 - Both of tonight's components, the Mission Statement and the Vision Statement, are due Friday, September 4, by 11:59 pm on Canvas.
 - Have your Values Statement open. You read from it in the first exercise.
-- Have your reflection open. The last exercise runs off the conflict you wrote in it.
+- Have your reflection open. We use the conflict you wrote in it during the second half.
 
 ## 6:10 weeks 1 and 2
 
@@ -136,25 +136,31 @@ All four make the same claim: a mission and a vision are useful when they decide
 - Kolb calls the pair a compass, and says every future decision has to align with them.
 - Landry's mantra doubles as a filter for which clients and which activities to take.
 
-Bring the opportunity your statements would decline. If nothing would be declined, we'll look at why.
+Bring the opportunity your statements would decline. If nothing would be declined, we'll look at why. We also take the conflicts from your reflections here: the places where the present purpose and the future direction don't line up.
 
 Two places we'll press:
 
 - Landry lets mission and vision blur when you're working on a single project. NYFA, Kolb, and Andrews keep them apart. When you write one sentence, which of the two are you writing?
 - Kolb splits your personal statements from your statements for the business, with the values consistent across both. He calls the underlying situation the portfolio career: most artists run several revenue streams at once, meaning several separate sources of income, typically their own creative work, support work inside a larger organization, and often an unrelated job. That's live for this room, where teaching, contract, and studio income sit alongside the creative practice. It's also the frame for the Career Ecosystem Map you build next week.
 
-## 8:15 exercise 3, the conflict round
+## 8:15 setting up week 4
 
-Twenty-five minutes, from the reflection you submitted before class. A conflict is a place where the practice you run now and the practice you're heading toward pull against each other.
+No meeting on September 7. Week 4 runs on your own, it has three components and no reflection, and everything is due Friday, September 11, on Canvas.
 
-1. One at a time, no responses during the round: read your mission sentence, read your vision sentence, then state the conflict in this form. My mission commits me to ______. My vision needs ______. Right now, ______ doesn't produce ______. The blanks at the end take a resource: hours in the week, money, an audience of a certain size, a collaborator, a credential, an instrument or a room.
-2. We take two of them. One where the mission is narrower than the vision needs, one where the vision needs a resource the mission's activity doesn't produce.
-3. For each, the group answers three questions in this order. Which of the two sentences describes something that already exists? The mission should; if it describes a practice you don't have yet, that's the first thing to fix. What exactly does the vision require, in numbers where numbers apply: hours per week, dollars per year, a named venue or collaborator, a degree. Which sentence moves, and what's the smallest edit that makes both true at once?
-4. Whoever's conflict we worked types the revised sentence in chat before we move on.
+The four readings assemble a map of the field a career moves through.
 
-Shapes that come up: the practice that pays against the practice you want to build, a vision naming an audience the mission's activity can't reach, a vision that's a job title instead of a direction.
+- Andrews, chapter 8 (pp. 240–274). Organizational design, then the section you need: career development, and the concrete tools of the job market, the résumé, the biography or artist statement, the cover letter written for one opening, references, and a portfolio. It ends on where the field is heading: social-benefit organizations, creative placemaking with developers and city planners, technology and science partnerships, crowdfunding and impact investing.
+- McCurdy, chapter 3. The state of the landscape, and blunt about it: a large supply of trained graduates against a thinned full-time job market, and the interdisciplinary and alternative paths that have opened next to the traditional one. Jeff Coffin's line: technical skill can get you hired once, and relationships and professionalism get you hired again.
+- McCurdy, chapter 6. The emerging artist as a business of one, acting as their own agent. This chapter names the actual players in the ecosystem: presenters, the gatekeepers who decide what gets booked; venues including college performing-arts centers, libraries, museums, and cultural centers; patrons and donors; and your mailing list. Read this one with the map in front of you.
+- Rabideau, Epilogue (pp. 147–152). The long arc from a single project to a career, and the access question stated directly, with Dale Henderson playing Bach in the subway, Laurie Rubin on difference and disability, and Stanford Thompson's Play On, Philly! on racial inequality in classical music. This is the bridge into week 5.
 
-You leave with a revised sentence, or with the conflict stated plainly enough to write from on Friday.
+The three components, in the order to write them:
+
+1. Career Ecosystem Map. One path you're considering, drawn as a diagram or an annotated list: the people, organizations, venues, and revenue points in it, the gatekeepers, where power sits, and where you are in it now. This one looks outward at the terrain rather than at you. Start it while you read McCurdy's chapter 6.
+2. Résumé. One to two pages, chronological if your record has steady positions in it, functional if your practice is built from projects, commissions, and freelance work. Submit it as a PDF so the layout holds.
+3. Cover letter. Up to one page, written against a real posting you could plausibly apply to now or within a year: a job, an adjunct position, a residency, a commission, a fellowship, an ensemble or festival call. Find the posting first and submit it with the letter.
+
+Both documents draw on the Creative Identity Statement and the Values Statement you've already written, and the letter should sound like the artist described in the identity statement.
 
 ## 8:40 what's due Friday
 
@@ -166,4 +172,4 @@ A Mission Statement and a Vision Statement, a sentence or two each, in plain lan
 
 ## 8:55 close
 
-Next week is Labor Day. Week 4 runs asynchronously with no Monday meeting, and it has three components: the Career Ecosystem Map, the résumé, and the cover letter, all due Friday, September 11. There's no reflection that week. Start the ecosystem map early.
+Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that block if you email ahead, or by appointment. Week 4 has no meeting, so email is the way to reach me between now and September 14.
