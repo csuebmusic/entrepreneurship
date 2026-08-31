@@ -42,7 +42,7 @@ Voice is the part of the work that's unmistakably yours. Values are what decide 
 - Rabideau, chapter 3. You're more than your instrument. The transferable strengths a creative career runs on, which he calls superpowers, tie to your values. Sarah Robinson, the flutist who stopped chasing the right job, built an internal compass instead: a short set of questions she checks real work against.
 - Rabideau, chapter 4. Your voice enters where you stop being predictable. The five-stage creative process, and Mark Clague on measured risk.
 
-One idea from that week carries the weight tonight. A stated value is the one that goes on a website. A governing value has turned something down.
+One idea from that week decides a lot tonight. A stated value is the one that goes on a website. A governing value has turned something down.
 
 ### the sequence
 
@@ -57,7 +57,7 @@ Each one narrows the one before it into something that can decide an actual ques
 
 ### Creative Identity Statement
 
-First person, half a page to a page, who you are as an artist and the work you do, written so a stranger who's seen nothing else of yours could say what you make. Every component after it refers back to the artist described there, which is why we start the mission from it tonight.
+First person, half a page to a page, who you are as an artist and the work you do, written so a stranger who's seen nothing else of yours could say what you make. Every component after it refers back to the artist described there. Tonight's mission starts from it.
 
 Check yours for these:
 
@@ -132,7 +132,7 @@ Back in the main room we'll take three or four cases where the statement couldn'
 
 Seven minutes of silent writing, then NYFA's verbal test, which is reading it aloud and listening for what a stranger keeps.
 
-1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words, so the limit is looser than it sounds.
+1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words.
 2. Four or five of you read yours aloud, once, camera on.
 3. Everyone else writes down the words that stuck, then posts them in chat.
 4. Compare the words that stuck with what you meant to say.
