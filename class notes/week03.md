@@ -120,7 +120,7 @@ Both NYFA and Andrews follow the mission with a SWOT analysis: strengths and wea
 
 Seven minutes of silent writing, then NYFA's verbal test, which is reading it aloud and listening for what a stranger keeps.
 
-1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words.
+1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words: “to empower artists at critical stages in their creative lives.”
 2. Four or five of you read yours aloud, once, camera on.
 3. Everyone else writes down the words that stuck, then posts them in chat.
 4. Compare the words that stuck with what you meant to say.
