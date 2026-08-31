@@ -14,6 +14,7 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 - assets/ holds style.css and images/.
 - under-the-hood/ holds design-support internals: this file, STATUS.md, levels.md, and any source analysis. It is not for course content.
 - reading notes/ holds a Markdown summary of each week's readings (weekNN.md), instructor-facing, drawn from the chapters themselves before the weekly page is drafted.
+- class notes/ holds a Markdown session plan for each live week (weekNN.md), instructor-facing: the running order for the three-hour seminar, the recap of prior weeks, the discussion order for the readings, and the in-class exercises. It links to the week's reading notes rather than repeating them. Written from week 3 forward; the two asynchronous weeks have none. No student information.
 - README.md is the instructor's index: the current list of student-facing links for copying into Canvas, plus the layout. Update it whenever a student-facing page is added or renamed.
 
 GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only.

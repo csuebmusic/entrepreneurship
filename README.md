@@ -31,6 +31,7 @@ The final-portfolio page is not built yet.
 - assets/ holds style.css and images.
 - course-outline.md holds the schedule: the fifteen-week arc, the weekly readings with page ranges, the two kinds of weekly work, and the assessment scheme with its rubrics.
 - reading notes/ holds a summary of each week's readings.
+- class notes/ holds the session plan for each live week: running order, discussion order, and in-class exercises.
 - under-the-hood/ holds the working files: STATUS.md (current build state, read first), conventions.md (design and editorial decisions), and levels.md (the differences between the 303 and 603 versions).
 
 ## about
