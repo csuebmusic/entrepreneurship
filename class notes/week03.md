@@ -21,7 +21,13 @@ Have NYFA chapter 1 and Andrews chapter 2 open for the second half. We work from
 - 8:40 what's due Friday
 - 8:55 close
 
-## weeks 1 and 2
+## 6:00 open
+
+- Both of tonight's components, the Mission Statement and the Vision Statement, are due Friday, September 4, by 11:59 pm on Canvas.
+- Have your Values Statement open. You read from it in the first exercise.
+- Have your reflection open. The last exercise runs off the conflict you wrote in it.
+
+## 6:10 weeks 1 and 2
 
 ### week 1
 
@@ -30,7 +36,7 @@ Entrepreneurship in these books means seeing an opportunity and building somethi
 - Kolb, chapter 1. Art has an aesthetic value and a monetary value, and they're separate. A venture takes one of three forms: government, nonprofit, or business. Two questions from him stay with us all term. Do you reach your audience through an intermediary, an agent or gallery or label that takes a cut, or directly? And do you build a nonprofit or a business?
 - Andrews, chapter 1. The textbook definitions (Drucker, Schumpeter, disruption, the minimum viable product) and then the part that departs from them: an arts venture usually starts from your values rather than from a product, and a lifetime practice is a different thing from a venture built to be sold to someone else.
 - Rabideau, chapter 1. The artist and the entrepreneur are the same animal. Five mindsets: curiosity, creativity, collaboration, persistence, critical optimism. Three skill sets: storytelling, funding, and moving ideas to action.
-- McCurdy, chapter 1. The bluntest account of the economy you're entering, a caution about fear-based education (defaulting to more school), and the claim that the work starts with deciding who you are as an artist.
+- McCurdy, chapter 1. A blunt account of the economy you're entering, a caution about fear-based education (defaulting to more school), and the claim that the work starts with deciding who you are as an artist.
 
 Underneath all four: artistry belongs to everyone, in every community, and your work has an effect past your own success.
 
@@ -53,9 +59,9 @@ One idea from that week decides a lot tonight. A stated value is the one that go
 
 Each one narrows the one before it into something that can decide an actual question.
 
-## the two components you've written
+### the two components you've written
 
-### Creative Identity Statement
+#### Creative Identity Statement
 
 First person, half a page to a page, who you are as an artist and the work you do, written so a stranger who's seen nothing else of yours could say what you make. Every component after it refers back to the artist described there. Tonight's mission starts from it.
 
@@ -70,7 +76,7 @@ Check yours for these:
 
 Uncertainty about direction belongs in this statement. Uncertainty about what you do is the part to fix, and two or three sentences saying what you make and where you work will fix it.
 
-### Values Statement
+#### Values Statement
 
 Two or three values, each with what it means in your practice and how it would guide a real decision. Tonight's mission and vision get built on top of this.
 
@@ -82,9 +88,18 @@ Check yours for these:
 
 The test, and you'll run it in the first exercise: hand the statement a concrete opportunity and see whether it gives you an answer.
 
-## the readings
+## 6:35 exercise 1, the decision test
 
-### part one, the definitions
+Pairs, breakout rooms, twelve minutes.
+
+1. One of you reads your Values Statement aloud.
+2. The other puts a concrete opportunity to it: a commission whose deadline eats your summer, a well-paid gig for a client whose politics you dislike, a teaching job in another state, a collaboration with someone whose work you find thin.
+3. Decide together whether the statement answers. If it does, name which value answered. If it doesn't, name what you had to reach for instead.
+4. Switch.
+
+Back in the main room we'll take three or four cases where the statement couldn't decide. Watch for values pitched at a level of generality that would fit anyone in the room.
+
+## 6:55 the readings, part one, the definitions
 
 All four chapters define the same pair.
 
@@ -99,7 +114,20 @@ A vision is future direction: where the practice is going, or the values you won
 
 Both NYFA and Andrews follow the mission with a SWOT analysis: strengths and weaknesses, which are internal to you, and opportunities and threats, which are outside. NYFA adds one restriction. Other artists don't count as threats.
 
-### part two, the statements as a filter
+## 7:25 break
+
+## 7:35 exercise 2, the mission in under two dozen words
+
+Seven minutes of silent writing, then NYFA's verbal test, which is reading it aloud and listening for what a stranger keeps.
+
+1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words.
+2. Four or five of you read yours aloud, once, camera on.
+3. Everyone else writes down the words that stuck, then posts them in chat.
+4. Compare the words that stuck with what you meant to say.
+
+Watch for art-speak, for a mission that describes a feeling rather than an activity, and for one that would fit any musician here. Then run the sentence through Kolb's four slots: who you are, what you do, for whom, and the values.
+
+## 7:55 the readings, part two, the statements as a filter
 
 All four make the same claim: a mission and a vision are useful when they decide something.
 
@@ -115,31 +143,7 @@ Two places we'll press:
 - Landry lets mission and vision blur when you're working on a single project. NYFA, Kolb, and Andrews keep them apart. When you write one sentence, which of the two are you writing?
 - Kolb splits your personal statements from your statements for the business, with the values consistent across both. He calls the underlying situation the portfolio career: most artists run several revenue streams at once, meaning several separate sources of income, typically their own creative work, support work inside a larger organization, and often an unrelated job. That's live for this room, where teaching, contract, and studio income sit alongside the creative practice. It's also the frame for the Career Ecosystem Map you build next week.
 
-## exercises
-
-### exercise 1, the decision test
-
-Pairs, breakout rooms, twelve minutes.
-
-1. One of you reads your Values Statement aloud.
-2. The other puts a concrete opportunity to it: a commission whose deadline eats your summer, a well-paid gig for a client whose politics you dislike, a teaching job in another state, a collaboration with someone whose work you find thin.
-3. Decide together whether the statement answers. If it does, name which value answered. If it doesn't, name what you had to reach for instead.
-4. Switch.
-
-Back in the main room we'll take three or four cases where the statement couldn't decide. Watch for values pitched at a level of generality that would fit anyone in the room.
-
-### exercise 2, the mission in under two dozen words
-
-Seven minutes of silent writing, then NYFA's verbal test, which is reading it aloud and listening for what a stranger keeps.
-
-1. Write a mission in under twenty-four words: what you do, for whom, and why. NYFA's own runs ten words.
-2. Four or five of you read yours aloud, once, camera on.
-3. Everyone else writes down the words that stuck, then posts them in chat.
-4. Compare the words that stuck with what you meant to say.
-
-Watch for art-speak, for a mission that describes a feeling rather than an activity, and for one that would fit any musician here. Then run the sentence through Kolb's four slots: who you are, what you do, for whom, and the values.
-
-### exercise 3, the conflict round
+## 8:15 exercise 3, the conflict round
 
 Twenty-five minutes, from the reflection you submitted before class. A conflict is a place where the practice you run now and the practice you're heading toward pull against each other.
 
@@ -152,10 +156,14 @@ Shapes that come up: the practice that pays against the practice you want to bui
 
 You leave with a revised sentence, or with the conflict stated plainly enough to write from on Friday.
 
-## what's due Friday
+## 8:40 what's due Friday
 
 A Mission Statement and a Vision Statement, a sentence or two each, in plain language, due Friday, September 4, by 11:59 pm on Canvas. Keep both short enough to hold a real opportunity up against.
 
 - The mission describes your practice as it is now, including the parts that pay.
 - The vision is where the practice goes, or the thing you won't sacrifice. Either form works, and NYFA and Kolb use both.
 - Both get read alongside the Creative Identity Statement and the Values Statement already in your portfolio. An inconsistency between them is a revision item.
+
+## 8:55 close
+
+Next week is Labor Day. Week 4 runs asynchronously with no Monday meeting, and it has three components: the Career Ecosystem Map, the résumé, and the cover letter, all due Friday, September 11. There's no reflection that week. Start the ecosystem map early.
