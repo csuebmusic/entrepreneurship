@@ -86,11 +86,19 @@ You leave with a list of what it costs to be considered at two points on your ow
 Work one example on screen first, three minutes. APAP|NYC is the booking conference McCurdy describes, and the 2027 edition runs January 13 to 19 at the New York Hilton Midtown.
 
 - The decision: a presenter books you for a season.
-- Getting in the room: the conference is members-only. Artist registration is $70 for 2027, early standard registration runs $825 to $875, a single on-site day pass is $595.
-- Putting on a showcase: membership or a place on a member's roster, registration for the main conference, and a venue you find yourself. APAP doesn't curate showcases. Students registered at the student rate can't showcase at all.
-- Everything the price list leaves out: a week in midtown Manhattan in January, a tour-ready thirty-minute set, materials, and the fee to an agent for access to their room.
+- Getting in the room: the conference is members-only. Artist Access membership, for a self-represented artist who has never held a full organizational membership, is $100 and takes a written application. Artist registration is $70 for 2027, early standard registration runs $825 to $875, and a single on-site day pass is $595.
+- Putting on a showcase: membership or a place on a member's roster, registration for the main conference, and a venue you find and book yourself. APAP doesn't curate showcases. Students registered at the student rate can't showcase at all.
+- Everything the price list leaves out: five nights in midtown Manhattan, where the negotiated conference rate is $245 a night, flights and meals for everyone you bring, a tour-ready thirty-minute set, the players' time, recordings and photos, and the fee an agent charges for a slot in the room they've rented.
 
-The $70 is the cheapest item on that list. Sort the rest into the three columns and ask what a person would need before any of it becomes possible.
+Sorted, the way you'll sort your own two points:
+
+Money buys the membership at $100 and up, the registration between $70 and $875, five nights at $245, flights and meals for each person in the group, materials, a venue if you self-produce, an agent's fee for a slot in their room, and a booth if you want one at $500 for a half or $895 for a full. Add the line items for one person and it's around $2,000 before a single booking fee comes back. A quartet that self-produces a showcase is several times that.
+
+Time buys the thirty-minute set, built and rehearsed to the standard a presenter books from; the months of emails before January that make your name familiar when a presenter sees it in the app; five days away from teaching and playing in the middle of a term; the follow-up in the weeks after; and the wait, since a January conversation usually books a date a season or two later.
+
+A relationship buys the things with no price on them: a place on a member's roster, or an agent willing to sell you a slot at all; the presenters who show up on day four when they're saturated; a venue that will have you; the colleague who walks you over and introduces you.
+
+Ask the room what has to be true before any of this is possible. Money you can lay out a year before it returns, players who will hold January dates on your word, and at least one person already inside.
 
 Then pairs, breakout rooms, twelve minutes. Paste in chat:
 
