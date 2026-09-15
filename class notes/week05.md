@@ -37,7 +37,7 @@ The Positionality and Access Statement is due Friday, September 18, by 11:59 pm 
 
 ### Andrews, chapter 8 (pp. 240–274)
 
-Organizational design opens the chapter: the org chart that sets roles, reporting lines, and supervision. Career Development (pp. 253–261) holds the part you used. Andrews lists five documents: the résumé, the biography, the artist statement, the cover letter customized for each opening, and the list of references, with a portfolio of work samples alongside them.
+Organizational design opens the chapter: the org chart that sets roles, reporting lines, and supervision. The section you used is Career Development, pp. 253–261. Andrews lists five documents: the résumé, the biography, the artist statement, the cover letter customized for each opening, and the list of references, with a portfolio of work samples alongside them.
 
 His two résumé shapes, pp. 254–255. Chronological puts education and employment most recent first. Under education: institution, date range, degree, major, honors. Under employment: title, employer name and location, date range, responsibilities, and specific accomplishments where you have them (sales figures, a fundraising program you built, accounts opened). Functional groups experience under themes instead. His example is a photographer grouping concept development and art direction, photo editing and retouching, and location-based projects. Coursework and student projects count in that shape.
 
@@ -45,19 +45,19 @@ Future Trends closes the chapter: social-benefit organizations working with unde
 
 ### McCurdy, chapter 3
 
-The inverted supply-and-demand curve: many highly trained graduates, a thinned full-time market, and higher education slow to change. The adapted programs he points to are arts administration, music business, Stanford's "CS + x," and Clemson's interdisciplinary performing-arts degree. Creativity now sits at the top of corporate lists of what employers want. Jeff Coffin's line is the one to repeat: technical skill can get you hired once, and relationships and professionalism get you hired again.
+The inverted supply-and-demand curve: many highly trained graduates, a thinned full-time market, and higher education slow to change. The adapted programs he points to are arts administration, music business, Stanford's "CS + x," and Clemson's interdisciplinary performing-arts degree. He reports creativity at the top of corporate lists of what employers want. Jeff Coffin's line: technical skill can get you hired once, and relationships and professionalism get you hired again.
 
 ### McCurdy, chapter 6
 
-The most concrete chapter of the four. The emerging artist is a business of one, and the chapter names what that involves:
+The emerging artist is a business of one, and the chapter names what that involves:
 
-- Presenters decide what gets booked. The showcase at an arts conference is how many of them see you: roughly thirty minutes, and by day three or four of a conference they are saturated. Lapin's instruction from the presenter's chair is to perform and not explain, since a showcase gets booked on the art rather than on the talk about it.
+- Presenters decide what gets booked. The showcase at an arts conference is how many of them see you: roughly thirty minutes, and by day three or four of a conference they are saturated. Lapin's instruction from the presenter's chair is to perform and not explain. Presenters book on the art rather than on an account of it.
 - Access to the room can be bought. An agent who doesn't represent you will sometimes let you perform in the room they've rented and place your materials at their booth, for a fee.
-- Venues beyond the concert hall: college performing-arts centers, libraries, museums, cultural centers. Programming there often runs on a theme or a series, Black History Month, Cinco de Mayo, National Poetry Month, Chinese New Year, and educational outreach makes a booking more attractive. Lapin's example is a jazz group teaching a masterclass with the student ensemble.
+- Venues beyond the concert hall: college performing-arts centers, libraries, museums, cultural centers. Programming there is often themed or built as a series: Black History Month, Cinco de Mayo, National Poetry Month, Chinese New Year. Educational outreach makes a booking more attractive. Lapin's example is a jazz group teaching a masterclass with the student ensemble.
 - State arts councils and their touring directories are where the contact database comes from, and being listed in one is itself a credential.
-- Know your value: budget the presentation before you name a fee. An all-inclusive contract folds fees, travel, hotel, ground transport, and food into one check. The alternative is a performance fee plus expenses. Where the budget won't stretch, the trade is in hotel rooms, transport, and meals.
+- Know your value: budget the presentation before you name a fee. An all-inclusive contract pays fees, travel, hotel, ground transport, and food in one check. The alternative is a performance fee plus expenses. Where a venue can't meet the fee, the trade is hotel rooms, ground transport, and meals.
 - Anchor date and block booking: book the date, then look at every venue within a 150-mile radius of it. His case is the University of Kansas: fly into Kansas City once, rent a car, add two or three performances.
-- The mock phone call runs in six moves: introduce yourself and the project, describe it, offer the educational component, offer the academic tie-ins, state the fee plus travel and ask about block booking or a campus partner if it's beyond the budget, then ask to send materials and agree a follow-up time. Email first, call second.
+- The mock phone call has six moves: introduce yourself and the project, describe it, offer the educational component, offer the academic tie-ins, state the fee plus travel and ask about block booking or a campus partner if it's beyond the budget, then ask to send materials and agree a follow-up time. Email first, call second.
 
 ### Rabideau, Epilogue (pp. 147–152)
 
@@ -76,7 +76,7 @@ The test is whether someone else could act on it. Compare these two entries:
 
 The second can be worked on this week. Check yours for these:
 
-- One path, not your whole field.
+- One path rather than your whole field.
 - Named organizations and named roles, with the month or season when each one decides.
 - Gatekeepers marked, each paired with the decision it makes: what gets booked, funded, shown, published, hired.
 - Revenue points separated into what pays this year and what pays in three.
@@ -107,7 +107,7 @@ Check yours for these:
 
 - The posting came with it.
 - Each claim points to evidence, and the evidence is in the materials you'd send.
-- Nothing in it would survive being pasted into a letter for a different job.
+- Most of its sentences would be wrong in a letter for a different job.
 - It sounds like the artist in your Creative Identity Statement.
 
 Andrews's revision test, p. 256: have someone read the letter aloud to you while you listen as the hiring manager. Run it before you revise for the portfolio.
@@ -117,8 +117,8 @@ Andrews's revision test, p. 256: have someone read the letter aloud to you while
 Work the example on screen first, three minutes. APAP|NYC is the booking conference McCurdy's chapter 6 describes, and the 2027 edition runs January 13 to 19 at the New York Hilton Midtown.
 
 - The decision: a presenter books you for their season.
-- What it takes to be in the room: APAP membership, since the conference is members-only. Artist registration is $70 for 2027; early registration at the standard rate runs $825 to $875, and a single on-site day pass is $595.
-- To produce a showcase: membership or a place on a member's roster, registration for the main conference, and your own venue, since APAP doesn't curate showcases. Students who register at the student rate can't showcase at all.
+- What it takes to be in the room: APAP membership. The conference is members-only. Artist registration is $70 for 2027; early registration at the standard rate runs $825 to $875, and a single on-site day pass is $595.
+- To produce a showcase: membership or a place on a member's roster, registration for the main conference, and your own venue. APAP doesn't curate showcases. Students who register at the student rate can't showcase at all.
 - Everything the price list doesn't cover: a week in midtown Manhattan in January, a tour-ready thirty-minute set, materials, and, in McCurdy's account, a fee to an agent for access to their room and booth.
 - Sort those into what money buys, what time buys, and what a relationship buys. The $70 line is the cheapest item on the list.
 
@@ -170,17 +170,17 @@ What they report:
 - Women were under 5 percent of players in the top five US orchestras in 1970 and about 25 percent when they wrote.
 - The screen raises the probability a woman advances out of certain preliminary rounds by about 50 percent, and raises a woman's likelihood of winning the final round by severalfold.
 - Blind auditions account for 30 to 55 percent of the rise in the share of women among new hires since 1970, and 25 to 46 percent of the rise in the share of women in the orchestras.
-- Their own caveats, stated in the abstract: several estimates carry large standard errors, and one effect runs persistently in the opposite direction.
+- Their own caveats, stated in the abstract: several estimates have large standard errors, and one effect is persistently in the opposite direction.
 
 The finding has been argued over. In 2019 the statistician Andrew Gelman worked through the paper and judged the data too noisy for strong conclusions, saying he could not reconstruct the 50 percent figure from what's printed. Goldin's reply was that the figure comes from the musicians who auditioned both ways and covers only certain rounds, as the paper says. A 2017 randomized study by behavioral economists in the Australian Public Service, "Going Blind to See More Clearly," asked more than 2,000 managers to shortlist candidates from résumés with and without the applicant's sex shown. Removing sex reduced the likelihood that women were shortlisted.
 
 Three questions:
 
-1. Rabideau presents the 50 percent as settled, p. 76. What changes in her chapter if the number doesn't hold, and what doesn't? The argument for introspection survives. The claim that a procedure fixed a field does not.
+1. Rabideau presents the 50 percent as settled, p. 76. What changes in her chapter if the number doesn't hold, and what doesn't? Her case for introspection doesn't depend on the number. Her claim that a procedure fixed a field does.
 2. The screen removes one signal at one moment. Name what it can't reach. Expect: who studied with whom, who could afford the audition travel and the weeks of preparation, who owns the instrument, who was told to apply, and what happens in the final round when the screen comes down.
 3. An intervention can be worth keeping on grounds other than a measured effect. What are those grounds here, and who decides them?
 
-If the room wants the third reading of the case: the same orchestras that changed on gender did not change comparably on race, which is the gap Sphinx and Project STEP were built for. A screen removes a signal the jury can hear past; it does nothing about who is in the audition pool.
+If there's time: the same orchestras that changed on gender did not change comparably on race, which is the gap Sphinx and Project STEP were built for. A screen removes a signal the jury can hear past; it does nothing about who is in the audition pool.
 
 ## 8:00 the evidence, Panic!
 
@@ -190,7 +190,7 @@ Brook, O'Brien and Taylor, published by Create London in 2018, UK data. A 2015 s
 
 Asked what matters for getting ahead, respondents cluster four ways (Figure 1, p. 5, shares on p. 6): 30 percent credit talent and hard work while rejecting class and connections, 34 percent name both merit and social barriers, 21 percent emphasize barriers, 16 percent neither. The group most committed to merit and most skeptical that class, gender, or ethnicity matter is the best paid, those earning over £50,000, and they hold that view regardless of where they started in life (p. 7).
 
-Read two interview passages back to back, p. 7 and p. 8: Kate, from a working-class background, attributing her career to tenacity, then Nisha, working in film and television, saying the UK industry runs on who you know. Ask which of the two is describing the sector and which is describing herself.
+Read two interview passages back to back, p. 7 and p. 8: Kate, from a working-class background, attributing her career to tenacity, then Nisha, working in film and television, saying that what decides UK film work is who you know and who you've worked with. Ask which of the two is describing the sector and which is describing herself.
 
 Figure 2, p. 9, is the networks chart. Respondents were likely to know other creatives, lecturers, and sales assistants, and unlikely to know factory workers, bus drivers, postal workers, or bank managers.
 
@@ -209,13 +209,13 @@ London, p. 14: 34.8 percent of the capital's creative workforce comes from upper
 
 ### Two mechanisms from Parts 3 and 4
 
-You weren't asked to read these. Around 87 percent of respondents had worked for free (p. 21), and unpaid internships split sharply by age: 48 percent of respondents under 30 had done one, against 6 percent of those over 50. The interviews split by class origin. Polly, from middle-class origins, describes unpaid work as a choice; Carla, from a working-class background, managed three months in London and describes the limit as unfair (pp. 22–23). And hiring can run as cultural matching, where a candidate is read for shared taste (p. 33). Creative workers attend about four times as many art forms as people in working-class occupations, which makes that a narrow filter.
+You weren't asked to read these. Around 87 percent of respondents had worked for free (p. 21), and unpaid internships split sharply by age: 48 percent of respondents under 30 had done one, against 6 percent of those over 50. The interviews split by class origin. Polly, from middle-class origins, describes unpaid work as a choice; Carla, from a working-class background, managed three months in London and describes the limit as unfair (pp. 22–23). Hiring can also be a form of cultural matching, where a candidate is read for shared taste (p. 33). Creative workers attend about four times as many art forms as people in working-class occupations. That makes the filter a narrow one.
 
 ### Discussion
 
 1. The high earners in Part 1 set hiring practice. What does that pattern predict about how this sector changes? Press past "training" toward who controls the criteria.
-2. The chances by origin held steady from 1981 to 2011 while the composition shifted. Which of the two would a policy aim at, and what would it have to do? The distinction to land: equal chances at a shrinking origin group still produces an unrepresentative workforce.
-3. This is UK data. Which findings would you expect to travel to the American field you work in, and which wouldn't? Name what you'd need to check. London's concentration maps onto New York and Los Angeles; the class measure, based on parental occupation, does not map onto how class is discussed in the US.
+2. The chances by origin held steady from 1981 to 2011 while the composition shifted. Which of the two would a policy aim at, and what would it have to do? The distinction: equal chances at a shrinking origin group still produces an unrepresentative workforce.
+3. This is UK data. Which findings would you expect to hold in the American field you work in, and which wouldn't? Name what you'd need to check. London's concentration maps onto New York and Los Angeles; the class measure, based on parental occupation, does not map onto how class is discussed in the US.
 4. Goldin and Rouse study one decision point. Panic! studies a labor market. What can each see that the other can't?
 
 ## 8:20 exercise 2, the mechanism in your field
@@ -239,11 +239,11 @@ Two sentences, same writer:
 - I've been lucky in some ways and have faced obstacles in others.
 - A graduate degree from a school with an alumni network in the Bay Area puts me two emails from most new-music programmers here. It also means my references all work in one city, and the work I can name is unpaid.
 
-The second is what the brief asks for. Structure that gets you there:
+The second is what the brief asks for. The structure:
 
 - Position. Where you trained, where you live, what you own, what you owe, who you know, and whichever parts of your social identity you decide belong in the document.
 - Access. Be as specific about this as about the barriers. A conservatory network, a city with venues in it, an instrument already paid for, a language, family who can absorb a lean year, a teacher who made a call.
-- Barriers. Name the mechanism, not the feeling. Tonight's vocabulary: gatekeeping, networks, unpaid work, cultural matching, geographic concentration, the cost of the credential.
+- Barriers. Name the mechanism rather than the feeling. Tonight's vocabulary: gatekeeping, networks, unpaid work, cultural matching, geographic concentration, the cost of the credential.
 - Consequences. What you plan around and what you push against, specific enough to change a line on your Career Ecosystem Map.
 
 You decide what goes in it. Nothing here requires you to disclose anything you'd rather keep out of a document you submit, and there's no conclusion you're expected to reach.
