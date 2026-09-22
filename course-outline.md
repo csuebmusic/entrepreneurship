@@ -29,7 +29,7 @@ Kolb, NYFA, and Rabideau are the required texts and appear in nearly every week.
 | 3 · Aug 31 | Mission & Vision | NYFA 1 (18–33); Kolb 2 (31–54); Landry 1 (1–20); Andrews 2 (35–66) | 2 | Mission + Vision Statements |
 | 4 · Sep 7 *async* | Career Paths & Arts Ecosystems | Andrews 8 (240–274); McCurdy 3; McCurdy 6; Rabideau Epilogue (147–152) | 1, 3 | Career Ecosystem Map; Résumé; Cover Letter (no reflection) |
 | 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); Goldin & Rouse (2000), "Orchestrating Impartiality," *American Economic Review* 90(4), 715–741 (introduction and results); Brook, O'Brien & Taylor (2018), *Panic! Social Class, Taste and Inequalities in the Creative Industries*, Create London (introduction, parts 1–2) | 1, 5 | Positionality and Access Statement |
-| **II. Audience, positioning, product** | | | | |
+| **II. Audience and positioning** | | | | |
 | 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 §Understanding Your Audience; Landry 2 §Defining Your Audiences (29–37); Andrews 3 §§Exchange Model, Market Research (70–72) | 2, 4 | Audience Profile |
 | 7–8 · Sep 28, Oct 5 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
 | **III. Business model and money** | | | | |
@@ -133,7 +133,7 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 
 **week 5.** Reflection: how power and social identity have shaped access and opportunity in your discipline, drawing on Rabideau and the outside readings. Portfolio Component, Positionality and Access Statement: your own position in the field, the access it gives you and the barriers it puts in your way, and what that means for the framework you are building. Weeks 6 through 15 can refer back to it.
 
-**II. Audience, positioning, product**
+**II. Audience and positioning**
 
 **week 6.** Reflection: the audiences the readings say you actually have versus the one you imagine, and what you do not yet know about them. Portfolio Component, Audience Profile: who your audience is, what they value, where they are, and how they find work like yours. First component of the marketing plan.
 
