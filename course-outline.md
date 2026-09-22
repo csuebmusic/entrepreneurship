@@ -8,7 +8,7 @@ Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesd
 
 ## reading core
 
-Four chapters are split across more than one week: NYFA 11, Andrews 3, Landry 1, and Landry 2. Each week takes a different section, and the citation names the section rather than the whole chapter. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
+Three chapters are split across more than one week: NYFA 11, Andrews 3, and Landry 1. Each week takes a different section, and the citation names the section rather than the whole chapter. Kolb, Rabideau, and McCurdy chapters are each assigned exactly once.
 
 Kolb, NYFA, and Rabideau are the required texts and appear in nearly every week. Week 5 adds two open-access outside readings, cited in the schedule and posted on Canvas. Andrews, Landry, and McCurdy are the rotation shorter chapters are pulled from. Each week assigns three to four shorter readings pulled across the six texts. Chapter numbers are each book's own, with page ranges in parentheses. For Kolb, Rabideau, Andrews, and Landry these are the books' printed pages. NYFA has no printed page numbers in its digital edition; its ranges are positions in the course PDF. McCurdy stays chapter-only, a reflowable ebook with no fixed pages.
 
@@ -53,11 +53,11 @@ Reflection is the thinking. One to two pages at graduate level, written before M
 
 Portfolio Component is the building. Each is one named, working professional artifact drafted that week, workshopped in seminar, and revised into the final portfolio. Length varies by component: a Mission Statement is a few lines, an Audience Profile or Business Model Snapshot runs longer. At 603 the marketing components accumulate into the marketing plan named in SLO 4, presented at the end. The course collects the plan; the implement verb is satisfied by the student's concurrent practice rather than by a separate graded artifact.
 
-The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Weeks 7–8 have one reflection, due before the second session (October 5), and one component, due Friday, October 9. Fourteen weeks have a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only. Week 4 runs three components and no reflection, and it is where SLO 3's named tools sit.
+The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Weeks 7–8 have one reflection, due before the second session (October 5), and one component, due Friday, October 9. The term has sixteen Portfolio Components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only. Week 4 runs three components and no reflection, and it is where SLO 3's named tools sit.
 
 ## assessment
 
-Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component counts equally: the fourteen Reflections and seventeen Components average straight into the weekly score.
+Weekly Reflections and Portfolio Components 65%, final portfolio and presentation 35%. Inside the 65%, every Reflection and every Component counts equally: the thirteen Reflections and sixteen Components average straight into the weekly score.
 
 Each piece of work is scored 0 to 4 against the anchors on the syllabus. The weighted average of the weekly score and the final score converts to a letter on the grade-point scale, rounding to the nearest anchor, with an exact midpoint rounding up. An average below 1.0 is an F.
 
