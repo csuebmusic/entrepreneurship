@@ -8,7 +8,7 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 
 - Final-portfolio landing page (HTML), including the presentation format and what the graduate implemented layer requires.
 - Upload the Canvas custom grading scheme from course-outline.md.
-- Class notes for weeks 6 onward: one session plan per live week, written before the session.
+- Class notes for weeks 6 onward: one session plan per live week, written before the session. Weeks 7–8 need a plan for each of the two sessions (September 28 and October 5).
 
 ## open
 
