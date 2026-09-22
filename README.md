@@ -13,7 +13,7 @@ For copying into Canvas.
 - week 4, Career Paths & Arts Ecosystems (Sep 7, async): https://csuebmusic.github.io/entrepreneurship/week04.html
 - week 5, Power, Social Identity & Access (Sep 14): https://csuebmusic.github.io/entrepreneurship/week05.html
 - week 6, Understanding Audiences (Sep 21): https://csuebmusic.github.io/entrepreneurship/week06.html
-- week 7, Competition, Positioning & Value (Sep 28): https://csuebmusic.github.io/entrepreneurship/week07.html
+- weeks 7–8, Competition, Positioning & Value (Sep 28, Oct 5): https://csuebmusic.github.io/entrepreneurship/week07.html
 - week 9, Business Models for Artists (Oct 12): https://csuebmusic.github.io/entrepreneurship/week09.html
 - week 10, Pricing & Money (Oct 19): https://csuebmusic.github.io/entrepreneurship/week10.html
 - week 11, Marketing, Brand & Story (Oct 26): https://csuebmusic.github.io/entrepreneurship/week11.html
@@ -26,7 +26,7 @@ The final-portfolio page is not built yet.
 
 ## layout
 
-- Root holds the student-facing HTML: the syllabus, the fifteen weekly module pages (week01.html and so on), and the final-portfolio page. Pages are self-contained and built on the shared stylesheet.
+- Root holds the student-facing HTML: the syllabus, the fourteen weekly module pages (week01.html and so on; weeks 7–8 share week07.html), and the final-portfolio page. Pages are self-contained and built on the shared stylesheet.
 - assets/ holds style.css and images.
 - course-outline.md holds the schedule: the fifteen-week arc, the weekly readings with page ranges, the two kinds of weekly work, and the assessment scheme with its rubrics.
 - reading notes/ holds a summary of each week's readings.

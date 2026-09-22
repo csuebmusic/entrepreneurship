@@ -82,7 +82,7 @@ The weekly module page is the single source for a week's Reflection prompt and P
 
 ## weekly module pages
 
-Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. The page is comprehensive but lean, and it guides rather than spoon-feeds: the reader should leave knowing what to read, what to notice, and what to make, and should still have to do the thinking.
+Each week has one HTML page, weekNN.html at the repo root, linked from Canvas. Weeks 7–8 share week07.html. The page is comprehensive but lean, and it guides rather than spoon-feeds: the reader should leave knowing what to read, what to notice, and what to make, and should still have to do the thinking.
 
 Build in this order: read that week's chapters from the texts, not from memory; write the summaries into reading notes/weekNN.md; then draft the page from those notes.
 
@@ -96,7 +96,7 @@ Page structure:
 - "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
 - "portfolio component": the component name, what it is and why it matters, guiding questions, and a short written brief in a callout. End on the brief; no closing "what a strong X is" line and no forward or next-week note.
 
-Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no live session; there the reflection is due the Sunday evening before, and the component the following Friday, both on Canvas.
+Due dates on the page are concrete. The reflection is due before that week's Monday session; the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no live session; there the reflection is due the Sunday evening before, and the component the following Friday, both on Canvas. Weeks 7–8 run one topic across two Mondays: the reflection is due before the second session, and the component the Friday after it.
 
 Leave off the page: outcome-tracing and next-week notes. Those traces live in course-outline.md and levels.md, not on the student page.
 

@@ -4,7 +4,7 @@ Fall 2026, MUS 603 (graduate). Online synchronous, Mondays 6–9pm by Zoom. Term
 
 ## calendar and delivery
 
-Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesday, August 18, with no Monday meeting; and Labor Day, September 7), a Fall Recess break with no content (November 23), and finals week. Fifteen content slots produce the portfolio, then the final. The live Monday is the seminar core: reading discussion, case analysis, and peer workshop of portfolio components in progress. Async work sits around it: readings completed before class, the weekly Reflection, and the weekly Portfolio Component.
+Thirteen live Mondays, two asynchronous weeks (the opening week, beginning Tuesday, August 18, with no Monday meeting; and Labor Day, September 7), a Fall Recess break with no content (November 23), and finals week. Fifteen weeks produce the portfolio, then the final. Weeks 7 and 8 take one topic across two Mondays. The live Monday is the seminar core: reading discussion, case analysis, and peer workshop of portfolio components in progress. Async work sits around it: readings completed before class, the weekly Reflection, and the weekly Portfolio Component.
 
 ## reading core
 
@@ -31,7 +31,7 @@ Kolb, NYFA, and Rabideau are the required texts and appear in nearly every week.
 | 5 · Sep 14 | Power, Social Identity & Access | Rabideau 7 (73–84); Goldin & Rouse (2000), "Orchestrating Impartiality," *American Economic Review* 90(4), 715–741 (introduction and results); Brook, O'Brien & Taylor (2018), *Panic! Social Class, Taste and Inequalities in the Creative Industries*, Create London (introduction, parts 1–2) | 1, 5 | Positionality and Access Statement |
 | **II. Audience, positioning, product** | | | | |
 | 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 §Understanding Your Audience; Landry 2 §Defining Your Audiences (29–37); Andrews 3 §§Exchange Model, Market Research (70–72) | 2, 4 | Audience Profile |
-| 7 · Sep 28 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
+| 7–8 · Sep 28, Oct 5 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
 | **III. Business model and money** | | | | |
 | 9 · Oct 12 | Business Models for Artists | NYFA 2 (34–51); Kolb 7 (151–174); Rabideau 8 (85–100); Landry 5 (109–128) | 2 | Business Model Snapshot |
 | 10 · Oct 19 | Pricing & Money | NYFA 13 (206–215); Kolb 6 (128–150); Landry 3 (53–74); McCurdy 4 | 2, 4 | Pricing Rationale |
@@ -53,7 +53,7 @@ Reflection is the thinking. One to two pages at graduate level, written before M
 
 Portfolio Component is the building. Each is one named, working professional artifact drafted that week, workshopped in seminar, and revised into the final portfolio. Length varies by component: a Mission Statement is a few lines, an Audience Profile or Business Model Snapshot runs longer. At 603 the marketing components accumulate into the marketing plan named in SLO 4, presented at the end. The course collects the plan; the implement verb is satisfied by the student's concurrent practice rather than by a separate graded artifact.
 
-The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Fourteen weeks have a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only. Week 4 runs three components and no reflection, and it is where SLO 3's named tools sit.
+The weekly rhythm is read, then Reflection (think and connect, before class), then seminar (discuss and workshop), then Portfolio Component (produce it). The reflection is due before that week's Monday session, and the portfolio component is due the following Friday, by 11:59 pm, on Canvas, after the seminar discussion. The two asynchronous weeks (1 and 4) have no Monday session; there the reflection is due the Sunday evening before, and the component the following Friday. Weeks 7–8 have one reflection, due before the second session (October 5), and one component, due Friday, October 9. Fourteen weeks have a Portfolio Component, for seventeen components: week 3 produces two (Mission and Vision) and week 4 produces three (Career Ecosystem Map, Résumé, Cover Letter). Week 13 runs Reflection only. Week 4 runs three components and no reflection, and it is where SLO 3's named tools sit.
 
 ## assessment
 
@@ -137,7 +137,7 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 
 **week 6.** Reflection: the audiences the readings say you actually have versus the one you imagine, and what you do not yet know about them. Portfolio Component, Audience Profile: who your audience is, what they value, where they are, and how they find work like yours. First component of the marketing plan.
 
-**week 7.** Reflection: position yourself against two or three others working near you, and to whom that difference matters. Portfolio Component, Positioning Statement: the distinct value you offer and to whom, relative to the field.
+**weeks 7–8.** Reflection (due before the October 5 session): position yourself against two or three others working near you, and to whom that difference matters. Portfolio Component, Positioning Statement: the distinct value you offer and to whom, relative to the field.
 
 **III. Business model and money**
 

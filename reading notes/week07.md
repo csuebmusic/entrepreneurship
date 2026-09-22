@@ -1,4 +1,4 @@
-# week 7 reading notes
+# weeks 7–8 reading notes
 
 Competition, Positioning & Value. Three readings on where your work sits among others and the distinct value it offers. Kolb 3 is the new reading; NYFA 11 and Landry 1 supply one section each. Andrews 3 was dropped from this week in the Aug 10 reading audit: the competitive-analysis pages it contributed (pp. 71-72) sit inside the Exchange Model and Market Research pages already assigned in week 6, so the week 7 assignment was a reread. Summaries drawn from the chapters.
 
