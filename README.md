@@ -14,7 +14,6 @@ For copying into Canvas.
 - week 5, Power, Social Identity & Access (Sep 14): https://csuebmusic.github.io/entrepreneurship/week05.html
 - week 6, Understanding Audiences (Sep 21): https://csuebmusic.github.io/entrepreneurship/week06.html
 - week 7, Competition, Positioning & Value (Sep 28): https://csuebmusic.github.io/entrepreneurship/week07.html
-- week 8, Product, Practice & Offerings (Oct 5): https://csuebmusic.github.io/entrepreneurship/week08.html
 - week 9, Business Models for Artists (Oct 12): https://csuebmusic.github.io/entrepreneurship/week09.html
 - week 10, Pricing & Money (Oct 19): https://csuebmusic.github.io/entrepreneurship/week10.html
 - week 11, Marketing, Brand & Story (Oct 26): https://csuebmusic.github.io/entrepreneurship/week11.html

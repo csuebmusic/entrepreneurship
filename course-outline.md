@@ -32,7 +32,6 @@ Kolb, NYFA, and Rabideau are the required texts and appear in nearly every week.
 | **II. Audience, positioning, product** | | | | |
 | 6 · Sep 21 | Understanding Audiences | Kolb 5 (104–127); NYFA 11 §Understanding Your Audience; Landry 2 §Defining Your Audiences (29–37); Andrews 3 §§Exchange Model, Market Research (70–72) | 2, 4 | Audience Profile |
 | 7 · Sep 28 | Competition, Positioning & Value | Kolb 3 (55–80); NYFA 11 §Understanding Your Work and Your Place in the Market; Landry 1 §Defining the UVP (14–16, return) | 4 | Positioning Statement |
-| 8 · Oct 5 | Product, Practice & Offerings | Kolb 4 (82–103); Landry 2 §§Products and Services through Designing and Creating Your Offering (40–52) | 2, 4 | Product or Service Description |
 | **III. Business model and money** | | | | |
 | 9 · Oct 12 | Business Models for Artists | NYFA 2 (34–51); Kolb 7 (151–174); Rabideau 8 (85–100); Landry 5 (109–128) | 2 | Business Model Snapshot |
 | 10 · Oct 19 | Pricing & Money | NYFA 13 (206–215); Kolb 6 (128–150); Landry 3 (53–74); McCurdy 4 | 2, 4 | Pricing Rationale |
@@ -139,8 +138,6 @@ Per week: the Reflection prompt, then the Portfolio Component and what it is. Pr
 **week 6.** Reflection: the audiences the readings say you actually have versus the one you imagine, and what you do not yet know about them. Portfolio Component, Audience Profile: who your audience is, what they value, where they are, and how they find work like yours. First component of the marketing plan.
 
 **week 7.** Reflection: position yourself against two or three others working near you, and to whom that difference matters. Portfolio Component, Positioning Statement: the distinct value you offer and to whom, relative to the field.
-
-**week 8.** Reflection: name the offerings your practice produces and which matters most to your audience. Portfolio Component, Product or Service Description: what you offer, framed as value rather than a list of activities.
 
 **III. Business model and money**
 
