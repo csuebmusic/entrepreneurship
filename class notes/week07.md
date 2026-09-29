@@ -164,7 +164,6 @@ Positioning is the answer to the question: the distinct value your work offers, 
 
 - Research is collecting and then analyzing data to answer a question. It's ongoing, before the plan and after the launch (p. 56).
 - Her image is a map for a hike (p. 57). Hard terrain means more supplies and more time.
-- In Box 3.1 (pp. 55–56), Stephanie Ishman books musicians, singers, comedians, and poets, matching their talents to the benefits her clients want. The skills she names are cold calling, the legal language of contracts, and business database programs.
 
 On screen, p. 57. Read aloud:
 
