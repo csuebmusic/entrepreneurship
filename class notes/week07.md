@@ -102,24 +102,29 @@ The exercise takes one guess from each Audience Profile and turns it into a ques
 
 #### on screen, five minutes
 
-Two lines from one invented Audience Profile, for a monthly electroacoustic series in a small Oakland venue:
+The six pair steps, worked on one invented Audience Profile. The composer runs a monthly electroacoustic concert series in a small Oakland venue.
 
-- Known: the core person heard about the last concert from a friend's Instagram story. They said so at the door.
-- Guess: the core person comes for the sound system and the room as much as for the program.
+Step 1, the core person as the profile describes her:
 
-Kolb on turning a guess into a research question (pp. 60–64):
+> Maya is 34 and works as a sound engineer in Oakland. She goes to two or three shows a month at small venues, mostly experimental and electronic. She heard about the last concert from a friend's Instagram story. She comes for the sound system and the room as much as for the program, and she'd pay $20 at the door.
 
-- The question names what needs to be known and whom to ask. "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?" (p. 60)
-- A question that starts with why goes to interviews. A question that starts with who, what, how many, or how often goes to a survey (p. 61).
-- Asking friends gives a biased answer. They probably share your preferences (p. 64).
+Steps 2 and 3, each line sorted into known or guess, with how it's known:
 
-The guess above, rewritten twice:
+- Known: she's 34 and a sound engineer in Oakland. She said so after the show.
+- Known: she heard about the last concert from a friend's Instagram story. She said so at the door.
+- Guess: two or three shows a month. Nobody has asked her.
+- Guess: she comes for the sound system and the room as much as for the program. That's the composer's impression.
+- Guess: she'd pay $20. The series charges $10 and has never charged more.
+
+Step 4, the guess that would change the plan most if it were wrong: the sound system and the room. The series spends most of its budget renting a multichannel system. If Maya comes for the program, that money could go to the performers.
+
+Step 5, that guess as a research question, rewritten twice. Kolb's rule (p. 60): the question names what needs to be known and whom to ask.
 
 1. Do people like the sound?
 2. Why do people come to the series?
-3. Why do people aged 25–40 who came to at least two of the series' concerts this year come back?
+3. Why do people who came to at least two of the series' concerts this year come back, and how much of it is the sound system and the room?
 
-The third starts with why, which means interviews: five people from the series' email list rather than the composer's friends.
+Step 6, the method. Kolb (p. 61): a question that starts with why goes to interviews, and a question that starts with who, what, how many, or how often goes to a survey. Question 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends, who probably share the composer's preferences (p. 64).
 
 #### in pairs, sixteen minutes
 
