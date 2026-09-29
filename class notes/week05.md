@@ -216,7 +216,7 @@ Understanding Audiences, Monday, September 21. Module II turns to who the work i
 
 All four readings reject the same instinct, that your audience is everyone.
 
-- Kolb, chapter 5 (pp. 104–127). Audiences come in segments, and you target one. His warning: the friends who buy your work are not your market.
+- Kolb, chapter 5 (pp. 104–127). Audiences come in segments, and you target one. Her warning: the friends who buy your work are not your market.
 - NYFA, chapter 11, section Understanding Your Audience. A composite sketch of the person who actually shows up, and how they found you.
 - Landry, chapter 2, section Defining Your Audiences (pp. 29–37). Demographic facts against psychographic ones: where people live and what they earn, against what they value.
 - Andrews, chapter 3, on the exchange model and market research (pp. 70–72). Attention, time, or money traded for something the audience wants, which in the arts is often a feeling.
