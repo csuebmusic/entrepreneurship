@@ -162,9 +162,6 @@ Each reading takes one part of the answer:
 
 Positioning is the answer to the question: the distinct value your work offers, and to whom, relative to the field. The Positioning Statement, due October 9, says it in one or two sentences.
 
-- Tonight: Kolb on the field, an exercise listing the field around your audience, then NYFA and Landry.
-- October 5: the Reflections and the Positioning Statement.
-
 ### 6:50 Kolb chapter 3, the competitor
 
 - Research is collecting and then analyzing data to answer a question. It's ongoing, before the plan and after the launch (p. 56).
