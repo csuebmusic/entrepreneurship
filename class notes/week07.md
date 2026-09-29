@@ -102,29 +102,34 @@ The exercise takes one guess from each Audience Profile and turns it into a ques
 
 #### on screen, five minutes
 
-The six pair steps, worked on one invented Audience Profile. A composer who runs a monthly electroacoustic concert series in a small Oakland venue wrote it about the series' core audience member.
+The six pair steps, worked on one invented Audience Profile. The author is a composer who runs a monthly electroacoustic concert series: a 60-seat gallery in Oakland, an eight-channel speaker ring, pay-what-you-can with $10 suggested, about 40 people a night, and a 300-person email list.
 
-Step 1, the core person as the profile describes her:
+Step 1, the core person, as the composer wrote her:
 
-> Maya is 34 and works as a sound engineer in Oakland. She goes to two or three shows a month at small venues, mostly experimental and electronic. She heard about the last concert from a friend's Instagram story. She comes for the sound system and the room as much as for the program, and she'd pay $20 at the door.
+> Maya is in her mid-thirties and lives in Oakland. She's a sound engineer at a post-production studio in San Francisco. She goes to two or three shows a month at small venues: experimental electronics, improvised music, the occasional new-music concert. She follows artists on Bandcamp and Instagram. She's on the series' email list and has come to four of the last six concerts, usually with one friend. She heard about the last one from a friend's Instagram story. She comes for the spatial sound as much as for the program: she works with multichannel audio in the studio and rarely hears it live. Programs of notated chamber music don't interest her. What she gets from the evening is the listening itself, in a room of people listening the same way.
 
 Steps 2 and 3, each line sorted into known or guess, with how it's known:
 
-- Known: she's 34 and a sound engineer in Oakland. She said so after the show.
-- Known: she heard about the last concert from a friend's Instagram story. She said so at the door.
-- Guess: two or three shows a month. Nobody has asked her.
-- Guess: she comes for the sound system and the room as much as for the program. That's the composer's impression.
-- Guess: she'd pay $20. The series charges $10 and has never charged more.
+- Known: she lives in Oakland and works as a sound engineer. She told the composer at the merch table.
+- Known: four of the last six concerts. The door list.
+- Known: she's on the email list and heard about the last concert from a friend's story. The sign-up form, and what she said at the door.
+- Guess: two or three shows a month, and which kinds. The composer has seen her at other shows twice.
+- Guess: she comes for the spatial sound as much as for the program. One conversation about the speaker setup.
+- Guess: chamber music doesn't interest her. She missed the one concert with a string quartet. That's one data point.
+- Guess: what she gets is listening in a room of people listening the same way. That's the composer's own reason for running the series.
 
-Step 4, the guess that would change the plan most if it were wrong: the sound system and the room. The series spends most of its budget renting a multichannel system. If Maya comes for the program, that money could go to the performers.
+Step 4, the guess that would change the plan most if it were wrong: the spatial sound. The series spends about half its budget renting and setting up the eight-channel system. If people like Maya come for the program and the room, a stereo concert would cost half as much, and the difference could go to the performers. If they come for the spatial sound, the rental is the series.
 
 Step 5, that guess as a research question, rewritten twice. Kolb's rule (p. 60): the question names what needs to be known and whom to ask.
 
 1. Why do people come to the series?
 2. Why do people who came to at least two of the series' concerts this year come back?
-3. Why do people who came to at least two of the series' concerts this year come back, and how much of it is the sound system and the room?
+3. Why do people who came to at least two of the series' concerts this year come back, and how much of it is the eight-channel sound?
 
-Step 6, the method. Kolb (p. 61): a question that starts with why goes to interviews, and a question that starts with who, what, how many, or how often goes to a survey. Question 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends, who probably share the composer's preferences (p. 64).
+Step 6, the method. Kolb (p. 61): a question that starts with why goes to interviews, and a question that starts with who, what, how many, or how often goes to a survey.
+
+- Question 3 starts with why, which means interviews: five people from the door list who've come at least twice, rather than the composer's friends, who probably share the composer's preferences (p. 64).
+- A how-many version goes to a survey: how many of this year's audience would come to a stereo concert in the same room? Sent to the 300-person list, Landry's 4 to 5 percent response rate (p. 34) gives 12 to 15 answers.
 
 #### in pairs, sixteen minutes
 
@@ -202,7 +207,7 @@ Kolb's four for three of them:
 - The club night offers a late night of sound on a big system among people like them. There's a cover at the door, it's in a bar that admits people 21 and over, it starts at ten, and it's promoted through Instagram flyers and the DJs' own followings.
 - Headphones at home offer the sound, alone, whenever. The price is a subscription they already pay, it's available anywhere, and the platform's recommendations promote it.
 
-To the room: which of these does the core person choose on most Fridays? What does the series offer that none of the three does? One answer: multichannel sound, live, in a room the size of a living room, with the composer at the desk, once a month.
+To the room: which of these does the core person choose on most Fridays? What does the series offer that none of the three does? One answer: eight-channel sound, live, in a 60-seat gallery, with the composer at the desk, once a month.
 
 Pairs, breakout rooms, fifteen minutes, seven each. In chat:
 
