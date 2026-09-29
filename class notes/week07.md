@@ -43,11 +43,11 @@ The Reflection is due before class on Monday, October 5. The Positioning Stateme
 
 All four readings said the same thing: your audience isn't everyone.
 
-Kolb's chapter 5 (pp. 104–127) splits consumers into segments, groups who share what they want from a product, and has you target one. Market depth is finding more people like the ones you already have, "fishing out of the same pond." Market breadth is reaching a segment that isn't buying yet, and it needs its own message. He groups segments by psychographics (lifestyle, values, attitudes) more than by demographics. Box 5.1, Allison Lyke: you may start by selling to friends, but that doesn't make them your target market.
+Kolb's chapter 5 (pp. 104–127) splits consumers into segments, groups who share what they want from a product, and has you target one. Market depth is finding more people like the ones you already have, "fishing out of the same pond." Market breadth is reaching a segment that isn't buying yet, and it needs its own message. She groups segments by psychographics (lifestyle, values, attitudes) more than by demographics. Box 5.1, Allison Lyke: you may start by selling to friends, but that doesn't make them your target market.
 
 NYFA's section Understanding Your Audience builds a composite sketch of one real audience member: who, what, where, when, why, and how they found you. Artists often have direct access to their audience, which larger companies pay to get.
 
-Landry's chapter 2 (pp. 29–37) separates demographic traits (where people live, age, income, education) from psychographic ones (values, tastes, beliefs, causes, aspirations), and calls the psychographic the more important. In the arts, he says, the startup habit of "solving a problem" often doesn't fit. Substitute needs or desires, which can be physical, emotional, or spiritual.
+Landry's chapter 2 (pp. 29–37) separates demographic traits (where people live, age, income, education) from psychographic ones (values, tastes, beliefs, causes, aspirations), and calls the psychographic the more important. In the arts, she says, the startup habit of "solving a problem" often doesn't fit. Substitute needs or desires, which can be physical, emotional, or spiritual.
 
 Andrews's chapter 3 (pp. 70–72) calls marketing an exchange: the audience trades attention, time, or money for something they value, and the value doesn't have to be money on either side. He treats research as continuous, and he points out that similar organizations are often studied through collaboration rather than competition. That's where tonight starts.
 
@@ -75,15 +75,15 @@ One more check, which sets up tonight. Your profile says what this person spends
 
 ### 6:35 Kolb chapter 3, the competitor
 
-Kolb's chapter is about finding out what you need to know about competitors and customers before you build a plan on assumptions. Research, for him, is collecting and then analyzing data to answer a question, and it's ongoing rather than a step you finish (p. 56). His image is a map for a hike (p. 57): hard terrain means you pack more supplies and allow more time. It doesn't mean you stay home.
+Kolb's chapter is about finding out what you need to know about competitors and customers before you build a plan on assumptions. Research, for her, is collecting and then analyzing data to answer a question, and it's ongoing rather than a step you finish (p. 56). Her image is a map for a hike (p. 57): hard terrain means you pack more supplies and allow more time. It doesn't mean you stay home.
 
 Share p. 57 and read aloud:
 
 > The competitors that need to be researched are companies or organizations that provide a product with similar benefits that will meet the needs of the consumer. The product does not need to be a direct copy of what is being offered by the creative entrepreneur. While the creative individual will notice differences between closely related products, the average consumer may not. It is better for the creative entrepreneur to research competitors too widely than too narrowly.
 
-For each competitor he wants four facts: the benefit it provides, its price, how it's distributed, and how it's promoted (p. 57). The point is to find how your own work is unique, its competitive advantage, and the needs the competitors leave unmet (pp. 57–58). The first place to look is their online presence: websites, social media, newsletters, and what their customers say (p. 58).
+For each competitor she wants four facts: the benefit it provides, its price, how it's distributed, and how it's promoted (p. 57). The point is to find how your own work is unique, its competitive advantage, and the needs the competitors leave unmet (pp. 57–58). The first place to look is their online presence: websites, social media, newsletters, and what their customers say (p. 58).
 
-The customer half is his handcrafted chair (p. 58). One person buys it to sit on, another for its style and color and how it looks in the room, a third because it reminds them of a person or an occasion. When the chair is marketed, the seating is taken for granted. Research is for finding the other reasons. Ask the room: what's the seating in your work, the benefit every competitor also provides, and what are the other reasons someone chooses it?
+The customer half is her handcrafted chair (p. 58). One person buys it to sit on, another for its style and color and how it looks in the room, a third because it reminds them of a person or an occasion. When the chair is marketed, the seating is taken for granted. Research is for finding the other reasons. Ask the room: what's the seating in your work, the benefit every competitor also provides, and what are the other reasons someone chooses it?
 
 Box 3.1 (pp. 55–56) is Stephanie Ishman, who books musicians, singers, comedians, and poets and matches their talents to the benefits her clients want. A booker compares you with your competitors for a living.
 
@@ -126,22 +126,22 @@ This list is where the Reflection's two or three others come from.
 
 ### 7:40 Kolb chapter 3, research and bias
 
-The rest of the chapter is method. His five steps (p. 59): write the research question, decide whom to ask, choose the method, conduct the research, analyze the findings.
+The rest of the chapter is method. Her five steps (p. 59): write the research question, decide whom to ask, choose the method, conduct the research, analyze the findings.
 
-The question matters most, and the topic that matters most is what benefit the customer wants from the work (p. 59). He shows questions narrowing across rewrites (p. 60). "How should I price my product?" becomes "What price are middle-class mothers willing to pay for a handcrafted lunch bag for children?" "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?" It takes several attempts, and he says it goes best with two people challenging each other over what's being asked.
+The question matters most, and the topic that matters most is what benefit the customer wants from the work (p. 59). She shows questions narrowing across rewrites (p. 60). "How should I price my product?" becomes "What price are middle-class mothers willing to pay for a handcrafted lunch bag for children?" "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?" It takes several attempts, and she says it goes best with two people challenging each other over what's being asked.
 
-The first word of the question picks the method (p. 61). Who, what, how many, and how often have a limited set of answers, so they go to a survey. Why goes to focus groups, interviews, and observation. His focus-group example (p. 71): people say they avoid a downtown gallery because the area is "scary," and asking each of them what they mean turns up the trash on the street, which tells them nobody cares for the neighborhood.
+The first word of the question picks the method (p. 61). Who, what, how many, and how often have a limited set of answers, so they go to a survey. Why goes to focus groups, interviews, and observation. Her focus-group example (p. 71): people say they avoid a downtown gallery because the area is "scary," and asking each of them what they mean turns up the trash on the street, which tells them nobody cares for the neighborhood.
 
 Secondary data, which someone else already collected, comes first because it's cheaper (p. 61): government data such as the census, academic and trade association research, lifestyle publications and social media. For arts participation in the US, the National Endowment for the Arts runs the Survey of Public Participation in the Arts.
 
-For primary data, he names the trap from last week's Box 5.1 again: if you survey only people you know, you get your friends' preferences, since they probably share yours (p. 64). For interviews and focus groups, he describes the convenience method (people who fit the profile and will say yes) and the snowball method (those people recruit others like them) (p. 66).
+For primary data, she names the trap from last week's Box 5.1 again: if you survey only people you know, you get your friends' preferences, since they probably share yours (p. 64). For interviews and focus groups, she describes the convenience method (people who fit the profile and will say yes) and the snowball method (those people recruit others like them) (p. 66).
 
 Share Box 3.3, p. 74. Three things you can do this week with a browser: search the names of competing artists and organizations, read what their customers say on their social media, and read their marketing messages.
 
-His three biases (pp. 77–78):
+Her three biases (pp. 77–78):
 
 - Confirmation bias: attending to the results you hoped for and passing over the negative ones.
-- Irrational exuberance, in his definition, is making irrational decisions on the strength of rational decisions made earlier. Building a prototype was a reasonable call, so you read the survey as a reason to keep going.
+- Irrational exuberance, in her definition, is making irrational decisions on the strength of rational decisions made earlier. Building a prototype was a reasonable call, so you read the survey as a reason to keep going.
 - Social desirability bias sits with the person answering: they tell you they'd pay more for work with a social benefit, and they buy the cheaper one.
 
 Discussion:
@@ -169,13 +169,13 @@ Discussion:
 
 ### 8:15 Landry, the unique value
 
-Landry, chapter 1, pp. 14–16, a return to the chapter from week 3. His Unique Value Principle is "why a customer is drawn to you." Read p. 15 aloud:
+Landry, chapter 1, pp. 14–16, a return to the chapter from week 3. Her Unique Value Principle is "why a customer is drawn to you." Read p. 15 aloud:
 
 > The UVP communicates your difference compared to someone with a similar offering or skill set. It may take a while to pinpoint this and requires looking at your competition for comparison sake. Often this is a blend of your energy, your vibe, your aesthetic, values, beliefs, and worldview together.
 
-On p. 14 he ties it to identity. In business the UVP attaches to what is sold, "but it stems from the creator," and when a company or an artist has trouble gaining traction, it can go back to uncertainty about who they are and what makes them special. He has you develop the UVP and the mission together. You wrote your Mission Statement in week 3 and your Creative Identity Statement in week 1.
+On p. 14 she ties it to identity. In business the UVP attaches to what is sold, "but it stems from the creator," and when a company or an artist has trouble gaining traction, it can go back to uncertainty about who they are and what makes them special. She has you develop the UVP and the mission together. You wrote your Mission Statement in week 3 and your Creative Identity Statement in week 1.
 
-His word-cloud list (p. 15) asks you to write down your creative abilities, professional abilities, related skills, random talents, what you love doing, what you do well, what people always ask you for help with, how you help people, the emotions you want your work to evoke, a product or service you could sell, and the sounds, smells, tools, colors, and materials of your work.
+Her word-cloud list (p. 15) asks you to write down your creative abilities, professional abilities, related skills, random talents, what you love doing, what you do well, what people always ask you for help with, how you help people, the emotions you want your work to evoke, a product or service you could sell, and the sounds, smells, tools, colors, and materials of your work.
 
 Discussion:
 
