@@ -9,7 +9,7 @@ Reading summaries: [reading notes/week07.md](../reading%20notes/week07.md). Stud
 
 ## session 1, September 28
 
-Week 6 and the Audience Profile take the first half hour. On screen tonight: Kolb p. 57, and Box 3.3 on p. 74.
+6:00 to 8:00. Week 6 and the Audience Profile take the first forty-five minutes. On screen tonight: Kolb pp. 57 and 60.
 
 ### the question tonight
 
@@ -19,22 +19,19 @@ Who else reaches the audience in your Audience Profile, and what do you offer th
 - NYFA locates your place in the market, set by the work itself and by how work like it is consumed.
 - Landry names your unique value, and writes that pinning it down "requires looking at your competition" (p. 15).
 
-Tonight covers the field. October 5 covers the Reflections and the Positioning Statement.
+Tonight covers the audience and the field. October 5 covers the Reflections and the Positioning Statement.
 
 ### running order
 
 - 6:00 open
 - 6:05 week 6, the readings
-- 6:20 week 6, the Audience Profile
-- 6:35 Kolb chapter 3, the competitor
-- 6:55 exercise 1, the field around your audience
-- 7:30 break
-- 7:40 Kolb chapter 3, research and bias
-- 8:00 NYFA, your place in the market
-- 8:15 Landry, the unique value
-- 8:30 exercise 2, the research question
-- 8:50 October 5 and October 9
-- 8:57 close
+- 6:20 exercise 1, the Audience Profile
+- 6:45 Kolb chapter 3, the competitor
+- 7:00 break
+- 7:10 exercise 2, the field around your audience
+- 7:35 NYFA and Landry, place and value
+- 7:52 October 5 and October 9
+- 7:57 close
 
 ### 6:00 open
 
@@ -92,29 +89,47 @@ Andrews, chapter 3, sections The Exchange Model and Market Research (pp. 70–72
 - Market research asks what customers are interested in, how they choose to engage with the arts, where they live, how they learn about new work, and what they treat as incentives or barriers (p. 71). It runs before launch, during the introduction, and once the venture is established.
 - Before launch, similar businesses are a source, often through collaboration: galleries within walking distance organizing a shared Friday night. Without shared data, openings, performances, and receptions show what kinds of people come (p. 72).
 
-### 6:20 week 6, the Audience Profile
+### 6:20 exercise 1, the Audience Profile
 
-Due Friday, September 25. It's the first piece of the marketing plan presented in December, and it's revised into the final portfolio.
+Submitted Friday, September 25. It's the first piece of the marketing plan presented in December, and it's revised into the final portfolio.
+
+The exercise produces a revision list for the Audience Profile: which lines are known, which are inferred, and one inferred line written as a question someone could answer.
+
+The brief asked for a composite of one real audience member: who they are (demographic and psychographic), what they value and get from the exchange, where they are, how they find work like yours, and which of this is still inferred.
 
 Two entries:
 
 - Adults who enjoy contemporary music.
 - A 34-year-old sound engineer in Oakland who goes to two or three shows a month at small venues, heard about the last one from a friend's Instagram story, and buys the record at the merch table when the live set beat the stream.
 
-The brief asks for:
+On screen, Kolb p. 60. A research question names what needs to be known and whom to ask.
 
-- one composite person rather than a category
-- demographic facts, and psychographic ones specific enough to act on
-- what the person gets from the exchange, which may be a feeling
-- where they are, in place and online
-- how they find work like yours, and whom they trust
-- which lines are known and which are inferred
+- "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?"
+- It takes several rewrites, and it goes best with two people challenging each other over what's being asked (p. 60).
+- Questions that start with who, what, how many, or how often have a limited set of answers and go to a survey. Questions that start with why go to interviews, focus groups, and observation (p. 61).
+- A sample of people you know is biased. Your friends probably share your preferences (p. 64).
 
-The inferred lines come back in exercise 2.
+Worked example on screen, three minutes. It's invented. A composer-performer runs a monthly electroacoustic concert in a small Oakland venue, and the Audience Profile's core person is in their late twenties to early forties, goes to small-venue shows a few times a month, follows experimental electronic artists online, and comes for the sound system and the room as much as for the program.
 
-The profile also names what this person spends an evening and thirty dollars on. Everything else competing for that evening and those thirty dollars is the field in Kolb's chapter 3.
+- The last line is inferred. Nobody has asked.
+- Draft 1: Do people like the sound?
+- Draft 2: Why do people come to the series?
+- Draft 3: Why do people aged 25–40 who came to at least two of the series' concerts this year come back?
+- Draft 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends, asked by someone other than the composer, following Kolb's advice for focus groups (p. 71).
 
-### 6:35 Kolb chapter 3, the competitor
+Pairs, breakout rooms, fifteen minutes, seven each. In chat:
+
+> Who is the core person in your Audience Profile, and what are NYFA's who, what, where, when, and why for that person? How did they hear about your work? Which of those lines do you know from a conversation, a sale, or a sign-up, and which are you inferring? Which inferred line would change your plan most if it were wrong? As a research question naming what you need to know and whom you'd ask, what is it, and is it a survey or interviews?
+
+Back in the main room, in chat: the research questions.
+
+Follow-ups:
+
+- Whom would you ask, and how many of them are your friends?
+- With a survey at Landry's 4 to 5 percent response rate (p. 34), how many people have to receive it?
+- Which lines in the Audience Profile need revision before the portfolio?
+
+### 6:45 Kolb chapter 3, the competitor
 
 - Research is collecting and then analyzing data to answer a question. It's ongoing, before the plan and after the launch (p. 56).
 - Her image is a map for a hike (p. 57). Hard terrain means more supplies and more time.
@@ -133,10 +148,11 @@ To the room: what's the seat in your work, the benefit every competitor also pro
 
 Discussion:
 
-1. A difference between your work and a nearby artist's that practitioners notice and an audience member wouldn't. A difference an audience member notices first. Which one do they choose on?
-2. Artists network constantly and share ideas, and research "is just systemizing this process" (p. 64). Andrews wrote last week that similar organizations often learn about each other by collaborating. What changes when the competitor is someone you'd share a bill with?
+- A difference between your work and a nearby artist's that practitioners notice and an audience member wouldn't. A difference an audience member notices first. Which one do they choose on?
 
-### 6:55 exercise 1, the field around your audience
+### 7:00 break
+
+### 7:10 exercise 2, the field around your audience
 
 The exercise produces a list of what your core audience member could choose instead of your work, reaching past your own discipline, with Kolb's four facts for three of the entries.
 
@@ -172,60 +188,9 @@ Follow-ups:
 
 The Reflection asks for two or three others offering a similar benefit to a similar audience.
 
-### 7:30 break
+### 7:35 NYFA and Landry, place and value
 
-### 7:40 Kolb chapter 3, research and bias
-
-Five steps (p. 59):
-
-1. What do we need to know? That's the research question.
-2. Whom should we ask? That's the source.
-3. What tool should we use? That's the method.
-4. When, where, and by whom? That's conducting the research.
-5. What do the answers tell us? That's the analysis.
-
-The research question (pp. 59–61):
-
-- The topic she calls most critical is the benefit the customer wants from the work (p. 59).
-- Questions narrow across rewrites (p. 60). "How should I price my product?" becomes "What price are middle-class mothers willing to pay for a handcrafted lunch bag for children?" "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?"
-- It takes several attempts, and it goes best with two people challenging each other over what's being asked (p. 60).
-- Two of her samples (pp. 60–61) are a competitor question, "What new products have our closest competitors introduced during the last year?", and a promotion question, "What social media do our current customers aged 45 and older use at least weekly?"
-- The first word decides the method (p. 61). Who, what, how many, and how often have a limited set of answers and go to a survey. Why goes to focus groups, interviews, and observation.
-
-Sources (pp. 61–67):
-
-- Secondary data, collected by someone else, comes first, and it's cheaper and faster. Sources include government data such as the census, academic and trade association research, lifestyle publications and social media (pp. 61–62). For arts participation in the US, the National Endowment for the Arts runs the Survey of Public Participation in the Arts.
-- Box 3.2 (p. 63), secondary data at scale. Deloitte's 2023 survey of more than 22,000 young people in 44 countries: almost half feel burned out at work, half live paycheck to paycheck, they expect companies to make the world better, and more than half say social media makes them feel lonely or inadequate.
-- Primary data from people you know is biased. Your friends probably share your preferences (p. 64).
-- The population can be too large (every woman in New York City who buys handcrafted jewelry) or too small (everyone over 70 in Berlin who takes ceramics classes) (p. 65).
-- Interviews and focus groups use the convenience method (people who fit the profile and will say yes) or the snowball method (those people recruit others like them) (p. 66).
-
-Methods (pp. 68–74):
-
-- Surveys go out on paper, by email, on social media or a website, or by text.
-- Focus groups use group dynamics to draw out responses. Her example (p. 71): people avoid a downtown gallery because the area is "scary," and asking each of them what they mean turns up the trash on the street. The moderator shouldn't be the artist, whose defensiveness stops people from talking.
-- Interviews are one-to-one and in depth, with a few participants chosen for what they know.
-- Intercept interviews are quick questions on the street.
-- Observation watches behavior where it happens, in the gallery for gallery visitors.
-
-On screen, Box 3.3, p. 74. Three searches for this week:
-
-- the names of competing artists and organizations
-- what competitors' customers say on their social media
-- competitors' marketing messages
-
-Three biases (pp. 77–78):
-
-- Confirmation bias is attention to the results you hoped for, and not to the negative ones.
-- Irrational exuberance, in her definition, is making irrational decisions on the strength of rational decisions made earlier. Building a prototype was a reasonable call, and the survey gets read as a reason to keep going.
-- Social desirability bias sits with the person answering. They say they'd pay more for work with a social benefit, and they buy the cheaper one.
-
-Discussion:
-
-1. An entrepreneur who does this research is two and a half times as likely to start a business successfully (p. 56). The page gives no source. What would the number have to compare before you'd trust it? Follow-up: who chooses to do research in the first place?
-2. Which of the three biases is likeliest in your Audience Profile? Confirmation bias in whom you asked, social desirability in what your friends told you, irrational exuberance in the project you've already spent a year on.
-
-### 8:00 NYFA, your place in the market
+NYFA, your place in the market.
 
 NYFA, chapter 11, section Understanding Your Work and Your Place in the Market.
 
@@ -257,11 +222,9 @@ A place within a market:
 
 Discussion:
 
-1. Interest, resources, permission. Which one sets the limit of your market? Permission: an age limit at the door, a venue's license, a school district's approval for a residency. Resources, as in week 5: the ticket price and a free evening decide who's in the market before interest does.
-2. The car market has axes. What two axes fit the market your work is in, and where do you sit on each? If time allows, the two axes go on the Zoom whiteboard with a few entries from exercise 1 placed on them.
-3. What's your wedding industry, a neighboring market where your work also sells, with its own data and its own competitors? Film and game audio, music education, sound installation for museums and architecture.
+- Interest, resources, permission. Which one sets the limit of your market? Permission: an age limit at the door, a venue's license, a school district's approval for a residency. Resources, as in week 5: the ticket price and a free evening decide who's in the market before interest does.
 
-### 8:15 Landry, the unique value
+Landry, the unique value.
 
 Landry, chapter 1, pp. 14–16, from the chapter read in week 3.
 
@@ -291,43 +254,20 @@ The word cloud or a mind map (pp. 15–17) narrows to "a short phrase."
 
 Discussion:
 
-1. Every item on the list describes the maker, and Kolb writes (p. 57) that the audience may not see the differences the maker sees. With the core person from your Audience Profile in mind, which items would that person notice, and which would only you?
-2. "What people always ask you for help with" comes from other people. What do people ask you for? That's a value somebody already chooses you for.
+- Every item on the list describes the maker, and Kolb writes (p. 57) that the audience may not see the differences the maker sees. With the core person from your Audience Profile in mind, which items would that person notice, and which would only you?
 
 A position is a difference that's yours (Landry's half) and that your audience chooses you for (Kolb's half).
 
-### 8:30 exercise 2, the research question
-
-The exercise produces one research question, rewritten until it says exactly what you need to know and exactly whom you'd ask, with a method for answering it.
-
-Worked on screen, three minutes, from the exercise 1 example:
-
-- Draft 1: Would people come to my concerts?
-- Draft 2: Why do people go to experimental music nights?
-- Draft 3: Why do people aged 25–40 who came to at least two of the series' concerts this year choose it over a club night on the same Friday?
-- Draft 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends (p. 64), asked by someone other than the composer, following Kolb's advice for focus groups (p. 71).
-
-Same pairs, breakout rooms, fifteen minutes, seven each. In chat:
-
-> Which line in your Audience Profile is inferred, or which difference from exercise 1 would your audience choose you for? As a research question, what is it? After your partner's rewrite, what exactly do you need to know, and exactly whom would you ask? After one more rewrite: survey (who, what, how many, how often), or interviews and observation (why)?
-
-Back in the main room, in chat: the final drafts.
-
-Follow-ups:
-
-- Whom would you ask, and how many of them are your friends?
-- With a survey, at Landry's 4 to 5 percent response rate (p. 34), how many people have to receive it?
-
-### 8:50 October 5 and October 9
+### 7:52 October 5 and October 9
 
 The Reflection is due before class on Monday, October 5:
 
 > Position yourself against two or three others working near you, people or organizations offering a similar benefit to a similar audience. What do you offer that they do not, and to whom does that difference actually matter? One to two pages.
 
-Box 3.3's three searches and Kolb's four facts apply to each of the two or three.
+Kolb's four facts apply to each of the two or three, and Box 3.3 (p. 74) lists three searches for finding them: the names of competing artists and organizations, what competitors' customers say on their social media, and competitors' marketing messages.
 
 The Positioning Statement is due Friday, October 9, by 11:59 pm on Canvas: one or two sentences naming the distinct value you offer, to whom, and how it differs from the alternatives your audience could choose. On October 5 the seminar discusses the Reflections and drafts and workshops the Positioning Statement.
 
-### 8:57 close
+### 7:57 close
 
 Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that block with an email ahead, or by appointment.
