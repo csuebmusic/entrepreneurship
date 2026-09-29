@@ -111,10 +111,10 @@ The exercise takes one guess from each Audience Profile and turns it into a ques
 
 #### on screen, five minutes
 
-A guess and a fact about the same person:
+Two lines from one invented Audience Profile, for a monthly electroacoustic series in a small Oakland venue:
 
-- Guess: comes for the sound system and the room as much as for the program.
-- Fact: heard about the last concert from a friend's Instagram story, because they said so at the door.
+- Known: the core person heard about the last concert from a friend's Instagram story. They said so at the door.
+- Guess: the core person comes for the sound system and the room as much as for the program.
 
 Kolb on turning a guess into a research question (pp. 60–64):
 
