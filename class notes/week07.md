@@ -91,37 +91,60 @@ Andrews, chapter 3, sections The Exchange Model and Market Research (pp. 70–72
 
 ### 6:20 exercise 1, the Audience Profile
 
-Submitted Friday, September 25. It's the first piece of the marketing plan presented in December, and it's revised into the final portfolio.
+The Audience Profile was due Friday, September 25. It's the first piece of the marketing plan presented in December, and it's revised into the final portfolio.
 
-The exercise produces a revision list for the Audience Profile: which lines are known, which are inferred, and one inferred line written as a question someone could answer.
+The prompt, from week06.html:
 
-The brief asked for a composite of one real audience member: who they are (demographic and psychographic), what they value and get from the exchange, where they are, how they find work like yours, and which of this is still inferred.
+> An Audience Profile is a specific picture of the people who value your work: who they are, what they want from it, where they are, and how they find work like yours. Draw it as a composite of a real audience member rather than a category, and keep it to your core audience rather than everyone. This is the first piece of your marketing plan.
+>
+> Questions to build it from:
+>
+> - Who is your core audience, in specifics: their demographic facts, and the more telling psychographic ones (values, tastes, what they care about)?
+> - What do they actually value in work like yours, and what do they get from the exchange, which may be a feeling rather than an object?
+> - Where are they, in place and online, and where do they already go for work like yours?
+> - How do they find work like yours: who or what do they trust, and which channels do they use?
+> - Which of this do you know, and which are you inferring and should test?
+>
+> Write an Audience Profile of your core audience: who they are (demographic and psychographic), what they value, where they are, and how they find work like yours. Draw a specific, composite picture rather than "everyone," and flag what you are still inferring. Submit it on Canvas by 11:59 pm Friday.
 
-Two entries:
+The exercise takes one guess from each Audience Profile and turns it into a question someone could answer.
 
-- Adults who enjoy contemporary music.
-- A 34-year-old sound engineer in Oakland who goes to two or three shows a month at small venues, heard about the last one from a friend's Instagram story, and buys the record at the merch table when the live set beat the stream.
+#### on screen, five minutes
 
-On screen, Kolb p. 60. A research question names what needs to be known and whom to ask.
+A guess and a fact about the same person:
 
-- "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?"
-- It takes several rewrites, and it goes best with two people challenging each other over what's being asked (p. 60).
-- Questions that start with who, what, how many, or how often have a limited set of answers and go to a survey. Questions that start with why go to interviews, focus groups, and observation (p. 61).
-- A sample of people you know is biased. Your friends probably share your preferences (p. 64).
+- Guess: comes for the sound system and the room as much as for the program.
+- Fact: heard about the last concert from a friend's Instagram story, because they said so at the door.
 
-Worked example on screen, three minutes. It's invented. A composer-performer runs a monthly electroacoustic concert in a small Oakland venue, and the Audience Profile's core person is in their late twenties to early forties, goes to small-venue shows a few times a month, follows experimental electronic artists online, and comes for the sound system and the room as much as for the program.
+Kolb on turning a guess into a research question (pp. 60–64):
 
-- The last line is inferred. Nobody has asked.
-- Draft 1: Do people like the sound?
-- Draft 2: Why do people come to the series?
-- Draft 3: Why do people aged 25–40 who came to at least two of the series' concerts this year come back?
-- Draft 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends, asked by someone other than the composer, following Kolb's advice for focus groups (p. 71).
+- The question names what needs to be known and whom to ask. "Why do people buy mass-produced prints?" becomes "Why do professionally employed women, aged 25–35, buy prints from discount stores to decorate their offices?" (p. 60)
+- A question that starts with why goes to interviews. A question that starts with who, what, how many, or how often goes to a survey (p. 61).
+- Asking friends gives a biased answer. They probably share your preferences (p. 64).
 
-Pairs, breakout rooms, fifteen minutes, seven each. In chat:
+The guess above, rewritten twice:
 
-> Who is the core person in your Audience Profile, and what are NYFA's who, what, where, when, and why for that person? How did they hear about your work? Which of those lines do you know from a conversation, a sale, or a sign-up, and which are you inferring? Which inferred line would change your plan most if it were wrong? As a research question naming what you need to know and whom you'd ask, what is it, and is it a survey or interviews?
+1. Do people like the sound?
+2. Why do people come to the series?
+3. Why do people aged 25–40 who came to at least two of the series' concerts this year come back?
 
-Back in the main room, in chat: the research questions.
+The third starts with why, which means interviews: five people from the series' email list rather than the composer's friends.
+
+#### in pairs, sixteen minutes
+
+Breakout rooms, eight minutes per person. In chat:
+
+> 1. Partner A reads the core person from their Audience Profile aloud.
+> 2. Partner B asks six questions about that person: Who are they? What do they do? Where are they? When did they come? Why did they come? How did they hear about your work?
+> 3. For each answer, partner A says whether it's known (from a conversation, a sale, a sign-up) or a guess.
+> 4. Which guess would change your plan most if it were wrong?
+> 5. Partner A writes that guess as a question naming what they need to know and whom they'd ask. Partner B asks for it more specific, twice.
+> 6. Why goes to interviews. Who, what, how many, and how often go to a survey. Which is it?
+> 7. At eight minutes, switch.
+
+#### back in the main room, four minutes
+
+In chat: each person's final question.
 
 Follow-ups:
 
@@ -156,9 +179,7 @@ Discussion:
 
 The exercise produces a list of what your core audience member could choose instead of your work, reaching past your own discipline, with Kolb's four facts for three of the entries.
 
-Worked example on screen, five minutes. It's invented.
-
-A composer-performer runs a monthly electroacoustic concert in a small Oakland venue. The core person in the Audience Profile is in their late twenties to early forties, goes to small-venue shows a few times a month, follows experimental electronic artists online, and comes for the sound system and the room as much as for the program.
+Worked example on screen, five minutes, with the Oakland series and core person from exercise 1.
 
 What that person could choose instead, in three rings:
 
@@ -189,8 +210,6 @@ Follow-ups:
 The Reflection asks for two or three others offering a similar benefit to a similar audience.
 
 ### 7:35 NYFA and Landry, place and value
-
-NYFA, your place in the market.
 
 NYFA, chapter 11, section Understanding Your Work and Your Place in the Market.
 
@@ -223,8 +242,6 @@ A place within a market:
 Discussion:
 
 - Interest, resources, permission. Which one sets the limit of your market? Permission: an age limit at the door, a venue's license, a school district's approval for a residency. Resources, as in week 5: the ticket price and a free evening decide who's in the market before interest does.
-
-Landry, the unique value.
 
 Landry, chapter 1, pp. 14–16, from the chapter read in week 3.
 
