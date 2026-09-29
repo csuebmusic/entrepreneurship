@@ -102,7 +102,7 @@ The exercise takes one guess from each Audience Profile and turns it into a ques
 
 #### on screen, five minutes
 
-The six pair steps, worked on one invented Audience Profile. The composer runs a monthly electroacoustic concert series in a small Oakland venue.
+The six pair steps, worked on one invented Audience Profile. A composer who runs a monthly electroacoustic concert series in a small Oakland venue wrote it about the series' core audience member.
 
 Step 1, the core person as the profile describes her:
 
@@ -120,8 +120,8 @@ Step 4, the guess that would change the plan most if it were wrong: the sound sy
 
 Step 5, that guess as a research question, rewritten twice. Kolb's rule (p. 60): the question names what needs to be known and whom to ask.
 
-1. Do people like the sound?
-2. Why do people come to the series?
+1. Why do people come to the series?
+2. Why do people who came to at least two of the series' concerts this year come back?
 3. Why do people who came to at least two of the series' concerts this year come back, and how much of it is the sound system and the room?
 
 Step 6, the method. Kolb (p. 61): a question that starts with why goes to interviews, and a question that starts with who, what, how many, or how often goes to a survey. Question 3 starts with why, which means interviews: five people from the series' email list rather than the composer's friends, who probably share the composer's preferences (p. 64).
