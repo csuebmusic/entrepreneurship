@@ -11,26 +11,17 @@ Reading summaries: [reading notes/week07.md](../reading%20notes/week07.md). Stud
 
 6:00 to 8:00. Week 6 and the Audience Profile take the first forty-five minutes. On screen tonight: Kolb pp. 57 and 60.
 
-### the question tonight
-
-Who else reaches the audience in your Audience Profile, and what do you offer that they don't?
-
-- Kolb defines a competitor as anyone offering a similar benefit to the same audience. The field is wider than the people who make what you make.
-- NYFA locates your place in the market, set by the work itself and by how work like it is consumed.
-- Landry names your unique value, and writes that pinning it down "requires looking at your competition" (p. 15).
-
-Tonight covers the audience and the field. October 5 covers the Reflections and the Positioning Statement.
-
 ### running order
 
 - 6:00 open
 - 6:05 week 6, the readings
 - 6:20 exercise 1, the Audience Profile
-- 6:45 Kolb chapter 3, the competitor
-- 7:00 break
-- 7:10 exercise 2, the field around your audience
-- 7:35 NYFA and Landry, place and value
-- 7:52 October 5 and October 9
+- 6:45 weeks 7–8, the question
+- 6:50 Kolb chapter 3, the competitor
+- 7:05 break
+- 7:15 exercise 2, the field around your audience
+- 7:40 NYFA and Landry, place and value
+- 7:53 October 5 and October 9
 - 7:57 close
 
 ### 6:00 open
@@ -152,7 +143,24 @@ Follow-ups:
 - With a survey at Landry's 4 to 5 percent response rate (p. 34), how many people have to receive it?
 - Which lines in the Audience Profile need revision before the portfolio?
 
-### 6:45 Kolb chapter 3, the competitor
+### 6:45 weeks 7–8, the question
+
+The Audience Profile names one person and what they want from work like yours. Weeks 7–8 turn to everyone else offering that person something similar.
+
+Who else reaches the audience in your Audience Profile, and what do you offer that they don't?
+
+Each reading takes one part of the answer:
+
+- Kolb, chapter 3, defines a competitor as anyone offering a similar benefit to the same audience. The field is wider than the people who make what you make.
+- NYFA, chapter 11, locates your place in the market, set by the work itself and by how work like it is consumed.
+- Landry, chapter 1, names your unique value, and writes that pinning it down "requires looking at your competition" (p. 15).
+
+Positioning is the answer to the question: the distinct value your work offers, and to whom, relative to the field. The Positioning Statement, due October 9, says it in one or two sentences.
+
+- Tonight: Kolb on the field, an exercise listing the field around your audience, then NYFA and Landry.
+- October 5: the Reflections and the Positioning Statement.
+
+### 6:50 Kolb chapter 3, the competitor
 
 - Research is collecting and then analyzing data to answer a question. It's ongoing, before the plan and after the launch (p. 56).
 - Her image is a map for a hike (p. 57). Hard terrain means more supplies and more time.
@@ -173,9 +181,9 @@ Discussion:
 
 - A difference between your work and a nearby artist's that practitioners notice and an audience member wouldn't. A difference an audience member notices first. Which one do they choose on?
 
-### 7:00 break
+### 7:05 break
 
-### 7:10 exercise 2, the field around your audience
+### 7:15 exercise 2, the field around your audience
 
 The exercise produces a list of what your core audience member could choose instead of your work, reaching past your own discipline, with Kolb's four facts for three of the entries.
 
@@ -209,7 +217,7 @@ Follow-ups:
 
 The Reflection asks for two or three others offering a similar benefit to a similar audience.
 
-### 7:35 NYFA and Landry, place and value
+### 7:40 NYFA and Landry, place and value
 
 NYFA, chapter 11, section Understanding Your Work and Your Place in the Market.
 
@@ -275,7 +283,7 @@ Discussion:
 
 A position is a difference that's yours (Landry's half) and that your audience chooses you for (Kolb's half).
 
-### 7:52 October 5 and October 9
+### 7:53 October 5 and October 9
 
 The Reflection is due before class on Monday, October 5:
 
