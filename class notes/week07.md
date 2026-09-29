@@ -191,29 +191,52 @@ Discussion:
 
 ### 7:15 exercise 2, the field around your audience
 
-The exercise produces a list of what your core audience member could choose instead of your work, reaching past your own discipline, with Kolb's four facts for three of the entries.
+Kolb defines a competitor by what the audience gets, whatever form it takes (p. 57). The exercise starts from the core person in the Audience Profile. On a free evening, with the money a ticket costs, what else could this person do that gives them something like what your work gives them?
 
-Worked example on screen, five minutes, with the Oakland series and core person from exercise 1.
+The exercise produces a list of those alternatives, with Kolb's four facts for three of them.
 
-What that person could choose instead, in three rings:
+The three rings move outward, from what looks like your work to whatever takes the same evening or the same money:
 
-- The first ring, the same thing, holds other new-music and electroacoustic series in the East Bay and San Francisco, and a university concert series with free admission.
-- The second ring, the same benefit in another form, holds an experimental club night at a bar, a listening bar playing records on a good system, and an immersive-audio show at a planetarium.
-- The third ring, the same evening or the same money, holds a film at a repertory cinema, a friend's band, and the album on headphones at home.
+- The first ring is the same kind of thing.
+- The second ring is a different kind of thing that gives the same experience.
+- The third ring is anything that takes the same evening or the same money. Most evenings go here.
 
-Kolb's four for three of them:
+Kolb's four facts about each competitor (p. 57):
 
-- The university series offers new work, played well, in a seated hall. It's free, it's on weeknights in a campus hall with parking, and it's promoted through the department calendar and an email list.
-- The club night offers a late night of sound on a big system among people like them. There's a cover at the door, it's in a bar that admits people 21 and over, it starts at ten, and it's promoted through Instagram flyers and the DJs' own followings.
-- Headphones at home offer the sound, alone, whenever. The price is a subscription they already pay, it's available anywhere, and the platform's recommendations promote it.
+- what the person gets from it
+- what it costs
+- where, when, and how they get it
+- how they hear about it
 
-To the room: which of these does the core person choose on most Fridays? What does the series offer that none of the three does? One answer: eight-channel sound, live, in a 60-seat gallery, with the composer at the desk, once a month.
+#### on screen, five minutes
 
-Pairs, breakout rooms, fifteen minutes, seven each. In chat:
+Maya, from exercise 1, on a Friday night with $10 and three hours. She comes to the series for spatial sound, focused listening, and a room of people listening the same way.
 
-> Who is the core person in your Audience Profile? What could that person choose instead of your work, in three rings: the same thing, the same benefit in another form, the same evening or the same money? Ten entries or more. For three of them, one from each ring: what's the benefit, the price, where and how people get it, how it's promoted?
+- The first ring holds other new-music and electroacoustic series in the East Bay and San Francisco, and a university concert series with free admission.
+- The second ring holds an experimental club night on a big system, a listening bar playing records on a good system, and an immersive-audio show at a planetarium. None of them is a concert, and each gives her big sound, focused listening, or a room of people like her.
+- The third ring holds a film at a repertory cinema, a friend's band, and the album on headphones at home.
 
-Back in the main room, in chat: the entry furthest from your own discipline.
+Kolb's four facts for one entry from each ring:
+
+- The university series. She gets new work, played well, in a seated hall. It's free. It's on weeknights in a campus hall with parking. She'd hear about it through the department calendar or its email list.
+- The club night. She gets a late night of sound on a big system among people like her. There's a cover at the door. It's in a bar that admits people 21 and over, and it starts at ten. She'd hear about it through Instagram flyers and the DJs' own followings.
+- Headphones at home. She gets the sound, alone, whenever she wants. It costs a subscription she already pays. It's available anywhere. She hears about it through the platform's recommendations.
+
+What the series offers that none of the three does: eight-channel sound, live, in a 60-seat gallery, once a month. That difference is where the Reflection and the Positioning Statement start.
+
+#### in pairs, fifteen minutes
+
+Breakout rooms, seven minutes per person. In chat:
+
+> 1. Partner A reads the core person from their Audience Profile aloud.
+> 2. The pair lists what that person could choose instead of partner A's work: first things like it, then other things that give the same experience, then anything that takes the same evening or the same money. Ten entries or more.
+> 3. Partner A picks three, one from each ring. For each: what does the person get, what does it cost, where and when do they get it, and how do they hear about it?
+> 4. What does partner A's work offer that none of the three does?
+> 5. At seven minutes, switch.
+
+#### back in the main room, five minutes
+
+In chat: the entry furthest from your own discipline, and the answer to step 4.
 
 Follow-ups:
 
