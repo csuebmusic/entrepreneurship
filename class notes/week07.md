@@ -425,12 +425,14 @@ Ten minutes, working alone. The steps, in chat:
 
 Groups of three in breakout rooms. Each writer has six minutes. The steps, in chat:
 
-> 1. The writer pastes their Positioning Statement into the breakout chat and reads it aloud once.
-> 2. Each listener says three words that describe what they just heard.
-> 3. The first listener answers: who is this for? The second listener answers: what else could that person choose?
-> 4. Both listeners answer: which words in the statement could a competitor also use?
-> 5. Up to this point the writer has only listened. Now the writer compares the listeners' six words with the difference they meant to describe, and revises where the two don't match.
-> 6. At six minutes, the next person becomes the writer.
+> 1. The writer pastes their Positioning Statement into the breakout chat and reads it aloud once, without explaining it.
+> 2. Each listener answers three questions about what they just heard, in a sentence each:
+>    - What does this offer?
+>    - Who is it for?
+>    - What else could that person choose instead?
+> 3. The writer compares the listeners' answers with what they meant the statement to say. Where an answer doesn't match, that part of the statement needs revising.
+> 4. The writer revises and pastes the new version in the breakout chat.
+> 5. At six minutes, the next person becomes the writer.
 
 ### 7:05 back in the main room
 
@@ -438,14 +440,14 @@ Each writer pastes the revised statement in the main chat and reads it aloud.
 
 Questions for each writer:
 
-- Which of the listeners' words matched what you meant?
+- Which of the listeners' answers matched what you meant?
 - What did you change: who it's for, what you offer, or the alternatives?
 
 What the workshop can tell you:
 
 - Your classmates aren't your audience. Kolb (p. 64), on surveying people you know: "this will result in a biased response as the creative entrepreneurs' friends probably share the same product preferences."
 - The workshop shows whether the statement says what you mean. Only your audience can show whether the difference matters to them.
-- The three-word question from the workshop works at a concert, an opening, or a reading. If you asked ten people at your next event for three words, which words would tell you the statement is accurate?
+- If you read the statement to ten people at your next concert, opening, or reading, and asked them the same three questions, which answers would tell you it's accurate?
 
 ### 7:20 October 9 and October 12
 
