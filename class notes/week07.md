@@ -411,10 +411,15 @@ Four tests for any draft:
 Ten minutes, working alone. The steps, in chat:
 
 > 1. Who is the core person from your Audience Profile? A phrase is enough.
-> 2. What could that person choose instead of your work? Two or three alternatives, from your Reflection or from the September 28 list. At least one comes from outside your own discipline.
+> 2. What could that person choose instead of your work? Two or three alternatives, from your Reflection or from your pair's list in exercise 2 on September 28. At least one comes from outside your own discipline.
 > 3. What difference between your work and those alternatives would this person notice?
 > 4. The draft: one or two sentences saying what you offer, who it's for, and how it differs from the alternatives.
-> 5. The four tests on screen. Each test the draft fails is a place to revise.
+> 5. Four questions about the draft:
+>    - With a competitor's name in place of yours, is the sentence still true? If it is, it doesn't describe your position yet.
+>    - Would the core person from your Audience Profile notice the difference?
+>    - Could someone outside your field understand it?
+>    - Which parts do you know from evidence, such as a conversation, a sale, or a sign-up, and which parts are you guessing?
+> 6. Where the first three questions show a problem, the draft gets a revision. The guesses get marked as guesses.
 
 ### 6:45 exercise 2, the listeners
 
