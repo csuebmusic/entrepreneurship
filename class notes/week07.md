@@ -1,11 +1,11 @@
 # weeks 7–8 class note
 
-Competition, Positioning & Value. Two Mondays, September 28 and October 5, 6–9pm, Zoom.
+Competition, Positioning & Value. Two Mondays on Zoom, September 28 and October 5.
 
 Reading summaries: [reading notes/week07.md](../reading%20notes/week07.md). Student page: [week07.html](../week07.html).
 
-- Reflection due before class, Monday, October 5.
-- Positioning Statement due Friday, October 9, by 11:59 pm, on Canvas.
+- Reflection due before class on Monday, October 5.
+- Positioning Statement due Friday, October 9, by 11:59 pm on Canvas.
 
 ## session 1, September 28
 
@@ -133,15 +133,15 @@ Step 6, the method. Kolb (p. 61): a question that starts with why goes to interv
 
 #### in pairs, sixteen minutes
 
-Breakout rooms, eight minutes per person. In chat:
+Breakout rooms, two people per room, eight minutes per person. In chat:
 
 > 1. Partner A reads the core person from their Audience Profile aloud.
 > 2. Partner B asks six questions about that person: Who are they? What do they do? Where are they? When did they come? Why did they come? How did they hear about your work?
 > 3. For each answer, partner A says whether it's known (from a conversation, a sale, a sign-up) or a guess.
 > 4. Which guess would change your plan most if it were wrong?
-> 5. Partner A writes that guess as a question naming what they need to know and whom they'd ask. Partner B asks for it more specific, twice.
-> 6. Why goes to interviews. Who, what, how many, and how often go to a survey. Which is it?
-> 7. At eight minutes, switch.
+> 5. Partner A writes that guess as a question naming what they need to know and whom they'd ask. Partner B asks for a more specific version, twice.
+> 6. A question that starts with why goes to interviews. A question that starts with who, what, how many, or how often goes to a survey. Which is it?
+> 7. At eight minutes, partners switch.
 
 #### back in the main room, four minutes
 
@@ -185,7 +185,7 @@ To the room: what's the seat in your work, the benefit every competitor also pro
 
 Discussion:
 
-- A difference between your work and a nearby artist's that practitioners notice and an audience member wouldn't. A difference an audience member notices first. Which one do they choose on?
+- What's one difference between your work and a nearby artist's that other practitioners notice and an audience member wouldn't? What's one an audience member notices first? Which one does the audience choose on?
 
 ### 7:05 break
 
@@ -226,13 +226,13 @@ What the series offers that none of the three does: eight-channel sound, live, i
 
 #### in pairs, fifteen minutes
 
-Breakout rooms, seven minutes per person. In chat:
+Breakout rooms, two people per room, seven minutes per person. In chat:
 
 > 1. Partner A reads the core person from their Audience Profile aloud.
 > 2. The pair lists what that person could choose instead of partner A's work: first things like it, then other things that give the same experience, then anything that takes the same evening or the same money. Ten entries or more.
 > 3. Partner A picks three, one from each ring. For each: what does the person get, what does it cost, where and when do they get it, and how do they hear about it?
 > 4. What does partner A's work offer that none of the three does?
-> 5. At seven minutes, switch.
+> 5. At seven minutes, partners switch.
 
 #### back in the main room, five minutes
 
@@ -320,40 +320,38 @@ The Reflection is due before class on Monday, October 5:
 
 Kolb's four facts apply to each of the two or three, and Box 3.3 (p. 74) lists three searches for finding them: the names of competing artists and organizations, what competitors' customers say on their social media, and competitors' marketing messages.
 
-The Positioning Statement is due Friday, October 9, by 11:59 pm on Canvas: one or two sentences naming the distinct value you offer, to whom, and how it differs from the alternatives your audience could choose. On October 5 the seminar discusses the Reflections and drafts and workshops the Positioning Statement.
+The Positioning Statement is due Friday, October 9, by 11:59 pm on Canvas: one or two sentences naming the distinct value you offer, to whom, and how it differs from the alternatives your audience could choose. On October 5 the seminar discusses the Reflections, then drafts and workshops the Positioning Statement.
 
 ### 7:57 close
 
-Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that block with an email ahead, or by appointment.
+Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012. During that block they're also on Zoom if you email ahead. Other times are by appointment.
 
 ## session 2, October 5
 
-6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html and the three sample drafts.
+6:00 to 7:30. The Reflections take the first twenty minutes, and the rest of the session is the Positioning Statement. On screen tonight: the Positioning Statement prompt from week07.html and the three sample drafts.
 
 ### running order
 
 - 6:00 open
 - 6:02 the Reflections
-- 6:22 the Positioning Statement, three drafts
-- 6:35 exercise 1, the first draft
+- 6:22 exercise 1, the first draft
 - 6:45 exercise 2, the listeners
-- 7:05 back in the main room
 - 7:20 October 9 and October 12
 - 7:27 close
 
 ### 6:00 open
 
-In chat, the ground rule from September 28:
+In chat:
 
 > The Reflections name artists and organizations working near you, some of them people you know. What each one offers, and to whom, is the subject. The quality of their work isn't.
 
 ### 6:02 the Reflections
 
-The prompt:
+The prompt, from week07.html:
 
 > Position yourself against two or three others working near you, people or organizations offering a similar benefit to a similar audience. What do you offer that they do not, and to whom does that difference actually matter? One to two pages.
 
-Each person has two minutes for the two or three others they wrote about, what they offer that the others don't, and who that difference matters to.
+A round, two minutes each. Each person names the two or three others from their Reflection, what they offer that those others don't, and who that difference matters to.
 
 Discussion:
 
@@ -362,9 +360,9 @@ Discussion:
 - Your Reflection names someone the difference matters to. Your Audience Profile describes a core person. Are they the same person? If they aren't, one of the two documents needs revising.
 - Some of the others you named may be colleagues, people you share a concert bill or a grant application with. How does that change what you'd say about them in public?
 
-### 6:22 the Positioning Statement, three drafts
+### 6:22 exercise 1, the first draft
 
-The component, from week07.html:
+The Positioning Statement is due Friday, October 9. The prompt, from week07.html:
 
 > A Positioning Statement names the distinct value your work offers, to whom, relative to the field. It is one or two sentences that say what you offer, who it is for, and how it differs from the alternatives your audience could choose instead.
 
@@ -374,7 +372,11 @@ A Positioning Statement has three parts:
 - who it's for
 - how it differs from what that person could choose instead
 
-The three sample drafts belong to the composer from September 28, who runs a monthly electroacoustic concert series in a 60-seat gallery in Oakland. The core person in the composer's Audience Profile is Maya. The alternatives come from the list built in exercise 2 on September 28.
+The exercise turns the Reflection into a first draft of the Positioning Statement.
+
+#### on screen, thirteen minutes
+
+Three drafts by the composer from September 28, who runs a monthly electroacoustic concert series in a 60-seat gallery in Oakland. The core person in the composer's Audience Profile is Maya. The alternatives come from the list in exercise 2 on September 28.
 
 Draft 1:
 
@@ -397,7 +399,7 @@ Draft 3:
 - It says who the series is for by what they do: they go to experimental shows two or three times a month, and many of them work with sound.
 - It says what the series offers: new pieces written for the eight speakers, played live, for a room of people who came to listen.
 - It names two alternatives, the club night and the planetarium, and says what each one gives Maya.
-- One part is a guess. "Many of them people who work with sound" comes from one person, Maya. The composer can keep the line, and still needs to find out whether it's true.
+- One part is a guess. "Many of them people who work with sound" comes from one person, Maya. The composer can keep the line but still needs to find out whether it's true.
 
 Four tests for any draft:
 
@@ -406,9 +408,9 @@ Four tests for any draft:
 - Could someone outside your field understand it?
 - Which parts do you know from evidence, such as a conversation, a sale, or a sign-up, and which parts are you guessing?
 
-### 6:35 exercise 1, the first draft
+#### alone, ten minutes
 
-Ten minutes, working alone. The steps, in chat:
+In chat:
 
 > 1. Who is the core person from your Audience Profile? A phrase is enough.
 > 2. What could that person choose instead of your work? Two or three alternatives, from your Reflection or from your pair's list in exercise 2 on September 28. At least one comes from outside your own discipline.
@@ -423,7 +425,11 @@ Ten minutes, working alone. The steps, in chat:
 
 ### 6:45 exercise 2, the listeners
 
-Groups of three in breakout rooms. Each writer has six minutes. The steps, in chat:
+Two classmates hear the draft once and say back what it offers, who it's for, and what else that person could choose. The writer finds out whether the statement says what they meant.
+
+#### in groups of three, twenty minutes
+
+Breakout rooms, three people per room, six minutes per writer. In chat:
 
 > 1. The writer pastes their Positioning Statement into the breakout chat and reads it aloud once, without explaining it.
 > 2. Each listener answers three questions about what they just heard, in a sentence each:
@@ -434,11 +440,11 @@ Groups of three in breakout rooms. Each writer has six minutes. The steps, in ch
 > 4. The writer revises and pastes the new version in the breakout chat.
 > 5. At six minutes, the next person becomes the writer.
 
-### 7:05 back in the main room
+#### back in the main room, fifteen minutes
 
-Each writer pastes the revised statement in the main chat and reads it aloud.
+In chat: each person's revised statement. Each writer reads theirs aloud.
 
-Questions for each writer:
+Follow-ups:
 
 - Which of the listeners' answers matched what you meant?
 - What did you change: who it's for, what you offer, or the alternatives?
