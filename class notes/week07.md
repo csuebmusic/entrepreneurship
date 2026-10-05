@@ -328,7 +328,7 @@ Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that bl
 
 ## session 2, October 5
 
-6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html, the three sample drafts, and Kolb pp. 71–72.
+6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html, and the three sample drafts.
 
 ### running order
 
@@ -423,14 +423,6 @@ Ten minutes, working alone. The steps, in chat:
 
 ### 6:45 exercise 2, the listeners
 
-Kolb on focus groups (p. 71). Read aloud:
-
-> In fact, it is best if the moderator is not the creative entrepreneur, since the focus group members may express negative opinions. If this happens, creative entrepreneurs may become defensive about their product.
-
-Kolb on intercept interviews (p. 72): a short interview of two or three quick questions. Her example asks people coming into a gallery "what three words describe the visitor's impressions."
-
-The exercise uses both. The writer listens without explaining. The listeners respond in three words before anything else.
-
 Groups of three in breakout rooms. Each writer has six minutes. The steps, in chat:
 
 > 1. The writer pastes their Positioning Statement into the breakout chat and reads it aloud once.
@@ -453,7 +445,7 @@ What the workshop can tell you:
 
 - Your classmates aren't your audience. Kolb (p. 64), on surveying people you know: "this will result in a biased response as the creative entrepreneurs' friends probably share the same product preferences."
 - The workshop shows whether the statement says what you mean. Only your audience can show whether the difference matters to them.
-- Kolb's three-word question works at a concert, an opening, or a reading. If you asked ten people at your next event for three words, which words would tell you the statement is accurate?
+- The three-word question from the workshop works at a concert, an opening, or a reading. If you asked ten people at your next event for three words, which words would tell you the statement is accurate?
 
 ### 7:20 October 9 and October 12
 
