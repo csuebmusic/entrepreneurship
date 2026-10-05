@@ -328,7 +328,7 @@ Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that bl
 
 ## session 2, October 5
 
-6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html, and the three sample drafts.
+6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html and the three sample drafts.
 
 ### running order
 
