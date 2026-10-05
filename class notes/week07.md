@@ -328,7 +328,7 @@ Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that bl
 
 ## session 2, October 5
 
-6:00 to 7:30. The Reflections and the Positioning Statement. On screen tonight: the Positioning Statement brief from week07.html, the three drafts at 6:22, and Kolb pp. 71–72.
+6:00 to 7:30. Tonight covers the Reflections and the Positioning Statement. On screen: the Positioning Statement brief from week07.html, the three sample drafts, and Kolb pp. 71–72.
 
 ### running order
 
@@ -343,7 +343,7 @@ Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that bl
 
 ### 6:00 open
 
-The ground rule from September 28, in chat:
+In chat, the ground rule from September 28:
 
 > The Reflections name artists and organizations working near you, some of them people you know. What each one offers, and to whom, is the subject. The quality of their work isn't.
 
@@ -353,14 +353,14 @@ The prompt:
 
 > Position yourself against two or three others working near you, people or organizations offering a similar benefit to a similar audience. What do you offer that they do not, and to whom does that difference actually matter? One to two pages.
 
-A round, two minutes each: the two or three others, the difference, and the person it matters to.
+Each person has two minutes for the two or three others they wrote about, what they offer that the others don't, and who that difference matters to.
 
 Discussion:
 
-- Which ring did the two or three come from? Kolb (p. 57): "It is better for the creative entrepreneur to research competitors too widely than too narrowly." When all of them come from the first ring, what's left out?
-- Landry (p. 15): "Often this is a blend of your energy, your vibe, your aesthetic, values, beliefs, and worldview together." Which of these did the Reflection name? Which would the core person from the Audience Profile see from a seat in the audience?
-- Is the person the difference matters to the same person as the core person in the Audience Profile? When it isn't, one of the two documents needs revising.
-- Is anyone in the Reflection a person you'd share a bill, a mailing list, or a grant with? What changes when the competitor is also a collaborator?
+- Kolb (p. 57): "It is better for the creative entrepreneur to research competitors too widely than too narrowly." Were your two or three others all the same kind of thing as your work? If so, what else could your audience choose on the same evening?
+- Landry (p. 15), on the unique value: "Often this is a blend of your energy, your vibe, your aesthetic, values, beliefs, and worldview together." Which of these did your Reflection name? Which of them could someone in your audience actually see or hear?
+- Your Reflection names someone the difference matters to. Your Audience Profile describes a core person. Are they the same person? If they aren't, one of the two documents needs revising.
+- Some of the others you named may be colleagues, people you share a concert bill or a grant application with. How does that change what you'd say about them in public?
 
 ### 6:22 the Positioning Statement, three drafts
 
@@ -368,53 +368,53 @@ The component, from week07.html:
 
 > A Positioning Statement names the distinct value your work offers, to whom, relative to the field. It is one or two sentences that say what you offer, who it is for, and how it differs from the alternatives your audience could choose instead.
 
-Three parts:
+A Positioning Statement has three parts:
 
-- the distinct value
-- to whom
-- how it differs from the alternatives that person could choose
+- the distinct value you offer
+- who it's for
+- how it differs from what that person could choose instead
 
-On screen, three drafts by the composer from September 28, who runs the monthly electroacoustic series in the 60-seat Oakland gallery. The core person is Maya. The alternatives are the entries from exercise 2.
+The three sample drafts belong to the composer from September 28, who runs a monthly electroacoustic concert series in a 60-seat gallery in Oakland. The core person in the composer's Audience Profile is Maya. The alternatives come from the list built in exercise 2 on September 28.
 
 Draft 1:
 
 > The series presents innovative electroacoustic music in an intimate setting.
 
-- It names no audience and no alternative.
-- Every first-ring series could sign it. "Innovative" and "intimate" are on their websites too.
+- It doesn't say who the series is for or what else they could choose.
+- Any other new-music series could say this sentence about itself.
 
 Draft 2:
 
 > For East Bay listeners who love experimental sound, the series is the only place to hear spatial audio live.
 
-- "Listeners who love experimental sound" also describes the crowd at the club night.
-- "The only place" is a claim the four facts can check. The planetarium show in exercise 2's second ring gives Maya surround sound too.
+- It names an audience, but the crowd at the club night also loves experimental sound.
+- "The only place" isn't true. The planetarium show from exercise 2 also surrounds its audience with sound.
 
 Draft 3:
 
 > For East Bay listeners who go to experimental shows two or three times a month, many of them people who work with sound, the series is a monthly concert of new pieces written for eight speakers around a 60-seat gallery, pay what you can. A club night gives them a big system and the planetarium gives them surround sound; the series gives them music composed for the speakers around them, in a room where everyone came to listen.
 
-- To whom: a behavior (two or three shows a month) and a trait (they work with sound).
-- The distinct value: pieces composed for the eight speakers, played live, in a room of people listening.
-- The alternatives: two, named, both from the second ring.
-- "Many of them people who work with sound" rests on one person, a guess from the Audience Profile. A Positioning Statement can rest on a guess. It helps to know which words are one.
+- It says who the series is for by what they do: they go to experimental shows two or three times a month, and many of them work with sound.
+- It says what the series offers: new pieces written for the eight speakers, played live, for a room of people who came to listen.
+- It names two alternatives, the club night and the planetarium, and says what each one gives Maya.
+- One part is a guess. "Many of them people who work with sound" comes from one person, Maya. The composer can keep the line, and still needs to find out whether it's true.
 
 Four tests for any draft:
 
-- The swap test. With a competitor's name in place of yours, is the sentence still true? Then it describes the category.
-- The noticing test. Would the core person from the Audience Profile notice the difference? Kolb (p. 57): "While the creative individual will notice differences between closely related products, the average consumer may not."
-- The stranger test. Could someone outside your field follow it?
-- The evidence test. Which words are known, and which are a guess?
+- With a competitor's name in place of yours, is the sentence still true? If it is, the sentence describes your kind of work. It doesn't yet describe your position.
+- Would the core person from your Audience Profile notice the difference? Kolb (p. 57): "While the creative individual will notice differences between closely related products, the average consumer may not."
+- Could someone outside your field understand it?
+- Which parts do you know from evidence, such as a conversation, a sale, or a sign-up, and which parts are you guessing?
 
 ### 6:35 exercise 1, the first draft
 
-Ten minutes, alone. In chat:
+Ten minutes, working alone. The steps, in chat:
 
-> 1. The core person from your Audience Profile, in a phrase.
-> 2. Two or three alternatives that person could choose, from your Reflection or from exercise 2 on September 28. At least one from the second or third ring.
-> 3. The difference the core person would notice and choose you for.
-> 4. One or two sentences: the distinct value, to whom, and how it differs from the alternatives.
-> 5. The four tests: swap, noticing, stranger, evidence.
+> 1. Who is the core person from your Audience Profile? A phrase is enough.
+> 2. What could that person choose instead of your work? Two or three alternatives, from your Reflection or from the September 28 list. At least one comes from outside your own discipline.
+> 3. What difference between your work and those alternatives would this person notice?
+> 4. The draft: one or two sentences saying what you offer, who it's for, and how it differs from the alternatives.
+> 5. The four tests on screen. Each test the draft fails is a place to revise.
 
 ### 6:45 exercise 2, the listeners
 
@@ -422,48 +422,56 @@ Kolb on focus groups (p. 71). Read aloud:
 
 > In fact, it is best if the moderator is not the creative entrepreneur, since the focus group members may express negative opinions. If this happens, creative entrepreneurs may become defensive about their product.
 
-Kolb on intercept interviews (p. 72): her example asks anyone coming into a gallery "what three words describe the visitor's impressions."
+Kolb on intercept interviews (p. 72): a short interview of two or three quick questions. Her example asks people coming into a gallery "what three words describe the visitor's impressions."
 
-The exercise takes one rule from each: the writer listens without explaining, and the listeners answer in three words first.
+The exercise uses both. The writer listens without explaining. The listeners respond in three words before anything else.
 
-Groups of three, breakout rooms, six minutes per writer. In chat:
+Groups of three in breakout rooms. Each writer has six minutes. The steps, in chat:
 
-> 1. The writer pastes the Positioning Statement into the breakout chat and reads it aloud once. From here to step 4, the writer listens.
-> 2. Each listener gives three words for what this is.
-> 3. Listener 1: Who is it for? Listener 2: What would that person choose instead? Both: Which words could a competitor also use?
-> 4. The writer compares the six words with the difference they meant. Where the two differ, the writer revises and pastes the new version.
-> 5. At six minutes, the next writer.
+> 1. The writer pastes their Positioning Statement into the breakout chat and reads it aloud once.
+> 2. Each listener says three words that describe what they just heard.
+> 3. The first listener answers: who is this for? The second listener answers: what else could that person choose?
+> 4. Both listeners answer: which words in the statement could a competitor also use?
+> 5. Up to this point the writer has only listened. Now the writer compares the listeners' six words with the difference they meant to describe, and revises where the two don't match.
+> 6. At six minutes, the next person becomes the writer.
 
 ### 7:05 back in the main room
 
-In chat: each revised statement. Each writer reads theirs aloud.
+Each writer pastes the revised statement in the main chat and reads it aloud.
 
-Follow-ups:
+Questions for each writer:
 
-- Which of the six words were the ones you meant?
-- What changed in the revision: the audience, the difference, or the alternatives?
+- Which of the listeners' words matched what you meant?
+- What did you change: who it's for, what you offer, or the alternatives?
 
-What the workshop can test:
+What the workshop can tell you:
 
-- The seminar isn't the core audience. Kolb (p. 64): a survey of acquaintances is biased because "the creative entrepreneurs' friends probably share the same product preferences."
-- The workshop tests whether the statement says what the writer means. Whether the difference matters is a question for the audience.
-- Kolb's intercept question, three words, asked of ten people at your next concert, opening, or reading. Which three words would tell you the statement is accurate?
+- Your classmates aren't your audience. Kolb (p. 64), on surveying people you know: "this will result in a biased response as the creative entrepreneurs' friends probably share the same product preferences."
+- The workshop shows whether the statement says what you mean. Only your audience can show whether the difference matters to them.
+- Kolb's three-word question works at a concert, an opening, or a reading. If you asked ten people at your next event for three words, which words would tell you the statement is accurate?
 
 ### 7:20 October 9 and October 12
 
-The Positioning Statement is due Friday, October 9, by 11:59 pm on Canvas: one or two sentences naming the distinct value you offer, to whom, and how it differs from the alternatives your audience could choose.
+The Positioning Statement is due Friday, October 9, by 11:59 pm on Canvas.
 
-Before submitting, the statement against the components already written:
+Two questions to check it against the components already written:
 
-- Is "to whom" the core person in the Audience Profile?
-- Landry develops the UVP and the mission together (p. 14). Does the distinct value appear in the Mission Statement, or contradict it?
+- Is the person in your Positioning Statement the core person in your Audience Profile?
+- Landry (p. 14) suggests working on the unique value and the mission at the same time. Does your Positioning Statement agree with your Mission Statement?
 
-Week 9, Business Models for Artists, Monday, October 12. The Reflection is due before class:
+Week 9 is Business Models for Artists, Monday, October 12. The Reflection is due before class:
 
 > Sketch how your practice makes, or could make, money across more than one stream. Then find the fragile part: which stream are you most dependent on, and what happens if it dries up? One to two pages, and a rough sketch is fine.
 
-The readings: NYFA, chapter 2 (pp. 34–51); Kolb, chapter 7 (pp. 151–174); Rabideau, chapter 8 (pp. 85–100); Landry, chapter 5 (pp. 109–128), the revenue and business-model sections. Rabideau's value-proposition format (p. 89) has the same two parts the Positioning Statement names, the distinct value and the audience.
+The readings:
+
+- NYFA, chapter 2 (pp. 34–51)
+- Kolb, chapter 7 (pp. 151–174)
+- Rabideau, chapter 8 (pp. 85–100)
+- Landry, chapter 5 (pp. 109–128), the sections on revenue and business models
+
+Rabideau's template for a value proposition (p. 89): "[Name] is a [product entity]. Through its [distinctive attributes] it provides [benefits] to [target market]." Your Positioning Statement already names the distinctive attributes and the target market.
 
 ### 7:27 close
 
-Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012, by Zoom during that block with an email ahead, or by appointment.
+Office hours are Wednesdays, 1:00 to 3:00 pm, in MB 2012. During that block they're also on Zoom if you email ahead. Other times are by appointment.
