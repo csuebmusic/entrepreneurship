@@ -85,17 +85,7 @@ Scored on whether the student made the artifact the brief asked for, in their ow
 
 ### feedback
 
-Feedback to a student is student-facing text. The profile's "how I want you to communicate" governs it, airtight, including the register, the style rules, and the rules for commenting on someone's work.
-
-Feedback on a Reflection expands the student's thinking: take what the student said and push past it, name the question they did not ask, point to the part of the reading that complicates their claim.
-
-Feedback on a Portfolio Component improves the draft: name what is working, name the one or two changes that would make it stronger, and point to the component it has to be consistent with next.
-
-Before a comment goes out:
-
-- Reread it line by line against the profile's communication section.
-- Second person, and name the next action.
-- Tie each point to the rubric criteria above and to the active level's outcomes in levels.md.
+Feedback follows the "how I want you to communicate" section of the instructor's profile.
 
 ### Canvas grading scheme
 
