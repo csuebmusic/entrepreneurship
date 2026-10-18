@@ -15,4 +15,3 @@ Active term: Fall 2026, MUS 603-01 (graduate).
 - week05.html sends students to the introduction and Parts 1 and 2 of Panic!, and its reflection prompt and component questions name unpaid work and whose taste counts, which are Parts 3 and 4. Either widen the assigned range or drop the two mechanisms from the prompts.
 - levels.md sends the 303 per-week outcome traces to a subject-outcome overlay; no such file is in the repo.
 - The 303 stub in levels.md is written to the pre-sweep prose rules and will need the same pass when 303 is populated.
-- week07.html and reading notes/week07.md refer to Kolb and Landry as he and his; the class notes use she and her.

@@ -73,6 +73,10 @@ Weekly Reflections and Portfolio Components are 65% of the course grade and the 
 
 The instructor's "how I want you to communicate" profile section governs.
 
+## pronouns
+
+Authors and other people named in course materials take they, them, and their. Direct quotations keep their original wording.
+
 ## sourcing
 
 Factual claims in student-facing content need grounding: industry practice, legal and financial specifics, statistics, and case-study facts about real artists and organizations. This matters most in the legal week (13) and the financial week (14). When uncertain, search before writing; if a claim cannot be sourced, drop it or flag it. Bibliographic and case-study facts come from the source itself, not from memory.
