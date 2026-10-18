@@ -37,7 +37,7 @@ The four readings share one claim: your audience isn't everyone.
 Kolb, chapter 5 (pp. 104–127):
 
 - A segment is a group of consumers who share what they want from a product. It has a need for the product, a desire to buy it, and the money to do so (p. 108).
-- Market depth, "fishing out of the same pond," means more customers from the same place, with the same traits and the same motivation as the ones you have (p. 106). The people who haven't bought have usually heard the message already. Her example is a custom-perfume maker sending more tweets to local college students who didn't respond the first time.
+- Market depth, "fishing out of the same pond," means more customers from the same place, with the same traits and the same motivation as the ones you have (p. 106). The people who haven't bought have usually heard the message already. Their example is a custom-perfume maker sending more tweets to local college students who didn't respond the first time.
 - Market breadth means a new segment that isn't buying yet. It gets its own message, and the existing segment keeps its own (p. 107).
 - Four targeting strategies (p. 109):
   - An undifferentiated strategy treats everyone as wanting the same thing ("everyone will love me").
@@ -48,7 +48,7 @@ Kolb, chapter 5 (pp. 104–127):
   - Demographic characteristics are gender, age, ethnicity or nationality, and income.
   - Geographic means location.
   - Psychographic characteristics are behavior, values, and lifestyle.
-- Her starting point is one person who has bought something similar, described and then sorted into the three. Demographic and geographic segmentation is for designing the marketing. Psychographic segmentation is for developing the product (p. 113).
+- Their starting point is one person who has bought something similar, described and then sorted into the three. Demographic and geographic segmentation is for designing the marketing. Psychographic segmentation is for developing the product (p. 113).
 - Box 5.2 (p. 112), usage segmentation for the performing arts. A ticket is rarely an impulse buy. Three behaviors to track: which message prompted the purchase; whether the buyer is frequent, occasional, or new; whether videos of performances moved them to buy.
 
 NYFA, chapter 11, section Understanding Your Audience:
@@ -65,10 +65,10 @@ NYFA, chapter 11, section Understanding Your Audience:
 
 Landry, chapter 2, section Defining Your Audiences (pp. 29–37):
 
-- Demographic traits are external and psychographic traits internal. She calls the psychographic "the most important, typically" (p. 30).
-- Her demographic list (pp. 31–32) has where they live, gender, age, education, income, single or married, raising kids or not.
-- Her psychographic list (p. 32) has place in the life cycle, priorities and dreams, beliefs, hobbies and interests, political leanings and religion, causes, activities and identity, occupation, personality and lifestyle, tastes in food, music, art, books, film, fashion, and shopping, worldview, how they like to feel, groups they belong to, aspirations.
-- To "everyone will want my ___," her answer is "maybe. But probably not." Niche audiences with defined characteristics are "your best bet" (pp. 30–31).
+- Demographic traits are external and psychographic traits internal. They call the psychographic "the most important, typically" (p. 30).
+- Their demographic list (pp. 31–32) has where they live, gender, age, education, income, single or married, raising kids or not.
+- Their psychographic list (p. 32) has place in the life cycle, priorities and dreams, beliefs, hobbies and interests, political leanings and religion, causes, activities and identity, occupation, personality and lifestyle, tastes in food, music, art, books, film, fashion, and shopping, worldview, how they like to feel, groups they belong to, aspirations.
+- To "everyone will want my ___," their answer is "maybe. But probably not." Niche audiences with defined characteristics are "your best bet" (pp. 30–31).
 - In the arts, a problem to solve often isn't the right frame. Needs and desires replace it: physical, emotional, spiritual, convenience, aspiration (p. 32).
 - A survey response rate of 10 percent is decent, and 4 to 5 percent is the norm (p. 34).
 
@@ -76,7 +76,7 @@ Andrews, chapter 3, sections The Exchange Model and Market Research (pp. 70–72
 
 - Marketing is an exchange that delivers value to each side. A venue sells a ticket: the patron gets the performance, and the musicians, staff, and owner get income and recognition (p. 70).
 - The value can be something other than money. A web designer discounts a site for a new arts venture in return for access to its customer database (p. 70).
-- His three questions (p. 71) ask how the customer perceives the value of what you offer, how the exchange can satisfy both sides, and how new customers can be reached through their needs and wants.
+- Their three questions (p. 71) ask how the customer perceives the value of what you offer, how the exchange can satisfy both sides, and how new customers can be reached through their needs and wants.
 - Market research asks what customers are interested in, how they choose to engage with the arts, where they live, how they learn about new work, and what they treat as incentives or barriers (p. 71). It runs before launch, during the introduction, and once the venture is established.
 - Before launch, similar businesses are a source, often through collaboration: galleries within walking distance organizing a shared Friday night. Without shared data, openings, performances, and receptions show what kinds of people come (p. 72).
 
@@ -104,19 +104,19 @@ The exercise takes one guess from each Audience Profile and turns it into a ques
 
 The six pair steps, worked on one invented Audience Profile. The author is a composer who runs a monthly electroacoustic concert series: a 60-seat gallery in Oakland, an eight-channel speaker ring, pay-what-you-can with $10 suggested, about 40 people a night, and a 300-person email list.
 
-Step 1, the core person, as the composer wrote her:
+Step 1, the core person, as the composer wrote them:
 
-> Maya is in her mid-thirties and lives in Oakland. She's a sound engineer at a post-production studio in San Francisco. She goes to two or three shows a month at small venues: experimental electronics, improvised music, the occasional new-music concert. She follows artists on Bandcamp and Instagram. She's on the series' email list and has come to four of the last six concerts, usually with one friend. She heard about the last one from a friend's Instagram story. She comes for the spatial sound as much as for the program: she works with multichannel audio in the studio and rarely hears it live. Programs of notated chamber music don't interest her. What she gets from the evening is the listening itself, in a room of people listening the same way.
+> Maya is in their mid-thirties and lives in Oakland. They're a sound engineer at a post-production studio in San Francisco. They go to two or three shows a month at small venues: experimental electronics, improvised music, the occasional new-music concert. They follow artists on Bandcamp and Instagram. They're on the series' email list and have come to four of the last six concerts, usually with one friend. They heard about the last one from a friend's Instagram story. They come for the spatial sound as much as for the program: they work with multichannel audio in the studio and rarely hears it live. Programs of notated chamber music don't interest them. What they get from the evening is the listening itself, in a room of people listening the same way.
 
 Steps 2 and 3, each line sorted into known or guess, with how it's known:
 
-- Known: she lives in Oakland and works as a sound engineer. She told the composer at the merch table.
+- Known: they live in Oakland and work as a sound engineer. They told the composer at the merch table.
 - Known: four of the last six concerts. The door list.
-- Known: she's on the email list and heard about the last concert from a friend's story. The sign-up form, and what she said at the door.
-- Guess: two or three shows a month, and which kinds. The composer has seen her at other shows twice.
-- Guess: she comes for the spatial sound as much as for the program. One conversation about the speaker setup.
-- Guess: chamber music doesn't interest her. She missed the one concert with a string quartet. That's one data point.
-- Guess: what she gets is listening in a room of people listening the same way. That's the composer's own reason for running the series.
+- Known: they're on the email list and heard about the last concert from a friend's story. The sign-up form, and what they said at the door.
+- Guess: two or three shows a month, and which kinds. The composer has seen them at other shows twice.
+- Guess: they come for the spatial sound as much as for the program. One conversation about the speaker setup.
+- Guess: chamber music doesn't interest them. They missed the one concert with a string quartet. That's one data point.
+- Guess: what they get is listening in a room of people listening the same way. That's the composer's own reason for running the series.
 
 Step 4, the guess that would change the plan most if it were wrong: the spatial sound. The series spends about half its budget renting and setting up the eight-channel system. If people like Maya come for the program and the room, a stereo concert would cost half as much, and the difference could go to the performers. If they come for the spatial sound, the rental is the series.
 
@@ -170,7 +170,7 @@ Positioning is the answer to the question: the distinct value your work offers, 
 ### 6:50 Kolb chapter 3, the competitor
 
 - Research is collecting and then analyzing data to answer a question. It's ongoing, before the plan and after the launch (p. 56).
-- Her image is a map for a hike (p. 57). Hard terrain means more supplies and more time.
+- Their image is a map for a hike (p. 57). Hard terrain means more supplies and more time.
 
 On screen, p. 57. Read aloud:
 
@@ -210,17 +210,17 @@ Kolb's four facts about each competitor (p. 57):
 
 #### on screen, five minutes
 
-Maya, from exercise 1, on a Friday night with $10 and three hours. She comes to the series for spatial sound, focused listening, and a room of people listening the same way.
+Maya, from exercise 1, on a Friday night with $10 and three hours. They come to the series for spatial sound, focused listening, and a room of people listening the same way.
 
 - The first ring holds other new-music and electroacoustic series in the East Bay and San Francisco, and a university concert series with free admission.
-- The second ring holds an experimental club night on a big system, a listening bar playing records on a good system, and an immersive-audio show at a planetarium. None of them is a concert, and each gives her big sound, focused listening, or a room of people like her.
+- The second ring holds an experimental club night on a big system, a listening bar playing records on a good system, and an immersive-audio show at a planetarium. None of them is a concert, and each gives their big sound, focused listening, or a room of people like them.
 - The third ring holds a film at a repertory cinema, a friend's band, and the album on headphones at home.
 
 Kolb's four facts for one entry from each ring:
 
-- The university series. She gets new work, played well, in a seated hall. It's free. It's on weeknights in a campus hall with parking. She'd hear about it through the department calendar or its email list.
-- The club night. She gets a late night of sound on a big system among people like her. There's a cover at the door. It's in a bar that admits people 21 and over, and it starts at ten. She'd hear about it through Instagram flyers and the DJs' own followings.
-- Headphones at home. She gets the sound, alone, whenever she wants. It costs a subscription she already pays. It's available anywhere. She hears about it through the platform's recommendations.
+- The university series. They get new work, played well, in a seated hall. It's free. It's on weeknights in a campus hall with parking. They'd hear about it through the department calendar or its email list.
+- The club night. They get a late night of sound on a big system among people like them. There's a cover at the door. It's in a bar that admits people 21 and over, and it starts at ten. They'd hear about it through Instagram flyers and the DJs' own followings.
+- Headphones at home. They get the sound, alone, whenever they want. It costs a subscription they already pay. It's available anywhere. They hear about it through the platform's recommendations.
 
 What the series offers that none of the three does: eight-channel sound, live, in a 60-seat gallery, once a month. That difference is where the Reflection and the Positioning Statement start.
 
@@ -283,14 +283,14 @@ Discussion:
 Landry, chapter 1, pp. 14–16, from the chapter read in week 3.
 
 - The Unique Value Principle is "why a customer is drawn to you" (p. 14). It "acts like a magnet between your products and services as opposed to anyone else" (pp. 14–15).
-- On identity (p. 14), she writes that in business the UVP attaches to what is sold, "but it stems from the creator." When a company or an artist has trouble gaining traction, it can go back to uncertainty about who they are and what makes them special.
-- The UVP and the mission are related, and she develops them together (p. 14). The Mission Statement is from week 3, the Creative Identity Statement from week 1.
+- On identity (p. 14), they write that in business the UVP attaches to what is sold, "but it stems from the creator." When a company or an artist has trouble gaining traction, it can go back to uncertainty about who they are and what makes them special.
+- The UVP and the mission are related, and they develop them together (p. 14). The Mission Statement is from week 3, the Creative Identity Statement from week 1.
 
 Read aloud, p. 15:
 
 > The UVP communicates your difference compared to someone with a similar offering or skill set. It may take a while to pinpoint this and requires looking at your competition for comparison sake. Often this is a blend of your energy, your vibe, your aesthetic, values, beliefs, and worldview together.
 
-Her word-cloud list (p. 15):
+Their word-cloud list (p. 15):
 
 - your creative abilities
 - your professional abilities

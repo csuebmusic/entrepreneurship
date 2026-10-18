@@ -32,7 +32,7 @@ Kolb builds the chapter's frame from a history of how art has been valued.
 
 **The load-bearing claim:** "Art, therefore, has two values: Its aesthetic value and its monetary value" (p. 11), and the two can combine in one buyer's motivation. A purchase can be for beauty, for resale, or for both.
 
-**Contestable, and worth contesting aloud.** Kolb's period dates do not line up cleanly with her sources: Woodmansee's subject is the eighteenth century, and Levine's *Highbrow/Lowbrow* is about nineteenth-century America, so "developed in the seventeenth century" is Kolb's compression rather than the cited scholarship. The claim that only in the eighteenth century did vision matter is also a strong reading. Both are usable as a live question rather than a fact: whose interest does a periodization of "when art became autonomous" serve.
+**Contestable, and worth contesting aloud.** Kolb's period dates do not line up cleanly with their sources: Woodmansee's subject is the eighteenth century, and Levine's *Highbrow/Lowbrow* is about nineteenth-century America, so "developed in the seventeenth century" is Kolb's compression rather than the cited scholarship. The claim that only in the eighteenth century did vision matter is also a strong reading. Both are usable as a live question rather than a fact: whose interest does a periodization of "when art became autonomous" serve.
 
 ### the business of art (pp. 13–15)
 
@@ -144,7 +144,7 @@ Guillebeau also supplies the discipline of building what the customer actually w
 
 ### customers and the adoption curve (pp. 9–11)
 
-- **Benefits over features.** Andrews's worked pair: "a unique opportunity to experience dance from a rarely presented culture" (benefit) against "an evening of music and dance" (feature). He concedes that some products resist this, and suggests studying how galleries and museums write their exhibit copy, which usually tells the story of an artist or a form.
+- **Benefits over features.** Andrews's worked pair: "a unique opportunity to experience dance from a rarely presented culture" (benefit) against "an evening of music and dance" (feature). They concede that some products resist this, and suggest studying how galleries and museums write their exhibit copy, which usually tells the story of an artist or a form.
 - **Adoption categories** (Kawasaki's *The Art of the Start*, drawing on Rogers and Shoemaker): **innovators** (seek novelty and risk, want it first), **early adopters** (sense intuitively that it serves their needs, unafraid of the untested), **early majority** (follow validation by experts, reviews, peers), **late majority** (wait for mass acceptance), **laggards** (buy only when there is no choice).
 - The practical instruction: comb your existing network for innovators and early adopters, use their feedback for radical changes if warranted, and treat critics and media figures in that group as future advocates.
 
@@ -153,7 +153,7 @@ Guillebeau also supplies the discipline of building what the customer actually w
 - Attracting too many people too early risks disappointing them: a crowdfunding campaign aiming for 100 backers and finding 1,000 may fail on fulfillment.
 - **Scale is a choice.** "Even in the case of an arts venture that only strives to attract customers in the dozens or hundreds, there needs to be advance planning." And later: "The business founder has the freedom to decide which measurement of success works for their intentions."
 - **Four ingredients** for a product that reaches a growing audience: a unique offering genuinely connected to a target base; awareness raised through marketing; funds raised and a collaborative team hired; a set of key values and principles adhered to.
-- **Pivot:** a significant change in product, marketing, or direction that serves the same goals. "A pivot is not an abandonment of the company's overall values, goals, and objectives, it is a redirection of the organization's process for accomplishing those aims." The basketball analogy is his: one foot planted, ninety degrees, pass instead of drive.
+- **Pivot:** a significant change in product, marketing, or direction that serves the same goals. "A pivot is not an abandonment of the company's overall values, goals, and objectives, it is a redirection of the organization's process for accomplishing those aims." The basketball analogy is theirs: one foot planted, ninety degrees, pass instead of drive.
 
 ### the arts-specific case (pp. 15–19)
 
@@ -166,7 +166,7 @@ Guillebeau also supplies the discipline of building what the customer actually w
 - for-profit, both in equal measure;
 - for-profit forming with the intent to acquire nonprofit status over time, using a fiscal sponsor for contributed income in the meantime.
 
-Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C** (limited liability low profit company), available in certain states. Social ventures have all the same risks and compliance obligations as any other. His examples: a community-based theater in a disadvantaged neighborhood involving residents as playwrights, actors, and production workers; an arts education organization teaching creative skills to people in psychological or emotional difficulty; a gallery on environmental themes; a performing space pairing political activism with art forms.
+Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C** (limited liability low profit company), available in certain states. Social ventures have all the same risks and compliance obligations as any other. Their examples: a community-based theater in a disadvantaged neighborhood involving residents as playwrights, actors, and production workers; an arts education organization teaching creative skills to people in psychological or emotional difficulty; a gallery on environmental themes; a performing space pairing political activism with art forms.
 
 **Nonprofit** (p. 22): "the term nonprofit does not mean that the owners or employees of the organization will not receive appropriate compensation for their efforts." Many pay well and provide benefits. What is unique is that excess income is not distributed; it is reinvested or reserved. Andrews names race, gender, aging, immigration, economic disparity, and climate change as guiding concepts on which arts ventures have been built.
 
@@ -178,7 +178,7 @@ Two corporate forms: the **B-Corporation** or Benefit Corporation, and the **L3C
 - **Digital products** (p. 23): a crowded marketplace where the question is what makes a free user convert, whether convenience (the Pandora model) or access to specialized material.
 - **Venues** (pp. 23–24): renting temporarily to test audience response is the MVP form for a presenting organization, the same move a restaurant makes with a pop-up.
 - **Stakeholders** (pp. 24–26), each attracted differently: **partners** (join at founder level, assume risk), **supporters** (media contacts, board members, pro bono advisors, volunteers), **patrons** or customers, **suppliers** (their reliability becomes your brand), **investors** (money and influence, usually shared control), **donors** (no financial return expected, but focused on mission performance).
-- **Online platforms** (pp. 27–28) for fundraising (Kickstarter, Indiegogo, GoFundMe), marketing, and community building. His caution: communicating exclusively about opportunities to buy drives people away. Not all relationships need be transactional; an unconverted reader may advocate on your behalf and produce more effect than a single sale.
+- **Online platforms** (pp. 27–28) for fundraising (Kickstarter, Indiegogo, GoFundMe), marketing, and community building. Their caution: communicating exclusively about opportunities to buy drives people away. Not all relationships need be transactional; an unconverted reader may advocate on your behalf and produce more effect than a single sale.
 - **Collaboration** (pp. 28–29): in the arts and culture sector, like-minded organizations frequently become allies rather than competition. Galleries in a district marketing jointly through art walks; a photographer or designer referring a client to someone better suited or free.
 - **Launch, growth, succession** (pp. 30–31), with the note that corporate form matters if the intent is to leave a thriving business behind.
 
@@ -194,9 +194,9 @@ The music-native chapter and the frame for the book. Its rhetorical mode is advo
 
 Rabideau wrote "Entrepreneurship and the Artist-Revolutionary" in 2015 for two reasons: to celebrate innovative musicians, and "to reclaim the word entrepreneurship. I wanted to move the focus away from monetary gain and make it more about the act of invention."
 
-He prints an objection he received, from Michael Drapkin: "Seriously? Artists, and in particular musicians, are one of the most conservative groups I have ever met. They seek to distinguish themselves by being better at 'sameness' than the other guy, and live in fear of being truly different or innovative. It sounds good, but as they say in Texas, 'That dawg don't hunt.'" Rabideau concedes the comment "still resonate[s] with me on a deep level" and then relocates the fault: not with musicians but with "the schools of music and conservatories across the nation that have placed creativity off to the side in favor of exclusively training excellence."
+They print an objection they received, from Michael Drapkin: "Seriously? Artists, and in particular musicians, are one of the most conservative groups I have ever met. They seek to distinguish themselves by being better at 'sameness' than the other guy, and live in fear of being truly different or innovative. It sounds good, but as they say in Texas, 'That dawg don't hunt.'" Rabideau concedes the comment "still resonate[s] with me on a deep level" and then relocates the fault: not with musicians but with "the schools of music and conservatories across the nation that have placed creativity off to the side in favor of exclusively training excellence."
 
-His claim of kinship: artists and entrepreneurs are curious, creative, collaborative, tenacious. Entrepreneurs begin with **problem-finding**, identifying the issues and opportunities they are best equipped to address, "driven by the question 'What can be?' rather than 'What is?'" The shared capacity is "the ability to address complexity and thrive while playing in the messy, fertile space of uncertainty, ambiguity, and promise" (pp. 2–3).
+Their claim of kinship: artists and entrepreneurs are curious, creative, collaborative, tenacious. Entrepreneurs begin with **problem-finding**, identifying the issues and opportunities they are best equipped to address, "driven by the question 'What can be?' rather than 'What is?'" The shared capacity is "the ability to address complexity and thrive while playing in the messy, fertile space of uncertainty, ambiguity, and promise" (pp. 2–3).
 
 ### the institutional and impact evidence (pp. 3–4)
 
@@ -207,7 +207,7 @@ His claim of kinship: artists and entrepreneurs are curious, creative, collabora
 - The diagnosis: musicians have "fallen victim to a narrowly defined set of professional standards focused on memorizing and mastering set repertoire and a list of career options that hasn't expanded much since the Middle Ages, particularly if you are a classical musician."
 - The alternative, and the phrase that recurs across the book: "a life of means, the ability to provide for those whom they love most; a life of meaning, doing good work and making an impact within their community; and a chance to give back."
 - Schram again, on the moment: "for me, we are living in the second golden age of music where anything is possible." Rabideau's gloss: musicians of the first golden age "were composers, performers, improvisers, and connectors. In a word: they were creatives."
-- **Yo-Yo Ma** as the model artist-revolutionary: he could have kept playing the Bach suites and done fine; instead, Silk Road Ensemble, the Goat Rodeo Sessions, an appearance with Misty Copeland, Silk Road's Global Musician Workshop, and the Citizen Musician Initiative with the Chicago Symphony. Also named: Gustavo Dudamel, Peter Seymour of Project Trio, Jayme Stone of the Lomax Project.
+- **Yo-Yo Ma** as the model artist-revolutionary: they could have kept playing the Bach suites and done fine; instead, Silk Road Ensemble, the Goat Rodeo Sessions, an appearance with Misty Copeland, Silk Road's Global Musician Workshop, and the Citizen Musician Initiative with the Chicago Symphony. Also named: Gustavo Dudamel, Peter Seymour of Project Trio, Jayme Stone of the Lomax Project.
 
 ### Sandow, "What Is a 21st-Century Musician?" (pp. 5–9)
 
@@ -222,7 +222,7 @@ The contrast with the old rules is the useful part: if you played clarinet, you 
 Five portraits, each with a specific mechanism worth naming rather than paraphrasing:
 
 - **Anderson & Roe**, duo pianists: they arrange anything they want to play, from a Michael Jackson song to the first-act finale of *Così fan tutte*, present it with strong visual production in music videos, and now sell scores of their transcriptions.
-- **Stewart Goodyear**, pianist: the complete Beethoven sonatas in a single-day marathon, for which he trained like an athlete, now repeated annually at major venues. He composes, and he writes his own liner notes, "these are his performances played his way."
+- **Stewart Goodyear**, pianist: the complete Beethoven sonatas in a single-day marathon, for which they trained like an athlete, now repeated annually at major venues. They compose, and they write their own liner notes, "these are his performances played his way."
 - **James Ross**, conductor: performances of *Prelude to the Afternoon of a Faun* and *Appalachian Spring* played from memory and danced while played; a *Petrushka* with the musicians doubling as actors, later taken up by the New York Philharmonic; students given authority over concert dress; at the National Orchestral Institute, musicians given the power to produce their own concerts.
 - **Mason Bates**, composer and dance DJ at once, chosen by Muti with Anna Clyne as Chicago Symphony composer in residence, and responsible with Clyne for turning MusicNOW into a series drawing large young crowds.
 - **Lara Downes**, pianist: an alt-classical series, the Artist Sessions, hosted in clubs and spaces for people who never attend classical events; individual releases including *13 Ways of Looking at the Goldberg* and *Exiles' Café*, promoted with video trailers.
@@ -247,7 +247,7 @@ Rabideau follows with the composer analogy: see the big picture first, scope, in
 **Five mindsets:**
 
 - **Unquenchable curiosity.** Focusing outside ourselves to find intersections between the issues that matter to us, our art form, and meaningful change.
-- **Purposeful creativity.** Thinking like an inventor who identifies the problems he is best equipped to address.
+- **Purposeful creativity.** Thinking like an inventor who identifies the problems they are best equipped to address.
 - **Strategic collaboration.** Identifying the "strengths in the room" and leveraging them.
 - **Passionate persistence.** Tenacity and grit learned in the practice room as the greatest transferable asset.
 - **Critical optimism.** Peter Elbow's **believing game** rather than the doubting game: optimistic in seeing yourself as an agent of change, critical when taking feasible action.
@@ -258,7 +258,7 @@ The framework compresses into **four keys**: curiosity, creativity, collaboratio
 
 ### crossroads and closing (pp. 13–15)
 
-Rabideau's own path is told plainly: he wanted the Chicago Symphony, studied with Frank Crisafulli, auditioned for Crisafulli's chair when he retired, and lost to "some young guy with an Australian accent." Then "professional autopilot": master's, sabbatical replacement, doctorate, professorship, tenure. Then a postdoc in a Center for Creativity, a nonprofit arts organization, a live jazz radio show from New York, a ballet, and, "most radical of all, I started asking questions." His question to hold over the seminar: "What if, in the real-life game of musical chairs, there is a seat for everyone?"
+Rabideau's own path is told plainly: they wanted the Chicago Symphony, studied with Frank Crisafulli, auditioned for Crisafulli's chair when Crisafulli retired, and lost to "some young guy with an Australian accent." Then "professional autopilot": master's, sabbatical replacement, doctorate, professorship, tenure. Then a postdoc in a Center for Creativity, a nonprofit arts organization, a live jazz radio show from New York, a ballet, and, "most radical of all, I started asking questions." Their question to hold over the seminar: "What if, in the real-life game of musical chairs, there is a seat for everyone?"
 
 David Cutler, quoted at pp. 14–15: "There are people who see one or two opportunities, or zero. And then there are people who see 1,000 opportunities. I have never met someone who sees five opportunities." Rabideau's use of it: the challenge is **divergent thinking** about possibilities "amid the sea of sameness currently flooding our profession," then **convergent thinking** to hone in on the ideas that best advance the work.
 
@@ -290,7 +290,7 @@ The account here is blunt.
 
 Jazz bassist and educator **John Clayton's** term for defaulting into graduate school out of fear rather than a clear reason, and then repeating the move from master's to doctorate. The authors' position: not against advanced degrees, but "there should be a clear understanding for why an advanced degree is being pursued," and graduate school "should only be a last resort when no other options are available or when it specifically addresses your career goals." They name the economics: return on investment, cost, multi-year delay in entering the workforce, long-term debt, and the way assistantships and talent-based scholarships perpetuate a cycle of too many qualified graduates for too few jobs.
 
-Then all three authors put their own histories on the page: McCurdy went straight through three degrees with no idea what shape his career would take and calls himself lucky; Lapin worked at the family ice cream shop, talked his way into a symphony internship, and went back to graduate school "with very little plan for my artistic future"; Goodstein wanted principal clarinet in the New York Philharmonic, discovered in his first weeks as an undergraduate that he sat in the middle of the section, and switched to music education as "nothing but a safety net at the time."
+Then all three authors put their own histories on the page: McCurdy went straight through three degrees with no idea what shape their career would take and calls themselves lucky; Lapin worked at the family ice cream shop, talked their way into a symphony internship, and went back to graduate school "with very little plan for my artistic future"; Goodstein wanted principal clarinet in the New York Philharmonic, discovered in their first weeks as an undergraduate that they sat in the middle of the section, and switched to music education as "nothing but a safety net at the time."
 
 **A live question for a graduate seminar.** This is a chapter arguing against reflexive graduate study, assigned to graduate students in week one. Put it to them directly: ask what their reason is, and have them answer it in writing. It sets up the Creative Identity Statement and it is the honest version of the reading.
 
@@ -310,7 +310,7 @@ Drawn from Covey's *The 7 Habits of Highly Effective People*:
 - **Be proactive.** "As an artist, you must become an initiator, a creator." Engage in activities that lead others to present or commission the work. Envision the end of the creation at the beginning: what the finished work looks like, in what venue, with whom.
 - **Leadership against management.** Leadership as the right-brain, philosophical activity; management as organizing the schedule for creating, touring, rehearsals, and business.
 - **Win-win**, particularly in ensembles and collaborations. The hiring reality named directly: a group leader vetting talent asks whether the person plays well with others, shows up on time, and takes care of business.
-- **Stick and stay.** Determination through negative reviews, low attendance, and no bookings. Examples: Snarky Puppy playing empty rooms while Michael League maxed out credit cards, now at major festivals with four Grammys; J. K. Rowling rejected by twelve publishers; Misty Copeland told repeatedly she did not have the right body size and shape before becoming principal at American Ballet Theatre; Fei Fei still practicing eight hours a day. "As an artist, you will be told 'no' far more times than you will hear 'yes.'"
+- **Stick and stay.** Determination through negative reviews, low attendance, and no bookings. Examples: Snarky Puppy playing empty rooms while Michael League maxed out credit cards, now at major festivals with four Grammys; J. K. Rowling rejected by twelve publishers; Misty Copeland told repeatedly they did not have the right body size and shape before becoming principal at American Ballet Theatre; Fei Fei still practicing eight hours a day. "As an artist, you will be told 'no' far more times than you will hear 'yes.'"
 
 ### it's not about the money, yet
 
@@ -348,11 +348,11 @@ The self-evaluation questions, usable verbatim as a seminar prompt: Do you initi
 
 Four fault lines to run the seminar on. Each is real in the texts rather than manufactured.
 
-1. **Is the artist already an entrepreneur, or does the artist have to become one?** Rabideau says the two are "remarkably similar" by disposition, and Kolb agrees that creativity and business are "a natural fit," with Box 1.3 arguing the traits overlap. Drapkin's objection, printed inside Rabideau's own chapter, says musicians are among the most conservative people he has met, competing at sameness. Rabideau does not refute it, he relocates the blame onto conservatory training. Ask the seminar whose account of their own training is more accurate.
+1. **Is the artist already an entrepreneur, or does the artist have to become one?** Rabideau says the two are "remarkably similar" by disposition, and Kolb agrees that creativity and business are "a natural fit," with Box 1.3 arguing the traits overlap. Drapkin's objection, printed inside Rabideau's own chapter, says musicians are among the most conservative people they have met, competing at sameness. Rabideau does not refute it, they relocate the blame onto conservatory training. Ask the seminar whose account of their own training is more accurate.
 
 2. **Does the venture start from the work or from the audience?** Kolb's creative entrepreneur starts with the product they want to make and then hunts for the segment. Andrews's lean method starts with an MVP and lets validated learning reshape the product, and Guillebeau insists on what the customer actually wants rather than what the founder thinks they should have. McCurdy forbids making for crowd approval outright. These are not compatible in practice, and week 6 through week 8 will make students choose.
 
-3. **What counts as artistry.** Doser draws a hard line: remove artistry from the foundation and you are "entrepreneurs who use musical tools." McCurdy's epigraph goes the other way: "Art is what you do, not who you are." Kolb's aesthetic-versus-monetary distinction sits between them, and his highbrow-lowbrow history suggests that the line between art and product is itself a class artifact.
+3. **What counts as artistry.** Doser draws a hard line: remove artistry from the foundation and you are "entrepreneurs who use musical tools." McCurdy's epigraph goes the other way: "Art is what you do, not who you are." Kolb's aesthetic-versus-monetary distinction sits between them, and their highbrow-lowbrow history suggests that the line between art and product is itself a class artifact.
 
 4. **Optimism against the numbers.** Rabideau's second golden age, "anything is possible, everything is possible," and McCurdy's 123 percent degree growth against thinned traditional employment are descriptions of the same field. Both may be true; ask what would have to be the case for both to be true at once, and what that implies about where a career actually gets built.
 
@@ -365,7 +365,7 @@ A workable order for a three-hour session, with the passage to work from for eac
 - Open on the word itself. Say's coinage as "a declaration of dissent" (Andrews p. 1) against Rabideau's reclamation toward invention (p. 1). Get students to define it in their own words before either author does it for them.
 - The history and the class question. Kolb pp. 9–11, the shift from skill to vision and the highbrow-lowbrow judgment. Include the periodization problem noted above.
 - The two values. Kolb p. 11, aesthetic and monetary, and whether students can name a work whose value they hold entirely on one side.
-- Disruption is optional. Andrews pp. 2–3, then his three counterexamples, then ask each student for a venture in their own field that adds rather than displaces.
+- Disruption is optional. Andrews pp. 2–3, then their three counterexamples, then ask each student for a venture in their own field that adds rather than displaces.
 - The mechanism, live. MVP, build-measure-learn, validated learning (Andrews pp. 5–6), applied to something each student could test within a month.
 - The portraits. Rabideau pp. 6–9, one artist each, and the specific mechanism rather than the biography: the transcriptions sold, the liner notes written, the concert dress redesigned, the club series founded.
 - The hard turn. McCurdy on the labor market and fear-based education. This is where the reflection prompt earns its second and third moves.
@@ -393,4 +393,4 @@ Week 1 traces to MUS 603 outcomes 2 and 5.
 
 - Andrews names the author of *The Art of the Start* as "Gary Kawasaki" in the body text at p. 10; the author is Guy Kawasaki, and Andrews's own endnote 6 has it right. Use the correct name if quoting aloud.
 - Andrews's body text gives "Joseph S. Roberts and Clark A. Green" at p. 17 while endnote 9 reads "Roberts, Joseph S., and Clarke A. Greene."
-- Kolb's dating of the highbrow-lowbrow split to the seventeenth century does not match her sources: Woodmansee's subject is the eighteenth century and Levine's *Highbrow/Lowbrow* is nineteenth-century America.
+- Kolb's dating of the highbrow-lowbrow split to the seventeenth century does not match their sources: Woodmansee's subject is the eighteenth century and Levine's *Highbrow/Lowbrow* is nineteenth-century America.

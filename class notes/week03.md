@@ -33,7 +33,7 @@ Have NYFA chapter 1 and Andrews chapter 2 open for the second half. We work from
 
 Entrepreneurship in these books means seeing an opportunity and building something from the skills and resources you already have. Money is in the picture as the means that buys back the time to work.
 
-- Kolb, chapter 1. Art has an aesthetic value and a monetary value, and they're separate. A venture takes one of three forms: government, nonprofit, or business. Two questions from her stay with us all term. Do you reach your audience through an intermediary, an agent or gallery or label that takes a cut, or directly? And do you build a nonprofit or a business?
+- Kolb, chapter 1. Art has an aesthetic value and a monetary value, and they're separate. A venture takes one of three forms: government, nonprofit, or business. Two questions from Kolb stay with us all term. Do you reach your audience through an intermediary, an agent or gallery or label that takes a cut, or directly? And do you build a nonprofit or a business?
 - Andrews, chapter 1. The textbook definitions (Drucker, Schumpeter, disruption, the minimum viable product) and then the part that departs from them: an arts venture usually starts from your values rather than from a product, and a lifetime practice is a different thing from a venture built to be sold to someone else.
 - Rabideau, chapter 1. The artist and the entrepreneur are the same animal. Five mindsets: curiosity, creativity, collaboration, persistence, critical optimism. Three skill sets: storytelling, funding, and moving ideas to action.
 - McCurdy, chapter 1. A blunt account of the economy you're entering, a caution about fear-based education (defaulting to more school), and the claim that the work starts with deciding who you are as an artist.
@@ -45,7 +45,7 @@ Underneath all four: artistry belongs to everyone, in every community, and your 
 Voice is the part of the work that's unmistakably yours. Values are what decide which work you take and which you turn down. Both are discovered rather than declared.
 
 - McCurdy, chapter 2. The artist as storyteller. The artistic DNA exercise sends you into your own roots for the story only you can tell.
-- Rabideau, chapter 3. You're more than your instrument. The transferable strengths a creative career runs on, which he calls superpowers, tie to your values. Sarah Robinson, the flutist who stopped chasing the right job, built an internal compass instead: a short set of questions she checks real work against.
+- Rabideau, chapter 3. You're more than your instrument. The transferable strengths a creative career runs on, which they call superpowers, tie to your values. Sarah Robinson, the flutist who stopped chasing the right job, built an internal compass instead: a short set of questions they check real work against.
 - Rabideau, chapter 4. Your voice enters where you stop being predictable. The five-stage creative process, and Mark Clague on measured risk.
 
 One idea from that week decides a lot tonight. A stated value is the one that goes on a website. A governing value has turned something down.
@@ -108,9 +108,9 @@ A mission is present purpose: what you do, for whom, and why. It describes what 
 A vision is future direction: where the practice is going, or the values you won't sacrifice under any circumstances, held up as the lens every decision passes through.
 
 - NYFA, chapter 1. A mission in under two dozen words is the target. NYFA's own is ten: "to empower artists at critical stages in their creative lives." The vision takes one of two forms, either a dated goal (by 2030 the organization will have done x) or the core values and nonnegotiables. In the second form it works almost exactly like the Values Statement you already wrote.
-- Kolb, chapter 2. Her worked example is the Association of Professional Art Advisors, and she breaks its mission into four parts: who it is (art experts), what it does (establish and circulate guidelines for acquiring and presenting art), for whom (corporations, public art projects, private collectors), and its values (integrity, connoisseurship, education). Run your own sentence through those four slots and see which slot is empty.
-- Andrews, chapter 2. Five questions build the mission: what do we do, why do we do it, how do we do it, for whom, and what benefit do we provide. His before-and-after is the Theatrical Theater Company. The before states a purpose that could belong to any theater company in the country. The after names the founding year, the city, the audience, the price point, and the kind of playwright, and it's about the same length.
-- Landry, chapter 1. The mission as a mantra, short enough to hang on a wall. She gets there through the UVP, the Unique Value Principle, which is what makes you and your work distinct from everyone else doing something similar. She surfaces it with a word cloud or a mind map before writing a sentence.
+- Kolb, chapter 2. Their worked example is the Association of Professional Art Advisors, and they break its mission into four parts: who it is (art experts), what it does (establish and circulate guidelines for acquiring and presenting art), for whom (corporations, public art projects, private collectors), and its values (integrity, connoisseurship, education). Run your own sentence through those four slots and see which slot is empty.
+- Andrews, chapter 2. Five questions build the mission: what do we do, why do we do it, how do we do it, for whom, and what benefit do we provide. Their before-and-after is the Theatrical Theater Company. The before states a purpose that could belong to any theater company in the country. The after names the founding year, the city, the audience, the price point, and the kind of playwright, and it's about the same length.
+- Landry, chapter 1. The mission as a mantra, short enough to hang on a wall. They get there through the UVP, the Unique Value Principle, which is what makes you and your work distinct from everyone else doing something similar. They surface it with a word cloud or a mind map before writing a sentence.
 
 Both NYFA and Andrews follow the mission with a SWOT analysis: strengths and weaknesses, which are internal to you, and opportunities and threats, which are outside. NYFA adds one restriction. Other artists don't count as threats.
 
@@ -141,7 +141,7 @@ Bring the opportunity your statements would decline. If nothing would be decline
 Two places we'll press:
 
 - Landry lets mission and vision blur when you're working on a single project. NYFA, Kolb, and Andrews keep them apart. When you write one sentence, which of the two are you writing?
-- Kolb splits your personal statements from your statements for the business, with the values consistent across both. She calls the underlying situation the portfolio career: most artists run several revenue streams at once, meaning several separate sources of income, typically their own creative work, support work inside a larger organization, and often an unrelated job. That's live for this room, where teaching, contract, and studio income sit alongside the creative practice. It's also the frame for the Career Ecosystem Map you build next week.
+- Kolb splits your personal statements from your statements for the business, with the values consistent across both. They call the underlying situation the portfolio career: most artists run several revenue streams at once, meaning several separate sources of income, typically their own creative work, support work inside a larger organization, and often an unrelated job. That's live for this room, where teaching, contract, and studio income sit alongside the creative practice. It's also the frame for the Career Ecosystem Map you build next week.
 
 ## 8:15 setting up week 4
 
