@@ -4,9 +4,31 @@ Editorial conventions and locked design decisions for the course. Authoritative:
 
 ## the course
 
-One course, two numbers, off one repo. MUS 603 is the graduate version; MUS 303 is the undergraduate version and satisfies GE-UD-C. Enrollment does not overlap, and the content is shared. Only one number runs in a given term. The 303/603 deltas live in levels.md.
+Entrepreneurship in the Arts introduces the practical, cultural, and ethical dimensions of entrepreneurship in the arts: how creative work circulates within economic systems, how social identity and power shape access and opportunity, and how artists build sustainable careers through self-marketing, audience engagement, and professional awareness. Power and social identity run through every week. Assessment is reflection, application, and a cumulative portfolio. There are no exams.
 
-Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
+One course, two numbers, off one repo. MUS 603 is the graduate version; MUS 303 is the undergraduate version and satisfies GE-UD-C. Enrollment does not overlap, and the content is shared. Only one number runs in a given term.
+
+Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom. Term dates and office hours are in the syllabus.
+
+## levels
+
+One shared spine holds the weekly topics, the readings, the Portfolio Components, the Reflections, the final portfolio, the term calendar, and the delivery frame. A thin level layer in levels.md holds only the deltas and the catalog-verbatim outcomes for both numbers. There are no parallel trees. The live site presents the active level; the repo holds both.
+
+"Level" names the 303/603 distinction, and "mode" names the two working modes below. Any drafted material names the level it targets and traces to that level's outcomes as written in levels.md.
+
+## students and delivery
+
+Students enter with a wide range of professional and disciplinary experience. There is rarely a single correct answer: students translate the frameworks into decisions about their own practice and defend them.
+
+Live-session material is designed for a three-hour graduate seminar. Async material is completed independently between sessions.
+
+## modes
+
+Design mode: building or revising course materials (syllabus sections, weekly module pages and live-session plans, Reflection prompts, Portfolio Component assignments, rubrics, discussion prompts, accessibility-conscious instructions), matched to the active term's delivery and level.
+
+Teaching mode: support during the term (drafted feedback on student work, model responses to student questions, weekly announcements, live-session facilitation notes, revised prompts).
+
+The mode follows from context. When it's unclear, ask once.
 
 ## repo layout
 
@@ -17,7 +39,7 @@ Active term: Fall 2026, MUS 603, online synchronous, Mondays 6–9pm by Zoom.
 - class notes/ holds a Markdown session plan for each live week (weekNN.md): the running order for the three-hour seminar, the recap of prior weeks, an account of the components already written, the discussion order for the readings, and the in-class exercises. Written in the second person, addressed to the student, under the student-facing style rules. It links to the week's reading notes rather than repeating them. Written from week 3 forward; the two asynchronous weeks have none. No student information.
 - README.md is the instructor's index: the current list of student-facing links for copying into Canvas, plus the layout. Update it whenever a student-facing page is added or renamed.
 
-GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only.
+GitHub Pages serves main at the root path. There is no index page; the HTML pages are linked directly from Canvas. Pages are self-contained and browser-only, with no build step. Student-facing pages are HTML on assets/style.css; specs, READMEs, and internal notes are Markdown.
 
 The repository is public, which includes under-the-hood/ and reading notes/. Keep anything sensitive out of it.
 
@@ -25,7 +47,7 @@ No student information goes in the repository: no names, no submitted work, no g
 
 ## palette and type
 
-Warm chalk paper with a deep pine-teal accent. Reference the variables by name; never hardcode hex in page CSS.
+Warm chalk paper with a deep pine-teal accent. Reference the variables by name; never hardcode hex in page CSS. SVG diagrams are written inline in the HTML; CSS variables don't resolve in an SVG loaded through <img src>.
 
 - --bg #f4f2ec, --bg-alt #ebe7db
 - --ink #23241e, --ink-soft #5c5d53
@@ -57,7 +79,7 @@ Factual claims in student-facing content need grounding: industry practice, lega
 
 ## git
 
-Commit directly to main with the project token, one logical change per commit, descriptive multi-line messages, and push after each. For destructive or wide-reaching operations (reorganizations, mass renames, deletions), describe the plan and wait for confirmation. Commits are authored as the instructor. STATUS is current state; the git log is the historical record.
+Commit directly to main with the project token, one logical change per commit, descriptive multi-line messages, and push after each. For destructive or wide-reaching operations (reorganizations, mass renames, deletions), describe the plan and wait for confirmation. Commits are authored as the instructor. Commit messages name what changed and stop. Repo files aren't presented or attached in chat: commit, push, and report what changed and what needs a decision. STATUS is current state; the git log is the historical record.
 
 ## file conventions
 
@@ -77,7 +99,7 @@ When a chapter is assigned in more than one week, cite the section rather than t
 Page structure:
 - eyebrow (week number and date), title (the week's topic), subtitle (the module), and a one or two sentence lede.
 - a weekbar: the at-a-glance line naming the reading, what is due before class, and the portfolio component.
-- "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use.
+- "this week": the framing. It poses the week's question and the tensions across the readings and points at what to notice. It does not pre-digest each chapter's argument. Define each framework term on first use and keep it consistent; vocabulary builds across the term.
 - "the reading": a guided list. Each reading gets its citation with page range, a sentence or two on what it is and what it covers, and a mono "look for" line aimed at the part that matters most.
 - "reflection": marked due before class, prompt in a callout, with a note that it does not go in the portfolio.
 - "portfolio component": the component name, what it is and why it matters, guiding questions, and a short written brief in a callout. End on the brief; no closing "what a strong X is" line and no forward or next-week note.

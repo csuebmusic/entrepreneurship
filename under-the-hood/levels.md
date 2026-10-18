@@ -8,7 +8,7 @@ Active term: Fall 2026, MUS 603. The 303 side is a stub, populated enough to be 
 
 - Units: 3. Grading: A–F only.
 - Delivery: online synchronous, Mondays 6–9pm by Zoom. The Monday session is the seminar core (discussion, case analysis, peer workshop); readings, reflections, and components sit async around it.
-- Audience: graduate music students.
+- Audience: graduate music students. Assume more and push the analysis further.
 - Rigor: SLO 4 is "develop and implement a comprehensive marketing plan." The "implement" verb is satisfied by the students' concurrent practice rather than by a separate graded artifact. The course collects the plan, not evidence of its execution. The graduate load sits in the reading, the outside sources, the writing expectations, and the synchronous final presentation.
 - No GE overlay.
 - Outcomes (catalog, verbatim on the syllabus):
