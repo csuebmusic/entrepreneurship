@@ -9,7 +9,7 @@ Reading summaries: [reading notes/week11.md](../reading%20notes/week11.md). Stud
 
 ## October 26
 
-6:00 to 7:30. Your Reflection is the material for the whole session, so keep it open. On screen tonight: the adjective list from the warm-up, the worked examples, and the twelve context cards.
+6:00 to 7:30. Keep your Reflection open: every exercise tonight uses it. On screen tonight: the adjective list from the warm-up, the worked examples, and the twelve context cards.
 
 ### running order
 
@@ -30,7 +30,7 @@ In chat:
 
 ### 6:02 warm-up, the cover
 
-Kolb (p. 178) turns the old saying around for intangible work like performance: the cover, the brand image, has to tell people what's inside before they buy. Their starting point for a brand is a set of emotional adjectives describing the mission and the work, with examples such as durable, trendy, safe, exciting, and calming.
+Kolb (pp. 177–178) writes that a brand matters most for performance, since nobody can try a concert before buying a ticket. They reverse the saying "you can't know a book by its cover": for a concert or a play, the brand image is the cover, and it has to tell people what the evening will be like before they buy. To start a brand, Kolb suggests listing emotional adjectives for the mission and the work, such as durable, trendy, safe, exciting, and calming (p. 178).
 
 In chat:
 
@@ -50,7 +50,7 @@ A brand is what people expect from you before they've experienced the work.
 
 - Kolb (p. 176): a brand is words plus a symbol that tell a buyer what you value as well as what the product does. The words are the brand name and the logo is the brand mark.
 - NYFA quotes the American Marketing Association: a brand is a customer experience. It's built up from every contact someone has had with you: the work, the design, the press, and what other people say.
-- Kolb (pp. 177–178): this matters most for performance. Nobody can try a concert before buying the ticket, so the brand has to tell them what the evening will be like. For a performance, you have to judge the book by its cover.
+- Kolb (pp. 177–178): this matters most for performance. Nobody can try a concert before buying the ticket, and the brand has to tell them what the evening will be like. That's the book-cover point from the warm-up.
 
 A brand isn't the same thing as a marketing message.
 
@@ -59,29 +59,34 @@ A brand isn't the same thing as a marketing message.
 - A brand can be built on the benefit, on a place, on a cause, or on a person. For an individual artist it's often the person, the artist's own life story (p. 178).
 - A cause has to be one you already work on. Kolb (p. 179): a cause picked because it's trendy reads as insincere, and the support has to continue rather than happen once.
 
-A brand earns trust, and trust supports a price.
+A brand builds trust, and trust lets you charge more.
 
 - NYFA: Advil and generic ibuprofen are the same drug, and people pay more for Advil because they trust the name. In music, a pianist known for technique can charge more than an unknown for the same Chopin.
 - Kolb (p. 177): people trust recommendations from family and friends more than any advertising.
-- Last week's Pricing Rationale set a price from cost, market, or value. A reputation is a fourth thing that can move the number.
+- Last week's Pricing Rationale set a price from cost, market, or value. A reputation is a fourth thing that can raise the price.
 
 Many artists resist the word, and NYFA takes the objection seriously.
 
 - Corporate brands aim for clarity and consistency. Art often aims for neither, and consistency can feel like a cage.
 - NYFA's answer: for an artist, branding means telling your own story in your own way and not borrowing language that doesn't fit you. Your art is already different from anyone else's, and it doesn't need a slogan to make it different.
-- NYFA quotes Andrew Simonet: a career is like scaffolding. Pay attention to it, but it isn't the house.
+- NYFA quotes Andrew Simonet, the author of *Making Your Life as an Artist*: a career is like scaffolding around a house under construction. Pay attention to it, but if all your effort goes into the scaffolding, you end up with scaffolding and nowhere to live. NYFA applies the same comparison to a brand: the brand supports the art, and the art is the house.
 - Andrews (p. 68) names the risk on both sides. If you ignore your audience, you end up isolated. If you follow the market too closely, you lose what made the work yours.
 
-Under the brand is a story, and Rabideau gives it a shape. The chapter is by Elizabeth Hinckley.
+Every brand has a story behind it, and Rabideau's chapter 10 gives a structure for writing it. The chapter is by Elizabeth Hinckley, a communications consultant who directed public relations for Atlantic Records and the Los Angeles Philharmonic (p. 115).
 
+- The chapter opens with "Bob's Tale" (pp. 116–118), a fable about an inventor named Bob who starts a business. Bob's ads bring in nobody. A fairy then tells Bob that three visitors will come the next day, each with one question:
+  - A young engineer looking for a job asks what change Bob wants to bring about in the world.
+  - A wealthy client asks what Bob can do that countless others couldn't.
+  - An investor hears Bob describe where the company is headed and asks to talk more.
+- Bob answers each one honestly, and all three sign on. That night the fairy explains what Bob did: Bob told a story (p. 118).
 - People remember about three things from a talk (p. 119).
-- A stranger wants to know why you do this, what makes you special, and where you'll take them if they come along (p. 119). In Bob's Tale, which opens the chapter, Bob's three visitors ask exactly these three questions.
+- Hinckley turns Bob's three visitors into the three things any stranger wants to know about you: why you do this, what makes you special, and where you'll take them if they come along (p. 119).
 - Hinckley combines the three answers into one statement they call the Hero Declaration (p. 120). It has three parts:
   - Your heart is why you do this.
   - Your gift is what you can do that others can't.
   - Your vision is where you'll take people, and how you'll know you got there.
 - Hinckley calls the Hero Declaration a mantra and a strategic direction, and the most important thing any audience should remember about you. Every bio, press release, post, and introduction is built from it, and the message stays consistent across platforms that way (p. 120).
-- The Hero Declaration for the chapter's festival example (pp. 129–130) is a short paragraph, and Hinckley writes that it can be used whole or cut into pieces for any press release, brochure, or post.
+- The chapter ends with a planning exercise for an invented yodeling festival in Leavenworth, Washington (pp. 128–130). Its Hero Declaration is a short paragraph. The heart: yodeling makes people happier, and it's at risk of becoming a lost art. The gift: the two founders are singers and champion yodelers. The vision: a successful first year, and new interest in yodeling in the communities the festival reaches. Hinckley writes that the paragraph can be used whole or cut into pieces for any press release, brochure, or post (p. 130).
 - Telling the story (p. 121) means three things:
   - Start from your origin, the reason you began.
   - Let different people tell it in different places: you write the bio, a journalist writes the feature, a fan gives the recommendation.
@@ -123,7 +128,7 @@ The Hero Declaration answers a stranger's three questions in one statement. Your
 
 #### on screen, four minutes
 
-The composer from September 28 started the Oakland series after years of mixing film sound in surround and almost never hearing multichannel music played live outside a university hall.
+The composer from September 28 runs a monthly electroacoustic concert series in a 60-seat gallery in Oakland, with eight speakers in a ring around the audience. They started the series after years of mixing film sound in surround and almost never hearing multichannel music played live outside a university hall.
 
 - Heart: "I believe music written for the space around a listener changes how people listen, and it belongs in a neighborhood room as much as a university hall."
 - Gift: "I can offer an eight-channel system in a 60-seat gallery, years of mixing surround sound, and a circle of composers who write for it."
@@ -170,7 +175,7 @@ Card 3:
 
 > The next piece is written for the eight speakers around you, so it'll come from behind you as often as from the front. I run a monthly series in Oakland for music like this. The next one's the second Friday, pay what you can.
 
-Card 9, Maya telling a friend:
+Card 9, in the words of Maya, the core audience member in the composer's Audience Profile from September 28, telling a friend:
 
 > There's this monthly thing in a gallery in Oakland where the speakers are all around you and the pieces are written for them. You can't get that on headphones. Everyone's there to actually listen. It's ten bucks, or whatever you've got.
 
