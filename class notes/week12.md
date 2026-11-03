@@ -46,37 +46,108 @@ Follow-ups:
 
 ### 6:12 the readings
 
-Reaching people isn't the same as broadcasting at them.
+Five readings, in the order on the student page. Each gets a short account here, then the discussion questions.
 
-- Kolb (p. 200) sorts promotion into three kinds of media. Paid media is advertising you buy. You control every word and image, and it guarantees nothing: at best someone hears it and goes looking at your owned media.
-- Owned media is your own website, feeds, video channels, and blog (pp. 200–201). It asks for a response. People comment, agree, or disagree, and you answer, so it takes more time than paid media. Kolb finds it builds more trust and more community.
-- Earned media is other people talking about you: reviews, posts, fan communities, a video a listener made (p. 201). You can watch it and respond, and you can't control it. The public trusts it for that reason.
-- Kolb (p. 202) on bad reviews: readers tend to believe a bad review of a practical product and to dismiss a bad review of something bought for pleasure, such as art, as the reviewer's own taste. Kolb cites Sweeney (2023) for the point that people may distrust a business with only good reviews.
-- Kolb (p. 202) recommends local influencers with small followings, sometimes called nano-influencers. They keep their credibility with their followers by being honest, and they'll often post in exchange for the product rather than a fee.
-- Traditional media stays. People on social media are flooded with promotion, and nobody is online all the time (p. 199), so Kolb integrates the two.
-- A major event such as an opening night gets a posting schedule planned backward from the date, more frequent as the date gets closer (p. 219).
+#### Kolb, chapter 9, "Building social media relationships" (pp. 198–222)
 
-You don't have to be everywhere.
+Kolb's claim: social media changed how all promotion works, and the change is from broadcasting a message to holding a conversation (p. 202).
 
-- NYFA's chapter 12 reviews the platforms one at a time. Its numbers are from 2016. Read it for the fit: each platform has its own culture and its own audience.
-- Rabideau's Toolkit (p. 184): every outlet has its own personality and norms, and a campaign may do better limited to the outlets most likely to reach your target audience.
+Three kinds of media (pp. 200–202):
 
-Relationships start close.
+- Paid media is advertising you buy: display ads, search ads, ads in a feed. You control every word and image. It builds awareness and guarantees nothing; at best someone hears it and goes to look at your owned media.
+- Owned media is your own website, feeds, photo and video channels, and blog. It asks people to respond, and you answer them, so it takes more time and energy than paid media. Kolb finds it more effective at building trust and a community.
+- Earned media is other people talking about you: comments, reviews, bloggers, a video a buyer made, a fan community with its own pages. You can watch it and respond, and you don't control it. The public trusts it because you don't.
+- Bad reviews (p. 202): readers believe a bad review of a practical product, and they're more likely to dismiss a bad review of something bought for pleasure, such as art, as the reviewer's own taste. Kolb cites Sweeney (2023): people may distrust a business with only good reviews.
+- Influencers are earned media too (p. 202). Kolb recommends local ones with small followings, sometimes called nano-influencers. They stay honest to keep their followers' trust, and they'll often post in exchange for the product rather than a fee.
 
-- McCurdy (chapter 9) builds a fan base from close friends outward, gathering names and email addresses at every performance. A like on a post is fine, and engagement is the part McCurdy cares about. Your handles go in every program.
-- McCurdy lists a fan sign-up page among the things a website needs.
+Traditional media stays (p. 199). People on social media are flooded with promotion, and nobody is online all the time, so Kolb integrates the two.
 
-A plan has goals, a schedule, someone responsible, and a measure.
+Which platforms, in what order (pp. 205–206): start with a website that links to everything else, then a social site with photos and video. A blog or a podcast comes later, and only if you have the time and interest.
 
-- NYFA, chapter 11 (Establishing Short- and Long-Term Goals): marketing goals follow the SMART test from chapter 1, specific, measurable, attainable, relevant, and timely.
-- NYFA's first question is whether you're marketing one event or your practice in general. For a practice, the goals are to engage people, stay relevant to them, mark moments in your career, and keep a conversation going. For an event, the date sets the timeline. NYFA plots it as awareness, then enthusiasm, then the ticket, then a reminder, then documentation and a thank-you.
-- NYFA argues for posting career updates (a residency, a panel, an article) even when you aren't selling anything. When you do ask, people already know why it matters.
-- Rabideau's Toolkit (pp. 184–185) lays out the campaign in six steps: set the goals; choose the networks and set the tone, length, and timing for each; name a point person and a posting schedule with room to answer people in real time; measure what works; post often and tell the stories of the project; and present the work honestly, with original photos.
+A social media strategy in three steps (pp. 207–210):
+
+- Attract. Post content that's interesting and useful, and well produced. People who buy creative work want to know how, where, and by whom it's made, so tell the story of making it and of your values. Kolb gives the 5:3:2 rule (p. 208, citing Dublino 2023): half your content is other people's material your audience cares about, three tenths is about your own work, and one fifth is just for fun, to make you human.
+- Interact. Get people to click, read, and watch, and keep adding new material so there's always something new.
+- Act. Get people to add their own comments, photos, and reviews. Buyers believe other buyers far more than they believe you.
+
+What audiences expect (pp. 211–212): to know who's posting, real interaction rather than automated replies, information that's useful to them, and an answer when something goes wrong. A small business is expected to be authentic in a way a large company isn't, and AI-written posts put that at risk (p. 211).
+
+Awareness, consideration, decision (pp. 212–214). Kolb shortens the buying process to three stages. Nobody can want your work before they know it exists, so the first job is to be found, including in search results. In the consideration stage, if you stay silent about criticism, other people control the conversation about you. Box 9.3 (p. 214) lists ways to ask for reviews.
+
+Community (pp. 215–217): ask fans where to eat before a show, then meet them there; share fans' own creative work; ask what the community needs and do something about it together. Kolb also suggests a private group for your most involved fans (p. 215).
+
+Quality and scheduling (pp. 218–219): your posts have to match the quality of the brand; a sloppy post makes people wonder whether you cut corners in the work. Post regularly, and plan a major event backward from the date, posting more often as it gets closer (p. 219).
+
+#### NYFA, chapter 12, "Marketing Tools and Resources"
+
+NYFA calls social media likely the single most important marketing tool for artists. It's free, and each platform has its own style, culture, and subgroups, so there's a place online for everyone. The problem is noise: a million people could see your post, and that doesn't mean they will.
+
+NYFA reviews the platforms one by one. Its numbers are from a 2016 Pew study, and NYFA itself says they'll be out of date, so read that section for each platform's character rather than the counts.
+
+The general strategies, which still hold:
+
+- Influencers: engage with people your audience trusts by sharing and commenting on their posts, and choose ones whose work you respect.
+- Share other people's content. You stay present without making everything yourself, and the person you shared may return the favor.
+- Focus on what you do well. Pick one platform your audience uses, and use it well. NYFA prefers one platform done well to several done thinly, or the same post copied everywhere.
+- Timing and analytics. Your own audience's habits matter more than general studies of when people are online. The platforms' built-in analytics show who responds, to what, and when.
+- Hashtags: a specific tag puts your post in front of a smaller group that's looking for exactly that.
+
+Beyond social media:
+
+- The website is your online home and the one space shaped entirely by you: home page, biography or about page, work samples, a way to buy, news (only if you'll keep it current), and contact. A clean site with the basics beats an elaborate one that never gets finished.
+- Email is "social media's older, more serious sibling," and NYFA reports it converts better: more readers take an action, such as clicking or buying a ticket. Use email marketing software rather than your personal account. It adds the unsubscribe link the law requires for commercial mail, lets you design and personalize messages and sort your list into groups, and shows who opened and clicked.
+- Press: find the writers who cover work like yours, and thank them whether or not they cover you.
+
+#### NYFA, chapter 11, section Establishing Short- and Long-Term Goals
+
+The main job of a marketing plan, NYFA says, is a clear set of goals, short term and long term, written to the SMART test from chapter 1: specific, measurable, attainable, relevant, timely.
+
+The first question is whether you're marketing one event or your practice in general. NYFA starts with the practice, because an event succeeds only as far as people already know your work.
+
+Marketing a practice. The goals are to engage people, stay relevant to them, mark moments in your career, and keep a conversation going, rather than get them to do one thing. Ways to fill a calendar:
+
+- Tie your work to outside events. NYFA adds that it can feel wrong to connect work to a tragedy, unless your work speaks to it directly or advocacy is part of your practice.
+- Use designated days and observances, or the birthday of an artist who influenced you.
+- Teach. You've spent years on a skill few people have, and showing how it works builds appreciation.
+- Share what an artist's life is like, including how to work with artists (what a musician expects on a gig, how to buy a piece). It builds trust.
+- Post career updates (a residency, a panel, an article) even when you aren't selling anything. When you do ask, people understand why it matters.
+
+Marketing an event. The date sets the timeline. Decide what you want people to do (buy a ticket, RSVP, come to the opening), then plot the steps toward it. NYFA's example for a ticketed show three months out: awareness, then enthusiasm, then the ticket, then a reminder, then documentation and a thank-you.
+
+#### McCurdy, chapter 9, "Marketing and the Use of Social Media"
+
+McCurdy starts from the artist's problem: you've made something, and nobody knows. Most music students never select repertoire, book the hall, or print the programs; they show up and play. McCurdy cites Gail Z. Martin: build your platform and your plan at the same time.
+
+- Fan base: start with close friends and expand outward. Gather names and email addresses at every performance. Likes and follows are fine, and engagement is the part that counts. Your handles go in every program.
+- Website: McCurdy treats it as required for anyone who wants to be taken seriously by presenters. Their list: a home page with photos, bio, video of the work, photo gallery, contact, blog, fan sign-up page, merchandise, and reviews or testimonials. It has to work on a phone, and it has to be kept up to date.
+- Bio: hire a writer if you can. If not, model yours on good bios, leave out padding such as high school honors, and have people you trust read it.
+- Posts: content that reflects your artistry, such as the next show, photos from the last one, a testimonial, a clip from sound check. McCurdy cites Chance the Rapper, who built a career by putting music on SoundCloud with no label. Phone video is fine to start.
+- Platforms follow your audience's age and habits, and they change fast.
+- Advance marketing: a booking is a partnership with the venue, and many presenters count success by the number of people in the seats. Arrange interviews, ask for a review, target ads on social media, and invite other presenters to the show.
+- Newsletters: send one when you have news, such as a major performance, a tour, or a new collaboration, and skip it when you don't. McCurdy compares it to telling a friend your news. Use MailChimp or Constant Contact so each email greets the reader by name and you can see who opened it.
+
+#### Rabideau, Toolkit (pp. 184–189)
+
+Three how-tos at the back of the book.
+
+Social Media Campaign (pp. 184–185), in six steps:
+
+1. Write goals: more followers, general buzz, more mentions of a project or hashtag, more sharing.
+2. Research what each platform can do, choose the networks, and set language, tone, length, and timing for each. Every outlet has its own personality and norms, and you may do better limiting the campaign to the ones that reach your target audience. Use one hashtag or tagline throughout.
+3. Name a point person and a posting schedule, with room to answer people in real time.
+4. Measure as you go: which times of day and which kinds of post get a response.
+5. Post often, keep it social, and tell the stories of the project.
+6. Spell correctly, use original photos, and present the work honestly.
+
+Video Profile (pp. 186–187): a short video as a visual elevator pitch. A clear message with a way to contact you, practiced until it sounds natural, in a quiet, well-lit room, recorded on equipment you know how to use.
+
+Website and blog (pp. 188–189): start by deciding what kind of online presence you need.
 
 Discussion:
 
 - Kolb's owned media takes more time because you answer back. How many hours a week can you give it next to your practice and your job?
 - Is a newsletter owned media in Kolb's sense if nobody writes back?
+- Kolb's 5:3:2 rule puts your own work at three tenths of what you post. What would the other seven tenths be for you?
 - NYFA separates marketing a practice from marketing an event. Which are you doing this month?
 
 ### 6:25 exercise 1, the gap
