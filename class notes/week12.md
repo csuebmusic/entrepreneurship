@@ -182,7 +182,7 @@ This is the last component of the marketing plan that began with the Audience Pr
 
 Week 13 is Legal & Professional Issues, Monday, November 9. There's no Portfolio Component that week. The Reflection is due before class:
 
-> Take one ethics-and-legal case from the readings, a contract, a question of rights or intellectual property, or a scenario of professional conduct, and work it through. How would you handle it? What would you need to find out, and when would you bring in a professional? About two to three pages.
+> Take one ethics-and-legal case from the readings, a contract, a question of rights or intellectual property, or a scenario of professional conduct, and work it through. How would you handle it? What would you need to find out, and when would you bring in a professional? One to two pages.
 
 The readings:
 
