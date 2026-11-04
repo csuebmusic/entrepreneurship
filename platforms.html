@@ -1,0 +1,864 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A current 2026 platform guide comparing options for visual artists, photographers, composers, and performers.">
+  <title>Build Your Platform Presence — Art Entrepreneurship 2026</title>
+  <style>
+    :root {
+      --ink: #252b33;
+      --muted: #69737e;
+      --paper: #f3f4f6;
+      --white: #ffffff;
+      --line: #d8dde3;
+      --navy: #1d252e;
+      --accent: #2e6de8;
+      --accent-soft: #edf3ff;
+      --accent-line: #cbdcff;
+      --shadow: 0 14px 34px rgba(28, 38, 50, .08);
+      --radius: 18px;
+      --radius-sm: 11px;
+      --max: 1240px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+
+    a { color: var(--accent); }
+    a:hover { color: #1f55b8; }
+    button, select, input { font: inherit; }
+    button { cursor: pointer; }
+
+    .hero {
+      color: #f5f7fa;
+      background:
+        radial-gradient(circle at 90% 10%, rgba(46,109,232,.26), transparent 28%),
+        radial-gradient(circle at 12% 90%, rgba(255,255,255,.08), transparent 30%),
+        linear-gradient(135deg, #161b21 0%, #242b34 55%, #303944 100%);
+      padding: 22px 24px 54px;
+    }
+
+    .hero-inner, .page, footer { max-width: var(--max); margin: 0 auto; }
+    .topbar { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+    .brand { display: flex; align-items: center; gap: 10px; font-size: .88rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 800; }
+    .brand-mark { width: 12px; height: 12px; border-radius: 50%; background: var(--accent); box-shadow: 18px 0 #8d96a0, 36px 0 #c5cad0; margin-right: 34px; }
+    .hero .eyebrow { margin-top: 66px; color: #b9c1cb; }
+    .eyebrow { font-size: .78rem; letter-spacing: .13em; text-transform: uppercase; font-weight: 800; }
+    h1, h2, h3, h4 { line-height: 1.1; margin: 0 0 14px; letter-spacing: -.025em; }
+    h1 { max-width: 850px; font-size: clamp(2.6rem, 6vw, 5.4rem); font-weight: 850; }
+    h2 { font-size: clamp(1.9rem, 3vw, 2.7rem); color: var(--navy); }
+    h3 { font-size: 1.32rem; color: var(--navy); }
+    h4 { font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lede { max-width: 750px; margin: 18px 0 0; color: #d2d7de; font-size: 1.12rem; }
+    .date-line { color: #aab3bd; font-size: .9rem; margin-top: 16px; }
+
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+    .btn {
+      border: 1px solid transparent;
+      border-radius: 999px;
+      padding: 10px 16px;
+      font-weight: 800;
+      font-size: .9rem;
+      transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+    }
+    .btn:hover { transform: translateY(-1px); box-shadow: 0 6px 16px rgba(0,0,0,.12); }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-light { background: rgba(255,255,255,.1); color: #fff; border-color: rgba(255,255,255,.3); }
+    .hero-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 42px; }
+    .hero-card { background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.18); border-radius: var(--radius-sm); padding: 16px; min-height: 126px; }
+    .hero-card .num { font-size: 1.85rem; font-weight: 850; color: #9bbaff; }
+    .hero-card h3 { color: #fff; font-size: 1rem; margin: 8px 0 4px; }
+    .hero-card p { color: #c5ccd4; font-size: .9rem; margin: 0; }
+
+    .page { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 38px; padding: 42px 24px 80px; }
+    .sidebar { position: sticky; top: 18px; align-self: start; }
+    .sidebar nav { display: grid; gap: 4px; }
+    .sidebar a { display: block; padding: 8px 10px; color: var(--muted); text-decoration: none; border-left: 3px solid transparent; font-size: .9rem; }
+    .sidebar a:hover, .sidebar a.active { color: var(--navy); border-left-color: var(--accent); background: var(--accent-soft); }
+    .sidebar-note { margin-top: 24px; padding: 14px; border-radius: var(--radius-sm); background: #eceff2; color: var(--navy); font-size: .82rem; }
+
+    main { min-width: 0; }
+    .section { scroll-margin-top: 22px; margin-bottom: 70px; }
+    .section-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 18px; margin-bottom: 22px; }
+    .section-head > div:first-child { max-width: 760px; }
+    .section-kicker { color: var(--accent); margin-bottom: 10px; }
+    .section-intro { color: var(--muted); max-width: 760px; }
+    .pill { display: inline-flex; align-items: center; white-space: nowrap; padding: 7px 11px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent-line); font-size: .78rem; font-weight: 850; }
+
+    .quote {
+      border-left: 5px solid var(--accent);
+      margin: 0 0 26px;
+      padding: 16px 20px;
+      background: var(--accent-soft);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--navy);
+    }
+
+    .card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+    .card { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); }
+    .card p:last-child { margin-bottom: 0; }
+    .card.soft-mint, .card.soft-yellow, .card.soft-lavender, .card.soft-coral { background: #f8f9fa; border-color: var(--line); }
+
+    .stack-flow { display: grid; grid-template-columns: repeat(5, 1fr); gap: 18px; margin: 22px 0 18px; }
+    .stack-step { position: relative; min-height: 136px; padding: 17px; border-radius: var(--radius-sm); color: #fff; overflow: visible; }
+    .stack-step::after { content: "→"; position: absolute; right: -16px; top: 48px; color: var(--accent); font-size: 1.8rem; z-index: 2; }
+    .stack-step:last-child::after { display: none; }
+    .stack-step:nth-child(1) { background: #7b858f; }
+    .stack-step:nth-child(2) { background: #68737e; }
+    .stack-step:nth-child(3) { background: #596570; }
+    .stack-step:nth-child(4) { background: #48545f; }
+    .stack-step:nth-child(5) { background: var(--accent); }
+    .stack-step .step-num { font-size: .75rem; opacity: .8; font-weight: 850; }
+    .stack-step h3 { color: #fff; font-size: 1rem; margin: 10px 0 6px; }
+    .stack-step p { color: rgba(255,255,255,.88); font-size: .82rem; }
+
+    .principles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+    .principle { display: block; padding: 14px; border-radius: var(--radius-sm); background: var(--white); border: 1px solid var(--line); }
+    .principle strong { display: block; color: var(--navy); }
+    .principle p { font-size: .88rem; color: var(--muted); margin: 3px 0 0; }
+
+    .dual-stack { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 18px; }
+    .mini-stack { padding: 18px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--white); box-shadow: var(--shadow); }
+    .mini-stack.asset { background: var(--accent-soft); border-color: var(--accent-line); }
+    .mini-stack.audience { background: #f8f9fa; border-color: var(--line); }
+    .mini-stack h3 { margin-bottom: 5px; }
+    .mini-stack > p { color: var(--muted); font-size: .88rem; }
+    .mini-flow { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 13px; }
+    .mini-flow span:not(.arrow) { padding: 7px 9px; border-radius: 8px; background: rgba(255,255,255,.78); border: 1px solid rgba(24,50,71,.12); color: var(--navy); font-size: .8rem; font-weight: 800; }
+    .mini-flow .arrow { color: var(--accent); font-weight: 900; }
+    .asset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 18px 0; }
+    .asset-card { padding: 16px; border-radius: var(--radius-sm); background: var(--white); border: 1px solid var(--line); }
+    .asset-card h3 { font-size: 1.05rem; margin-bottom: 7px; }
+    .asset-card p { color: var(--muted); font-size: .88rem; margin: 0; }
+    .folder-tree { margin: 14px 0 0; padding: 16px; border-radius: var(--radius-sm); background: #202832; color: #d5dbe2; overflow-x: auto; font: .82rem/1.65 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .folder-tree code { font: inherit; }
+    .exercise-list { display: grid; gap: 8px; margin: 12px 0 0; padding-left: 20px; color: var(--muted); font-size: .9rem; }
+    .exercise-list strong { color: var(--navy); }
+    .small-note { color: var(--muted); font-size: .82rem; }
+
+    .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+    .tab { background: var(--white); border: 1px solid var(--line); border-radius: 999px; padding: 8px 13px; color: var(--muted); font-weight: 750; }
+    .tab[aria-pressed="true"], .tab:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+    .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); background: var(--white); }
+    table { width: 100%; min-width: 760px; border-collapse: collapse; font-size: .9rem; }
+    th, td { padding: 14px 15px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+    th { background: var(--navy); color: #fff; font-size: .76rem; letter-spacing: .08em; text-transform: uppercase; position: sticky; top: 0; }
+    tr:last-child td { border-bottom: 0; }
+    tbody tr:hover { background: #f7f8fa; }
+    td:first-child { min-width: 145px; font-weight: 850; color: var(--navy); }
+    td:nth-child(3) { min-width: 230px; }
+    .source-link { display: inline-block; margin-top: 7px; color: var(--accent); font-size: .78rem; font-weight: 800; text-decoration: none; }
+    .source-link::after { content: " ↗"; }
+    .price { color: var(--accent); font-weight: 750; }
+    .free { color: var(--accent); font-weight: 800; }
+
+    .note { border-radius: var(--radius-sm); padding: 14px 16px; margin: 16px 0; font-size: .9rem; }
+    .note strong { color: var(--navy); }
+    .note-yellow, .note-mint, .note-lavender { background: #f7f8fa; border: 1px solid var(--line); border-left: 3px solid var(--accent); }
+
+    .case-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .case-card { position: relative; padding: 20px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--white); box-shadow: var(--shadow); }
+    .case-label { color: var(--accent); font-size: .76rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 850; }
+    .case-card h3 { margin-top: 8px; }
+    .case-card p { color: var(--muted); }
+    .example-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .example-card { padding: 20px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--white); box-shadow: var(--shadow); }
+    .example-card h3 { margin-top: 8px; }
+    .example-card h3 a { color: var(--navy); text-decoration-color: var(--accent-line); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+    .example-card h3 a:hover { color: var(--accent); }
+    .example-card p { color: var(--muted); }
+    .example-card .source-link { margin-top: 0; }
+    .audit-list { display: grid; gap: 8px; margin: 12px 0 0; padding-left: 20px; color: var(--muted); font-size: .9rem; }
+    .audit-list strong { color: var(--navy); }
+
+    .plan-list { counter-reset: plan; display: grid; gap: 10px; }
+    .plan-item { counter-increment: plan; display: grid; grid-template-columns: 42px 1fr; gap: 13px; align-items: start; padding: 14px; background: var(--white); border: 1px solid var(--line); border-radius: var(--radius-sm); }
+    .plan-item::before { content: counter(plan); display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 850; }
+    .plan-item strong { color: var(--navy); }
+    .plan-item p { color: var(--muted); font-size: .9rem; margin: 3px 0 0; }
+
+    .reflection-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .prompt { padding: 14px; border-radius: var(--radius-sm); background: var(--white); border: 1px dashed #bcc4cd; color: var(--navy); font-weight: 750; }
+
+    footer { border-top: 1px solid var(--line); padding: 26px 24px 50px; color: var(--muted); font-size: .82rem; }
+    footer strong { color: var(--navy); }
+    .back-top { position: fixed; right: 18px; bottom: 18px; width: 42px; height: 42px; border: 0; border-radius: 50%; background: var(--navy); color: #fff; box-shadow: var(--shadow); opacity: 0; pointer-events: none; transition: opacity .2s ease; }
+    .back-top.visible { opacity: 1; pointer-events: auto; }
+
+    @media (max-width: 980px) {
+      .page { grid-template-columns: 1fr; padding-top: 28px; }
+      .sidebar { position: static; }
+      .sidebar nav { display: flex; overflow-x: auto; gap: 4px; padding-bottom: 5px; }
+      .sidebar a { white-space: nowrap; border-left: 0; border-bottom: 3px solid transparent; }
+      .sidebar a:hover, .sidebar a.active { border-left: 0; border-bottom-color: var(--accent); }
+      .sidebar-note { display: none; }
+      .hero-cards { grid-template-columns: repeat(2, 1fr); }
+      .stack-flow { grid-template-columns: 1fr; gap: 28px; }
+      .stack-step { min-height: 0; }
+      .stack-step::after { content: "↓"; right: auto; left: 50%; top: auto; bottom: -27px; transform: translateX(-50%); }
+    }
+
+    @media (max-width: 650px) {
+      .hero { padding: 18px 17px 36px; }
+      .hero .eyebrow { margin-top: 45px; }
+      .page { padding-left: 17px; padding-right: 17px; }
+      .hero-cards, .card-grid, .principles, .case-grid, .example-grid, .reflection-grid { grid-template-columns: 1fr; }
+      .dual-stack, .asset-grid { grid-template-columns: 1fr; }
+      .stack-flow { grid-template-columns: 1fr; }
+      h1 { font-size: 2.7rem; }
+      .topbar .btn { padding: 8px 10px; font-size: .78rem; }
+    }
+
+    @media print {
+      body { background: #fff; }
+      .hero { color: #111; background: #fff; padding: 0 0 25px; border-bottom: 2px solid #111; }
+      .hero .eyebrow, .date-line, .lede, .hero-card p { color: #333; }
+      .hero h1, .hero h2, .hero h3 { color: #111; }
+      .topbar .btn, .hero-actions, .sidebar, .back-top, .tabs { display: none !important; }
+      .hero-cards { margin-top: 20px; }
+      .hero-card { color: #111; background: #fff; border: 1px solid #aaa; }
+      .hero-card h3 { color: #111; }
+      .hero-card .num { color: #111; }
+      .page { display: block; padding: 24px 0 0; }
+      .section { margin-bottom: 36px; }
+      .card, .table-wrap, .case-card, .example-card { box-shadow: none; }
+      .card, .case-card, .example-card, .mini-stack { break-inside: avoid; }
+      .table-wrap { overflow: visible; }
+      table { min-width: 0; font-size: .75rem; }
+      thead { display: table-header-group; }
+      tr { break-inside: avoid; }
+      th { position: static; }
+      .source-link { color: #111; }
+      footer { padding-left: 0; padding-right: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <div class="topbar">
+        <div class="brand"><span class="brand-mark" aria-hidden="true"></span> Art Entrepreneurship</div>
+        <button class="btn btn-light" id="printBtn" type="button">Print / save PDF</button>
+      </div>
+
+      <div class="eyebrow">Current platform survey · October 19, 2026</div>
+      <h1>Build your platform presence.</h1>
+      <p class="lede">A current 2026 platform guide for visual artists, photographers, composers, and performers: compare reach, presentation, relationships, revenue, control, and the files behind the work.</p>
+      <p class="date-line">Core question: Which platform should perform which job in your creative career?</p>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#framework">Start with the framework</a>
+        <a class="btn btn-light" href="#platforms">Jump to the platform survey</a>
+        <a class="btn btn-light" href="#hosting">File hosting &amp; delivery</a>
+      </div>
+
+      <div class="hero-cards" aria-label="Platform overview">
+        <div class="hero-card"><div class="num">01</div><h3>Discovery</h3><p>Help strangers find the work.</p></div>
+        <div class="hero-card"><div class="num">02</div><h3>Proof</h3><p>Show quality, context, and skills.</p></div>
+        <div class="hero-card"><div class="num">03</div><h3>Relationship</h3><p>Build an audience you can reach.</p></div>
+        <div class="hero-card"><div class="num">04</div><h3>Revenue / booking</h3><p>Turn attention into a paid next step.</p></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="page">
+    <aside class="sidebar" aria-label="Page navigation">
+      <nav>
+        <a href="#framework">Framework</a>
+        <a href="#assets">Asset pipeline</a>
+        <a href="#hosting">File hosting</a>
+        <a href="#platforms">Platform survey</a>
+        <a href="#home-bases">Home bases</a>
+        <a href="#visual">Visual + photo</a>
+        <a href="#music">Music</a>
+        <a href="#both">Shared channels</a>
+        <a href="#cases">Case studies</a>
+        <a href="#examples">Live examples</a>
+        <a href="#ninety">90-day plan</a>
+      </nav>
+      <div class="sidebar-note"><strong>Rule of thumb</strong><br>Choose the right job, audience, and tradeoff—not the “best” platform.</div>
+    </aside>
+
+    <main>
+      <section class="section" id="framework">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">01 · Framework</div>
+            <h2>Build a system, not a single profile</h2>
+            <p class="section-intro">A platform becomes strategically useful when its role is clear.</p>
+          </div>
+        </div>
+
+        <div class="stack-flow" aria-label="The five stages of a platform presence">
+          <div class="stack-step"><div class="step-num">01</div><h3>Discovery</h3><p>Where do new people encounter the work?</p></div>
+          <div class="stack-step"><div class="step-num">02</div><h3>Portfolio / proof</h3><p>Where do they see quality and context?</p></div>
+          <div class="stack-step"><div class="step-num">03</div><h3>Relationship</h3><p>How can the artist reach them again?</p></div>
+          <div class="stack-step"><div class="step-num">04</div><h3>Sale / booking</h3><p>What is the clear transaction or invitation?</p></div>
+          <div class="stack-step"><div class="step-num">05</div><h3>Repeat audience</h3><p>How does one encounter become a practice?</p></div>
+        </div>
+
+        <div class="principles">
+          <div class="principle"><strong>Reach is rented.</strong><p>Algorithms and marketplace traffic can change. Use them for discovery, but do not confuse reach with ownership.</p></div>
+          <div class="principle"><strong>Own the domain; export the content.</strong><p>A home base is more controllable than a rented profile, but a site builder may not make every page or database portable.</p></div>
+          <div class="principle"><strong>Fees are only one cost.</strong><p>Also count time, storage, fulfillment, customer data, lock-in, and the work required to stay visible.</p></div>
+          <div class="principle"><strong>Consistency beats presence everywhere.</strong><p>One coherent identity and a reliable next step are more valuable than abandoned accounts on ten services.</p></div>
+        </div>
+
+        <div class="dual-stack">
+          <div class="mini-stack audience">
+            <h3>Audience system</h3>
+            <p>The public-facing path from first encounter to a meaningful next step.</p>
+            <div class="mini-flow" aria-label="Audience system flow"><span>Discovery</span><span class="arrow">→</span><span>Website / home base</span><span class="arrow">→</span><span>Relationship</span><span class="arrow">→</span><span>Sale / booking</span></div>
+          </div>
+          <div class="mini-stack asset">
+            <h3>Asset system</h3>
+            <p>The technical foundation that protects the work behind the public presentation.</p>
+            <div class="mini-flow" aria-label="Asset system flow"><span>Local master</span><span class="arrow">→</span><span>Backup</span><span class="arrow">→</span><span>Web export</span><span class="arrow">→</span><span>Delivery / publish</span></div>
+          </div>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card">
+            <h3>Control and exit check</h3>
+            <ul class="exercise-list">
+              <li><strong>Account:</strong> Is the artist the owner, with two-factor authentication and recovery codes?</li>
+              <li><strong>Domain:</strong> Is the domain registered in the artist’s own account?</li>
+              <li><strong>Export:</strong> Can the artist retrieve files, contacts, subscribers, orders, and site content?</li>
+              <li><strong>Terms:</strong> What rights does the service claim over uploaded work, data, or AI training?</li>
+              <li><strong>Exit:</strong> What happens to the files, links, audience, and public pages if payment stops?</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Relationship is an asset</h3>
+            <p>An audience is not the same as a follower count. Treat consent-based email addresses, booking contacts, client records, and transaction history as exportable business records.</p>
+            <p class="small-note">Use a professional email address and keep a current export outside the platform.</p>
+          </div>
+          <div class="card">
+            <h3>Platform means a job</h3>
+            <p>In this guide, a platform may be a website builder, discovery channel, marketplace, file host, distributor, newsletter service, or payment layer. One service may do several jobs; no service should silently become the only archive.</p>
+          </div>
+        </div>
+
+        <div class="note note-yellow"><strong>Keep the layers distinct:</strong> Domain = web address · website builder = presentation · email = communication · file host = access · backup = recovery.</div>
+      </section>
+
+      <section class="section" id="assets">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">02 · Technical foundation</div>
+            <h2>Local first; published second</h2>
+            <p class="section-intro">Keep organized source files locally, back them up independently, and publish only deliberate exports.</p>
+          </div>
+          <span class="pill">Streaming is publishing, not archiving.</span>
+        </div>
+
+        <div class="note note-yellow"><strong>We are not assuming local hosting for everything.</strong> “Local first” means the artist has an organized source-of-truth library under their control. A website host, cloud storage service, digital store, or streaming platform can serve selected public or delivery copies. None of those should be the only archive.</div>
+
+        <div class="asset-grid">
+          <div class="asset-card"><h3>Master files</h3><p>Editable notation files, WAV/AIFF masters, RAW/TIFF/PSD images, high-resolution video, original design files, and complete project folders.</p></div>
+          <div class="asset-card"><h3>Web exports</h3><p>Compressed audio, web-sized images, selected score excerpts, embedded video, and a current electronic press kit (EPK) or portfolio PDF.</p></div>
+          <div class="asset-card"><h3>Delivery copies</h3><p>Full scores, parts, stems, press photos, tech riders, licenses, and client files shared through the right access level.</p></div>
+        </div>
+
+        <div class="table-wrap">
+          <table aria-label="File organization and publishing roles">
+            <thead><tr><th>Job</th><th>What belongs there</th><th>Teaching rule</th></tr></thead>
+            <tbody>
+              <tr><td>Local source library</td><td>Original, editable, and high-resolution files</td><td>Keep the master even after making a PDF, MP3, JPEG, or streaming upload.</td></tr>
+              <tr><td>Independent backup</td><td>A second local drive plus an off-site or cloud copy</td><td>Use the 3–2–1 rule: three copies, two storage media or destinations, one off-site. Keep at least one copy versioned, disconnected, or otherwise protected from mirrored deletion.</td></tr>
+              <tr><td>Public website</td><td>Selected works, context, audio/video, excerpts, EPK, and clear contact or booking actions</td><td>Show enough evidence to invite the next step; do not expose every master.</td></tr>
+              <tr><td>Restricted delivery</td><td>Full score/parts, stems, high-resolution photos, or client materials</td><td>Use view-only, password, or expiring links when appropriate; track what was sent.</td></tr>
+              <tr><td>Streaming/distribution</td><td>Listening and viewing copies for discovery and audience access</td><td>Streaming is an endpoint. If the account disappears, the artist should be able to re-upload.</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card soft-lavender">
+            <h3>Composer website example</h3>
+            <p><strong>Work page:</strong> title, instrumentation, duration, year, program note, credits, recording, video, and a one- to three-page score excerpt that the artist has permission to publish.</p>
+            <p><strong>Next step:</strong> “Request full score/parts” or “Commission this work.”</p>
+          </div>
+          <div class="card soft-mint">
+            <h3>Performer website example</h3>
+            <p><strong>Electronic press kit (EPK) page:</strong> short and long bio, repertoire, press photos, performance video, calendar, press quotes, technical rider, and contact form.</p>
+            <p><strong>Next step:</strong> “Book this performer” or “Download EPK.”</p>
+          </div>
+          <div class="card soft-yellow">
+            <h3>Public is not the only access level</h3>
+            <p>Use public pages for discovery, restricted links for full materials, and paid delivery when the work is licensed or sold. “Contact me” is a call to action, not a substitute for evidence.</p>
+          </div>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card">
+            <h3>Public-facing baseline</h3>
+            <p>Use alt text, captions, transcripts where useful, readable PDFs, descriptive links, and a professional contact email. Check the page on a phone before sending people there.</p>
+          </div>
+          <div class="card">
+            <h3>Rights gate</h3>
+            <p>Before publishing, sharing, selling, or licensing a file, confirm permissions for collaborators, performers, samples, clients, publishers, models, locations, and commissioned material.</p>
+          </div>
+          <div class="card">
+            <h3>Export matrix</h3>
+            <p>Keep master, web, review, and delivery versions distinct. The public file should be the smallest useful export, not the highest-value source.</p>
+          </div>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card">
+            <h3>Can I publish it?</h3>
+            <p>Confirm permission to show the work, recording, image, excerpt, collaborator credit, sample, model, location, or client material in the place you selected.</p>
+          </div>
+          <div class="card">
+            <h3>What does the client receive?</h3>
+            <p>State whether the client receives a license, ownership, or permission to perform, record, or synchronize the work; where it may be used, for how long, whether use is exclusive, and whether the artist may show it in a portfolio.</p>
+          </div>
+          <div class="card">
+            <h3>What travels with the file?</h3>
+            <p>Keep credits, releases, collaborator splits, composition and sound-recording rights, catalog identifiers, and the delivery terms with the project record.</p>
+          </div>
+        </div>
+
+        <div class="dual-stack" style="margin-top: 18px;">
+          <div class="mini-stack">
+            <h3>Suggested library structure</h3>
+            <pre class="folder-tree"><code>Creative_Library/
+  00_Inbox_To_Sort/
+  01_Works/
+    2026_Title/
+      01_Source/
+      02_Master_Exports/
+      03_Web/
+      04_Delivery/
+      05_Metadata_Rights/
+  02_Portfolio/
+  03_Press_Kit/
+  04_Website/
+  05_Archive/</code></pre>
+            <p class="small-note">Do not put a “backup” folder on the same drive and call that a backup. The backup must be a separate copy or destination.</p>
+          </div>
+          <div class="mini-stack">
+            <h3>Name files so they remain findable</h3>
+            <pre class="folder-tree"><code>Title_FullScore_Master_v03.pdf
+Title_Listen_24bit96k_Master_v02.wav
+Title_WebPreview_v01.mp3
+ArtistName_EPK_v01.pdf</code></pre>
+            <p class="small-note">Use project titles, asset type, and version numbers. Here “Master” means the approved PDF export; keep the editable notation source separately. Retire “final-final.pdf.”</p>
+          </div>
+        </div>
+
+        <div class="note note-mint" style="margin-top: 18px;"><strong>Discipline-specific dependencies:</strong> The visible export is not always the whole project. Keep the source files and the materials needed to reopen, revise, credit, or legally use the work.</div>
+        <div class="table-wrap">
+          <table aria-label="Discipline-specific archive checklist">
+            <thead><tr><th>Practice</th><th>Keep with the project</th><th>Separate public or delivery export</th></tr></thead>
+            <tbody>
+              <tr><td>Visual art / design</td><td>Layered source files, fonts, linked images, color profile, client permissions, and high-resolution exports</td><td>Web images, portfolio PDF, installation views, and licensed delivery files</td></tr>
+              <tr><td>Photography</td><td>RAW files, catalog/database, sidecars, presets, releases, original metadata, and print-resolution exports</td><td>Proof gallery, web portfolio images, client downloads, and print files</td></tr>
+              <tr><td>Composition</td><td>Notation source, linked fonts, DAW session, samples, stems, score/parts, collaborator splits, and release metadata</td><td>Score excerpt, listening copy, full score, and parts shared according to permission</td></tr>
+              <tr><td>Performance</td><td>Headshots, bios, repertoire, live video, EPK, tech rider, stage plot, input list, and set lists</td><td>Public EPK, booking packet, venue materials, and performance links</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="small-note" style="margin-top: 10px;">Add a <code>README_Project.md</code> or plain-text manifest with credits, rights, dependencies, versions, export settings, and delivery history.</p>
+
+        <div class="card soft-coral" style="margin-top: 18px;">
+          <h3>File audit</h3>
+          <ol class="exercise-list">
+            <li><strong>Choose one work.</strong> Locate its score, recording, image, or video master.</li>
+            <li><strong>Organize and rename it.</strong> Put it in a project folder using the naming pattern above.</li>
+            <li><strong>Make an export.</strong> Create one web-ready or delivery-ready copy.</li>
+            <li><strong>Check permissions.</strong> Confirm that you can publish, share, sell, or license every component.</li>
+            <li><strong>Choose access.</strong> Mark the file public, link-only, invited/restricted, or password/expiring where supported. Record separately whether it is free review, paid delivery, or contract-bound. Do not call an unlisted link private.</li>
+            <li><strong>Back it up.</strong> Identify the local, second-storage, and off-site copies.</li>
+            <li><strong>Write the metadata.</strong> Record title, date, credits, rights, version, and the intended next step.</li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="section" id="hosting">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">03 · File hosting and delivery</div>
+            <h2>Share files without publishing them</h2>
+            <p class="section-intro">Cloud storage is useful for internal collaboration, review, and delivery. Public websites and streaming services are for public presentation.</p>
+          </div>
+          <span class="pill">Default: restricted access</span>
+        </div>
+
+        <div class="note note-yellow"><strong>Restricted sharing is a separate job from public hosting.</strong> Start with specific people or a restricted folder, choose view/comment/edit access where the service offers it, and share a delivery copy—not the only master. “Anyone with the link” is effectively public.</div>
+
+        <div class="note note-yellow"><strong>Access modes:</strong> Public means discoverable; link-only means anyone with the link; invited/restricted means named people or accounts; password or expiring means the service provides an additional control. Paid/controlled describes a transaction or delivery process, not a privacy setting. Provider labels and controls vary by plan.</div>
+
+        <div class="table-wrap">
+          <table aria-label="Restricted file hosting and delivery options">
+            <thead><tr><th>Service</th><th>Best for</th><th>2026 price / capacity</th><th>Tips for you</th></tr></thead>
+            <tbody>
+              <tr><td>Dropbox</td><td>Restricted project folders, review links, large files, and one-time transfers</td><td>Basic is <span class="free">free with 2 GB</span>. Plus is <span class="price">$9.99/month with 2 TB</span>. Paid sharing features can include password protection, expiration dates, and disabled downloads.<br><a class="source-link" href="https://www.dropbox.com/plans?tab=personal" target="_blank" rel="noopener">Official plans</a> <a class="source-link" href="https://help.dropbox.com/share/set-file-folder-permissions" target="_blank" rel="noopener">Permissions</a></td><td>Use invited-people access or a view-only link for a commissioner, venue, or client. Give edit access only to active collaborators. Use Transfer for a one-time handoff, not as your archive.</td></tr>
+              <tr><td>Google Drive / Google One</td><td>Collaborative documents, scores, folders, and sharing with people already using Google accounts</td><td>Google accounts include <span class="free">15 GB free</span>. Basic is <span class="price">$1.99/month for 100 GB</span>; the listed 2 TB plan is $9.99/month. Storage is shared across Drive, Photos, and Gmail.<br><a class="source-link" href="https://one.google.com/about/plans?hl=en_US" target="_blank" rel="noopener">Official plans</a> <a class="source-link" href="https://support.google.com/drive/answer/2494822" target="_blank" rel="noopener">Sharing help</a></td><td>Leave the folder set to Restricted. Use Viewer for review, Commenter for notes, and Editor for active collaboration. Keep master notation, audio, and image files in the independent archive.</td></tr>
+              <tr><td>OneDrive</td><td>Restricted sharing and syncing for people already working in the Microsoft ecosystem</td><td>Free accounts include <span class="free">5 GB</span>. Microsoft 365 Basic is <span class="price">$1.99/month for 100 GB</span>; Microsoft 365 Personal is $9.99/month or $99.99/year for 1 TB.<br><a class="source-link" href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank" rel="noopener">Official plans</a></td><td>Use specific-people sharing and choose view or edit. Personal Vault is for sensitive files, not a replacement for a working archive. Check what happens to access if a subscription ends.</td></tr>
+              <tr><td>pCloud</td><td>Large file storage, share links with optional controls, folder collaboration, and a lifetime-storage option</td><td><span class="free">Free up to 10 GB</span>. Paid plans include 500 GB, 2 TB, and 10 TB with monthly, annual, or lifetime billing; the current official page displays lifetime options at <span class="price">$219, $499, and $1,499</span> respectively.<br><a class="source-link" href="https://www.pcloud.com/cloud-storage-pricing-plans" target="_blank" rel="noopener">Official pricing</a> <a class="source-link" href="https://help.pcloud.com/article/shared-links" target="_blank" rel="noopener">Sharing help</a></td><td>Use an invited folder for named collaborators or a share link for review and delivery. Premium plans support password protection and custom expiration; watch shared-link traffic. A lifetime plan is still vendor-dependent, not an independent archive.</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card soft-lavender"><h3>Working folder</h3><p>For named collaborators. Use edit access only when people need to add, revise, or organize files.</p></div>
+          <div class="card soft-mint"><h3>Review or delivery link</h3><p>For a commissioner, venue, client, or performer. Use view-only access, a password, or an expiration date when the service supports them.</p></div>
+          <div class="card soft-yellow"><h3>Public page</h3><p>For anyone to see. Upload web exports, selected excerpts, EPKs, and listening copies—not source files or non-public materials.</p></div>
+        </div>
+
+        <div class="dual-stack" style="margin-top: 18px;">
+          <div class="mini-stack">
+            <h3>Simple delivery workflow</h3>
+            <ol class="exercise-list">
+              <li><strong>Keep the master locally.</strong></li>
+              <li><strong>Make a delivery copy.</strong> Add the version and intended recipient to the filename or delivery note.</li>
+              <li><strong>Upload to a restricted folder.</strong></li>
+              <li><strong>Set the access level.</strong> View, comment, or edit—where the service offers those roles.</li>
+              <li><strong>Send the link.</strong> Record what was sent and when.</li>
+              <li><strong>Revoke or expire access</strong> when the project or review period ends.</li>
+            </ol>
+          </div>
+          <div class="mini-stack asset">
+            <h3>Hosting is not backup</h3>
+            <p>A synced cloud folder can mirror an accidental deletion or overwrite. Keep a separate backup copy, preserve versions when possible, and test restoration periodically.</p>
+            <p class="small-note">Use cloud hosting for access and collaboration; use independent backups for recovery.</p>
+          </div>
+        </div>
+
+        <div class="card-grid" style="margin-top: 18px;">
+          <div class="card">
+            <h3>Before a project begins</h3>
+            <p>Use an agreement or written scope covering deliverables, deadline, revisions, rights, payment terms, cancellation terms, and the file-access plan.</p>
+          </div>
+          <div class="card">
+            <h3>Count the whole cost</h3>
+            <p>Subscription + domain/email + payment or marketplace fees + storage/backup + production/fulfillment + time.</p>
+          </div>
+          <div class="card">
+            <h3>Keep the record</h3>
+            <p>Export invoices, receipts, contracts, permissions, delivery notes, and client or booking contacts outside the platform.</p>
+          </div>
+        </div>
+
+        <div class="dual-stack" style="margin-top: 18px;">
+          <div class="mini-stack audience">
+            <h3>Simple project flow</h3>
+            <div class="mini-flow" aria-label="Simple project flow"><span>Inquiry</span><span class="arrow">→</span><span>Agree on scope</span><span class="arrow">→</span><span>Create / perform</span><span class="arrow">→</span><span>Deliver</span><span class="arrow">→</span><span>Payment / record</span><span class="arrow">→</span><span>Follow up</span></div>
+            <p class="small-note">For a small project, an email or short written agreement may be enough. Payment may happen before or after delivery; keep the scope, deadline, rights, and payment terms together.</p>
+          </div>
+          <div class="mini-stack">
+            <h3>What an invoice can show</h3>
+            <pre class="folder-tree"><code>INVOICE 2026-001
+Artist Name · contact
+Client / organization
+Date · due date
+Service or work · quantity · rate
+Total · payment method
+Rights / delivery note</code></pre>
+            <p class="small-note">Not every exchange requires an invoice. It is a useful record of who paid, what the work was, when it happened, and what was delivered.</p>
+          </div>
+        </div>
+
+        <div class="note note-yellow" style="margin-top: 18px;"><strong>W-9 and 1099-NEC:</strong> For a U.S. person paid for independent-contractor work, a payer may ask for Form W-9 to collect a legal name and taxpayer identification number; give it to the requester, not the IRS. International students or non-U.S. payees may receive different tax paperwork. A W-9 concerns the payer/payee relationship, not whether payment arrives by cash, check, ACH, or platform. Use the payer’s secure submission method; never put a taxpayer ID in a public form or file. A payer may later issue Form 1099-NEC for reportable nonemployee compensation. A 1099-NEC is a tax information form—not an invoice and not a substitute for your own records. Compare it with your contracts and payment records. <a class="source-link" href="https://www.irs.gov/forms-pubs/about-form-w-9" target="_blank" rel="noopener">IRS Form W-9</a> <a class="source-link" href="https://www.irs.gov/forms-pubs/about-form-1099-nec" target="_blank" rel="noopener">IRS Form 1099-NEC</a> Tax rules and forms change; check current IRS guidance for your situation.</div>
+      </section>
+
+      <section class="section" id="platforms">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">04 · Platform survey</div>
+            <h2>Current options and tradeoffs</h2>
+            <p class="section-intro">Use the tables as a live handout. Prices are US list prices or fee summaries checked October 19, 2026 where official information was available; billing period, country, tax, plan, and promotions can change.</p>
+          </div>
+        </div>
+
+        <div class="tabs" role="group" aria-label="Filter platform survey">
+          <button class="tab" type="button" aria-pressed="true" data-filter="all">Show all</button>
+          <button class="tab" type="button" aria-pressed="false" data-filter="visual">Visual + photo</button>
+          <button class="tab" type="button" aria-pressed="false" data-filter="music">Music</button>
+          <button class="tab" type="button" aria-pressed="false" data-filter="both">Useful to both</button>
+        </div>
+
+        <div class="note note-yellow"><strong>Pricing note:</strong> Annual billing is often cheaper than monthly billing. Figures are in US dollars before tax unless a row says otherwise. Payment processing, taxes, domains, shipping, print fulfillment, and advertising may be additional. Verify the checkout page and current terms before subscribing. The business question is always: “What do I keep, what do I control, and what work does this create?”</div>
+        <div class="note note-mint"><strong>How to use the survey:</strong> Compare the features most relevant to the job you need. The rows are examples, not a checklist.</div>
+
+        <div id="home-bases" class="subsection audience-section" data-audience-group="both" style="scroll-margin-top: 22px; margin-top: 30px;">
+          <h3>Website / home base: compare the features</h3>
+          <div class="note note-mint"><strong>These options can serve any artist.</strong> The feature comparison is separate from the price table because the useful question is what the site can actually do: present work, collect contacts, support a transaction, and give people a next step.</div>
+          <div class="table-wrap">
+            <table aria-label="Website and home base feature comparison">
+              <thead><tr><th>Platform</th><th>Built-in strengths</th><th>Requires another service or careful checking</th><th>Good fit when…</th></tr></thead>
+              <tbody>
+                <tr data-audience="both"><td>Bandzoogle</td><td>Music and EPK page types, audio player, mailing list, contact forms, show calendar, downloadable files, direct digital/physical sales, custom domain.<br><a class="source-link" href="https://bandzoogle.com/features/epk" target="_blank" rel="noopener">EPK features</a> <a class="source-link" href="https://bandzoogle.com/features/sell-music" target="_blank" rel="noopener">Selling features</a></td><td>Music-specific; plan limits apply. Export the mailing list and keep masters, scores, and delivery records independently.</td><td>A composer or performer wants a music-first home base with an EPK, shows, email, and direct sales in one place.</td></tr>
+                <tr data-audience="both"><td>Squarespace</td><td>Portfolio pages, blog, store, scheduling, forms, analytics, SEO tools, email campaigns, custom domain, and payment features.<br><a class="source-link" href="https://www.squarespace.com/feature-index" target="_blank" rel="noopener">Official feature index</a></td><td>Scheduling, email campaigns, commerce, and advanced analytics vary by plan or add-on. Check export options before building a large content library.</td><td>An artist wants a polished general-purpose site that can combine portfolio, services, store, and scheduling.</td></tr>
+                <tr data-audience="both"><td>Wix</td><td>Website pages, forms, store, bookings, email marketing, SEO tools, analytics, custom domain, and business integrations.<br><a class="source-link" href="https://www.wix.com/features/main" target="_blank" rel="noopener">Official features</a> <a class="source-link" href="https://www.wix.com/scheduling-software" target="_blank" rel="noopener">Bookings</a></td><td>Many business features are plan- or app-dependent. Check domain renewal, email, storage, payment terms, and what can be exported or rebuilt elsewhere.</td><td>An artist needs flexible services, bookings, commerce, or forms and is willing to manage a larger feature set.</td></tr>
+                <tr data-audience="both"><td>Adobe Portfolio</td><td>Unlimited galleries, custom pages, portfolio presentation, design/styling controls, and custom-domain support through eligible Creative Cloud plans.<br><a class="source-link" href="https://helpx.adobe.com/creative-cloud/kb/adobe-portfolio-faq.html" target="_blank" rel="noopener">Official FAQ</a></td><td>Primarily a portfolio site. Treat store, scheduling, newsletter, client delivery, and booking as external links or integrations that need separate checking.</td><td>A visual artist or photographer already paying for Creative Cloud wants a simple presentation site.</td></tr>
+                <tr data-audience="both"><td>Cargo</td><td>Artist/design-oriented layouts, galleries, audio/video, multiple sites, custom HTML/CSS, custom domains, contact form, third-party embeds, and built-in commerce.<br><a class="source-link" href="https://docs.cargo.site/home" target="_blank" rel="noopener">Official docs</a> <a class="source-link" href="https://docs.cargo.site/commerce" target="_blank" rel="noopener">Commerce</a></td><td>Custom forms, booking, mailing lists, and other workflows may require embedded or external services. Check domain, email, and portability details.</td><td>The visual language of the site is part of the artist’s practice and the artist is comfortable assembling a more individual system.</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="small-note" style="margin-top: 10px;">Feature claims checked against official platform documentation on October 19, 2026. Plans, limits, and integrations can change.</p>
+        </div>
+
+        <div id="visual" class="subsection audience-section" data-audience-group="visual" style="scroll-margin-top: 22px; margin-top: 30px;">
+          <h3>Visual artists and photographers</h3>
+          <p class="small-note">Website builders used by any artist are compared in the shared Home bases table above.</p>
+          <div class="table-wrap">
+            <table aria-label="Visual artist and photographer platforms">
+              <thead><tr><th>Platform</th><th>Primary job</th><th>2026 price / fee</th><th>Tips for you</th></tr></thead>
+              <tbody>
+                <tr data-audience="visual"><td>Behance</td><td>Portfolio discovery, community, and freelance visibility</td><td><span class="free">Free basic account.</span> Behance Pro is <span class="price">$9.99/month</span>; it adds analytics, 0% Behance platform fees, and Adobe Portfolio with up to five sites.<br><a class="source-link" href="https://www.behance.net/pro" target="_blank" rel="noopener">Official pricing</a></td><td>Lead with a project, not a gallery dump. Show the strongest images, context, your role, tools, and outcome; link visitors to your site or contact path.</td></tr>
+                <tr data-audience="visual"><td>ArtStation</td><td>Digital art, illustration, concept art, 3D, games, and film</td><td>Free basic edition. Pro begins at <span class="price">$9.95/month</span>; Studio begins at <span class="price">$29.99/month</span>.<br><a class="source-link" href="https://www.artstation.com/subscribe.html" target="_blank" rel="noopener">Official pricing</a></td><td>Show process and breakdowns alongside finished work. Name your role, software, and contribution when a project involved a team.</td></tr>
+                <tr data-audience="visual"><td>Format</td><td>Portfolio plus photography workflow</td><td>Basic <span class="price">$10/month</span> annually; Pro $12/month annually; Pro Plus $15/month annually. Includes a 14-day trial.<br><a class="source-link" href="https://www.format.com/pricing-portfolio" target="_blank" rel="noopener">Official pricing</a></td><td>Show a small number of coherent projects rather than every image. Separate the public portfolio from restricted client galleries and downloads.</td></tr>
+                <tr data-audience="visual"><td>Pixieset</td><td>Client galleries, proofing, delivery, and print sales</td><td><span class="free">Free plan:</span> 3 GB and 15% store commission. Paid plans are <span class="price">$8, $16, $24, or $40/month</span> annually; paid plans eliminate Pixieset’s store commission.<br><a class="source-link" href="https://pixieset.com/pricing/" target="_blank" rel="noopener">Official pricing</a></td><td>Use proofing galleries for selection and approval, then deliver high-resolution files after payment or approval. Keep camera originals elsewhere.</td></tr>
+                <tr data-audience="visual"><td>SmugMug</td><td>High-volume photo storage, galleries, downloads, and prints</td><td>Direct <span class="price">$20/month</span>, Portfolio $23.50/month, Pro $37/month, billed annually. Includes a 14-day trial.<br><a class="source-link" href="https://www.smugmug.com/plans" target="_blank" rel="noopener">Official pricing</a></td><td>Separate public galleries from client delivery. Use the platform for access and fulfillment, but maintain a local and independent backup of the originals.</td></tr>
+                <tr data-audience="visual"><td>Etsy</td><td>Prints, zines, handmade objects, and merchandise</td><td><span class="price">$0.20 listing fee</span>, 6.5% transaction fee, and for U.S. sellers generally 3% + $0.25 payment processing. Offsite ads may add another fee.<br><a class="source-link" href="https://www.etsy.com/sell" target="_blank" rel="noopener">Official seller fees</a></td><td>Price after listing, transaction, processing, advertising, shipping, and production costs. Use Etsy for discovery and sales, not as the only home base.</td></tr>
+                <tr data-audience="visual"><td>Saatchi Art</td><td>Original artwork and fine-art marketplace</td><td>Saatchi Art takes <span class="price">40% commission</span> on original artwork sales; the artist receives 60% of the artwork price.<br><a class="source-link" href="https://support.saatchiart.com/hc/en-us/articles/14567125883547-Commission-Rate" target="_blank" rel="noopener">Official commission</a></td><td>Build the commission into the price before listing. Keep inventory, shipping records, images, and sales history outside the marketplace.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div id="music" class="subsection audience-section" data-audience-group="music" style="scroll-margin-top: 22px; margin-top: 42px;">
+          <h3>Composers and performers: website first, then channels</h3>
+          <div class="note note-mint"><strong>Website/home base is a shared platform category.</strong> Streaming profiles help people find and hear the work; a website or EPK gives presenters, commissioners, venues, collaborators, and press a coherent place to understand the artist and take action.</div>
+          <div class="card-grid" style="margin-top: 18px;">
+            <div class="card soft-lavender"><h3>Composer path</h3><p>Show a score excerpt, recording, instrumentation, duration, credits, and a clear commission or licensing inquiry. Keep composition rights distinct from sound-recording rights.</p></div>
+            <div class="card soft-mint"><h3>Performer path</h3><p>Show an EPK, repertoire, performance video, calendar, booking inquiry, and links to a tech rider or stage plot. Keep the venue packet separate from the public page.</p></div>
+          </div>
+          <div class="table-wrap">
+            <table aria-label="Composer and performer platforms">
+              <thead><tr><th>Platform</th><th>Primary job</th><th>2026 price / fee</th><th>Tips for you</th></tr></thead>
+              <tbody>
+                <tr data-audience="music"><td>Bandzoogle</td><td>Musician website, EPK, mailing list, direct sales, and digital-file delivery</td><td>EPK is <span class="price">$6.37/month</span> billed annually or $6.95 monthly. Website plans: Lite $9.16/$11, Standard $14.16/$17, and Pro $18.33/$22 annual/monthly. Pro documentation includes selling PDF, media, and sheet-music files.<br><a class="source-link" href="https://bandzoogle.com/pricing" target="_blank" rel="noopener">Official pricing</a> <a class="source-link" href="https://bandzoogle.com/help/articles/363-bandzoogle-pricing" target="_blank" rel="noopener">Plan details</a></td><td>Use it as the canonical home base or EPK. Separate public work pages from restricted score/parts delivery, and keep the local master archive independent.</td></tr>
+                <tr data-audience="music"><td>SoundCloud</td><td>Audio hosting, discovery, feedback, and emerging-audience development</td><td>Basic is free. Artist is <span class="price">$3.25/month</span> annually ($39/year); Artist Pro is $8.25/month annually ($99/year). Paid plans include distribution and 100% royalties.<br><a class="source-link" href="https://soundcloud.com/getstarted/pricing" target="_blank" rel="noopener">Official pricing</a></td><td>Upload listening copies, not masters. Add title, credits, description, and permissions; keep the WAV/AIFF source and project session locally and backed up.</td></tr>
+                <tr data-audience="music"><td>Bandcamp</td><td>Direct music sales and fan support</td><td>15% on digital items, dropping to 10% after $5,000 in sales during the previous 12 months; 10% on physical goods. Payment processing typically adds 4–6%.<br><a class="source-link" href="https://get.bandcamp.help/en/articles/15263193-what-are-bandcamp-s-fees" target="_blank" rel="noopener">Official fees</a></td><td>Use it for direct sales, credits, lyrics, and liner notes. Upload from a prepared local release package and keep that package after publishing.</td></tr>
+                <tr data-audience="music"><td>Spotify for Artists</td><td>Artist profile, analytics, bio, images, playlist pitching, merch, and concerts</td><td><span class="free">Free to join.</span> Music generally reaches Spotify through a label or distributor, which charges separately.<br><a class="source-link" href="https://artists.spotify.com/en/get-started" target="_blank" rel="noopener">Official artist tools</a></td><td>Claim the profile and keep the image and bio consistent. This dashboard is not a delivery archive; preserve the release metadata, cover art, ISRCs, and distributor records in your own library.</td></tr>
+                <tr data-audience="music"><td>Apple Music for Artists</td><td>Artist page, lyrics, images, analytics, and promotional assets</td><td>Artist tools are separate from delivery. Apple says independent artists use a distributor to deliver music to Apple Music.<br><a class="source-link" href="https://artists.apple.com/release" target="_blank" rel="noopener">Official release guidance</a></td><td>Check how lyrics, credits, artwork, and artist identity appear after delivery. Keep the approved release package and metadata outside Apple.</td></tr>
+                <tr data-audience="music"><td>DistroKid</td><td>Unlimited distribution to streaming platforms</td><td>Musician <span class="price">$24.99/year</span>; Musician Plus $44.99/year; Ultimate $89.99/year. Recurring annual billing is the main tradeoff.<br><a class="source-link" href="https://distrokid.com/pricing/" target="_blank" rel="noopener">Official pricing</a></td><td>Compare the annual cost with release frequency. Save every master, cover image, metadata file, ISRC, UPC, and receipt before delivery.</td></tr>
+                <tr data-audience="music"><td>TuneCore</td><td>Unlimited distribution or pay-per-release distribution</td><td>Unlimited plans currently show Rising Artist <span class="price">$24.99/year</span>, Breakout Artist $44.99/year, and Professional $54.99/year.<br><a class="source-link" href="https://www.tunecore.com/pricing" target="_blank" rel="noopener">Official pricing</a></td><td>Compare plan features and release cadence, then calculate the break-even point. Keep copies of the catalog and metadata independent of the account.</td></tr>
+                <tr data-audience="music"><td>CD Baby</td><td>One-time release distribution</td><td><span class="price">$9.99 single</span> or $14.99 album, with no annual subscription. CD Baby keeps 9% of digital distribution revenue.<br><a class="source-link" href="https://cdbaby.com/cd-baby-cost/" target="_blank" rel="noopener">Official pricing</a></td><td>Useful for occasional releases. Preserve the release package, UPC/ISRC information, and account records; distribution is not your archive.</td></tr>
+                <tr data-audience="music"><td>Amuse</td><td>Distribution with annual plans and artist tools</td><td>Artist <span class="price">$23.99/year</span>; Artist Plus $39.99/year; Artist Pro $59.99/year. Amuse says artists retain rights and music stays live when downgrading.<br><a class="source-link" href="https://www.amuse.io/en/pricing/" target="_blank" rel="noopener">Official pricing</a></td><td>Compare rights, catalog continuity, and annual cost. Keep the release assets and metadata in your own library even if the catalog stays live.</td></tr>
+                <tr data-audience="music"><td>SoundBetter</td><td>Mixing, mastering, session musicians, producers, singers, and songwriting services</td><td><span class="free">Free to post or hire.</span> SoundBetter charges a commission to providers.<br><a class="source-link" href="https://soundbetter.com/faq/19-how-much-does-soundbetter-charge-me-to-post-a-job-or-hire-someone" target="_blank" rel="noopener">Official FAQ</a></td><td>Define the service, rate, deliverables, revisions, credits, and rights before sending files. Use a contract or written agreement for real projects.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div id="both" class="subsection audience-section" data-audience-group="both" style="scroll-margin-top: 22px; margin-top: 42px;">
+          <h3>Useful to both: discovery, relationship, and transaction</h3>
+          <div class="note note-mint"><strong>Discovery is not ownership.</strong> Social channels can help people find the work, but the durable assets are the home base, files, rights records, and consent-based contacts.</div>
+          <div class="table-wrap">
+            <table aria-label="Platforms useful to visual artists, photographers, composers, and performers">
+              <thead><tr><th>Platform</th><th>Primary job</th><th>2026 price / fee</th><th>Tips for you</th></tr></thead>
+              <tbody>
+                <tr data-audience="both"><td>Instagram</td><td>Visual and social discovery, short-form video, direct messages, and social proof</td><td><span class="free">Free to create and publish.</span> Paid promotion, commerce, and subscription features vary by region and account eligibility.<br><a class="source-link" href="https://creators.instagram.com/" target="_blank" rel="noopener">Creator resources</a></td><td>Use it to point people toward the home base, email list, or booking path. Keep original images and videos outside the app; do not treat followers or DMs as a portable audience.</td></tr>
+                <tr data-audience="both"><td>TikTok</td><td>Short-form discovery, process, performance clips, and audience testing</td><td><span class="free">Free to create and publish.</span> Promotion, commerce, and monetization features vary by region and eligibility.<br><a class="source-link" href="https://www.tiktok.com/creators/creator-portal/en-us/" target="_blank" rel="noopener">Creator Portal</a></td><td>Make the first seconds understandable, caption the video, and link to a durable home base. Save the original video, audio, captions, and thumbnail separately.</td></tr>
+                <tr data-audience="both"><td>YouTube</td><td>Performance videos, music videos, tutorials, livestreams, process, and search visibility</td><td><span class="free">Free to publish.</span> YouTube Partner Program thresholds apply before monetization; ad revenue requires the higher eligibility tier.<br><a class="source-link" href="https://www.youtube.com/creators/earn/youtube-partner-program/" target="_blank" rel="noopener">Official monetization thresholds</a></td><td>Publish a polished export with accurate credits, captions, links, and thumbnail. Use unlisted links for targeted review, and keep the original video and audio masters elsewhere.</td></tr>
+                <tr data-audience="both"><td>Vimeo</td><td>Polished video portfolio, performance reels, moving-image work, and review links</td><td><span class="free">Free plan:</span> unlimited public videos and 3 GB for embeddable and non-public videos. The current free tier has no ads; availability and features vary by country and plan.<br><a class="source-link" href="https://vimeo.com/pricing" target="_blank" rel="noopener">Official pricing</a> <a class="source-link" href="https://vimeo.com/blog/post/new-free-plan" target="_blank" rel="noopener">Free-plan announcement</a></td><td>Use public video for presentation and link-only video for targeted review, but do not call link-only private. Keep original video and audio masters, captions, and project files elsewhere.</td></tr>
+                <tr data-audience="both"><td>Gumroad</td><td>Digital downloads, PDFs, brushes, templates, sample packs, and scores</td><td>No monthly fee. Direct sales: <span class="price">10% + $0.50</span> plus payment processing. Marketplace discovery sales: 30%.<br><a class="source-link" href="https://gumroad.com/help/article/66-gumroads-fees" target="_blank" rel="noopener">Official fees</a></td><td>Show a useful preview and state exactly what the buyer receives, the file format, and the license or usage terms. Upload a delivery export, not the only master.</td></tr>
+                <tr data-audience="both"><td>Ko-fi</td><td>Tips, commissions, memberships, and small shops</td><td>Service fees range from 0–5% depending on feature and plan. Ko-fi Gold is <span class="price">$12/month</span> for 0% service fees; payment processing still applies.<br><a class="source-link" href="https://ko-fi.com/home/pricing" target="_blank" rel="noopener">Official pricing</a></td><td>State the scope, turnaround, revisions, and deliverables for a commission. Use a separate intake form or agreement when the request becomes a real project.</td></tr>
+                <tr data-audience="both"><td>Contra</td><td>Freelance portfolio, contracts, invoices, and payments</td><td><span class="free">Free to join.</span> Contra advertises commission-free payments, although third-party processing fees may still apply.<br><a class="source-link" href="https://contra.com/pricing" target="_blank" rel="noopener">Official pricing</a></td><td>Define the service, scope, deadline, revisions, and payment terms before accepting work. Keep your portfolio and client records exportable outside the platform.</td></tr>
+                <tr data-audience="both"><td>Patreon</td><td>Memberships, exclusive audio, process, livestreams, early releases, and community</td><td><span class="free">Free to start.</span> Current standard plan takes <span class="price">10%</span> of Patreon income, plus payment processing, conversion, payout fees, and applicable taxes.<br><a class="source-link" href="https://www.patreon.com/pricing" target="_blank" rel="noopener">Official pricing</a></td><td>Define the recurring benefit and publishing schedule. Keep paid files and audience records exportable; do not make Patreon the only location for member materials.</td></tr>
+                <tr data-audience="both"><td>Substack</td><td>Newsletter, podcast, studio diary, and direct audience relationship</td><td><span class="free">Free to publish.</span> Paid subscriptions cost 10% plus Stripe card-processing and recurring-billing fees. Custom domain: <span class="price">$50 one-time</span>.<br><a class="source-link" href="https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost" target="_blank" rel="noopener">Official pricing</a> <a class="source-link" href="https://support.substack.com/hc/en-us/articles/18687769631252-How-can-readers-pay-for-a-subscription-on-my-Substack-publication" target="_blank" rel="noopener">Payment terms</a></td><td>Use it for program notes, process, and direct audience contact. Export subscribers and writing periodically, retain consent records, and host downloadable masters elsewhere.</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="note note-yellow" style="margin-top: 18px;"><strong>Email list / newsletter is a category, not a single vendor.</strong> Substack is one option. The relationship asset is the consent-based contact list and the ability to export it.</div>
+        </div>
+      </section>
+
+      <section class="section" id="cases">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">05 · Group activity</div>
+            <h2>Four creative-career case studies</h2>
+            <p class="section-intro">Assign one persona to each group. Ask them to choose a home base, a discovery channel, a relationship channel, and a revenue or booking path. One platform may perform more than one job.</p>
+          </div>
+        </div>
+
+        <div class="case-grid">
+          <article class="case-card"><div class="case-label">Case 01 · Visual artist</div><h3>Emerging artist with occasional commissions</h3><p>Needs to show paintings, accept commissions, sell occasional digital products, and spend less than $15/month.</p></article>
+          <article class="case-card"><div class="case-label">Case 02 · Photographer</div><h3>Portrait photographer with paying clients</h3><p>Needs a portfolio, restricted client galleries, proofing, high-resolution downloads, and print sales.</p></article>
+          <article class="case-card"><div class="case-label">Case 03 · Composer</div><h3>Composer for film, games, and dance</h3><p>Needs recordings, scores, résumé, credits, restricted links, and a professional contact path.</p></article>
+          <article class="case-card"><div class="case-label">Case 04 · Performer</div><h3>Independent performer building an audience</h3><p>Needs to attract listeners, book concerts, sell recordings, and develop a local and online audience.</p></article>
+        </div>
+
+        <div class="note note-lavender" style="margin-top: 18px;"><strong>Group deliverable:</strong> Make a one-page system map showing the audience, home base, discovery route, relationship route, simple project flow, file-access plan, first-year cost, backup plan, and exit plan.</div>
+        <div class="note note-lavender"><strong>Group defense:</strong> Explain each choice using audience fit, presentation, cost, control, accessibility, rights, and time required. Also explain what you deliberately will not maintain.</div>
+      </section>
+
+      <section class="section" id="examples">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">06 · Live examples</div>
+            <h2>Study real artist websites</h2>
+            <p class="section-intro">These public websites were checked October 19, 2026. Study the choices they make; do not treat any one site as a universal template.</p>
+          </div>
+        </div>
+
+        <div class="note note-mint"><strong>How to use the examples:</strong> Look for the audience, the next action, the file boundary, and the relationship, sales, or booking path.</div>
+
+        <div class="example-grid">
+          <article class="example-card">
+            <div class="case-label">Case 01 · Visual artist</div>
+            <h3><a href="https://www.rawlineart.com/" target="_blank" rel="noopener">Rawline Studio</a></h3>
+            <p>Original paintings, commissions, and print sales are visible from the home page.</p>
+            <p class="small-note"><strong>Study:</strong> How does the site move a visitor from looking at the work to starting a commission or buying a print?</p>
+            <a class="source-link" href="https://www.rawlineart.com/" target="_blank" rel="noopener">Open website</a>
+          </article>
+
+          <article class="example-card">
+            <div class="case-label">Case 03 · Media composer</div>
+            <h3><a href="https://www.nicholashuaman.com/" target="_blank" rel="noopener">Nicholas Huaman</a></h3>
+            <p>Organizes selected work by film, animation, documentary, and games, with listening, viewing, credits, and a commission contact path.</p>
+            <p class="small-note"><strong>Study:</strong> How quickly can a film, television, or game professional understand what this composer does?</p>
+            <a class="source-link" href="https://www.nicholashuaman.com/" target="_blank" rel="noopener">Open website</a>
+          </article>
+
+          <article class="example-card">
+            <div class="case-label">Case 03 · Composer / score access</div>
+            <h3><a href="https://nickdalystudio.com/music/" target="_blank" rel="noopener">Nicholas Daly</a></h3>
+            <p>Publishes listening samples and perusal-score PDFs while making individual parts available by request.</p>
+            <p class="small-note"><strong>Study:</strong> What can a prospective performer see immediately, and what remains controlled until there is a real inquiry?</p>
+            <a class="source-link" href="https://nickdalystudio.com/music/" target="_blank" rel="noopener">Open website</a>
+          </article>
+
+          <article class="example-card">
+            <div class="case-label">Case 04 · Performer / composer</div>
+            <h3><a href="https://www.claytonluckadoo.com/" target="_blank" rel="noopener">Clayton Luckadoo</a></h3>
+            <p>Bay Area clarinetist and composer with performance schedule, media pages, performed repertoire, and contact paths for lessons, collaborations, and commissions.</p>
+            <p class="small-note"><strong>Study:</strong> How does a performer communicate both current activity and professional availability?</p>
+            <a class="source-link" href="https://www.claytonluckadoo.com/" target="_blank" rel="noopener">Open website</a>
+          </article>
+
+          <article class="example-card">
+            <div class="case-label">Case 04 · Performer / multi-practice musician</div>
+            <h3><a href="https://www.dannzinn.com/" target="_blank" rel="noopener">Dann Zinn</a></h3>
+            <p>Connects saxophone and flute performance, composition, recordings, events, books, teaching resources, podcasts, a shop, and contact.</p>
+            <p class="small-note"><strong>Study:</strong> How does one home base hold several related creative and professional activities?</p>
+            <a class="source-link" href="https://www.dannzinn.com/" target="_blank" rel="noopener">Open website</a>
+          </article>
+        </div>
+
+        <div class="dual-stack">
+          <div class="card soft-lavender">
+            <h3>Website audit</h3>
+            <ol class="audit-list">
+              <li><strong>Audience:</strong> Who is the site primarily for?</li>
+              <li><strong>Next step:</strong> What action does the site invite first?</li>
+              <li><strong>File boundary:</strong> What is public, link-only, restricted, paid, or available by request?</li>
+              <li><strong>Relationship:</strong> Where can someone continue the conversation?</li>
+              <li><strong>Business path:</strong> How does attention become a commission, booking, sale, or support?</li>
+              <li><strong>Maintenance:</strong> What would this artist need to update regularly?</li>
+            </ol>
+          </div>
+          <div class="card soft-yellow">
+            <h3>File boundary reminder</h3>
+            <p>A visible link does not mean every working file should be public. Perusal scores, listening copies, EPKs, high-resolution images, parts, delivery files, and masters can have different access rules.</p>
+            <p class="small-note">Use public pages only. Do not download, redistribute, or upload another artist’s files.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="ninety">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow section-kicker">07 · Take-home plan</div>
+            <h2>A realistic 90-day platform plan</h2>
+            <p class="section-intro">The point is to make one coherent system more professional and more useful.</p>
+          </div>
+        </div>
+
+        <div class="plan-list">
+          <div class="plan-item"><div><strong>Choose an identity.</strong><p>Settle on the artist name, spelling, profile image, short biography, and consistent contact email.</p></div></div>
+          <div class="plan-item"><div><strong>Secure the accounts.</strong><p>Own the domain and platform accounts, turn on two-factor authentication, store recovery codes, and use a password manager.</p></div></div>
+          <div class="plan-item"><div><strong>Organize the source library.</strong><p>Gather one representative work, separate master files from web exports, use stable filenames, and record credits and rights.</p></div></div>
+          <div class="plan-item"><div><strong>Make the work recoverable.</strong><p>Use the 3–2–1 rule: three copies, two storage media or destinations, and one off-site copy. Test that a file can actually be restored.</p></div></div>
+          <div class="plan-item"><div><strong>Build the minimum home base.</strong><p>Publish three to five strong examples, a clear “about” statement, credits, accessible contact information, and one obvious next step.</p></div></div>
+          <div class="plan-item"><div><strong>Select one discovery channel.</strong><p>Choose the place where the artist can realistically publish process, excerpts, performance, or project context.</p></div></div>
+          <div class="plan-item"><div><strong>Create a repeatable relationship.</strong><p>Start an email list, newsletter, membership, or direct-support channel with a specific benefit for subscribers.</p></div></div>
+          <div class="plan-item"><div><strong>Launch one paid, booking, or commissioning path.</strong><p>Choose one commission, print, download, release, booking service, lesson, workshop, or membership tier—and document its scope, rights, and payment terms.</p></div></div>
+          <div class="plan-item"><div><strong>Maintain the system.</strong><p>Check domain renewal, broken links, permissions, backups, and outdated platform terms before they become emergencies.</p></div></div>
+          <div class="plan-item"><div><strong>Review once a month.</strong><p>Look at visits, listens, inquiries, downloads, bookings, sales, and audience questions. Improve the next step before adding another platform.</p></div></div>
+        </div>
+
+        <div class="card soft-yellow" style="margin-top: 18px;">
+          <h3>Final reflection</h3>
+          <div class="reflection-grid">
+            <div class="prompt">My primary audience is…</div>
+            <div class="prompt">I want that audience to…</div>
+            <div class="prompt">My portfolio/home base will be…</div>
+            <div class="prompt">My master files are organized at…</div>
+            <div class="prompt">My backup copies are…</div>
+            <div class="prompt">My public, link-only, restricted, and paid file boundaries are…</div>
+            <div class="prompt">My discovery platform will be…</div>
+            <div class="prompt">My sales, booking, or support path will be…</div>
+            <div class="prompt">I can export my files, contacts, and records by…</div>
+            <div class="prompt">My first action within seven days is…</div>
+          </div>
+        </div>
+
+        <div class="quote" style="margin-top: 22px;">Your platform is part of your business model. Choose it according to the relationship you want to build—not simply according to where everyone else is posting.</div>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <strong>Art Entrepreneurship · Platform Survey 2026</strong>
+    <p>Prices and platform terms change. Use the official pricing pages linked in the tables before students commit money or upload valuable work. Keep independent masters and backups before publishing anywhere.</p>
+  </footer>
+
+  <button class="back-top" id="backTop" type="button" aria-label="Back to top">↑</button>
+
+  <script>
+    (function () {
+      // Print / save as PDF
+      document.getElementById('printBtn').addEventListener('click', () => window.print());
+
+      // Platform audience filters
+      const tabs = document.querySelectorAll('[data-filter]');
+      const rows = document.querySelectorAll('tbody tr[data-audience]');
+      const audienceSections = document.querySelectorAll('.audience-section');
+      tabs.forEach((tab) => tab.addEventListener('click', () => {
+        const filter = tab.dataset.filter;
+        tabs.forEach((t) => t.setAttribute('aria-pressed', String(t === tab)));
+        rows.forEach((row) => {
+          const audience = row.dataset.audience;
+          const visible = filter === 'all'
+            || (filter === 'both' && audience === 'both')
+            || (filter === 'visual' && (audience === 'visual' || audience === 'both'))
+            || (filter === 'music' && (audience === 'music' || audience === 'both'));
+          row.hidden = !visible;
+        });
+        audienceSections.forEach((section) => {
+          section.hidden = !Array.from(section.querySelectorAll('tbody tr[data-audience]')).some((row) => !row.hidden);
+        });
+      }));
+
+      // Back-to-top affordance and lightweight active navigation
+      const backTop = document.getElementById('backTop');
+      window.addEventListener('scroll', () => {
+        backTop.classList.toggle('visible', window.scrollY > 500);
+        const sections = Array.from(document.querySelectorAll('main .section:not([hidden]), main .subsection:not([hidden])'));
+        const current = sections.reduce((last, section) => window.scrollY + 140 >= section.offsetTop ? section : last, sections[0]);
+        document.querySelectorAll('.sidebar a').forEach((link) => link.classList.toggle('active', current && link.getAttribute('href') === '#' + current.id));
+      }, { passive: true });
+      backTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    }());
+  </script>
+</body>
+</html>
