@@ -66,14 +66,14 @@ How copyright works:
 Who owns a work when more than one person is involved:
 
 - Work made for hire. An employee's work belongs to the employer. If you aren't an employee, a work is for hire only if it's in one of the categories the law lists and you've both signed a written agreement saying so.
-- Joint works. Collaborators who intend to make a shared work each own the whole, whatever each contributed, unless a written agreement divides it. Someone who only pays, or only contributes ideas or logistics, isn't a coauthor: a commissioner who pays you still doesn't own your copyright.
-- NYFA notes that ensembles and dance and theater companies are often made up of independent contractors, so the agreement needs to be written down before the work starts.
+- Joint works. Collaborators who set out to make a work together, intending a shared copyright, each hold an undivided interest in the whole work, whatever each contributed, unless a written agreement divides it. Someone who only pays, or only contributes ideas or logistics, isn't a coauthor: a commissioner who pays you still doesn't own your copyright.
+- NYFA notes that ensembles and dance and theater companies are often made up of independent contractors with informal relationships, and advises a written agreement before the work starts.
 
 Using other people's work:
 
 - Anything still under copyright needs a license. Public-domain works are free to use, and a translation or arrangement of one may be under copyright of its own.
 - The compulsory (mechanical) license lets you record a cover of a nondramatic musical work by paying a set royalty, without negotiating with the composer or publisher. Your arrangement can't change the basic melody or the fundamental character of the work.
-- Fair use is a defense in court, not permission. Courts weigh four factors case by case: the purpose of your use (including whether it transforms the original), the nature of the original, how much you took and whether it was the "heart of the work," and whether your use cuts into the original's market.
+- Fair use is a defense in court, not permission. Courts weigh four factors case by case: the purpose of your use (including whether it transforms the original), the nature of the original, how much you took and whether it was the "heart of the work," and whether your use cuts into the original's market. NYFA predates *Andy Warhol Foundation v. Goldsmith* (2023), which narrowed transformative use: new meaning or message isn't enough when a commercial use serves substantially the same purpose as the original. The copyright cheat sheet has the detail.
 
 Trademarks protect a name or symbol you use in commerce to identify yourself. Using it creates an interest; registering it with the USPTO adds a presumption of ownership. A generic label like "Graphic Designer" can't be registered. Trade secrets, in NYFA's examples, are a painter's way of mixing paint or a singer's way of breathing. If you teach the technique to others, have them sign a confidentiality agreement.
 
@@ -99,7 +99,7 @@ The clauses you'll see most often. On screen:
 - Term and termination: how long the agreement lasts, and how either side can end it early.
 - Deliverables: who does what, when, and where.
 - Merger and integration: the signed document is the whole agreement.
-- Indemnification and hold harmless: one party covers losses caused by its own actions. Representations and warranties: each side promises that what it says is true.
+- Indemnification and hold harmless: one party pays the other's losses caused by the first party's actions, omissions, or assurances. Representations and warranties: each side promises that what it says is true.
 - Nonwaiver.
 - Alternative dispute resolution: mediation (a neutral helps the parties settle; not binding) or arbitration (a private, out-of-court decision, with a shorter evidence-gathering process).
 - Attorneys' fees, choice of law and forum, and severability (one invalid clause doesn't void the rest).
@@ -113,13 +113,13 @@ Discussion:
 
 Your business structure is the entity legally responsible for your business activity, whether or not you've filed any paperwork. Choose among structures by weighing liability, tax, start-up costs, and ongoing paperwork, all of which vary by state.
 
-- Sole proprietorship is the default. If you've ever sold a piece or been paid for a gig, the law already treats you as a sole proprietor: you and the business are the same legal person. Taxes are simplest, reported on your personal return. Liability is unlimited: if you lose a lawsuit or can't pay a business debt, your home, car, bank accounts, and investments are within reach. NYFA's example is a buyer who visits your studio, trips over a canvas on the floor, and breaks a hip.
+- Sole proprietorship is the default. If you've ever sold a piece or been paid for a gig, the law already treats you as a sole proprietor: you and the business are the same legal person. Taxes are simplest, reported on your personal return. Liability is unlimited: if you lose a lawsuit or can't pay a business debt, a court can order your home, car, bank accounts, and investments seized to pay it. NYFA's example is a buyer who visits your studio, trips over a canvas on the floor, and breaks a hip.
 - If you work under any name other than your own ("Jane Smith Photography"), you'll probably have to register it as a "doing business as" name.
 - Partnerships form when two or more people do business together, whether or not they file anything.
-- An LLC combines limited liability (only business assets are exposed) with the simpler pass-through taxes of a sole proprietorship or partnership. The protection holds only if you keep business money and personal money separate: payment for your work goes into the LLC's account first, and then you pay yourself.
+- An LLC combines limited liability (only business assets are exposed) with pass-through taxation: a single-member LLC is taxed like a sole proprietorship, a multi-member LLC like a partnership. The protection holds only if you keep business money and personal money separate: payment for your work goes into the LLC's account first, and then you pay yourself.
 - Corporations also limit liability, with more formalities.
 - Benefit corporations and L3Cs are for-profit forms built around a social mission, which some foundations can invest in.
-- A not-for-profit has no owners and is governed by a board. It can take in more than it spends, and the surplus goes back into its charitable purpose. Most of its benefits begin only once the IRS grants tax-exempt status.
+- A not-for-profit has no owners and is governed by a board, whose members aren't personally liable for its debts. It can make a profit, and any profit has to go back into its charitable purpose. Most of its benefits begin only once the IRS grants tax-exempt status.
 
 Discussion:
 
@@ -131,9 +131,9 @@ Discussion:
 Andrews covers much of the same ground for anyone starting an arts organization and opens with the same disclaimer: an overview, not legal advice, which should come from a qualified attorney (p. 145).
 
 - Choosing a form (pp. 146–153): not-for-profit and 501(c)(3) status, then the for-profit forms from sole proprietorship to LLC, cooperative, B-corporation, and L3C.
-- Fiscal sponsors (p. 148): an existing 501(c)(3) applies for grants on behalf of your project, so a sole proprietor or LLC can reach funding it couldn't otherwise. The project has to serve a charitable purpose, the sponsor keeps a fee (around 5 to 10 percent, sometimes more, by Andrews's account), and it may oversee how the money is spent. Andrews names Fractured Atlas and Intersection for the Arts as arts-focused sponsors.
+- Fiscal sponsors (p. 148): an existing 501(c)(3) applies for grants on behalf of your project, so a sole proprietor or LLC can reach funding it couldn't otherwise. The project has to serve a charitable purpose, the sponsor keeps a fee (around 5 to 10 percent, sometimes more, by Andrews's account), and it may oversee how the money is spent. Andrews names Fractured Atlas and Intersection for the Arts as arts-focused sponsors. Both still run fiscal sponsorship programs, and Intersection is in San Francisco.
 - Artists' rights (pp. 154–158) opens with three scenarios: a photographer whose images turn up in a company's ad campaign, a musician whose composition is copied and sold under someone else's name, and an author who learns of a film based on their novel. Andrews also warns that posting someone else's photos or music on your website without permission can make you liable for infringement, and describes Creative Commons licenses as a way to share work on terms you set.
-- Contracts (pp. 157–158): Andrews's first example is a venue and a musician whose performance contract sets the date, time, and payment. Andrews names California Lawyers for the Arts as a source of workshops on arts contracts.
+- Contracts (pp. 157–158): Andrews's first example is a venue and a musician whose performance contract sets the date, time, and payment. Andrews names California Lawyers for the Arts as a source of workshops on arts contracts. It also runs a lawyer referral service.
 - Tax planning (pp. 159–161): income that doesn't come from an employer is taxed as both employer and employee; a home studio is deductible only if it's used regularly and exclusively for work; keep separate business and personal accounts and good records.
 - Insurance and risk (pp. 161–164): general liability covers a patron who slips in your lobby; other policies cover equipment, cancelled performances, a performer who doesn't show, and touring. Risk minimization means inspecting your space twice a year, training anyone who works in it, and keeping copies of contracts and policies offsite.
 
@@ -155,7 +155,7 @@ Your Reflection worked one case from the readings: how you'd handle it, what you
 Breakout rooms, two people per room, eight minutes per writer. In chat:
 
 > 1. The writer states the case in one sentence.
-> 2. The listener asks: which area is it, rights and IP, a contract, the structure of your business, or risk and insurance? Can it be more than one?
+> 2. The listener asks which area the case is in: rights and IP, a contract, the structure of your business, or risk and insurance. Can it be more than one?
 > 3. The writer names the one fact they'd need to find out first.
 > 4. The listener asks: where would you find that fact? The agreement itself, the Copyright Office, the other party, an attorney, an accountant?
 > 5. The writer names the professional they'd call and the one question they'd bring.
@@ -184,11 +184,11 @@ At the November concert, a listener trips over a speaker cable in the dark and i
 Working the first case through the readings:
 
 - The text exchange may be a contract: an offer and an acceptance, and a fee as consideration. It says nothing about who owns the music, what the company may do with it, or what happens if the premiere is cancelled.
-- Copyright: the composer fixes the piece, so the composer owns it. NYFA says a commissioner who only pays isn't a coauthor. The composer isn't the company's employee, so the piece is for hire only if a signed written agreement says so and the piece falls in a statutory category.
+- Copyright: the composer fixes the piece, so the composer owns it. NYFA says a commissioner who only pays isn't a coauthor. The composer isn't the company's employee, so the piece is for hire only if a signed written agreement says so and the piece falls in a statutory category. The "who owns it" table on the copyright cheat sheet runs the same checks.
 - What's missing is the grant of rights: the right to perform the piece in March, on tour, for how long, where, exclusive or not; whether the stereo mix is a derivative work the company may make; whether the company may post video with the music.
 - What the composer would bring to an attorney or to California Lawyers for the Arts: a one-page draft with consideration, grant of rights, deliverables (the eight-channel files, the stereo mix, the date), and term and termination.
 
-Check the first case against the "who owns it" table on the copyright cheat sheet: fixed, not an employee, no written work-for-hire agreement, not a joint work, nothing assigned. The composer owns it.
+Follow-up, before the second case: could the choreographer argue that the dance, music included, is a joint work? NYFA's test is whether the two set out to make the work together, intending a shared copyright. What in the texts would settle it?
 
 #### in the main room, twelve minutes
 
@@ -197,8 +197,9 @@ The second case, together. In chat:
 > 1. What business structure is the composer in right now, without having filed anything?
 > 2. What does NYFA say is reachable if the listener sues and wins?
 > 3. Name one thing from Andrews's risk minimization list the composer could have done before the concert.
-> 4. Name one insurance from Andrews's list that covers this.
-> 5. What would the composer ask an insurance agent, and what would they ask an attorney?
+> 4. Name one kind of insurance from Andrews's list that covers this.
+> 5. Who else might be responsible: the gallery? Which clause in the composer's agreement with the gallery would settle it?
+> 6. What would the composer ask an insurance agent, and what would they ask an attorney?
 
 ### 7:38 exercise 3, your next agreement
 
@@ -238,7 +239,7 @@ The readings:
 - Rabideau, chapter 11 (pp. 133–146)
 - Kolb, chapter 10 (pp. 224–248)
 
-The Financial Snapshot is due Friday, November 20, by 11:59 pm on Canvas. Tonight's business structure, tax, and insurance questions are costs in that snapshot: a fiscal sponsor's fee, an insurance premium, the tax on self-employment income.
+The Financial Snapshot is due Friday, November 20, by 11:59 pm on Canvas. Some of tonight's material shows up as costs in that snapshot: a fiscal sponsor's fee, an insurance premium, the tax on self-employment income.
 
 ### 7:57 close
 
