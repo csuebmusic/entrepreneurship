@@ -16,11 +16,12 @@ Both people are invented, and so are their rates and incomes. The laws, forms, f
 ### running order
 
 - 6:00 open
-- 6:03 the readings, in brief
-- 6:15 case 1, the pianist
-- 6:55 break
-- 7:03 case 2, the composer
-- 7:40 the portfolio, from here to December 7
+- 6:03 the basics: employee or contractor
+- 6:18 the readings, in brief
+- 6:25 case 1, the pianist
+- 7:00 break
+- 7:08 case 2, the composer
+- 7:42 the portfolio, from here to December 7
 - 7:55 close
 
 ### 6:00 open
@@ -29,9 +30,105 @@ In chat:
 
 > Tonight is two case studies, start to finish: a performer and a composer, what work each can find, how they get paid, the paperwork that comes with it, and the grants they can apply for. Keep a list as we go of everything that applies to you. It's the raw material for Friday's Financial Snapshot.
 
-### 6:03 the readings, in brief
+### 6:03 the basics: employee or contractor
 
-Twelve minutes. Each reading supplies one part of what the two cases use.
+Every time someone pays you for music, the law puts you in one of two categories for that job: employee or independent contractor. The category decides who pays which taxes, which form you get in January, and which legal protections you have. Everything else tonight builds on this, so go slowly here.
+
+#### the two categories
+
+| | employee | independent contractor |
+|---|---|---|
+| who controls the work | the employer decides how, when, and where you do it | you decide how you do it: your methods, your gear, your schedule, your other clients |
+| tax taken out of each payment | yes: the employer withholds income tax and your half of Social Security and Medicare | no: you receive the whole fee, and the tax is still owed |
+| Social Security and Medicare | you pay 7.65 percent and the employer pays a matching 7.65 percent | you pay both halves yourself, as self-employment tax: 15.3 percent on 92.35 percent of your net earnings |
+| the form you get | a W-2 from the employer, by January 31 | a 1099-NEC, only from a business, nonprofit, or government agency that paid you $2,000 or more in 2026; nothing from a private person |
+| where it goes on your tax return | as wages on Form 1040 | on Schedule C (income and expenses) and Schedule SE (the self-employment tax), filed with Form 1040 |
+| legal protections | California wage and hour law (minimum wage, overtime, meal and rest breaks), workplace safety law, unemployment insurance, and workers' compensation, which the employer pays for | none of these |
+| business expenses | not deductible on your return | subtracted from your income on Schedule C: gear, mileage, scores, tuning, the website |
+
+You don't choose the category, and neither does the person paying you. Calling you a contractor on an invoice doesn't make you one. The law decides from the facts of the job.
+
+#### how California decides
+
+California starts from the assumption that you're an employee. The person or business paying you has to prove otherwise. There are two tests.
+
+The ABC test (from AB 5, 2019) is the default. You're a contractor only if all three of these are true:
+
+- A: you're free from the hiring party's control and direction in doing the work, on paper and in fact.
+- B: the work is outside the usual course of the hiring party's business.
+- C: you're customarily engaged in an independently established trade or business of the same kind.
+
+Part B is where most musicians fail. A dance studio's business is dance classes, and accompanying the class is part of that business, so the accompanist is an employee.
+
+AB 2257 (2020) exempts some music work from the ABC test, including musicians hired for a single-engagement live performance and composers, songwriters, and musicians making recordings. For those jobs the older Borello test applies instead (named for a 1989 California Supreme Court case). Borello weighs several factors, and no single one decides:
+
+- the main one: who controls the manner and means of doing the work
+- whether you run your own business or occupation
+- whether the work is part of the hiring party's regular business
+- who supplies the tools and the place of work
+- whether you've invested in your work and can make or lose money on it
+- whether the work takes a special skill
+- how long the relationship lasts and whether it's permanent
+- whether you're paid by the hour or by the job
+- whether you hire your own helpers
+- whether the hiring party can fire you at will
+
+Run the wedding through it. The pianist sets the fee, chooses the repertoire with the couple, brings their own keyboard, plays one afternoon, and has dozens of other clients. The pianist is a contractor.
+
+#### self-employed and sole proprietor
+
+If you take contractor work, you're self-employed. In law you're also a sole proprietor, whether or not you've filed anything: you and your practice are the same legal person (NYFA, chapter 5, from November 9). Your Schedule C is your practice's income statement.
+
+#### who sends a 1099, and who doesn't
+
+The IRS requires a 1099-NEC only for payments made in the course of a trade or business. Personal payments aren't reportable. So:
+
+- A couple paying for their own wedding, a parent paying for lessons, a student paying you to play their recital: no 1099.
+- A wedding planner, a venue, a club, a recording studio, an agency: a 1099-NEC once they pay you $2,000 or more in the year.
+- A church, a school, or an arts nonprofit: these count as businesses for this rule, so the same $2,000 rule applies.
+- Payments through a card processor or a payment app: the platform reports them on a 1099-K, and the threshold is more than $20,000 and more than 200 payments in a year.
+
+No form doesn't mean no tax. All of it is income, and all of it goes on Schedule C.
+
+#### both at once
+
+Most freelancers are both in the same year: an employee of the church that pays on a W-2 and self-employed for everything else. Tonight's pianist is.
+
+#### the vocabulary
+
+Every legal and tax term in tonight's cases, in the order they come up:
+
+- Withholding: tax an employer takes out of each paycheck and sends to the government for you.
+- W-2: the employer's year-end statement of your wages and the tax withheld.
+- W-9: the form a client asks you to fill in before paying you: your name, address, and taxpayer identification number.
+- EIN: an Employer Identification Number, a free federal tax number you can put on W-9s in place of your Social Security number.
+- 1099-NEC: the form a business that paid you $2,000 or more as a contractor sends you and the IRS.
+- 1099-K: the form payment apps and card processors send when your payments through them pass the threshold.
+- Gross and net: gross is everything you were paid; net is what's left after business expenses.
+- Business expense, or deduction: a cost of doing the work, subtracted from your income before tax.
+- Schedule C: the page of your tax return that lists your practice's income and expenses.
+- Schedule SE: the page that figures your self-employment tax.
+- Estimated tax: tax a self-employed person pays in four installments during the year, because nobody is withholding it. Federal on Form 1040-ES; California has its own.
+- Sole proprietor: the default legal form of a one-person business.
+- Partnership: the default legal form of two or more people in business together, filed or not. Each partner is personally liable for the partnership's debts.
+- LLC: a limited liability company, a business form you file with the state that keeps business debts away from your personal assets.
+- 501(c)(3) nonprofit: an organization the IRS has recognized as tax-exempt, run by a board, with no owners. Donations to it are tax-deductible.
+- Fiscal sponsor: an existing 501(c)(3) that lets a project without nonprofit status raise tax-deductible money and apply for grants under its umbrella, for a fee.
+- Business tax certificate: the city license to do business. Oakland requires one of every self-employed person working in the city.
+- Zoning clearance: Oakland's permission to run a business at a given address, including your home. It comes before the business tax certificate.
+- Fictitious business name: a name you work under that isn't your own legal name ("Bay Keys Music"), registered with the county. Also called a DBA, "doing business as."
+- Seller's permit: California's registration to sell physical goods (CDs, vinyl, printed scores, merchandise) and collect sales tax. It's free.
+- Union scale: the minimum rate a musicians' union sets for a kind of work.
+- Per service: pay counted by the rehearsal or performance, the usual unit in orchestras and pits.
+- Copyright: your legal ownership of a piece, which exists once it's written down or recorded (week 13).
+- Copyright registration: filing that ownership with the U.S. Copyright Office, which you need before you can sue for infringement.
+- Performing rights organization (PRO): BMI or ASCAP, which collect royalties when your music is performed in public and pay them to you.
+- Commission: a fee paid to write a new piece, with the terms set in a written agreement.
+- Perusal score: a watermarked PDF of a score, posted for performers to read, not to perform from.
+
+### 6:18 the readings, in brief
+
+Seven minutes. Each reading supplies one part of what the two cases use.
 
 - NYFA, chapter 6, "Budgets" (pp. 109–116). The annual budget is all your income from every source set against every cost for the year. NYFA's advice for any funder: start from what the work really costs, including your own labor and anything donated, valued at fair market price. Most institutional funders want a budget that breaks even.
 - NYFA, chapter 7, "Financial Terminology" (pp. 117–135). The vocabulary for the forms tonight: income statement, Schedule C, W-2, W-9, 1099, deductions, cash flow. Two updates since the book went to press: contractor pay is now reported on Form 1099-NEC, not 1099-MISC, and the threshold for payments made in 2026 is $2,000, not $600.
@@ -40,7 +137,7 @@ Twelve minutes. Each reading supplies one part of what the two cases use.
 
 Discussion, one question: which of these four would change something you do this week?
 
-### 6:15 case 1, the pianist
+### 6:25 case 1, the pianist
 
 #### who they are
 
@@ -48,15 +145,24 @@ A pianist, 29, living in Oakland. A master's in collaborative piano, comfortable
 
 #### the gigs
 
-Twelve kinds of work a pianist in the Bay Area can do. For each: how it's found, how it pays, and whether the pianist is usually an independent contractor (paid on a 1099, taxes not withheld) or an employee (paid on a W-2, taxes withheld). The classification follows California law, explained under "being a contractor" below.
+Twelve kinds of work a pianist in the Bay Area can do. For each: how it's found, how it pays, whether the pianist is an employee or a contractor under the tests from 6:03, and whether a 1099 arrives.
 
-1. Weddings and private events: ceremony, cocktail hour, a party. Found through the website, wedding planners, venues' preferred-vendor lists, and booking sites such as GigSalad and The Bash. Paid a flat fee by the client, usually a deposit on booking and the balance before the date. Contractor.
+1. Weddings and private events: ceremony, cocktail hour, a party. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. On screen:
+
+   - [GigSalad](https://www.gigsalad.com), a national marketplace for booking performers; [its wedding musicians page](https://gigsalad.com/Hire/Wedding-Musicians) shows what a client sees.
+   - [The Bash](https://www.thebash.com), formerly GigMasters, part of The Knot's family of wedding sites; [its pianist listings](https://www.thebash.com/search/ambient-piano) show posted rates.
+   - [Craigslist's Bay Area musicians section](https://sfbay.craigslist.org/search/muc), where musicians post "available for gigs" ads and people post looking for players. Read the pay terms before replying.
+   - [San Francisco Classical Voice classifieds](https://sfcv.org/classifieds), with sections for musicians for hire, private lessons, and job announcements, posted by musicians and organizations themselves.
+
+   GigSalad and The Bash charge performers through memberships or booking fees; check each site's current pricing before you sign up.
+
+   Paid a flat fee by the client, usually a deposit on booking and the balance before the date. Self-employment income. A couple paying for their own wedding isn't a business, so no 1099 arrives; the fee still goes on Schedule C. A wedding planner or venue that hires and pays you is a business, and sends a 1099-NEC once it pays you $2,000 or more in a year.
 2. Restaurants, hotel lounges, and corporate events. Found through agencies and talent buyers. A flat fee per night, sometimes through the agency's payroll. A one-time event or a standing gig at the same place once a week falls under the musician exemption; a residency at the same place more than once a week doesn't.
 3. Church services. Sunday services, holidays, weddings and funerals at the church, choir rehearsals. Found through church job listings, the American Guild of Organists' national job board and its San Francisco chapter's listings, and word of mouth among musicians. A weekly position at one church fits the law's definition of a single engagement (a series at the same venue no more than once a week), so the older multi-factor test decides, and a church can set the position up as a part-time W-2 job or as contract work. Ask which it is. Substituting for one Sunday is a single engagement.
-4. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and college music departments. Paid by the hour by the student or the teacher, as self-employment income. A staff accompanist position at a school or college is a W-2 job.
+4. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and college music departments. Paid by the hour by the student or the teacher, as self-employment income, with no 1099 from a student paying for themselves. A staff accompanist position at a school or college is a W-2 job.
 5. Musical theater pits. Community theater, school musicals, regional productions. Found through music directors. Paid per rehearsal and per performance. California excludes musical theater productions from the musician exemption in AB 2257, so the stricter test applies and the pianist is usually an employee.
 6. Orchestral keyboard. Piano, celesta, and harpsichord parts for regional orchestras. Found through the contractors who book the players. Paid per service. A group performing as a symphony orchestra is also excluded from the exemption, so the pianist is usually an employee.
-7. Jazz and club gigs. A trio or quartet at a bar, a club, or a series. Paid as a guarantee, a share of the door, or both. As a side musician: contractor. As the leader: the pianist pays the others, so they collect the others' W-9s and file their 1099s.
+7. Jazz and club gigs. A trio or quartet at a bar, a club, or a series. Paid as a guarantee, a share of the door, or both. As a side musician: contractor, with a 1099-NEC from the club or the leader if they pay you $2,000 or more in the year. As the leader: the pianist pays the others, so they collect the others' W-9s and file 1099-NECs for anyone they pay $2,000 or more.
 8. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters. Paid per song, per hour, or per project. California applies the multi-factor test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
 9. Dance class accompanying. Ballet and modern classes at studios and colleges, often weekly. A class isn't a live performance event, so the musician exemption doesn't apply. Under the ABC test the accompanist is presumed to be an employee unless the studio can show all three parts of the test, which is hard when accompanying is part of the studio's regular business.
 10. Teaching artist residencies. Weeks in a school through an arts organization. Teaching isn't a performance, so the ABC test applies here too; organizations hire teaching artists both ways, so ask which it is.
@@ -83,7 +189,7 @@ Lessons through a community music school are the alternative: the school finds t
 
 #### the pianist's year
 
-Invented figures. Each line is marked by the form it arrives on.
+Invented figures. Each line is marked by where it's reported: on a W-2 the employer sends, or on Schedule C, which the pianist fills in.
 
 | work | the year | form |
 |---|---|---|
@@ -117,13 +223,13 @@ Week 12 covered McCurdy's list for a musician's site. For a gigging pianist, the
 
 What it involves, in the order it comes up.
 
-Classification. California's default test (the ABC test, from AB 5) treats a worker as an employee unless the hiring party shows otherwise. AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The older multi-factor test (called Borello, after the court case) then decides. That's why the pit comes on a W-2 and the wedding doesn't.
+Classification. The tests are at 6:03. The exact terms of the musician exemption: AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The older multi-factor test (called Borello, after the court case) then decides. That's why the pit comes on a W-2 and the wedding doesn't.
 
 The forms, from the first gig on:
 
 - Form W-9. The client asks for it before paying. It gives your name, address, and taxpayer identification number.
 - An EIN. A sole proprietor with no employees can use a Social Security number, but an Employer Identification Number from the IRS is free and keeps the Social Security number off every client's W-9. Apply on IRS.gov; any site that charges for an EIN is charging for a free form.
-- Form 1099-NEC. A client who pays you $2,000 or more for services in 2026 sends you one and files a copy with the IRS, by February 1, 2027 (the usual January 31 deadline falls on a Sunday). Below $2,000 no form arrives, and the income is still reportable.
+- Form 1099-NEC. A business, nonprofit, or government agency that pays you $2,000 or more for services in 2026 sends you one and files a copy with the IRS, by February 1, 2027 (the usual January 31 deadline falls on a Sunday). Below $2,000 no form arrives, and the income is still reportable.
 - Form 1099-K. Payment apps such as Venmo and PayPal report your payments on this form when they're more than $20,000 and more than 200 transactions in a year.
 - Schedule C. Your business income and expenses, filed with Form 1040.
 - Schedule SE. The self-employment tax: 12.4 percent for Social Security and 2.9 percent for Medicare, 15.3 percent in all, on 92.35 percent of net earnings, owed once net earnings from self-employment reach $400. Half of it is deductible.
@@ -175,11 +281,11 @@ The strategy, in order:
 9. Price liability insurance before the first venue asks for it.
 10. Put the grant deadlines in a calendar: the Quick Grant on the 15th of any month, and the California Arts Council fellowship when it next opens.
 
-### 6:55 break
+### 7:00 break
 
-Eight minutes. Back at 7:03.
+Eight minutes. Back at 7:08.
 
-### 7:03 case 2, the composer
+### 7:08 case 2, the composer
 
 #### who they are
 
@@ -289,7 +395,7 @@ In chat:
 9. Decide with your collaborators whether you're a partnership, a sponsored project, or an LLC, and write it down.
 10. Put the grant deadlines in a calendar: the Creator Fund from December 7 to January 7 (once you're eligible), the Quick Grant on the 15th of any month, FCA in any month, and the California Arts Council fellowship when it next opens.
 
-### 7:40 the portfolio, from here to December 7
+### 7:42 the portfolio, from here to December 7
 
 #### the dates
 
