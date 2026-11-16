@@ -2,24 +2,24 @@
 
 Financial Sustainability & Funding. Monday, November 16, on Zoom.
 
-Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Student page: [week14.html](../week14.html). Workbook: [financial-snapshot.xlsx](../assets/financial-snapshot.xlsx).
+Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Student page: [week14.html](../week14.html).
 
 - Reflection due before class tonight.
 - Financial Snapshot due Friday, November 20, by 11:59 pm on Canvas.
 
 ## November 16
 
-6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open: tonight's exercises start from all three. Download the workbook before 6:54 and open it in Excel, Numbers, or Google Sheets. On screen tonight: the warm-up board, the composer's three example sheets, and the list of sixteen components.
+6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight runs on two worked cases: a freelance pianist who makes a living from gigs and lessons, and the composer who runs the monthly eight-speaker series in Oakland. For each one you'll get the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they can reach, alone or as a group. On screen tonight: the pianist's gig list and year, the composer's work list and year, the forms list, and the three-way comparison of LLC, fiscal sponsor, and nonprofit.
+
+Both people are invented, and so are their rates and incomes. The laws, forms, fees, and grant programs are real and current as of November 2026. Nobody here is giving legal or tax advice.
 
 ### running order
 
 - 6:00 open
-- 6:02 warm-up, the last money in
-- 6:10 the readings
-- 6:46 break
-- 6:54 exercise 1, your year
-- 7:18 exercise 2, the lowest month
-- 7:30 exercise 3, what you can count on
+- 6:03 the readings, in brief
+- 6:15 case 1, the pianist
+- 6:55 break
+- 7:03 case 2, the composer
 - 7:40 the portfolio, from here to December 7
 - 7:55 close
 
@@ -27,228 +27,273 @@ Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Stud
 
 In chat:
 
-> Tonight you'll put a realistic year of your practice into a spreadsheet: what it costs, what it brings in, the month your cash is lowest, and the funding you can actually count on. Then we'll go through the final portfolio and the presentation on December 7. Nobody here is giving tax or financial advice, the readings included. Every number you share in chat tonight is a percentage or a count, never a dollar figure.
+> Tonight is two case studies, start to finish: a performer and a composer, what work each can find, how they get paid, the paperwork that comes with it, and the grants they can apply for. Keep a list as we go of everything that applies to you. It's the raw material for Friday's Financial Snapshot.
 
-### 6:02 warm-up, the last money in
+### 6:03 the readings, in brief
 
-Think of the last time your practice brought in money: a gig, a lesson, a sale, a commission, a stream payout, a grant.
+Twelve minutes. Each reading supplies one part of what the two cases use.
+
+- NYFA, chapter 6, "Budgets" (pp. 109–116). The annual budget is all your income from every source set against every cost for the year. NYFA's advice for any funder: start from what the work really costs, including your own labor and anything donated, valued at fair market price. Most institutional funders want a budget that breaks even.
+- NYFA, chapter 7, "Financial Terminology" (pp. 117–135). The vocabulary for the forms tonight: income statement, Schedule C, W-2, W-9, 1099, deductions, cash flow. Two updates since the book went to press: contractor pay is now reported on Form 1099-NEC, not 1099-MISC, and the threshold for payments made in 2026 is $2,000, not $600.
+- Rabideau, chapter 11, "Finding the Funds" (pp. 133–146). Most projects have several revenue sources, earned and raised, and your status (independent, sponsored, nonprofit) decides which sources are open to you (p. 136). Read Intimate Opera's production of *Speed Dating Tonight!* (pp. 144–145) for every kind of source used on one show.
+- Kolb, chapter 10, "Financial concepts for success" (pp. 224–248). Separate business and personal accounts (pp. 225–226), pay yourself a salary (p. 229), and watch cash flow, because bills come every month and income comes in bursts (p. 242).
+
+Discussion, one question: which of these four would change something you do this week?
+
+### 6:15 case 1, the pianist
+
+#### who they are
+
+A pianist, 29, living in Oakland. A master's in collaborative piano, comfortable in classical and jazz, reads well, plays some organ. No full-time job. They want a year that pays the rent from music alone.
+
+#### the gigs
+
+Twelve kinds of work a pianist in the Bay Area can do. For each: how it's found, how it pays, and whether the pianist is usually an independent contractor (paid on a 1099, taxes not withheld) or an employee (paid on a W-2, taxes withheld). The classification follows California law, explained under "being a contractor" below.
+
+1. Weddings and private events: ceremony, cocktail hour, a party. Found through the website, wedding planners, venues' preferred-vendor lists, and booking sites such as GigSalad and The Bash. Paid a flat fee by the client, usually a deposit on booking and the balance before the date. Contractor.
+2. Restaurants, hotel lounges, and corporate events. Found through agencies and talent buyers. A flat fee per night, sometimes through the agency's payroll. A one-time event or a standing gig at the same place once a week falls under the musician exemption; a residency at the same place more than once a week doesn't.
+3. Church services. Sunday services, holidays, weddings and funerals at the church, choir rehearsals. Found through church job listings, the American Guild of Organists' national job board and its San Francisco chapter's listings, and word of mouth among musicians. A weekly position at one church fits the law's definition of a single engagement (a series at the same venue no more than once a week), so the older multi-factor test decides, and a church can set the position up as a part-time W-2 job or as contract work. Ask which it is. Substituting for one Sunday is a single engagement.
+4. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and college music departments. Paid by the hour by the student or the teacher, as self-employment income. A staff accompanist position at a school or college is a W-2 job.
+5. Musical theater pits. Community theater, school musicals, regional productions. Found through music directors. Paid per rehearsal and per performance. California excludes musical theater productions from the musician exemption in AB 2257, so the stricter test applies and the pianist is usually an employee.
+6. Orchestral keyboard. Piano, celesta, and harpsichord parts for regional orchestras. Found through the contractors who book the players. Paid per service. A group performing as a symphony orchestra is also excluded from the exemption, so the pianist is usually an employee.
+7. Jazz and club gigs. A trio or quartet at a bar, a club, or a series. Paid as a guarantee, a share of the door, or both. As a side musician: contractor. As the leader: the pianist pays the others, so they collect the others' W-9s and file their 1099s.
+8. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters. Paid per song, per hour, or per project. California applies the multi-factor test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
+9. Dance class accompanying. Ballet and modern classes at studios and colleges, often weekly. A class isn't a live performance event, so the musician exemption doesn't apply. Under the ABC test the accompanist is presumed to be an employee unless the studio can show all three parts of the test, which is hard when accompanying is part of the studio's regular business.
+10. Teaching artist residencies. Weeks in a school through an arts organization. Teaching isn't a performance, so the ABC test applies here too; organizations hire teaching artists both ways, so ask which it is.
+11. Subbing. Covering any of the above for another pianist. The terms follow whatever gig it is.
+12. Private lessons. The one most freelancers keep year-round. Covered next.
+
+Union rates: Musicians Union Local 6 of the American Federation of Musicians, in San Francisco, keeps a casual wage scale for freelance engagements, and its staff help with job quotes. Its members set minimum scales for all kinds of musical work. Members also get a contract guarantee: if a proper contract is filed with Local 6 before the engagement, the union pays a member's unpaid scale wages for engagements in its jurisdiction.
 
 In chat:
 
-> One line: how the money reached you. "Cash at the door," "Venmo," "a check," "direct deposit," "still waiting for it." No amounts, no names.
+> Which three of the twelve could you take next month, as you are now?
 
-The lines go on screen in four columns as they come in: cash, payment app, check or deposit, still waiting.
+#### private lessons
 
-Follow-ups:
+A lesson studio is a small business with its own rules. What the pianist decides and writes down in a one-page studio policy, sent to every new student:
 
-- Did it go into an account you keep only for your practice, or into the one you pay rent from? Kolb's case for separate accounts is on pp. 225–226.
-- Did anyone send an invoice first?
-- The still-waiting column is what NYFA calls an account receivable: money you've earned and haven't been paid. How long has the oldest one been waiting? NYFA says 30 days is the hope and 60 or 90 is common.
+- The rate, and whether it's charged per lesson, per month, or per semester. Tuition paid in advance by the month or semester evens out cash flow, Kolb's concern on p. 242.
+- Cancellations: how much notice, and whether a missed lesson is made up, credited, or charged.
+- Where: the pianist's home, the student's home, a rented room, or online. A home studio in Oakland is a home business. Oakland requires a zoning clearance and a business tax certificate even for a business run from home.
+- What's included: a recital, materials, messages between lessons.
+- A sliding scale or a few reduced-rate spots, if the pianist's Pricing Rationale calls for one.
 
-### 6:10 the readings
+Lessons through a community music school are the alternative: the school finds the students and keeps part of the fee, and the pianist may be an employee of the school.
 
-Four readings, in the order on the student page, about nine minutes each. Each gets an account here, then two discussion questions.
+#### the pianist's year
 
-#### NYFA, chapter 6, "Budgets" (pp. 109–116)
+Invented figures. Each line is marked by the form it arrives on.
 
-NYFA's claim is that the smallest practices need a budget most, because every dollar counts when there are few of them.
+| work | the year | form |
+|---|---|---|
+| 12 lesson students, 36 weeks, $55 a lesson | $23,760 | Schedule C (self-employment) |
+| weekly church position, set up by this church as a part-time job | $12,000 | W-2 |
+| 18 weddings and private events, $400 each | $7,200 | Schedule C |
+| 120 hours of collaborative piano, $60 an hour | $7,200 | Schedule C |
+| 20 jazz gigs, $150 each | $3,000 | Schedule C |
+| two musicals in a community theater pit | $2,400 | W-2 |
+| recording sessions | $1,500 | Schedule C |
+| total | $57,060 | |
 
-Two kinds of budget:
+$14,400 arrives on W-2s, with tax already withheld. $42,660 is self-employment income with nothing withheld. Against that the pianist has business expenses: tuning, a stage keyboard and amplifier, mileage, sheet music, the website, insurance, union dues. Say they come to $6,000. The net self-employment income is then $36,660.
 
-- The project budget covers every stage of one project: development, production, and postproduction. You need one for a grant, an investor, or a collaborator, and it says how much time it covers.
-- The annual budget sets your income from every source against every cost for the year. Tonight's workbook builds this one.
+Self-employment tax on that net, before any income tax, is about $5,180: 15.3 percent of 92.35 percent of net earnings. Nobody withholds that money, so the pianist sets part of every payment aside.
 
-How to build one, in NYFA's three steps:
+#### the website
 
-- Income: everything that comes in, from paychecks to grant income to sporadic gig fees.
-- Expenses: everything that goes out.
-- Assessment: whether the money is spent well. NYFA calls this step the hardest, and gives the example of buying the materials you use every month in bulk.
+Week 12 covered McCurdy's list for a musician's site. For a gigging pianist, the pages that bring in work:
 
-Sofia Garcia, NYFA's running example, runs a studio with classes, workshops, and sales. She built her 2018 budget from the previous year's tax return, adjusting each line up or down. It showed a surplus of about $54,000, and her take-home after taxes was $43,700. Most of that surplus came from $35,000 in two grants, and most of the grant money was meant for future projects, so she has to manage it carefully until she spends it.
+- Home: a photo, one line on what they play and where, and a "book" button.
+- Listen and watch: three short videos, one for each kind of gig (a wedding processional, a jazz standard, a recital with a singer).
+- Weddings and events: the repertoire list, how booking works, a "starting at" fee, and what's included (setup time, a sound system or not, a keyboard or the venue's piano).
+- Collaborative piano: the repertoire they've played, the hourly rate, and the policy for rehearsals and the performance.
+- Lessons: who they teach, the studio policy, the rate, and a form to request a first lesson.
+- About: the bio in a short and a long version.
+- Contact: a form, an email, and the area they travel to.
+- Testimonials from real clients, with their permission.
 
-Why artists avoid budgets, in NYFA's account: they're afraid to learn the true cost of their work, and much of that cost is their own unpaid labor. NYFA's fix is to log your hours and apply an hourly rate. For a funder, start from what the work really costs, not from what you think it should cost. NYFA's example: if you can make a piece for $1,000 only because people donated materials and nobody was paid, including you, the true cost is higher than $1,000, and a grant budget lists the donated items at fair market value. Most institutional funders want a budget that breaks even, with income equal to expenses.
+#### being a contractor
 
-NYFA names Mint.com as a free budgeting tool and Excel or Google Sheets as the alternative. Intuit shut Mint down in March 2024. A spreadsheet does the job, and the workbook is one.
+What it involves, in the order it comes up.
 
-Discussion:
+Classification. California's default test (the ABC test, from AB 5) treats a worker as an employee unless the hiring party shows otherwise. AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The older multi-factor test (called Borello, after the court case) then decides. That's why the pit comes on a W-2 and the wedding doesn't.
 
-- NYFA says some artists avoid budgets because they're afraid of the true cost. Which cost in your practice have you never put a number on?
-- What does your practice get in kind: a rehearsal space, gear on loan, someone's time? What would it cost at fair market value?
+The forms, from the first gig on:
 
-#### NYFA, chapter 7, "Financial Terminology" (pp. 117–135)
+- Form W-9. The client asks for it before paying. It gives your name, address, and taxpayer identification number.
+- An EIN. A sole proprietor with no employees can use a Social Security number, but an Employer Identification Number from the IRS is free and keeps the Social Security number off every client's W-9. Apply on IRS.gov; any site that charges for an EIN is charging for a free form.
+- Form 1099-NEC. A client who pays you $2,000 or more for services in 2026 sends you one and files a copy with the IRS, by February 1, 2027 (the usual January 31 deadline falls on a Sunday). Below $2,000 no form arrives, and the income is still reportable.
+- Form 1099-K. Payment apps such as Venmo and PayPal report your payments on this form when they're more than $20,000 and more than 200 transactions in a year.
+- Schedule C. Your business income and expenses, filed with Form 1040.
+- Schedule SE. The self-employment tax: 12.4 percent for Social Security and 2.9 percent for Medicare, 15.3 percent in all, on 92.35 percent of net earnings, owed once net earnings from self-employment reach $400. Half of it is deductible.
+- Form 1040-ES. Estimated tax, paid in four installments across the year, if you expect to owe $1,000 or more when you file. California has its own estimated tax, and the Franchise Tax Board's threshold is lower: generally $500.
+- As the leader of a band: collect a W-9 from every musician you pay, and file a 1099-NEC for anyone you pay $2,000 or more in the year.
 
-The vocabulary for talking to an accountant, a lender, or a funder. NYFA opens by advising that specific questions about your own finances and taxes go to a qualified professional.
+The local paperwork:
 
-For accounting purposes a business is one of three kinds: service (a performer paid for time), manufacturing (a studio artist making work to sell), or merchandising (a gallery buying work and reselling it). Your practice may combine them.
+- City of Oakland business tax certificate. Oakland requires one of everyone doing business in the city, including self-employed people, independent contractors, and home-based businesses, renewed every March 1. A business located in Oakland gets a zoning clearance first. Other cities have their own rules; check the city you live in.
+- Fictitious business name statement, if you work under any name other than your own ("Bay Keys Music"). In Alameda County it's filed with the Clerk-Recorder for $40.
+- California seller's permit, if you sell CDs, vinyl, or merchandise at shows. It's free from the California Department of Tax and Fee Administration.
 
-Whatever your business structure, keep separate books: a bank account for the practice, all freelance income deposited there, and transfers to your personal account for everything else. NYFA recommends accounting software over a paper ledger.
+The habits:
 
-The income statement, also called the profit and loss statement:
-
-- Income less expenses over a period, usually a calendar year. A sole proprietor reports it on Schedule C with Form 1040.
-- Sofia's: $21,000 in and $20,430 out, a profit of $570. She spent $2,000 on out-of-town travel. Cutting that in half would nearly triple her profit, and NYFA suggests a six-month statement so she can see that while there's still time to change it.
-- Profit is total revenue minus total expenses. Revenue over expenses is a surplus; expenses over revenue is a deficit.
-- NYFA warns that losses more than three years in a row can lead the tax authorities to treat your practice as a hobby and disallow the deductions you took.
-
-Expenses to track, with receipts: travel, business meals (50 percent deductible), vehicle costs, equipment (a $2,000 computer with a five-year life depreciates $400 a year), a home office, and costs particular to the arts: union dues, agent and manager fees, coaching, instrument storage.
-
-An invoice names you and the client, the date issued and the date due, both addresses, what you did or delivered, and the prices. NYFA's point is that the hard part is making time to send it and follow up.
-
-The balance sheet is a snapshot of one date: what you own (assets), what you owe (liabilities), and the difference (equity). Money owed to you is an asset until it's paid. Copyrights and goodwill are assets too.
-
-Cash flow: a practice can be profitable and still run out of money to pay its bills. NYFA's contrast is Sofia, with much of her worth in unsold work, and a musician with a smaller net worth who's paid right after each gig.
-
-Taxes, with three updates since the book:
-
-- An independent contractor pays both halves of Social Security and Medicare. The IRS sets the self-employment tax at 15.3 percent, owed once net earnings from self-employment reach $400.
-- If you expect to owe $1,000 or more when you file, the IRS generally expects estimated tax payments across four periods of the year.
-- NYFA describes the 1099-MISC for contractors paid more than $600. Contractor pay is now reported on Form 1099-NEC, and for payments made in 2026 the threshold is $2,000, raised by the One Big Beautiful Bill Act. NYFA's rule still holds: all income is reportable whether or not a form arrives.
-
-Accountants typically recommend keeping the receipts behind a Schedule C for seven years.
-
-Discussion:
-
-- Service, manufacturing, or merchandising: which is your practice, or which mix?
-- NYFA's Sofia could see her travel line only once it was on an income statement. Which line in your practice would surprise you?
-
-#### Rabideau, chapter 11, "Finding the Funds: Donations, Grants, and Finance Management" (pp. 133–146)
-
-Steven Linville wrote this chapter. Linville runs operations for the DePauw University School of Music and produces Intimate Opera of Indianapolis, a small, mostly volunteer company that has worked independently and as a sponsored project and has never been a 501(c)(3).
-
-Budgets (pp. 134–136):
-
-- List every possible expense and leave nothing out: pay for the people involved, advertising, pizza for late rehearsals.
-- Then compare the list to the people. Linville manages Intimate Opera's website, makes its publicity, and designs its lights as well as directing, so the company never pays a designer or a stage manager. The cost is their time.
-- Build in a buffer of 5 to 10 percent for costs that rise and income that falls short.
-- Return on investment is net income divided by the cost of the investment. Social return on investment adds the value to the community: programs for children and adults, business for nearby restaurants.
-- Don't commit to an expense until you're sure you can fund it (p. 136).
-
-Revenue (pp. 136–143):
-
-- Most projects have several revenue sources, a portfolio in Rabideau's word. Not every source fits every project: your status (independent, sponsored, nonprofit) and your focus decide where your research starts. Write a need statement first.
-- Grants: research the funder's focus, its reviewers, and whether you qualify; read the application for deadlines, letters of support, budget format, matching funds, and in-kind gifts; make a timeline. Expect to receive part of what you asked for, and find out what you'll have to report before you spend any of it.
-- Donors need a relationship and a thank-you with something specific from the project. Sponsors are usually organizations that pay for recognition. Partners provide a service in place of money.
-- Crowdfunding: set a realistic goal, and choose the platform with care, because some pay out only if you reach the goal, some pay whatever you raise, and each keeps a different percentage. Make the first donation yourself, start with personal emails to your own circle (the quiet phase), and offer rewards you can afford.
-- Two campaigns: Jessica Duchen crowdfunded a novel and found that most pledges came from people she emailed directly. Dan Visconti's Fifth House Ensemble set a $5,000 Kickstarter goal for its *Journey LIVE* concerts and raised $52,000, and used the campaign to find which cities the game's fans lived in.
-
-Intimate Opera's production of Michael Ching's *Speed Dating Tonight!* (pp. 144–145) uses all of it. Read the paragraph on the performance space aloud. The accompanist recorded rehearsal tracks; a lesson studio gave them rehearsal space; the venue they wanted cost too much, so they split ticket revenue 50/50 with it in place of a fee; a restaurant sold dinner tickets for the venue; three businesses sponsored coupons on the backs of the tickets; a local grant covered part of the costs; and an Indiegogo campaign, which pays out whatever you raise, reached about 70 percent of its goal.
-
-Discussion:
-
-- The 50/50 split moved the risk of an empty house from the company to the venue. Run it on the composer's series: the gallery charges $150 a night, and a typical night is 40 people paying $9 on average. Half the door is $180. Below how many people does the split cost less than the flat fee? (About 33.)
-- Which of Rabideau's sources fits your status right now, and which needs something you don't have yet: a fiscal sponsor, a list, a nonprofit?
-
-#### Kolb, chapter 10, "Financial concepts for success" (pp. 224–248)
-
-Kolb's opening claim: a creative entrepreneur who has mastered making and marketing the work can still fail without financial skills (p. 225).
-
-Keeping the practice separate (pp. 225–229):
-
-- Separate checking and savings accounts, so you can compare what the practice spends with what it earns and don't fool yourself that it's profitable when it isn't. Tracked business expenses also lower the tax on the practice's profit.
-- Software or your bank's app can sort expenses by category, and a business credit card gives you a monthly statement to analyze.
-- Box 10.2 (p. 228) lists five questions for any payment processor: its fees, its security compliance, a sample contract, the payment methods it accepts, and how long the money takes to reach you.
-- Pay yourself a salary, transferred to your personal account each month, rather than taking money out when you need it (p. 229).
-
-Two levels of profitability (p. 229). The first covers your minimum living expenses, and for some artists that's enough. The second matches what you'd earn employed in your field. Many small businesses take one to two years to reach either, which is why many artists keep another source of income. Kolb adds that the other income gives you the freedom to make work without strong market appeal.
-
-Accounting (pp. 232–234). Record an expense in the same period as the income it produced. Kolb's sculptor buys steel for a commission at the end of one year and is paid at the start of the next, and the books show a loss, then a large profit, with no explanation. A small practice with no money owed in either direction can use cash accounting; choose a method and don't switch.
-
-The three statements (pp. 238–242):
-
-- The income statement, usually broken out by month, with each revenue source kept separate so you learn which one brings in the most. Money you put in from your own pocket during a slow month isn't revenue (p. 239).
-- The balance sheet, a picture of one moment.
-- The cash flow statement, which Kolb calls probably the most useful of the three (p. 242). Bills come every month, and income may come seasonally or sporadically. A business with customers and sales can still have negative cash flow.
-
-When cash is short for a season, a line of credit lets you borrow and repay once the money arrives (p. 243). Insurance (pp. 244–248) covers vehicles, property, and liability. The listener in the November 9 case who tripped over the speaker cable would bring a liability claim.
-
-Discussion:
-
-- Which of Kolb's two levels of profitability is your practice aiming for this year? Did you choose that, or was it chosen for you?
-- Have you ever counted money from your own pocket as income from your practice?
-
-### 6:46 break
-
-Eight minutes. Download the workbook if you haven't. Back at 6:54.
-
-### 6:54 exercise 1, your year
-
-#### on screen, four minutes
-
-The composer's year, on the example year sheet. The composer runs the monthly series on the second Friday in a 60-seat gallery in Oakland, with eight speakers in a ring around the audience, ten concerts a year with July and August off. Every figure is invented.
-
-- Money out is $7,630 before the 5 percent buffer and the tax estimate, and $8,603 with them. The largest lines are the guest composer honoraria ($2,000), the gallery ($1,500), and two new speakers ($1,200).
-- Money in is $12,200. Earned income is $5,400: the door, the choreographer's $1,500 commission in two halves, and downloads. Raised income is $6,800: fifteen monthly supporters, a county arts grant through a fiscal sponsor, and a crowdfunding campaign for the speakers.
-- What's left is about $3,600. The composer spends about 240 hours a year on the series, so that's about $15 an hour.
-- At $40 an hour for those 240 hours, the composer's own time is worth $9,600. Counted as a cost, it leaves the year $6,000 short. That's NYFA's true cost.
-- The "how you know" column says which numbers are records, which are quotes, and which are guesses. The insurance line is a guess until the agent's quote comes back.
-
-#### alone, fourteen minutes
-
-In your year sheet:
-
-> 1. Fill in the settings: your hours in a year, an hourly rate for your own time, and a buffer between 5 and 10 percent.
-> 2. Money out first. Rabideau's rule: list everything and leave nothing out. For each line, mark it fixed, variable, or one-time, and say how you know the number.
-> 3. Money in second. Mark each line earned or raised, and say how you know.
-> 4. Pick when each line is paid or arrives. You'll need that for exercise 2.
-> 5. Read the bottom of the sheet: what's left after everything, and what's left per hour of your time.
-
-#### in chat, six minutes
-
-> Two numbers, no dollar figures: your earned share of income as a percentage, and how many lines in your "how you know" column are guesses.
-
-Follow-ups:
-
-- Whose earned share is above half? Below a quarter?
-- Which guess would be easiest to turn into a record or a quote this week?
-- Did anyone count a day-job paycheck as income from the practice? Kolb would keep it separate.
-
-### 7:18 exercise 2, the lowest month
-
-#### on screen, four minutes
-
-The composer's months. The insurance and the website renewal are paid in January, and the speakers and the studio time for the commission's stereo mix in February, before the crowdfunding money arrives in April. The composer starts the year with $500. Cash is $256 below zero at the end of January and $1,772 below zero at the end of February, and the year doesn't get back above zero until April.
-
-What the readings offer:
-
-- Rabideau: don't commit to the speakers until the campaign has funded them. Moved to May, the February low is about $572 below zero. The January bills still come before the spring income.
-- Kolb: a line of credit covers a seasonal gap and is repaid when the money arrives.
-- NYFA: an invoice and a payment due date for the commission's second half, so it arrives when the agreement says it will.
-
-#### in pairs, eight minutes
-
-Breakout rooms, two people per room, four minutes per person. In chat:
-
-> 1. Open your months sheet, enter your cash at the start of January, and mark your active months.
-> 2. Read the bottom row. Which month is your cash lowest, and is it below zero?
-> 3. Tell your partner which line causes it.
-> 4. Your partner names one move from the readings: move a purchase, ask for a payment earlier, a buffer, a line of credit, a different month for a campaign.
-> 5. At four minutes, switch.
-
-### 7:30 exercise 3, what you can count on
-
-#### on screen, three minutes
-
-The composer's funding path. If every source that fits comes through, the year brings in $12,200. At the composer's own odds (90 percent for the door, 30 percent for the grant, 60 percent for the campaign), what they can count on is $8,430, about $170 short of the $8,603 the year costs. A national foundation that funds only nonprofit organizations is crossed out, because the series isn't one. The grant is marked "partly," because the series needs a fiscal sponsor to apply.
-
-#### alone, four minutes
-
-In your funding path sheet:
-
-> 1. List every source on your year sheet, plus any you haven't tried.
-> 2. For each, mark whether it fits your status and focus, and say why in a sentence. Rabideau's grant test: the funder's focus, whether you qualify, and the requirements.
-> 3. Give each an honest percentage.
-
-#### the round, three minutes
+- One bank account for the practice. Every payment goes in there, and you pay yourself from it (Kolb, pp. 225–229).
+- An invoice for every gig, with NYFA's five elements: names, dates, addresses, a description, prices.
+- A written agreement for every gig, even an email, using week 13's clauses.
+- Receipts for every expense, kept with the Schedule C they support.
+- A share of every self-employment payment set aside for tax, in its own savings account.
+- Liability insurance, which many venues ask for, and instrument insurance (Kolb, pp. 244–248; Andrews, pp. 161–164).
 
 In chat:
 
-> One source you marked "no" or "partly," and the one thing that would change the answer.
+> Which of these forms have you already filled out? Which one is new to you?
+
+#### the pianist's grants
+
+Most of the pianist's income is earned. Grants pay for specific projects and help in emergencies. What an individual performer in Oakland can apply for:
+
+- California Arts Council Individual Artist Fellowships. Unrestricted awards in three tiers, $5,000 (emerging), $10,000 (established), and $50,000 (legacy), run in the Bay Area by Kala Art Institute for artists 18 or older living in Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, or Sonoma County who have lived in California for at least two consecutive years. The program ran in 2021, 2023, and 2026, and the 2026 deadline was June 5. Watch the California Arts Council for the next cycle.
+- Center for Cultural Innovation. Its Quick Grant gives up to $600 for professional development to California artists, with a deadline on the 15th of every month. Its Investing in Artists: Artistic Innovation grants rotate among Bay Area counties; the 2026 round was limited to Marin, Napa, Solano, and Sonoma.
+- New Music USA's Creator Fund is for music creators. Its 2026 guidelines let an individual performer apply if their collaborator is a music creator. More under the composer.
+- City of Oakland Cultural Funding Program. It funded individual artist projects in past cycles (Neighborhood Voices for Individual Artist Projects in 2022–23). Its current programs fund organizations, so an individual reaches it through an organization they work with.
+- Emergencies: the Musicians Foundation pays essential bills (the check goes to the biller) for musicians who have worked professionally in the U.S. for five or more years. MusiCares gives financial assistance to people with five years of work in the music industry, full-time or not, or credits on six commercially released recordings.
+- What isn't open: the National Endowment for the Arts gives grants to individuals only through its creative writing and translation fellowships, and its honors for musicians (NEA Jazz Masters, National Heritage Fellowships) come by nomination. Its music grants go to organizations.
+
+#### the pianist's first ten steps
+
+The strategy, in order:
+
+1. Open a separate bank account for the practice.
+2. Get an EIN, and keep a filled-in W-9 ready to send.
+3. Get the Oakland zoning clearance and business tax certificate.
+4. Write a one-page agreement template and an invoice template.
+5. Write the studio policy and set the lesson rate.
+6. Build the website, with a page for each kind of gig and one for lessons.
+7. Send it to ten people who hire pianists: planners, teachers, music directors, a church, an agency.
+8. Set aside a share of every self-employment payment, and pay estimated tax each quarter.
+9. Price liability insurance before the first venue asks for it.
+10. Put the grant deadlines in a calendar: the Quick Grant on the 15th of any month, and the California Arts Council fellowship when it next opens.
+
+### 6:55 break
+
+Eight minutes. Back at 7:03.
+
+### 7:03 case 2, the composer
+
+#### who they are
+
+The composer from September 28: runs the monthly series on the second Friday in a 60-seat Oakland gallery, eight speakers in a ring, about 40 people a night, pay what you can. On November 9, a choreographer commissioned a twelve-minute eight-channel piece from them for $1,500. The series alone won't pay the rent. Here's what else a composer can do for money.
+
+#### the work
+
+1. Commissions. Ensembles, soloists, choirs, dance companies, theater companies, and individuals who pay for a new piece. The commissioner usually pays a fee, half on signing and half on delivery, and gets the premiere and a period of exclusive performance. The composer keeps the copyright unless a written agreement says otherwise (week 13).
+2. Engraving and music preparation. Turning a manuscript or a sketch into a clean score and parts in Dorico, Sibelius, or MuseScore, for other composers, publishers, ensembles, and film and theater productions. It's priced by the hour, by the page, or by the bar. The Canadian League of Composers publishes suggested minimum rates; its 2025 hourly minimum for engraving and copying is $59 in Canadian dollars, and proofreading is $57. A premiere with live players needs a score and parts, so a composer who engraves well can find steady work.
+3. Arranging and orchestration. Arrangements for a wedding band, a choir, a church, a school ensemble; orchestrating another composer's piano sketch for a film or a show.
+4. Transcription. Writing down music from a recording, for publishers, bands, students, and video creators.
+5. Music for media. Film, dance, theater, podcasts, games, installations, advertising. Usually a fee for the music, with terms for who owns it and where it can be used.
+6. Sound design. The composer's electroacoustic skills, for theater, dance, museums, and video.
+7. Library and production music. Tracks written for a library that licenses them to video producers, paid as a fee, a share of licensing, or royalties.
+8. Self-publishing. Selling scores and parts from the composer's own website or a sheet music platform.
+9. Royalties. Public performance royalties through a performing rights organization when the music is broadcast, streamed, or played in a venue that reports performances.
+10. Teaching. Private lessons in composition, theory, piano, or music technology (Max, a DAW, ChucK); workshops; adjunct teaching.
+11. Prizes, calls for scores, and residencies. Some pay a fee or a prize; many pay in a performance and a recording.
+12. Grants. Below.
+
+#### the composer's year
+
+Invented figures.
+
+| work | the year | form |
+|---|---|---|
+| 8 lesson students (composition and music technology), 36 weeks, $60 | $17,280 | Schedule C |
+| engraving and part preparation, 6 projects | $6,000 | Schedule C |
+| sound design for two theater productions | $5,000 | Schedule C |
+| arrangements for a choir and a wedding band | $1,800 | Schedule C |
+| the choreographer's commission | $1,500 | Schedule C |
+| the series: door and supporters, after its costs | $1,400 | Schedule C |
+| performing rights royalties | $200 | Schedule C |
+| total | $33,180 | |
+
+The composer's year is smaller than the pianist's and all self-employment, so the same forms apply with nothing withheld anywhere. The two largest lines, lessons and engraving, are services the composer sells to other musicians.
+
+#### the website
+
+The pages on a composer's site:
+
+- A works list: title, year, instrumentation, duration, and the commissioner or premiere, sortable by instrumentation, since that's how performers search.
+- A page for each piece: a recording, a perusal score (a watermarked PDF to read, not to perform from), program notes, and how to get the parts.
+- Commissions: what a commission includes, how it works, and a contact form.
+- Services: engraving, arranging, and sound design, with samples and how the rates are figured.
+- Lessons: what they teach, the studio policy, and the rate.
+- The series: dates, and how to get on the email list.
+- About and contact.
+
+#### rights and registrations
+
+The composer's assets are copyrights, so a few registrations come first:
+
+- A performing rights organization: BMI or ASCAP, one or the other. BMI states that joining as a songwriter or composer is free, with no annual dues; ASCAP's application page lists a one-time $50 processing fee. Register every work with the PRO, and report live performances, so the royalties can be paid.
+- The U.S. Copyright Office. Copyright exists once the piece is written down or recorded; registration is what you need to sue for infringement (week 13). Copyright.gov lists the fee for one work by one author, who owns it and didn't make it for hire, at $45, and the standard application at $65. The Office has sent Congress a new schedule raising them to $55 and $85 and will announce the effective date in the Federal Register, so check the fee page before filing.
+- A written agreement for every commission and every media job: who owns the music, who may perform, record, and post it, for how long, and what's paid when (week 13).
+
+Classification: the same law applies the Borello test, not the ABC test, to songwriters, lyricists, composers, and anyone rendering creative services for sound recordings or musical compositions, so the composer is usually a contractor. Every form on the pianist's list applies: W-9, EIN, 1099-NEC, 1099-K, Schedule C, Schedule SE, estimated tax, the Oakland business tax certificate, a fictitious business name if the series runs under one, and a seller's permit if the composer sells printed scores or recordings.
+
+#### the composer's grants, alone
+
+- New Music USA's Creator Fund. Grants to individual music creators in any genre. In the 2026 cycle, awards went up to $5,000 and averaged $3,000, a separate $10,000 Thea Musgrave grant went to performers commissioning an emerging composer, and students weren't eligible except PhD and DMA students. The next cycle opens December 7, 2026 and closes January 7, 2027; its eligibility details come out December 7, so check whether master's students are still excluded.
+- California Arts Council Individual Artist Fellowships through Kala, $5,000 to $50,000, as for the pianist.
+- Foundation for Contemporary Arts Emergency Grants. $500 to $3,000 (the average is $2,200) for contemporary, experimental work facing a sudden opportunity to present it to the public, or unexpected costs to finish a project close to completion with committed dates. The program runs year-round with no deadlines, and FCA recommends applying 8 to 10 weeks before the presentation. An individual artist applies, or an individual representing a collective or ensemble. It doesn't cover rent, medical bills, or other living costs.
+- Center for Cultural Innovation's Quick Grant, up to $600 for professional development, due the 15th of any month.
+- Prizes and calls for scores, tracked the way you track any deadline.
+
+#### the composer's grants, as a collective
+
+The composer and three performers from the series want to become an ensemble that commissions, tours, and records. What kind of entity they become decides which funders they can reach.
+
+A group that files nothing already has a legal form. In NYFA's chapter 5, from November 9, two or more people who agree to work together, each contribute money, property, or time, and share the profits and losses are a general partnership, whatever paperwork they have or haven't filed. Each partner's personal assets are exposed to the partnership's debts, including debts another partner took on.
+
+Three ways to formalize it, on screen:
+
+| | LLC | fiscal sponsorship | 501(c)(3) nonprofit |
+|---|---|---|---|
+| what it is | a for-profit company the members own | the group's project runs under an existing nonprofit's tax-exempt status | its own tax-exempt organization, governed by a board, with no owners |
+| protects members' personal assets | yes, if business and personal money stay separate | no | yes, for board members |
+| reaches funders that require nonprofit status | no | where the funder accepts fiscal sponsors | yes |
+| donations tax-deductible | no | yes | yes |
+| what it costs | California's $800 annual LLC tax, owed from the first year for LLCs formed since 2024, whether or not the LLC earns anything | the sponsor's fee on money raised: typically 5 to 10 percent, sometimes more, in Andrews's account (p. 148); Fractured Atlas keeps 8 percent and requires a membership | IRS user fee of $275 (Form 1023-EZ) or $600 (Form 1023), plus state registration and yearly filings |
+| who decides | the members | the group, with the sponsor approving grant applications and solicitations | the board |
+
+Which funders each one opens:
+
+- In any form: individual grants to each member, and Foundation for Contemporary Arts Emergency Grants through one member representing the group.
+- Without nonprofit status: Chamber Music America's Classical Commissioning program funds ensembles commissioning new works for two to ten players, one per part, and doesn't require nonprofit status, though the ensemble has to be a CMA member. Its 2026 cycle was limited to ensembles and presenters whose National Endowment for the Arts funding was rescinded in 2025. New Music USA's Organization Fund takes performance groups that aren't 501(c)(3)s (fiscal sponsorship is encouraged, not required) once they have three years of activity, an average annual budget between $5,000 and $3 million, and a dedicated organizational bank account.
+- With nonprofit status: funders that give only to nonprofits, such as Oakland's Cultural Organization Assistance grants for Oakland-based nonprofit arts organizations. A fiscally sponsored group reaches these only where the funder accepts fiscal sponsors, so read each funder's eligibility section.
+
+A new group that wants grants and owns little can start with a fiscal sponsor and form a nonprofit later if the group lasts. An LLC makes sense when the group earns money and owns things worth protecting: gear, a lease, a recording contract.
+
+In chat:
+
+> Think of a group you play or write with. Which of the three fits it now, and what would have to change for a different one to fit?
+
+#### the composer's first ten steps
+
+1. Join BMI or ASCAP, and register every finished work.
+2. Register the copyright of the works you'd defend.
+3. Build the works list, with a perusal score and a recording for each piece.
+4. Put up a services page for engraving and arranging, with samples.
+5. Write a commission agreement template and a media agreement template.
+6. Write the studio policy and set the lesson rate.
+7. Open the separate account, get the EIN, and get the Oakland certificate.
+8. Set aside a share of every payment, and pay estimated tax each quarter.
+9. Decide with your collaborators whether you're a partnership, a sponsored project, or an LLC, and write it down.
+10. Put the grant deadlines in a calendar: the Creator Fund from December 7 to January 7 (once you're eligible), the Quick Grant on the 15th of any month, FCA in any month, and the California Arts Council fellowship when it next opens.
 
 ### 7:40 the portfolio, from here to December 7
 
 #### the dates
 
-- Friday, November 20: the Financial Snapshot, by 11:59 pm on Canvas. The workbook is one way to build it. The brief on the week 14 page is what it has to answer, and the funding path still needs a few sentences in your own words.
+- Friday, November 20: the Financial Snapshot, by 11:59 pm on Canvas. Use tonight's two cases as models: your work list, your year line by line, which form each line arrives on, and your funding path.
 - Monday, November 23: Fall Recess. No class and no work.
 - Monday, November 30: week 15, Impact, Leadership & Futures. The Reflection is due before class: the societal impact you want your practice to have, and one concrete way to pursue it. The readings are Rabideau, chapter 2 (pp. 17–30); Andrews, chapter 7 (pp. 208–239); McCurdy, chapter 8; and Kolb, chapter 11 (pp. 249–271).
 - Friday, December 4: the Portfolio Overview Statement, by 11:59 pm on Canvas. It's the sixteenth component: a few paragraphs naming the through-line across the other fifteen, and the first page of your final portfolio.
@@ -283,19 +328,11 @@ Format: a single organized PDF is recommended. A clearly labeled folder (a ZIP, 
 
 #### the presentation
 
-Ten minutes per person, then five minutes of questions from the room. Present the portfolio as a whole, including your marketing plan. The through-line from your Overview Statement gives you an order to present it in.
+Ten minutes per person, then five minutes of questions from the room. Present the portfolio as a whole, including your marketing plan.
 
 #### how it's scored
 
 The final portfolio and the presentation together are 35 percent of the course grade, scored on the same 0 to 4 scale as the weekly work. The score is based on close engagement with the readings, the frameworks applied to your own practice, specific and defensible decisions, clear writing, and coherence across the components. The AI policy and its disclosure note apply to the portfolio's prose as they did to each component.
-
-#### a coherence check, four minutes
-
-Alone. Open one pair of components that should agree: Mission Statement and Career Ecosystem Map, Audience Profile and Positioning Statement, or Pricing Rationale and tonight's Financial Snapshot. Find one sentence in each that names the same thing: an audience, a price, a venue, a value.
-
-In chat:
-
-> The pair you checked, and "agree" or "don't agree." If they don't, which one changes?
 
 Questions about the final go in chat now or by email this week.
 
