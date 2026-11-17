@@ -421,6 +421,25 @@ Three ways to formalize it:
 | what it costs | California's $800 annual LLC tax, owed from the first year for LLCs formed since 2024, whether or not the LLC earns anything | the sponsor's fee on money raised: typically 5 to 10 percent, sometimes more, in Andrews's account (p. 148); Fractured Atlas keeps 8 percent and requires a membership | IRS user fee of $275 (Form 1023-EZ) or $600 (Form 1023), plus state registration and yearly filings |
 | who decides | the members | the collective, with the sponsor approving grant applications and solicitations | the board |
 
+#### fiscal sponsorship
+
+A fiscal sponsor lends its 501(c)(3) status to a project that doesn't have its own. With one, the collective can:
+
+- apply to foundations and public arts programs that give only to 501(c)(3) organizations, when the funder accepts fiscally sponsored projects
+- take donations that its audience and crowdfunding backers can deduct from their taxes
+- put off the IRS application, the board, the state registration, and the yearly filings of its own nonprofit until it knows it will last, and leave the sponsor if it forms one later
+- use the sponsor's bookkeeping and grant reporting, and with some sponsors, insurance and payroll
+
+In return, the sponsor takes a fee on the money that comes through it. Legally, that money belongs to the sponsor, which approves grant applications and how restricted funds are spent.
+
+Bay Area sponsors that take music projects:
+
+- [Intersection for the Arts](https://www.theintersection.org), in San Francisco, has sponsored artists and arts groups since 1977, including music projects such as Zoo Labs and School of the Getdown. Its fee is 10 percent of all earned and contributed income, plus $75 a year.
+- [Independent Arts & Media](https://artsandmedia.net), in San Francisco, has sponsored independent artists and media producers since 2000.
+- [Fractured Atlas](https://www.fracturedatlas.org) is national and works online. It keeps 8 percent and requires a membership.
+
+The [Fiscal Sponsor Directory](https://fiscalsponsordirectory.org) lists sponsors by location, with each one's fees and eligibility.
+
 The collective's first year, invented figures:
 
 | | |
