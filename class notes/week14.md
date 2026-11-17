@@ -9,7 +9,7 @@ Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Stud
 
 ## November 16
 
-6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight runs on two worked cases: a freelance pianist who makes a living from gigs and lessons, and the composer who runs the monthly eight-speaker series in Oakland. For each one you'll get the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they can reach, alone or as a group. On screen tonight: the pianist's gig list and year, the composer's work list and year, the forms list, and the three-way comparison of LLC, fiscal sponsor, and nonprofit.
+6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight runs on two worked cases, both graduate students like you: a guitarist and bassist building a freelance gigging and teaching practice, and a composer-pianist who's starting a new music collective. For each one you'll get the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they can reach, alone or as a group. On screen tonight: the employee and contractor table, each case's work list and year, the forms list, and the three-way comparison of LLC, fiscal sponsor, and nonprofit.
 
 Both people are invented, and so are their rates and incomes. The laws, forms, fees, and grant programs are real and current as of November 2026. Nobody here is giving legal or tax advice.
 
@@ -18,9 +18,9 @@ Both people are invented, and so are their rates and incomes. The laws, forms, f
 - 6:00 open
 - 6:03 the basics: employee or contractor
 - 6:18 the readings, in brief
-- 6:25 case 1, the pianist
+- 6:25 case 1, the guitarist and bassist
 - 7:00 break
-- 7:08 case 2, the composer
+- 7:08 case 2, the composer-pianist
 - 7:42 the portfolio, from here to December 7
 - 7:55 close
 
@@ -28,7 +28,7 @@ Both people are invented, and so are their rates and incomes. The laws, forms, f
 
 In chat:
 
-> Tonight is two case studies, start to finish: a performer and a composer, what work each can find, how they get paid, the paperwork that comes with it, and the grants they can apply for. Keep a list as we go of everything that applies to you. It's the raw material for Friday's Financial Snapshot.
+> Tonight is two case studies, start to finish: a performer and a composer who's starting a collective, what work each can find, how they get paid, the paperwork that comes with it, and the grants they can apply for. Keep a list as we go of everything that applies to you. It's the raw material for Friday's Financial Snapshot.
 
 ### 6:03 the basics: employee or contractor
 
@@ -73,7 +73,7 @@ AB 2257 (2020) exempts some music work from the ABC test, including musicians hi
 - whether you hire your own helpers
 - whether the hiring party can fire you at will
 
-Run the wedding through it. The pianist sets the fee, chooses the repertoire with the couple, brings their own keyboard, plays one afternoon, and has dozens of other clients. The pianist is a contractor.
+Run a wedding through it. The guitarist sets the fee, chooses the repertoire with the couple, brings their own guitar and amp, plays one afternoon, and has dozens of other clients. The guitarist is a contractor.
 
 #### self-employed and sole proprietor
 
@@ -92,7 +92,7 @@ No form doesn't mean no tax. All of it is income, and all of it goes on Schedule
 
 #### both at once
 
-Most freelancers are both in the same year: an employee of the church that pays on a W-2 and self-employed for everything else. Tonight's pianist is.
+Most freelancers are both in the same year: an employee of the university or the theater that pays on a W-2, and self-employed for everything else. Both of tonight's students are.
 
 #### the vocabulary
 
@@ -116,7 +116,7 @@ Every legal and tax term in tonight's cases, in the order they come up:
 - Fiscal sponsor: an existing 501(c)(3) that lets a project without nonprofit status raise tax-deductible money and apply for grants under its umbrella, for a fee.
 - Business tax certificate: the city license to do business. Oakland requires one of every self-employed person working in the city.
 - Zoning clearance: Oakland's permission to run a business at a given address, including your home. It comes before the business tax certificate.
-- Fictitious business name: a name you work under that isn't your own legal name ("Bay Keys Music"), registered with the county. Also called a DBA, "doing business as."
+- Fictitious business name: a name you work under that isn't your own legal name ("Low End Music"), registered with the county. Also called a DBA, "doing business as."
 - Seller's permit: California's registration to sell physical goods (CDs, vinyl, printed scores, merchandise) and collect sales tax. It's free.
 - Union scale: the minimum rate a musicians' union sets for a kind of work.
 - Per service: pay counted by the rehearsal or performance, the usual unit in orchestras and pits.
@@ -137,39 +137,37 @@ Seven minutes. Each reading supplies one part of what the two cases use.
 
 Discussion, one question: which of these four would change something you do this week?
 
-### 6:25 case 1, the pianist
+### 6:25 case 1, the guitarist and bassist
 
 #### who they are
 
-A pianist, 29, living in Oakland. A master's in collaborative piano, comfortable in classical and jazz, reads well, plays some organ. No full-time job. They want a year that pays the rent from music alone.
+A graduate student, 26, in a master's program in music, living in Oakland. Plays electric and acoustic guitar and electric bass, reads charts and lead sheets, and is comfortable in jazz, pop, rock, R&B, and Latin styles, with enough classical guitar for a wedding ceremony. Works 10 hours a week as a graduate assistant on campus. Wants to finish the degree with a working freelance practice already running.
 
 #### the gigs
 
-Twelve kinds of work a pianist in the Bay Area can do. For each: how it's found, how it pays, whether the pianist is an employee or a contractor under the tests from 6:03, and whether a 1099 arrives.
+Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: how it's found, how it pays, whether they're an employee or a contractor under the tests from 6:03, and whether a 1099 arrives.
 
-1. Weddings and private events: ceremony, cocktail hour, a party. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. On screen:
+1. Weddings and private events: solo guitar for a ceremony and cocktail hour, or bass in a wedding band. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. On screen:
 
    - [GigSalad](https://www.gigsalad.com), a national marketplace for booking performers; [its wedding musicians page](https://gigsalad.com/Hire/Wedding-Musicians) shows what a client sees.
-   - [The Bash](https://www.thebash.com), formerly GigMasters, part of The Knot's family of wedding sites; [its pianist listings](https://www.thebash.com/search/ambient-piano) show posted rates.
-   - [Craigslist's Bay Area musicians section](https://sfbay.craigslist.org/search/muc), where musicians post "available for gigs" ads and people post looking for players. Read the pay terms before replying.
+   - [The Bash](https://www.thebash.com), formerly GigMasters, part of The Knot's family of wedding sites.
+   - [Craigslist's Bay Area musicians section](https://sfbay.craigslist.org/search/muc), where musicians post "available for gigs" ads and bands post looking for players. Read the pay terms before replying.
    - [San Francisco Classical Voice classifieds](https://sfcv.org/classifieds), with sections for musicians for hire, private lessons, and job announcements, posted by musicians and organizations themselves.
 
    GigSalad and The Bash charge performers through memberships or booking fees; check each site's current pricing before you sign up.
 
    Paid a flat fee by the client, usually a deposit on booking and the balance before the date. Self-employment income. A couple paying for their own wedding isn't a business, so no 1099 arrives; the fee still goes on Schedule C. A wedding planner or venue that hires and pays you is a business, and sends a 1099-NEC once it pays you $2,000 or more in a year.
-2. Restaurants, hotel lounges, and corporate events. Found through agencies and talent buyers. A flat fee per night, sometimes through the agency's payroll. A one-time event or a standing gig at the same place once a week falls under the musician exemption; a residency at the same place more than once a week doesn't.
-3. Church services. Sunday services, holidays, weddings and funerals at the church, choir rehearsals. Found through church job listings, the American Guild of Organists' national job board and its San Francisco chapter's listings, and word of mouth among musicians. A weekly position at one church fits the law's definition of a single engagement (a series at the same venue no more than once a week), so the older multi-factor test decides, and a church can set the position up as a part-time W-2 job or as contract work. Ask which it is. Substituting for one Sunday is a single engagement.
-4. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and college music departments. Paid by the hour by the student or the teacher, as self-employment income, with no 1099 from a student paying for themselves. A staff accompanist position at a school or college is a W-2 job.
-5. Musical theater pits. Community theater, school musicals, regional productions. Found through music directors. Paid per rehearsal and per performance. California excludes musical theater productions from the musician exemption in AB 2257, so the stricter test applies and the pianist is usually an employee.
-6. Orchestral keyboard. Piano, celesta, and harpsichord parts for regional orchestras. Found through the contractors who book the players. Paid per service. A group performing as a symphony orchestra is also excluded from the exemption, so the pianist is usually an employee.
-7. Jazz and club gigs. A trio or quartet at a bar, a club, or a series. Paid as a guarantee, a share of the door, or both. As a side musician: contractor, with a 1099-NEC from the club or the leader if they pay you $2,000 or more in the year. As the leader: the pianist pays the others, so they collect the others' W-9s and file 1099-NECs for anyone they pay $2,000 or more.
-8. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters. Paid per song, per hour, or per project. California applies the multi-factor test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
-9. Dance class accompanying. Ballet and modern classes at studios and colleges, often weekly. A class isn't a live performance event, so the musician exemption doesn't apply. Under the ABC test the accompanist is presumed to be an employee unless the studio can show all three parts of the test, which is hard when accompanying is part of the studio's regular business.
-10. Teaching artist residencies. Weeks in a school through an arts organization. Teaching isn't a performance, so the ABC test applies here too; organizations hire teaching artists both ways, so ask which it is.
-11. Subbing. Covering any of the above for another pianist. The terms follow whatever gig it is.
-12. Private lessons. The one most freelancers keep year-round. Covered next.
-
-Union rates: Musicians Union Local 6 of the American Federation of Musicians, in San Francisco, keeps a casual wage scale for freelance engagements, and its staff help with job quotes. Its members set minimum scales for all kinds of musical work. Members also get a contract guarantee: if a proper contract is filed with Local 6 before the engagement, the union pays a member's unpaid scale wages for engagements in its jurisdiction.
+2. Function and cover bands. Corporate parties, galas, private events, playing other people's songs. Found through bandleaders and entertainment agencies; once a leader trusts you, the calls repeat. The leader or the agency pays you a set fee per gig. Each gig is a single engagement, so the Borello test applies, and a sideman with their own gear and other bands is a contractor. A leader or agency that pays you $2,000 or more in the year sends a 1099-NEC.
+3. Bars, clubs, and restaurants. Your own band, a jazz combo, a duo at a restaurant. Found by booking it yourself or through players who already have the gig. Paid as a guarantee, a share of the door, or both. A standing night at the same place once a week is inside the musician exemption; a residency at the same place more than once a week isn't. As the leader, you pay the others: collect a W-9 from each and file a 1099-NEC for anyone you pay $2,000 or more.
+4. Worship bands. Guitar or bass in a church's contemporary service, weekly, with a rehearsal before. Found through church listings and word of mouth among players. A weekly position at one church fits the law's definition of a single engagement (a series at the same venue no more than once a week), so the multi-factor test decides, and a church can set it up as a part-time W-2 job or as contract work. Ask which. A church is a nonprofit, and nonprofits send 1099-NECs like any business.
+5. Musical theater pits. Guitar and bass books for rock and pop musicals, at community theaters, schools, and regional companies. Found through music directors. Paid per rehearsal and per performance. Musical theater is excluded from the musician exemption, so the ABC test applies and you're usually an employee, on a W-2.
+6. Backing a singer or songwriter. Local shows, and sometimes a tour. A local show is a single engagement. A tour isn't: the exemption doesn't cover a tour or a series of performances at different venues, so on tour the ABC test applies, and the artist who hires you has to treat you as an employee unless they can meet all three parts.
+7. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters, a bass part for a producer. Paid per song, per hour, or per project. California applies the multi-factor test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
+8. Subbing. Covering any of the above for another player. The terms follow whatever gig it is, and a good sub becomes the next call.
+9. Teaching programs. Rock band programs, school jazz band coaching, a music store's lesson program. Teaching isn't a performance, so the ABC test applies; programs hire both ways, so ask which it is.
+10. The campus job. A graduate assistantship is a W-2 job: the university is the employer and withholds tax.
+11. Private lessons. Guitar and bass are among the instruments people most often want to learn, so this is the steadiest income on the list. Covered next.
+12. Online lessons and content. Lessons by video call, and lesson videos or transcriptions sold online. Paid through payment apps or platforms, which report on a 1099-K above $20,000 and 200 transactions.
 
 In chat:
 
@@ -177,53 +175,54 @@ In chat:
 
 #### private lessons
 
-A lesson studio is a small business with its own rules. What the pianist decides and writes down in a one-page studio policy, sent to every new student:
+A lesson studio is a small business with its own rules. What the guitarist decides and writes down in a one-page studio policy, sent to every new student:
 
 - The rate, and whether it's charged per lesson, per month, or per semester. Tuition paid in advance by the month or semester evens out cash flow, Kolb's concern on p. 242.
 - Cancellations: how much notice, and whether a missed lesson is made up, credited, or charged.
-- Where: the pianist's home, the student's home, a rented room, or online. A home studio in Oakland is a home business. Oakland requires a zoning clearance and a business tax certificate even for a business run from home.
-- What's included: a recital, materials, messages between lessons.
-- A sliding scale or a few reduced-rate spots, if the pianist's Pricing Rationale calls for one.
+- Where: their home, the student's home, a rented room, or online. A home studio in Oakland is a home business, and Oakland requires a zoning clearance and a business tax certificate even for a business run from home.
+- What's included: a recital or a band showcase, materials, messages between lessons.
+- A sliding scale or a few reduced-rate spots, if their Pricing Rationale calls for one.
 
-Lessons through a community music school are the alternative: the school finds the students and keeps part of the fee, and the pianist may be an employee of the school.
+Students and parents paying for lessons are private persons, so no 1099 arrives for any of it. All of it goes on Schedule C.
 
-#### the pianist's year
+#### the guitarist's year
 
-Invented figures. Each line is marked by where it's reported: on a W-2 the employer sends, or on Schedule C, which the pianist fills in.
+Invented figures. Each line is marked by where it's reported, and whether a 1099 arrives.
 
-| work | the year | form |
-|---|---|---|
-| 12 lesson students, 36 weeks, $55 a lesson | $23,760 | Schedule C (self-employment) |
-| weekly church position, set up by this church as a part-time job | $12,000 | W-2 |
-| 18 weddings and private events, $400 each | $7,200 | Schedule C |
-| 120 hours of collaborative piano, $60 an hour | $7,200 | Schedule C |
-| 20 jazz gigs, $150 each | $3,000 | Schedule C |
-| two musicals in a community theater pit | $2,400 | W-2 |
-| recording sessions | $1,500 | Schedule C |
-| total | $57,060 | |
+| work | the year | reported on | 1099? |
+|---|---|---|---|
+| 10 lesson students, 30 weeks, $45 a lesson | $13,500 | Schedule C | no: private persons |
+| graduate assistantship | $9,000 | W-2 | no: it's a W-2 |
+| weekly worship band, set up by this church as contract work | $5,000 | Schedule C | yes: a nonprofit paying $2,000 or more |
+| 15 function band gigs for one leader, $250 each | $3,750 | Schedule C | yes: one payer, $2,000 or more |
+| 6 weddings, solo guitar, $350 each | $2,100 | Schedule C | no: couples |
+| 12 club gigs, $100 each | $1,200 | Schedule C | no: under $2,000 |
+| one musical in a community theater pit | $1,200 | W-2 | no: it's a W-2 |
+| recording sessions | $800 | Schedule C | no: under $2,000 |
+| total | $36,550 | | |
 
-$14,400 arrives on W-2s, with tax already withheld. $42,660 is self-employment income with nothing withheld. Against that the pianist has business expenses: tuning, a stage keyboard and amplifier, mileage, sheet music, the website, insurance, union dues. Say they come to $6,000. The net self-employment income is then $36,660.
+$10,200 arrives on W-2s, with tax already withheld. $26,350 is self-employment income, and only $8,750 of it comes with a 1099. The other $17,600 has no form behind it, and it's just as taxable.
 
-Self-employment tax on that net, before any income tax, is about $5,180: 15.3 percent of 92.35 percent of net earnings. Nobody withholds that money, so the pianist sets part of every payment aside.
+Against the self-employment income the guitarist has business expenses: strings, an amp and pedals, gear repair, mileage, charts and method books, the website, insurance. Say they come to $3,500. The net self-employment income is then $22,850, and the self-employment tax on it, before any income tax, is about $3,230: 15.3 percent of 92.35 percent of net earnings. Nobody withholds that, so the guitarist sets part of every payment aside.
 
 #### the website
 
-Week 12 covered McCurdy's list for a musician's site. For a gigging pianist, the pages that bring in work:
+Week 12 covered McCurdy's list for a musician's site. For a guitarist and bassist, the pages that bring in work:
 
 - Home: a photo, one line on what they play and where, and a "book" button.
-- Listen and watch: three short videos, one for each kind of gig (a wedding processional, a jazz standard, a recital with a singer).
-- Weddings and events: the repertoire list, how booking works, a "starting at" fee, and what's included (setup time, a sound system or not, a keyboard or the venue's piano).
-- Collaborative piano: the repertoire they've played, the hourly rate, and the policy for rehearsals and the performance.
-- Lessons: who they teach, the studio policy, the rate, and a form to request a first lesson.
+- Listen and watch: short videos, one for each kind of gig (a ceremony piece on classical guitar, a groove on bass with a band, a jazz solo).
+- Hire: the styles they cover, both instruments, whether they bring their own amp and rig, and how booking works, with a "starting at" fee for weddings and events.
+- For bandleaders: the same page leaders read, saying they read charts, sub on short notice, and play both guitar and bass.
+- Lessons: who they teach (ages, levels, styles), the studio policy, the rate, and a form to request a first lesson.
 - About: the bio in a short and a long version.
 - Contact: a form, an email, and the area they travel to.
-- Testimonials from real clients, with their permission.
+- Testimonials from real clients and bandleaders, with their permission.
 
 #### being a contractor
 
 What it involves, in the order it comes up.
 
-Classification. The tests are at 6:03. The exact terms of the musician exemption: AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The older multi-factor test (called Borello, after the court case) then decides. That's why the pit comes on a W-2 and the wedding doesn't.
+Classification. The tests are at 6:03. The exact terms of the musician exemption: AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The older multi-factor test (Borello) then decides. That's why the pit comes on a W-2 and the function band gig doesn't.
 
 The forms, from the first gig on:
 
@@ -239,7 +238,7 @@ The forms, from the first gig on:
 The local paperwork:
 
 - City of Oakland business tax certificate. Oakland requires one of everyone doing business in the city, including self-employed people, independent contractors, and home-based businesses, renewed every March 1. A business located in Oakland gets a zoning clearance first. Other cities have their own rules; check the city you live in.
-- Fictitious business name statement, if you work under any name other than your own ("Bay Keys Music"). In Alameda County it's filed with the Clerk-Recorder for $40.
+- Fictitious business name statement, if you work under any name other than your own ("Low End Music"), or if your band takes payments under its name. In Alameda County it's filed with the Clerk-Recorder for $40.
 - California seller's permit, if you sell CDs, vinyl, or merchandise at shows. It's free from the California Department of Tax and Fee Administration.
 
 The habits:
@@ -249,24 +248,25 @@ The habits:
 - A written agreement for every gig, even an email, using week 13's clauses.
 - Receipts for every expense, kept with the Schedule C they support.
 - A share of every self-employment payment set aside for tax, in its own savings account.
-- Liability insurance, which many venues ask for, and instrument insurance (Kolb, pp. 244–248; Andrews, pp. 161–164).
+- Liability insurance, which many venues ask for, and instrument and gear insurance (Kolb, pp. 244–248; Andrews, pp. 161–164).
 
 In chat:
 
 > Which of these forms have you already filled out? Which one is new to you?
 
-#### the pianist's grants
+#### the guitarist's grants
 
-Most of the pianist's income is earned. Grants pay for specific projects and help in emergencies. What an individual performer in Oakland can apply for:
+While enrolled, this player's money is almost all earned. Several grants for individual artists exclude anyone in a degree program, so read the student rule first in every guideline.
 
-- California Arts Council Individual Artist Fellowships. Unrestricted awards in three tiers, $5,000 (emerging), $10,000 (established), and $50,000 (legacy), run in the Bay Area by Kala Art Institute for artists 18 or older living in Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, or Sonoma County who have lived in California for at least two consecutive years. The program ran in 2021, 2023, and 2026, and the 2026 deadline was June 5. Watch the California Arts Council for the next cycle.
-- Center for Cultural Innovation. Its Quick Grant gives up to $600 for professional development to California artists, with a deadline on the 15th of every month. Its Investing in Artists: Artistic Innovation grants rotate among Bay Area counties; the 2026 round was limited to Marin, Napa, Solano, and Sonoma.
-- New Music USA's Creator Fund is for music creators. Its 2026 guidelines let an individual performer apply if their collaborator is a music creator. More under the composer.
-- City of Oakland Cultural Funding Program. It funded individual artist projects in past cycles (Neighborhood Voices for Individual Artist Projects in 2022–23). Its current programs fund organizations, so an individual reaches it through an organization they work with.
-- Emergencies: the Musicians Foundation pays essential bills (the check goes to the biller) for musicians who have worked professionally in the U.S. for five or more years. MusiCares gives financial assistance to people with five years of work in the music industry, full-time or not, or credits on six commercially released recordings.
+- Closed while enrolled: Foundation for Contemporary Arts Emergency Grants exclude artists in any degree-granting program, graduate programs included. New Music USA's Creator Fund excluded students in its 2026 cycle except PhD and DMA students.
+- Not yet: the Musicians Foundation (essential bills, paid straight to the biller) requires five or more years of professional work in the U.S., and MusiCares requires five years of work in the music industry or credits on six commercially released recordings. Keep a record of your professional work from now on, so you can show it later.
+- Open now, with a check:
+  - California Arts Council Individual Artist Fellowships, run in the Bay Area by Kala Art Institute: $5,000, $10,000, or $50,000, for artists 18 or older living in Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, or Sonoma County who have lived in California for at least two consecutive years. The guidelines exclude K–12 students and don't mention graduate students either way, so ask Kala before applying. The program ran in 2021, 2023, and 2026 (deadline June 5, 2026); watch the California Arts Council for the next cycle.
+  - Center for Cultural Innovation's Quick Grant: up to $600 a year for professional development (a business workshop, a conference, a coach) to artists living full-time in California. It doesn't pay tuition or for-credit courses. Applications are due on the 15th of each month.
+  - The ASCAP Foundation's Herb Alpert Young Jazz Composer Awards, for composers aged 13 to 30, if the guitarist writes jazz.
 - What isn't open: the National Endowment for the Arts gives grants to individuals only through its creative writing and translation fellowships, and its honors for musicians (NEA Jazz Masters, National Heritage Fellowships) come by nomination. Its music grants go to organizations.
 
-#### the pianist's first ten steps
+#### the guitarist's first ten steps
 
 The strategy, in order:
 
@@ -275,64 +275,74 @@ The strategy, in order:
 3. Get the Oakland zoning clearance and business tax certificate.
 4. Write a one-page agreement template and an invoice template.
 5. Write the studio policy and set the lesson rate.
-6. Build the website, with a page for each kind of gig and one for lessons.
-7. Send it to ten people who hire pianists: planners, teachers, music directors, a church, an agency.
+6. Build the website, with a page for each kind of gig, one for bandleaders, and one for lessons.
+7. Send it to ten people who hire players: three bandleaders, two music directors, a church, a wedding planner, an agency, a studio, and the people you already sub for.
 8. Set aside a share of every self-employment payment, and pay estimated tax each quarter.
-9. Price liability insurance before the first venue asks for it.
-10. Put the grant deadlines in a calendar: the Quick Grant on the 15th of any month, and the California Arts Council fellowship when it next opens.
+9. Keep a log of every professional engagement, for the grants that ask for years of work.
+10. Put the grant dates in a calendar: the Quick Grant on the 15th of any month, and the California Arts Council fellowship when it next opens.
 
 ### 7:00 break
 
 Eight minutes. Back at 7:08.
 
-### 7:08 case 2, the composer
+### 7:08 case 2, the composer-pianist
 
 #### who they are
 
-The composer from September 28: runs the monthly series on the second Friday in a 60-seat Oakland gallery, eight speakers in a ring, about 40 people a night, pay what you can. On November 9, a choreographer commissioned a twelve-minute eight-channel piece from them for $1,500. The series alone won't pay the rent. Here's what else a composer can do for money.
+A graduate student, 25, in the same master's program, living in Oakland. A composer who writes concert music, some of it with electronics, and a pianist good enough to accompany and to play their own pieces. Engraves their own scores in Dorico. Wants to start a new music collective with four performers from the program, to commission and play new work.
 
 #### the work
 
-1. Commissions. Ensembles, soloists, choirs, dance companies, theater companies, and individuals who pay for a new piece. The commissioner usually pays a fee, half on signing and half on delivery, and gets the premiere and a period of exclusive performance. The composer keeps the copyright unless a written agreement says otherwise (week 13).
-2. Engraving and music preparation. Turning a manuscript or a sketch into a clean score and parts in Dorico, Sibelius, or MuseScore, for other composers, publishers, ensembles, and film and theater productions. It's priced by the hour, by the page, or by the bar. The Canadian League of Composers publishes suggested minimum rates; its 2025 hourly minimum for engraving and copying is $59 in Canadian dollars, and proofreading is $57. A premiere with live players needs a score and parts, so a composer who engraves well can find steady work.
-3. Arranging and orchestration. Arrangements for a wedding band, a choir, a church, a school ensemble; orchestrating another composer's piano sketch for a film or a show.
-4. Transcription. Writing down music from a recording, for publishers, bands, students, and video creators.
-5. Music for media. Film, dance, theater, podcasts, games, installations, advertising. Usually a fee for the music, with terms for who owns it and where it can be used.
-6. Sound design. The composer's electroacoustic skills, for theater, dance, museums, and video.
-7. Library and production music. Tracks written for a library that licenses them to video producers, paid as a fee, a share of licensing, or royalties.
-8. Self-publishing. Selling scores and parts from the composer's own website or a sheet music platform.
-9. Royalties. Public performance royalties through a performing rights organization when the music is broadcast, streamed, or played in a venue that reports performances.
-10. Teaching. Private lessons in composition, theory, piano, or music technology (Max, a DAW, ChucK); workshops; adjunct teaching.
-11. Prizes, calls for scores, and residencies. Some pay a fee or a prize; many pay in a performance and a recording.
-12. Grants. Below.
+Two practices, composing and playing, and the money comes from both.
 
-#### the composer's year
+As a pianist:
+
+1. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and the music department. Paid by the hour by the student, with no 1099 from a student paying for themselves.
+2. Choir accompanying. A community choir's weekly rehearsals and concerts. Rehearsal isn't a performance, so the ABC test applies, and a choir that hires an accompanist for every rehearsal usually has to treat them as an employee.
+3. Weddings and church services, as in case 1.
+4. Private lessons in piano, theory, and composition.
+
+As a composer:
+
+5. Commissions. Performers, ensembles, choirs, and dance and theater companies pay for a new piece. The usual terms: half the fee on signing, half on delivery of the score, and the commissioner gets the premiere and often a period of exclusive performance. The composer keeps the copyright unless a written agreement says otherwise (week 13). At this stage most commissions come from people you've worked with: classmates, teachers, local ensembles. Online, [r/composer](https://www.reddit.com/r/composer/) is a Reddit community of about 120,000 members for score-based music, running since 2011: composers post scores for feedback (a score is required with every post), people post commission requests and mark them "Completed" once filled, and the moderators ask that commission terms be clear and in writing. Its [resources page](https://www.reddit.com/r/composer/wiki/resources/) lists books, channels, and websites for composers.
+6. Engraving and music preparation. Turning a manuscript or a sketch into a clean score and parts, for other composers, faculty, publishers, ensembles, and film and theater productions. It's priced by the hour, by the page, or by the bar. The Canadian League of Composers publishes suggested minimum rates; its 2025 hourly minimum for engraving and copying is $59 in Canadian dollars, and proofreading is $57. A premiere with live players needs a score and parts, so a composer who engraves well can find steady work.
+7. Arranging and orchestration. Arrangements for a wedding band, a choir, a church, a school ensemble.
+8. Transcription. Writing down music from a recording, for publishers, bands, students, and video creators.
+9. Music for media. Student and independent films, dance, theater, podcasts, games, installations. Usually a fee, with terms for who owns the music and where it can be used.
+10. Self-publishing. Selling scores and parts from your own website.
+11. Royalties. Public performance royalties through a performing rights organization when the music is broadcast, streamed, or played in a venue that reports performances.
+12. Prizes and calls for scores. Some pay cash; many pay in a performance and a recording.
+
+AB 2257 applies the Borello test, not the ABC test, to songwriters, lyricists, composers, and anyone rendering creative services for sound recordings or musical compositions, so the composing work is usually contract work.
+
+#### the composer-pianist's year
 
 Invented figures.
 
-| work | the year | form |
-|---|---|---|
-| 8 lesson students (composition and music technology), 36 weeks, $60 | $17,280 | Schedule C |
-| engraving and part preparation, 6 projects | $6,000 | Schedule C |
-| sound design for two theater productions | $5,000 | Schedule C |
-| arrangements for a choir and a wedding band | $1,800 | Schedule C |
-| the choreographer's commission | $1,500 | Schedule C |
-| the series: door and supporters, after its costs | $1,400 | Schedule C |
-| performing rights royalties | $200 | Schedule C |
-| total | $33,180 | |
+| work | the year | reported on | 1099? |
+|---|---|---|---|
+| 8 piano and theory students, 30 weeks, $50 a lesson | $12,000 | Schedule C | no: private persons |
+| 100 hours of collaborative piano for students, $50 an hour | $5,000 | Schedule C | no: students paying for themselves |
+| community choir accompanist | $3,000 | W-2 | no: it's a W-2 |
+| engraving for four clients, $600 each | $2,400 | Schedule C | no: each under $2,000 |
+| score for a student film | $600 | Schedule C | no: under $2,000 |
+| a commission from a classmate's ensemble | $500 | Schedule C | no: under $2,000 |
+| an arrangement for a wedding band | $300 | Schedule C | no: under $2,000 |
+| total | $23,800 | | |
 
-The composer's year is smaller than the pianist's and all self-employment, so the same forms apply with nothing withheld anywhere. The two largest lines, lessons and engraving, are services the composer sells to other musicians.
+$20,800 is self-employment income, and not one dollar of it comes with a 1099. Business expenses (notation software, sample libraries, piano tuning, the website, printing scores, a conference) come to about $2,500, so net self-employment income is $18,300, and self-employment tax is about $2,590 before income tax.
 
 #### the website
 
-The pages on a composer's site:
+The pages on a composer-pianist's site:
 
-- A works list: title, year, instrumentation, duration, and the commissioner or premiere, sortable by instrumentation, since that's how performers search.
+- A works list: title, year, instrumentation, duration, and the premiere, sortable by instrumentation, since that's how performers search.
 - A page for each piece: a recording, a perusal score (a watermarked PDF to read, not to perform from), program notes, and how to get the parts.
 - Commissions: what a commission includes, how it works, and a contact form.
-- Services: engraving, arranging, and sound design, with samples and how the rates are figured.
+- Collaborative piano: repertoire, the hourly rate, and the policy for rehearsals and the performance.
+- Services: engraving and arranging, with samples and how the rates are figured.
 - Lessons: what they teach, the studio policy, and the rate.
-- The series: dates, and how to get on the email list.
+- The collective: its page, once it exists.
 - About and contact.
 
 #### rights and registrations
@@ -343,57 +353,82 @@ The composer's assets are copyrights, so a few registrations come first:
 - The U.S. Copyright Office. Copyright exists once the piece is written down or recorded; registration is what you need to sue for infringement (week 13). Copyright.gov lists the fee for one work by one author, who owns it and didn't make it for hire, at $45, and the standard application at $65. The Office has sent Congress a new schedule raising them to $55 and $85 and will announce the effective date in the Federal Register, so check the fee page before filing.
 - A written agreement for every commission and every media job: who owns the music, who may perform, record, and post it, for how long, and what's paid when (week 13).
 
-Classification: the same law applies the Borello test, not the ABC test, to songwriters, lyricists, composers, and anyone rendering creative services for sound recordings or musical compositions, so the composer is usually a contractor. Every form on the pianist's list applies: W-9, EIN, 1099-NEC, 1099-K, Schedule C, Schedule SE, estimated tax, the Oakland business tax certificate, a fictitious business name if the series runs under one, and a seller's permit if the composer sells printed scores or recordings.
+#### the composer-pianist's grants and prizes, alone
 
-#### the composer's grants, alone
+As a student under 30, this composer has a set of awards built for them, and loses access to some of the grants for working artists until they finish.
 
-- New Music USA's Creator Fund. Grants to individual music creators in any genre. In the 2026 cycle, awards went up to $5,000 and averaged $3,000, a separate $10,000 Thea Musgrave grant went to performers commissioning an emerging composer, and students weren't eligible except PhD and DMA students. The next cycle opens December 7, 2026 and closes January 7, 2027; its eligibility details come out December 7, so check whether master's students are still excluded.
-- California Arts Council Individual Artist Fellowships through Kala, $5,000 to $50,000, as for the pianist.
-- Foundation for Contemporary Arts Emergency Grants. $500 to $3,000 (the average is $2,200) for contemporary, experimental work facing a sudden opportunity to present it to the public, or unexpected costs to finish a project close to completion with committed dates. The program runs year-round with no deadlines, and FCA recommends applying 8 to 10 weeks before the presentation. An individual artist applies, or an individual representing a collective or ensemble. It doesn't cover rent, medical bills, or other living costs.
-- Center for Cultural Innovation's Quick Grant, up to $600 for professional development, due the 15th of any month.
-- Prizes and calls for scores, tracked the way you track any deadline.
+- BMI Composer Awards (formerly the BMI Student Composer Awards). For composers of classical music under 28, living in the U.S. or citizens of a Western Hemisphere country. Awards total $20,000 a year, judged from anonymous scores. In the last round, applicants had to be under 28 on February 15, 2026. Applications aren't open now; the page takes an email address to announce the next round.
+- ASCAP Foundation Morton Gould Young Composer Awards. Cash prizes for concert music composers aged 13 to 30, open to U.S. citizens, permanent residents, and students on U.S. student visas. One listing gives the next deadline as February 7, 2027; confirm it on ASCAP's page.
+- California Arts Council Individual Artist Fellowships through Kala, as in case 1: ask Kala about graduate students before applying.
+- Center for Cultural Innovation's Quick Grant, up to $600 for professional development, as in case 1.
+- Calls for scores, tracked the way you track any deadline.
+- After the degree: New Music USA's Creator Fund (up to $5,000, averaging $3,000 in 2026; the next cycle runs December 7, 2026 to January 7, 2027, so check whether master's students are still excluded) and FCA Emergency Grants ($500 to $3,000 for experimental work with a performance coming up or unexpected costs to finish).
 
-#### the composer's grants, as a collective
+#### starting the collective
 
-The composer and three performers from the series want to become an ensemble that commissions, tours, and records. What kind of entity they become decides which funders they can reach.
+The composer and four performers from the program want to start a new music collective: commission each other and other composers, give two concerts a year, and record. Here's how a new collective gets set up, in order.
 
-A group that files nothing already has a legal form. In NYFA's chapter 5, from November 9, two or more people who agree to work together, each contribute money, property, or time, and share the profits and losses are a general partnership, whatever paperwork they have or haven't filed. Each partner's personal assets are exposed to the partnership's debts, including debts another partner took on.
+1. Know what you already are. As soon as the five of you agree to work together, contribute time or money, and share the profits and losses, you're a general partnership in NYFA's terms (chapter 5, from November 9), whatever you've filed. Each partner's personal assets are exposed to the partnership's debts, including debts another partner took on.
+2. Write a collective agreement before the first concert. NYFA advises ensembles to put their relationships in writing before the work starts (week 13). One or two pages: who decides what, and how (by vote, by a director); how money is split; who owns the recordings and the video; what happens to a commissioned piece; how someone leaves, and what they take with them.
+3. Pick a name, and file a fictitious business name statement if the collective takes payments under it ($40 in Alameda County).
+4. Get the collective its own EIN (free) and open a bank account in its name. No collective money goes through anyone's personal account.
+5. Know the taxes. A partnership files an information return, Form 1065, and pays no income tax itself; it gives each partner a Schedule K-1 with their share, which each partner reports on their own return.
+6. Decide on a form, using the table below. For a new student collective that wants grants and owns little, a fiscal sponsor is a reasonable first step, and a nonprofit can come later if the collective lasts.
+7. Book the first concert on terms that don't sink you: a door split with the venue in place of a rental fee is what Intimate Opera did (Rabideau, pp. 144–145).
 
 Three ways to formalize it, on screen:
 
 | | LLC | fiscal sponsorship | 501(c)(3) nonprofit |
 |---|---|---|---|
-| what it is | a for-profit company the members own | the group's project runs under an existing nonprofit's tax-exempt status | its own tax-exempt organization, governed by a board, with no owners |
+| what it is | a for-profit company the members own | the collective's project runs under an existing nonprofit's tax-exempt status | its own tax-exempt organization, governed by a board, with no owners |
 | protects members' personal assets | yes, if business and personal money stay separate | no | yes, for board members |
 | reaches funders that require nonprofit status | no | where the funder accepts fiscal sponsors | yes |
 | donations tax-deductible | no | yes | yes |
 | what it costs | California's $800 annual LLC tax, owed from the first year for LLCs formed since 2024, whether or not the LLC earns anything | the sponsor's fee on money raised: typically 5 to 10 percent, sometimes more, in Andrews's account (p. 148); Fractured Atlas keeps 8 percent and requires a membership | IRS user fee of $275 (Form 1023-EZ) or $600 (Form 1023), plus state registration and yearly filings |
-| who decides | the members | the group, with the sponsor approving grant applications and solicitations | the board |
+| who decides | the members | the collective, with the sponsor approving grant applications and solicitations | the board |
 
-Which funders each one opens:
+The collective's first year, invented figures:
 
-- In any form: individual grants to each member, and Foundation for Contemporary Arts Emergency Grants through one member representing the group.
-- Without nonprofit status: Chamber Music America's Classical Commissioning program funds ensembles commissioning new works for two to ten players, one per part, and doesn't require nonprofit status, though the ensemble has to be a CMA member. Its 2026 cycle was limited to ensembles and presenters whose National Endowment for the Arts funding was rescinded in 2025. New Music USA's Organization Fund takes performance groups that aren't 501(c)(3)s (fiscal sponsorship is encouraged, not required) once they have three years of activity, an average annual budget between $5,000 and $3 million, and a dedicated organizational bank account.
-- With nonprofit status: funders that give only to nonprofits, such as Oakland's Cultural Organization Assistance grants for Oakland-based nonprofit arts organizations. A fiscally sponsored group reaches these only where the funder accepts fiscal sponsors, so read each funder's eligibility section.
+| | |
+|---|---|
+| door at two concerts, about 50 people at $12 average each | $1,200 |
+| crowdfunding for a first recording | $2,000 |
+| money in | $3,200 |
+| the venue's half of the door | $600 |
+| rehearsal space | $400 |
+| printing and programs | $150 |
+| a recording engineer | $1,000 |
+| crowdfunding fees: Kickstarter keeps 5 percent and its payment processor about 3 to 5 percent more | about $180 |
+| money out | about $2,330 |
+| left, for five members | about $870, or $174 each |
 
-A new group that wants grants and owns little can start with a fiscal sponsor and form a nonprofit later if the group lasts. An LLC makes sense when the group earns money and owns things worth protecting: gear, a lease, a recording contract.
+That year pays the members almost nothing for their time. NYFA's point from chapter 6 applies: the true cost of the collective includes the members' unpaid hours, and a grant budget lists them.
+
+#### the collective's grants
+
+- Right away, in any form: crowdfunding, a door split, and small local sponsors, as Intimate Opera did (Rabideau, pp. 144–145).
+- With a fiscal sponsor: funders that accept fiscally sponsored projects, and tax-deductible donations from the audience.
+- After three years: New Music USA's Organization Fund takes performance groups that aren't 501(c)(3)s (fiscal sponsorship is encouraged, not required) once they have three years of activity, an average annual budget between $5,000 and $3 million, and a dedicated organizational bank account. The bank account from step 4 starts that clock.
+- With CMA membership: Chamber Music America's Classical Commissioning program funds ensembles commissioning new works for two to ten players, one per part, and doesn't require nonprofit status. Its 2026 cycle was limited to ensembles and presenters whose National Endowment for the Arts funding was rescinded in 2025.
+- With nonprofit status: funders that give only to nonprofits, such as Oakland's Cultural Organization Assistance grants for Oakland-based nonprofit arts organizations.
+- Not while the members are enrolled: FCA Emergency Grants exclude students in degree programs, and that applies to the person applying for a collective too.
 
 In chat:
 
-> Think of a group you play or write with. Which of the three fits it now, and what would have to change for a different one to fit?
+> Think of a group you play or write with. Which of the three forms fits it now, and what would have to change for a different one to fit?
 
-#### the composer's first ten steps
+#### the composer-pianist's first ten steps
 
 1. Join BMI or ASCAP, and register every finished work.
 2. Register the copyright of the works you'd defend.
 3. Build the works list, with a perusal score and a recording for each piece.
-4. Put up a services page for engraving and arranging, with samples.
-5. Write a commission agreement template and a media agreement template.
-6. Write the studio policy and set the lesson rate.
-7. Open the separate account, get the EIN, and get the Oakland certificate.
-8. Set aside a share of every payment, and pay estimated tax each quarter.
-9. Decide with your collaborators whether you're a partnership, a sponsored project, or an LLC, and write it down.
-10. Put the grant deadlines in a calendar: the Creator Fund from December 7 to January 7 (once you're eligible), the Quick Grant on the 15th of any month, FCA in any month, and the California Arts Council fellowship when it next opens.
+4. Put up pages for collaborative piano, engraving, and lessons, with rates and samples.
+5. Write a commission agreement template and a collaborative piano policy.
+6. Open the separate account, get the EIN, and get the Oakland certificate.
+7. Set aside a share of every payment, and pay estimated tax each quarter.
+8. Write the collective agreement with your four collaborators, before the first concert.
+9. Choose the collective's form, and if it's a fiscal sponsor, apply before the first crowdfunding campaign.
+10. Put the dates in a calendar: the BMI and Morton Gould awards in winter, the Quick Grant on the 15th of any month, the California Arts Council fellowship when it next opens, and the Creator Fund once you're eligible.
 
 ### 7:42 the portfolio, from here to December 7
 
