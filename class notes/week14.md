@@ -9,7 +9,7 @@ Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Stud
 
 ## November 16
 
-6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight is two worked cases, both graduate students like you: a guitarist and bassist building a freelance gigging and teaching practice, and a composer-pianist who's starting a new music collective. For each one you'll see the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they're eligible for, alone or as a group. On screen tonight: the employee and contractor table, the estimated tax dates, each case's work list and year, the forms list, and the comparison of LLC, fiscal sponsor, and nonprofit.
+6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight is two worked cases, both graduate students like you: a guitarist and bassist building a freelance gigging and teaching practice, and a composer-pianist who's starting a new music collective. For each one you'll see the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they're eligible for, alone or as a group.
 
 Both people are invented, and so are their rates and incomes. The laws, forms, fees, and grant programs are real and current as of November 2026. Nobody here is giving legal or tax advice.
 
@@ -26,9 +26,7 @@ Both people are invented, and so are their rates and incomes. The laws, forms, f
 
 ### 6:00 open
 
-In chat:
-
-> Tonight is two case studies, start to finish: a performer, and a composer who's starting a collective. What work each can find, how they get paid, the paperwork that comes with it, and the grants they can apply for. Keep a list as we go of everything that applies to you, and use it in Friday's Financial Snapshot.
+As we go, keep a list of everything that applies to you. It's the starting point for Friday's Financial Snapshot.
 
 ### 6:03 the basics: employee or contractor
 
@@ -106,7 +104,7 @@ Run a wedding through it. The guitarist sets the fee, chooses the repertoire wit
 
 #### self-employed and sole proprietor
 
-If you take contractor work, you're self-employed. In law you're also a sole proprietor, whether or not you've filed anything: you and your practice are the same legal person (NYFA, chapter 5, from November 9). Your Schedule C is your practice's income statement.
+If you take contractor work, you're self-employed. In law you're also a sole proprietor, whether or not you've filed anything: you and your practice are the same legal person (NYFA, chapter 5, week 13). Your Schedule C is your practice's income statement.
 
 #### who sends a 1099, and who doesn't
 
@@ -125,7 +123,7 @@ Many freelancers are both in the same year: an employee of the university or the
 
 #### the vocabulary
 
-Every legal and tax term in tonight's cases, in the order they come up:
+Every legal and tax term in tonight's cases:
 
 - Withholding is tax an employer takes out of each paycheck and sends to the government for you.
 - A W-2 is the employer's year-end statement of your wages and the tax withheld.
@@ -149,8 +147,6 @@ Every legal and tax term in tonight's cases, in the order they come up:
 - A zoning clearance is Oakland's permission to run a business at a given address, including your home. It comes before the business tax certificate.
 - A fictitious business name is a name you work under that isn't your own legal name ("Low End Music"), registered with the county. It's also called a DBA, "doing business as."
 - A seller's permit is California's registration to sell physical goods (CDs, vinyl, printed scores, merchandise) and collect sales tax. It's free.
-- Union scale is the minimum rate a musicians' union sets for a kind of work.
-- Per service means pay counted by the rehearsal or performance, the usual unit in orchestras and pits.
 - Copyright is your legal ownership of a piece, which exists once it's written down or recorded (week 13).
 - Copyright registration is the filing of that ownership with the U.S. Copyright Office, which you need before you can sue for infringement.
 - A performing rights organization (PRO), BMI or ASCAP, collects royalties when your music is performed in public and pays them to you.
@@ -159,14 +155,12 @@ Every legal and tax term in tonight's cases, in the order they come up:
 
 ### 6:18 the readings, in brief
 
-Seven minutes. Each reading supplies one part of what the two cases use.
-
-- NYFA, chapter 6, "Budgets" (pp. 109–116). The annual budget is all your income from every source set against every cost for the year. For any funder, NYFA says to start from what the work really costs, including your own labor and anything donated, valued at fair market price. Most institutional funders want a budget that breaks even.
+- NYFA, chapter 6, "Budgets" (pp. 109–116). The annual budget is all your income from every source set against every cost for the year. For any funder, NYFA says to start from what the work really costs, including your own labor and anything donated, valued at fair market price. NYFA also notes that most institutional funders want a budget that breaks even.
 - NYFA, chapter 7, "Financial Terminology" (pp. 117–135). The vocabulary for tonight's forms: income statement, Schedule C, W-2, W-9, 1099, deductions, cash flow. Two things have changed since the book went to press: contractor pay is now reported on Form 1099-NEC, not 1099-MISC, and the threshold for payments made in 2026 is $2,000, not $600.
 - Rabideau, chapter 11, "Finding the Funds" (pp. 133–146). Most projects have several revenue sources, earned and raised, and your status (independent, sponsored, nonprofit) decides which sources are open to you (p. 136). Intimate Opera's production of *Speed Dating Tonight!* (pp. 144–145) uses every kind of source on one show.
 - Kolb, chapter 10, "Financial concepts for success" (pp. 224–248). Separate business and personal accounts (pp. 225–226), pay yourself a salary (p. 229), and watch cash flow, because bills come every month and income comes irregularly (p. 242).
 
-Discussion, one question: which of these four would change something you do this week?
+Discussion: which of these four readings would change something you do this week?
 
 ### 6:25 case 1, the guitarist and bassist
 
@@ -178,7 +172,7 @@ A graduate student, 26, in a master's program in music, living in Oakland. Plays
 
 Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: how it's found, how it pays, whether the player is an employee or a contractor under California's rules, and whether a 1099 arrives.
 
-1. Weddings and private events. Solo guitar for a ceremony and cocktail hour, or bass in a wedding band. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. On screen:
+1. Weddings and private events. Solo guitar for a ceremony and cocktail hour, or bass in a wedding band. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. Sites to start with:
 
    - [GigSalad](https://www.gigsalad.com), a national marketplace for booking performers. [Its wedding musicians page](https://gigsalad.com/Hire/Wedding-Musicians) shows what a client sees.
    - [The Bash](https://www.thebash.com), formerly GigMasters, part of The Knot's family of wedding sites.
@@ -195,12 +189,12 @@ Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: h
 6. Backing a singer or songwriter. Local shows, and sometimes a tour. A local show is a single engagement. A tour isn't: the exemption doesn't cover a tour or a series of performances at different venues, so on tour the ABC test applies, and the artist who hires you has to treat you as an employee unless they can meet all three parts.
 7. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters, a bass part for a producer. Paid per song, per hour, or per project. California applies the Borello test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
 8. Subbing. Covering any of the above for another player. The terms are those of the gig you're covering.
-9. Teaching programs. Rock band programs, school jazz band coaching, a music store's lesson program. Teaching isn't a performance, so the ABC test applies. Programs hire both ways, so ask which it is.
+9. Teaching programs. Rock band programs, school jazz band coaching, a music store's lesson program. Teaching isn't a performance, so the ABC test applies and you're presumed an employee. Programs hire both ways anyway, so ask which it is.
 10. The campus job. A graduate assistantship is a W-2 job: the university is the employer and withholds tax.
-11. Private lessons. The one most freelancers keep year-round. Covered next.
+11. Private lessons, in their own section below.
 12. Online lessons and content. Lessons by video call, and lesson videos or transcriptions sold online. Paid through payment apps or platforms, which report on a 1099-K above $20,000 and 200 transactions.
 
-In chat:
+Discussion:
 
 > Which three of the twelve could you take next month, as you are now?
 
@@ -208,7 +202,7 @@ In chat:
 
 A lesson studio is a small business with its own rules. The guitarist writes them down in a one-page studio policy, sent to every new student:
 
-- The rate, and whether it's charged per lesson, per month, or per semester. Tuition paid in advance by the month or semester evens out cash flow, Kolb's concern on p. 242.
+- The rate, and whether it's charged per lesson, per month, or per semester. Tuition paid in advance by the month or semester evens out cash flow (Kolb, p. 242).
 - How much notice a cancellation needs, and whether a missed lesson is made up, credited, or charged.
 - Where lessons happen: their home, the student's home, a rented room, or online. Teaching at home doesn't add a license of its own: the Oakland zoning clearance and business tax certificate under "being a contractor" apply to anyone self-employed in Oakland, wherever the lessons are. Before setting up a home studio, call the city's Zoning Hotline, (510) 238-3911, to confirm it's allowed at your address.
 - What's included: a recital or a band showcase, materials, messages between lessons.
@@ -238,7 +232,7 @@ Against the self-employment income the guitarist has business expenses: strings,
 
 #### the website
 
-Week 12 covered McCurdy's list for a musician's site. For a guitarist and bassist:
+McCurdy's list for a musician's site (week 12), applied to a guitarist and bassist:
 
 - The home page has a photo, one line on what they play and where, and a "book" button.
 - A listening page has short videos, one for each kind of gig: a ceremony piece on classical guitar, a groove on bass with a band, a jazz solo.
@@ -282,7 +276,7 @@ The habits:
 - A share of every self-employment payment set aside for tax, in its own savings account.
 - Liability insurance, which many venues ask for, and instrument and gear insurance (Kolb, pp. 244–248; Andrews, pp. 161–164).
 
-In chat:
+Discussion:
 
 > Which of these forms have you already filled out? Which one is new to you?
 
@@ -313,13 +307,13 @@ In order:
 5. Write the studio policy and set the lesson rate.
 6. Build the website, with a page for each kind of gig, one for bandleaders, and one for lessons.
 7. Send it to ten people who hire players: three bandleaders, two music directors, a church, a wedding planner, an agency, a studio, and the people you already sub for.
-8. Set aside a share of every self-employment payment, and pay estimated tax on the four dates, or raise the withholding on your W-2 job.
+8. Set aside a share of every self-employment payment, and pay estimated tax on the four due dates, or raise the withholding on your W-2 job.
 9. Keep a log of every professional engagement, for the grants that ask for years of work.
 10. Put the grant dates in a calendar: the Quick Grant on the 15th of any month, and the California Arts Council fellowship when it next opens.
 
 ### 7:00 break
 
-Eight minutes. Back at 7:08.
+Back at 7:08.
 
 ### 7:08 case 2, the composer-pianist
 
@@ -383,7 +377,7 @@ For a composer-pianist:
 
 #### rights and registrations
 
-The composer's assets are copyrights, and three registrations protect them:
+The composer's assets are copyrights. Three things protect them:
 
 - Join a performing rights organization, BMI or ASCAP, one or the other. BMI states that joining as a songwriter or composer is free, with no annual dues; ASCAP's application page lists a one-time $50 processing fee. Register every work with the PRO, and report live performances, so the royalties can be paid.
 - Register the works you'd defend with the U.S. Copyright Office. Copyright exists once the piece is written down or recorded; registration is what you need to sue for infringement (week 13). Copyright.gov lists the fee for one work by one author, who owns it and didn't make it for hire, at $45, and the standard application at $65. The Office has sent Congress a new schedule raising them to $55 and $85 and will announce the effective date in the Federal Register, so check the fee page before filing.
@@ -405,7 +399,7 @@ Two more open after the degree. New Music USA's Creator Fund gave up to $5,000, 
 
 The composer and four performers from the program want to start a new music collective: commission each other and other composers, give two concerts a year, and record.
 
-1. Know what you already are. As soon as the five of you agree to work together, contribute time or money, and share the profits and losses, you're a general partnership in NYFA's terms (chapter 5, from November 9), whatever you've filed. Each partner's personal assets are exposed to the partnership's debts, including debts another partner took on.
+1. Know what you already are. As soon as the five of you agree to work together, contribute time or money, and share the profits and losses, you're a general partnership in NYFA's terms (chapter 5, week 13), whatever you've filed. Each partner's personal assets are exposed to the partnership's debts, including debts another partner took on.
 2. Write a collective agreement before the first concert. NYFA advises ensembles to put their relationships in writing before the work starts (week 13). One or two pages: who decides what, and how (by vote, by a director); how money is split; who owns the recordings and the video; what happens to a commissioned piece; how someone leaves, and what they take with them.
 3. Pick a name, and file a fictitious business name statement if the collective takes payments under it ($40 in Alameda County).
 4. Get the collective its own EIN (free) and open a bank account in its name. No collective money goes through anyone's personal account.
@@ -413,7 +407,7 @@ The composer and four performers from the program want to start a new music coll
 6. Decide on a form, using the table below. For a new student collective that wants grants and owns little, a fiscal sponsor is a reasonable first step, and a nonprofit can come later if the collective lasts.
 7. Book the first concert on terms the collective can afford with a small house. Intimate Opera split the door with the venue in place of paying a rental fee (Rabideau, pp. 144–145).
 
-Three ways to formalize it, on screen:
+Three ways to formalize it:
 
 | | LLC | fiscal sponsorship | 501(c)(3) nonprofit |
 |---|---|---|---|
@@ -450,7 +444,7 @@ That year pays the members almost nothing for their time. NYFA's point from chap
 - With nonprofit status, it's eligible for funders that give only to nonprofits, such as Oakland's Cultural Organization Assistance grants for Oakland-based nonprofit arts organizations.
 - While the members are enrolled, FCA Emergency Grants are closed: they exclude students in degree programs, including the person applying on behalf of a collective.
 
-In chat:
+Discussion:
 
 > Think of a group you play or write with. Which of the three forms fits it now, and what would have to change for a different one to fit?
 
@@ -462,7 +456,7 @@ In chat:
 4. Put up pages for collaborative piano, engraving, and lessons, with rates and samples.
 5. Write a commission agreement template and a collaborative piano policy.
 6. Open the separate account, get the EIN, and get the Oakland certificate.
-7. Set aside a share of every payment, and pay estimated tax on the four dates.
+7. Set aside a share of every payment, and pay estimated tax on the four due dates.
 8. Write the collective agreement with your four collaborators, before the first concert.
 9. Choose the collective's form, and if it's a fiscal sponsor, apply before the first crowdfunding campaign.
 10. Put the dates in a calendar: the BMI and Morton Gould awards in winter, the Quick Grant on the 15th of any month, the California Arts Council fellowship when it next opens, and the Creator Fund once you're eligible.
@@ -479,7 +473,7 @@ In chat:
 
 #### what the portfolio is
 
-The sixteen components, pulled together and revised for clarity and voice so they read as one coherent document. On screen:
+The sixteen components, pulled together and revised for clarity and voice so they read as one coherent document:
 
 1. Creative Identity Statement (week 1)
 2. Values Statement (week 2)
@@ -498,7 +492,7 @@ The sixteen components, pulled together and revised for clarity and voice so the
 15. Financial Snapshot (week 14)
 16. Portfolio Overview Statement (week 15)
 
-Numbers 9 through 14, from the Audience Profile to the Outreach and Platform Strategy, make up your marketing plan, the one course outcome 4 asks you to develop.
+Numbers 9 through 14, from the Audience Profile to the Outreach and Platform Strategy, make up your marketing plan, which course outcome 4 asks you to develop.
 
 Each component is a draft, and the final version is the revision. Start from the feedback on Canvas. The pieces have to fit each other: your Career Ecosystem Map should make sense given your Mission Statement, your Audience Profile should line up with your Positioning Statement, and your Financial Snapshot should match the prices in your Pricing Rationale and the revenue streams in your Business Model Snapshot.
 
