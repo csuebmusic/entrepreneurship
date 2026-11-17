@@ -88,7 +88,9 @@ The ABC test (from AB 5, 2019) is the default. You're a contractor only if all t
 
 A musician hired by a business whose usual work is music fails part B. A dance studio's business is dance classes, and accompanying the class is part of that business, so the accompanist is an employee.
 
-AB 2257 (2020) exempts some music work from the ABC test, including musicians hired for a single-engagement live performance and composers, songwriters, and musicians making recordings. For those jobs the Borello test applies instead, named for a 1989 California Supreme Court case. Borello weighs several factors, and no single one decides. The factor weighed most is who controls the manner and means of doing the work. The others:
+AB 2257 (2020, now Labor Code section 2780) takes some music work out of the ABC test. The first exemption covers a musician or group hired for a single-engagement live performance: one performance at one venue, or a series at the same venue no more than once a week, with the rehearsals for it. It doesn't cover a tour, a series at different venues, a symphony orchestra, a theme or amusement park, a musical theater production, a headliner at a venue with more than 1,500 attendees, or a festival selling more than 18,000 tickets a day. The second exemption covers composers, songwriters, and musicians making sound recordings.
+
+An exemption doesn't make you a contractor. It means the Borello test, named for a 1989 California Supreme Court case, decides in place of the ABC test. Borello weighs several factors, and no single one decides. The factor weighed most is who controls the manner and means of doing the work. The others:
 
 - whether you run your own business or occupation
 - whether the work is part of the hiring party's regular business
@@ -174,7 +176,7 @@ A graduate student, 26, in a master's program in music, living in Oakland. Plays
 
 #### the gigs
 
-Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: how it's found, how it pays, whether the player is an employee or a contractor under the tests from 6:03, and whether a 1099 arrives.
+Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: how it's found, how it pays, whether the player is an employee or a contractor under California's rules, and whether a 1099 arrives.
 
 1. Weddings and private events. Solo guitar for a ceremony and cocktail hour, or bass in a wedding band. Found through the website, wedding planners, venues' preferred-vendor lists, and listing sites. On screen:
 
@@ -232,7 +234,7 @@ Invented figures. Each line is marked by where it's reported, and whether a 1099
 
 $10,200 arrives on W-2s, with tax already withheld. $26,350 is self-employment income, and only $8,750 of it comes with a 1099. The other $17,600 arrives with no form at all, and it's just as taxable.
 
-Against the self-employment income the guitarist has business expenses: strings, an amp and pedals, gear repair, mileage, charts and method books, the website, insurance. Say they come to $3,500. The net self-employment income is then $22,850, and the self-employment tax on it, before any income tax, is about $3,230: 15.3 percent of 92.35 percent of net earnings. Nobody withholds that, so the guitarist sets part of every payment aside and pays it on the four dates from 6:03, or raises the withholding on the assistantship with a new W-4.
+Against the self-employment income the guitarist has business expenses: strings, an amp and pedals, gear repair, mileage, charts and method books, the website, insurance. Say they come to $3,500. The net self-employment income is then $22,850, and the self-employment tax on it, before any income tax, is about $3,230: 15.3 percent of 92.35 percent of net earnings. Nobody withholds that, so the guitarist sets part of every payment aside and pays it on the four estimated-tax dates, or raises the withholding on the assistantship with a new W-4.
 
 #### the website
 
@@ -249,8 +251,6 @@ Week 12 covered McCurdy's list for a musician's site. For a guitarist and bassis
 
 #### being a contractor
 
-Classification. The tests are at 6:03. AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The Borello test then decides. That's why the pit comes on a W-2 and the function band gig doesn't.
-
 The forms, from the first gig on:
 
 - Form W-9. The client asks for it before paying. It gives your name, address, and taxpayer identification number.
@@ -259,7 +259,7 @@ The forms, from the first gig on:
 - Form 1099-K. Payment apps such as Venmo and PayPal report your payments on this form when they're more than $20,000 and more than 200 transactions in a year.
 - Schedule C. Your business income and expenses, filed with Form 1040.
 - Schedule SE. The self-employment tax, 12.4 percent for Social Security and 2.9 percent for Medicare, 15.3 percent in all, on 92.35 percent of net earnings, owed once net earnings from self-employment reach $400. Half of it is deductible.
-- Form 1040-ES. Estimated tax, paid on the four dates at 6:03 if you expect to owe $1,000 or more when you file. California has its own estimated tax, with a threshold of generally $500.
+- Form 1040-ES. Estimated tax, paid on the four estimated-tax dates if you expect to owe $1,000 or more when you file. California has its own estimated tax, with a threshold of generally $500.
 - As the leader of a band, you collect a W-9 from every musician you pay and file a 1099-NEC for anyone you pay $2,000 or more in the year.
 
 The local paperwork:
@@ -366,7 +366,7 @@ Invented figures.
 | an arrangement for a wedding band | $300 | Schedule C | no: under $2,000 |
 | total | $23,800 | | |
 
-$20,800 is self-employment income, and not one dollar of it comes with a 1099. Business expenses (notation software, sample libraries, piano tuning, the website, printing scores, a conference) come to about $2,500, so net self-employment income is $18,300, and self-employment tax is about $2,590 before income tax, paid on the four dates from 6:03.
+$20,800 is self-employment income, and not one dollar of it comes with a 1099. Business expenses (notation software, sample libraries, piano tuning, the website, printing scores, a conference) come to about $2,500, so net self-employment income is $18,300, and self-employment tax is about $2,590 before income tax, paid on the four estimated-tax dates.
 
 #### the website
 
