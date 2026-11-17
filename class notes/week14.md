@@ -9,7 +9,7 @@ Reading summaries: [reading notes/week14.md](../reading%20notes/week14.md). Stud
 
 ## November 16
 
-6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight is two worked cases, both graduate students like you: a guitarist and bassist building a freelance gigging and teaching practice, and a composer-pianist who's starting a new music collective. For each one you'll see the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they're eligible for, alone or as a group.
+6:00 to 8:00. Keep your Reflection, your Business Model Snapshot, and your Pricing Rationale open. Tonight is two worked cases, both graduate students like you: a guitarist and bassist building a freelance gigging and teaching practice, and a composer who plays several woodwinds, sings, and is starting a new music collective. For each one you'll see the work they can do, a year of income, the website, what being an independent contractor involves, the forms, and the grants they're eligible for, alone or as a group.
 
 Both people are invented, and so are their rates and incomes. The laws, forms, fees, and grant programs are real and current as of November 2026. Nobody here is giving legal or tax advice.
 
@@ -20,7 +20,7 @@ Both people are invented, and so are their rates and incomes. The laws, forms, f
 - 6:18 the readings, in brief
 - 6:25 case 1, the guitarist and bassist
 - 7:00 break
-- 7:08 case 2, the composer-pianist
+- 7:08 case 2, the composer-performer
 - 7:42 the portfolio, from here to December 7
 - 7:55 close
 
@@ -151,6 +151,7 @@ Every legal and tax term in tonight's cases:
 - Copyright registration is the filing of that ownership with the U.S. Copyright Office, which you need before you can sue for infringement.
 - A performing rights organization (PRO), BMI or ASCAP, collects royalties when your music is performed in public and pays them to you.
 - A commission is a fee paid to write a new piece, with the terms set in a written agreement.
+- Doubling means one wind player covering several instruments in a single book, common in musical theater pits.
 - A perusal score is a watermarked PDF of a score, posted for performers to read, not to perform from.
 
 ### 6:18 the readings, in brief
@@ -315,22 +316,22 @@ In order:
 
 Back at 7:08.
 
-### 7:08 case 2, the composer-pianist
+### 7:08 case 2, the composer-performer
 
 #### who they are
 
-A graduate student, 25, in the same master's program, living in Oakland. A composer who writes concert music, some of it with electronics, and a pianist good enough to accompany and to play their own pieces. Engraves their own scores in Dorico. Wants to start a new music collective with four performers from the program, to commission and play new work.
+A graduate student, 25, in the same master's program, living in Oakland. A composer who writes concert music, some of it with electronics. Also a woodwind doubler, playing flute, clarinet, and saxophone, and a singer (baritone) with choral experience. Engraves their own scores in Dorico. Wants to start a new music collective with four performers from the program, to commission and play new work.
 
 #### the work
 
-Two practices, composing and playing, and the money comes from both.
+Two practices, composing and performing, and the money comes from both.
 
-As a pianist:
+As a performer:
 
-1. Collaborative piano for students. Juries, recitals, auditions, competitions, voice and instrumental studios. Found through teachers and the music department. Paid by the hour by the student, with no 1099 from a student paying for themselves.
-2. Choir accompanying. A community choir's weekly rehearsals and concerts. Rehearsal isn't a performance, so the ABC test applies, and the accompanist is presumed an employee unless the choir can meet all three parts.
-3. Weddings and church services, as in case 1.
-4. Private lessons in piano, theory, and composition.
+1. Pits and orchestras. Woodwind books in musical theater pits, where one player often covers flute, clarinet, and saxophone (doubling), and subbing in community and regional orchestras. Found through music directors, orchestra personnel managers, and other wind players. Paid per rehearsal and per performance. The musician exemption excludes musical theater productions and groups performing as a symphony orchestra, so the ABC test applies, and a paid player is presumed an employee, on a W-2.
+2. Singing in churches and choirs. A paid staff singer or section leader in a church choir, weekly, with a rehearsal before, or a paid singer in a choral ensemble's concerts. A weekly church position works like the worship band in case 1: the church can set it up as a part-time W-2 job or as contract work, so ask which.
+3. Weddings, funerals, and private events, singing or playing flute or saxophone, as in case 1.
+4. Private lessons in flute, clarinet, saxophone, voice, and composition.
 
 As a composer:
 
@@ -345,31 +346,33 @@ As a composer:
 
 AB 2257 applies the Borello test, not the ABC test, to songwriters, lyricists, composers, and anyone rendering creative services for sound recordings or musical compositions, so the composing work is usually contract work.
 
-#### the composer-pianist's year
+#### the composer-performer's year
 
 Invented figures.
 
 | work | the year | reported on | 1099? |
 |---|---|---|---|
-| 8 piano and theory students, 30 weeks, $50 a lesson | $12,000 | Schedule C | no: private persons |
-| 100 hours of collaborative piano for students, $50 an hour | $5,000 | Schedule C | no: students paying for themselves |
-| community choir accompanist | $3,000 | W-2 | no: it's a W-2 |
+| 8 woodwind, voice, and composition students, 30 weeks, $50 a lesson | $12,000 | Schedule C | no: private persons |
+| staff singer at a church, set up as a part-time W-2 job | $3,000 | W-2 | no: it's a W-2 |
+| one musical in a pit, woodwind book | $1,800 | W-2 | no: it's a W-2 |
+| 5 weddings and events, singing or playing, $300 each | $1,500 | Schedule C | no: private persons |
+| subbing in a regional orchestra | $1,200 | W-2 | no: it's a W-2 |
 | engraving for four clients, $600 each | $2,400 | Schedule C | no: each under $2,000 |
 | score for a student film | $600 | Schedule C | no: under $2,000 |
 | a commission from a classmate's ensemble | $500 | Schedule C | no: under $2,000 |
 | an arrangement for a wedding band | $300 | Schedule C | no: under $2,000 |
-| total | $23,800 | | |
+| total | $23,300 | | |
 
-$20,800 is self-employment income, and not one dollar of it comes with a 1099. Business expenses (notation software, sample libraries, piano tuning, the website, printing scores, a conference) come to about $2,500, so net self-employment income is $18,300, and self-employment tax is about $2,590 before income tax, paid on the four estimated-tax dates.
+$6,000 arrives on W-2s, with tax already withheld. $17,300 is self-employment income, and not one dollar of it comes with a 1099. Business expenses (notation software, sample libraries, reeds, instrument repair, the website, printing scores, a conference) come to about $2,500, so net self-employment income is $14,800, and self-employment tax is about $2,090 before income tax, paid on the four estimated-tax dates.
 
 #### the website
 
-For a composer-pianist:
+For a composer-performer:
 
 - A works list gives the title, year, instrumentation, duration, and premiere of each piece, sortable by instrumentation.
 - Each piece has its own page, with a recording, a perusal score, program notes, and how to get the parts.
 - A commissions page says what a commission includes and how it works, with a contact form.
-- A collaborative piano page lists repertoire, the hourly rate, and the policy for rehearsals and the performance.
+- A performing page lists the instruments they double, their voice type and repertoire, with audio clips, for music directors and personnel managers.
 - A services page offers engraving and arranging, with samples and how the rates are figured.
 - A lessons page says what they teach, with the studio policy and the rate.
 - The collective gets its own page once it exists.
@@ -383,7 +386,7 @@ The composer's assets are copyrights. Three things protect them:
 - Register the works you'd defend with the U.S. Copyright Office. Copyright exists once the piece is written down or recorded; registration is what you need to sue for infringement (week 13). Copyright.gov lists the fee for one work by one author, who owns it and didn't make it for hire, at $45, and the standard application at $65. The Office has sent Congress a new schedule raising them to $55 and $85 and will announce the effective date in the Federal Register, so check the fee page before filing.
 - Put every commission and every media job in a written agreement: who owns the music, who may perform, record, and post it, for how long, and what's paid when (week 13).
 
-#### the composer-pianist's grants and prizes, alone
+#### the composer-performer's grants and prizes, alone
 
 A student composer under 30 is eligible for a set of awards built for young composers, and not yet eligible for some of the grants for working artists.
 
@@ -448,13 +451,13 @@ Discussion:
 
 > Think of a group you play or write with. Which of the three forms fits it now, and what would have to change for a different one to fit?
 
-#### the composer-pianist's first ten steps
+#### the composer-performer's first ten steps
 
 1. Join BMI or ASCAP, and register every finished work.
 2. Register the copyright of the works you'd defend.
 3. Build the works list, with a perusal score and a recording for each piece.
-4. Put up pages for collaborative piano, engraving, and lessons, with rates and samples.
-5. Write a commission agreement template and a collaborative piano policy.
+4. Put up pages for performing, engraving, and lessons, with rates and samples.
+5. Write a commission agreement template and a studio policy for lessons.
 6. Open the separate account, get the EIN, and get the Oakland certificate.
 7. Set aside a share of every payment, and pay estimated tax on the four due dates.
 8. Write the collective agreement with your four collaborators, before the first concert.
