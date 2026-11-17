@@ -460,7 +460,7 @@ That year pays the members almost nothing for their time. NYFA's point from chap
 #### the collective's grants
 
 - Right away, in any form, the collective can crowdfund, split the door, and find small local sponsors, as Intimate Opera did (Rabideau, pp. 144–145).
-- With a fiscal sponsor, it can apply to funders that accept fiscally sponsored projects and take tax-deductible donations from the audience.
+- With a fiscal sponsor (see "fiscal sponsorship" above), it can apply to funders that accept fiscally sponsored projects and take tax-deductible donations from the audience.
 - After three years, New Music USA's Organization Fund takes performance groups that aren't 501(c)(3)s (fiscal sponsorship is encouraged, not required) once they have three years of activity, an average annual budget between $5,000 and $3 million, and a dedicated organizational bank account. Keep records of every concert from the first one, so the collective can document its activity.
 - With CMA membership, Chamber Music America's Classical Commissioning program funds ensembles commissioning new works for two to ten players, one per part, and doesn't require nonprofit status. Its 2026 cycle was limited to ensembles and presenters whose National Endowment for the Arts funding was rescinded in 2025.
 - With nonprofit status, it's eligible for funders that give only to nonprofits, such as Oakland's Cultural Organization Assistance grants for Oakland-based nonprofit arts organizations.
@@ -475,9 +475,9 @@ Discussion:
 1. Join BMI or ASCAP, and register every finished work.
 2. Register the copyright of the works you'd defend.
 3. Build the works list, with a perusal score and a recording for each piece.
-4. Put up pages for performing, engraving, and lessons, with rates and samples.
+4. Put up pages for performing, engraving, and lessons, with rates and samples, and send the performing page to music directors, orchestra personnel managers, and church music directors.
 5. Write a commission agreement template and a studio policy for lessons.
-6. Open the separate account, get the EIN, and get the Oakland certificate.
+6. Open the separate account, get the EIN, and get the Oakland zoning clearance and business tax certificate.
 7. Set aside a share of every payment, and pay estimated tax on the four due dates.
 8. Write the collective agreement with your four collaborators, before the first concert.
 9. Choose the collective's form, and if it's a fiscal sponsor, apply before the first crowdfunding campaign.
