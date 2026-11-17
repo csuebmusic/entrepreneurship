@@ -119,7 +119,7 @@ No form doesn't mean no tax. All of it is income, and all of it is reported on S
 
 #### both at once
 
-Most freelancers are both in the same year: an employee of the university or the theater that pays on a W-2, and self-employed for everything else. Both of tonight's students are.
+Many freelancers are both in the same year: an employee of the university or the theater that pays on a W-2, and self-employed for everything else. Both of tonight's students are.
 
 #### the vocabulary
 
@@ -186,13 +186,13 @@ Twelve kinds of work a guitarist and bassist in the Bay Area can do. For each: h
    GigSalad and The Bash charge performers through memberships or booking fees. Check each site's current pricing before you sign up.
 
    Paid a flat fee by the client, usually a deposit on booking and the balance before the date. Self-employment income. A couple paying for their own wedding isn't a business, so no 1099 arrives, and the fee is still reported on Schedule C. A wedding planner or venue that hires and pays you is a business, and sends a 1099-NEC once it pays you $2,000 or more in a year.
-2. Function and cover bands. Corporate parties, galas, and private events, playing other people's songs. Found through bandleaders and entertainment agencies; once a leader trusts you, the calls repeat. The leader or the agency pays you a set fee per gig. Each gig is a single engagement, so the Borello test applies, and a sideman with their own gear and other bands is a contractor. A leader or agency that pays you $2,000 or more in the year sends a 1099-NEC.
+2. Function and cover bands. Corporate parties, galas, and private events, playing other people's songs. Found through bandleaders and entertainment agencies. The leader or the agency pays you a set fee per gig. Each gig is a single engagement, so the Borello test applies, and a sideman with their own gear and other bands is a contractor. A leader or agency that pays you $2,000 or more in the year sends a 1099-NEC.
 3. Bars, clubs, and restaurants. Your own band, a jazz combo, a duo at a restaurant. Found by booking it yourself or through players who already have the gig. Paid as a guarantee, a share of the door, or both. A standing night at the same place once a week is inside the musician exemption; a residency at the same place more than once a week isn't. As the leader, you pay the others, so you collect a W-9 from each and file a 1099-NEC for anyone you pay $2,000 or more.
 4. Worship bands. Guitar or bass in a church's contemporary service, weekly, with a rehearsal before. Found through church listings and word of mouth among players. A weekly position at one church fits the law's definition of a single engagement (a series at the same venue no more than once a week), so the Borello test decides, and a church can set it up as a part-time W-2 job or as contract work. Ask which. A church is a nonprofit, and nonprofits send 1099-NECs like any business.
 5. Musical theater pits. Guitar and bass books for rock and pop musicals, at community theaters, schools, and regional companies. Found through music directors. Paid per rehearsal and per performance. The musician exemption excludes anyone performing in a musical theater production, whatever the length of the run, so even a single weekend falls under the ABC test. A theater's usual business is putting on shows, so a paid pit player fails part B and is presumed an employee, on a W-2. Volunteer players in community theater aren't employees.
 6. Backing a singer or songwriter. Local shows, and sometimes a tour. A local show is a single engagement. A tour isn't: the exemption doesn't cover a tour or a series of performances at different venues, so on tour the ABC test applies, and the artist who hires you has to treat you as an employee unless they can meet all three parts.
 7. Recording sessions. Studio sessions, remote sessions recorded at home, demos for songwriters, a bass part for a producer. Paid per song, per hour, or per project. California applies the Borello test, not the ABC test, to musicians making sound recordings, so session work is usually contract work. Session musicians who don't receive royalties are still owed minimum wage and overtime.
-8. Subbing. Covering any of the above for another player. The terms follow whatever gig it is, and players who sub well get called again.
+8. Subbing. Covering any of the above for another player. The terms are those of the gig you're covering.
 9. Teaching programs. Rock band programs, school jazz band coaching, a music store's lesson program. Teaching isn't a performance, so the ABC test applies. Programs hire both ways, so ask which it is.
 10. The campus job. A graduate assistantship is a W-2 job: the university is the employer and withholds tax.
 11. Private lessons. The one most freelancers keep year-round. Covered next.
@@ -208,7 +208,7 @@ A lesson studio is a small business with its own rules. The guitarist writes the
 
 - The rate, and whether it's charged per lesson, per month, or per semester. Tuition paid in advance by the month or semester evens out cash flow, Kolb's concern on p. 242.
 - How much notice a cancellation needs, and whether a missed lesson is made up, credited, or charged.
-- Where lessons happen: their home, the student's home, a rented room, or online. A home studio in Oakland is a home business, and Oakland requires a zoning clearance and a business tax certificate even for a business run from home.
+- Where lessons happen: their home, the student's home, a rented room, or online. Teaching at home doesn't add a license of its own: the Oakland zoning clearance and business tax certificate under "being a contractor" apply to anyone self-employed in Oakland, wherever the lessons are. Before setting up a home studio, call the city's Zoning Hotline, (510) 238-3911, to confirm it's allowed at your address.
 - What's included: a recital or a band showcase, materials, messages between lessons.
 - A sliding scale or a few reduced-rate spots, if their Pricing Rationale calls for one.
 
@@ -249,8 +249,6 @@ Week 12 covered McCurdy's list for a musician's site. For a guitarist and bassis
 
 #### being a contractor
 
-What it involves, in the order it comes up.
-
 Classification. The tests are at 6:03. AB 2257, passed in 2020 and now California Labor Code section 2780, exempts a musician or musical group hired for a single-engagement live performance event: a stand-alone performance at one venue, or a series of performances at the same venue no more than once a week, with the rehearsals for it included. A tour, or a series at different venues, isn't covered. Nor is a musical group performing as a symphony orchestra or at a theme or amusement park, a musician in a musical theater production, a headliner at a venue with more than 1,500 attendees, or a group at a festival selling more than 18,000 tickets a day. An exemption from the ABC test doesn't make you a contractor automatically. The Borello test then decides. That's why the pit comes on a W-2 and the function band gig doesn't.
 
 The forms, from the first gig on:
@@ -266,7 +264,12 @@ The forms, from the first gig on:
 
 The local paperwork:
 
-- City of Oakland business tax certificate. Oakland requires one of everyone doing business in the city, including self-employed people, independent contractors, and home-based businesses, renewed every March 1. A business located in Oakland gets a zoning clearance first. Other cities have their own rules; check the city you live in.
+- City of Oakland zoning clearance and business tax certificate. Anyone self-employed who lives and works in Oakland needs both, including a business run from home. Both are filed online, and the first year costs about $175.
+  1. The zoning clearance comes first. It's a one-time permit confirming your kind of business is allowed at your address. The fee is $75.22, paid when you apply, and the clearance stays valid as long as the business and the address stay the same. Some activities also need a conditional use permit; the Zoning Hotline, (510) 238-3911, tells you what's allowed at an address.
+  2. The business tax certificate comes next, at [oakland.hdlgov.com](https://oakland.hdlgov.com), within 30 days of starting work. The one-time registration fee is $99 as of 2026. The certificate arrives by email two to three business days after you pay.
+  3. Every year by March 1, you renew and pay the business tax, a percentage of your gross receipts. Under the rates Oakland voters approved in 2022 (Measure T), it's between 0.05 and 0.55 percent: on the guitarist's $26,350, between about $13 and $145. Measure C, approved in June 2026, waives the tax for 2027 for small businesses with $1 million or less in gross receipts in classes that include business and personal services.
+
+  Filing late adds penalties and interest. Other cities have their own rules; check the city you live in.
 - Fictitious business name statement, if you work under any name other than your own ("Low End Music"), or if your band takes payments under its name. In Alameda County it's filed with the Clerk-Recorder for $40.
 - California seller's permit, if you sell CDs, vinyl, or merchandise at shows. It's free from the California Department of Tax and Fee Administration.
 
@@ -338,7 +341,7 @@ As a pianist:
 As a composer:
 
 5. Commissions. Performers, ensembles, choirs, and dance and theater companies pay for a new piece. The usual terms are half the fee on signing and half on delivery of the score, and the commissioner gets the premiere and often a period of exclusive performance. The composer keeps the copyright unless a written agreement says otherwise (week 13). At this stage most commissions come from people you've worked with: classmates, teachers, local ensembles. Online, [r/composer](https://www.reddit.com/r/composer/) is a Reddit community of about 120,000 members for score-based music, running since 2011. Composers post scores for feedback (a score is required with every post), people post commission requests and mark them "Completed" once filled, and the moderators ask that commission terms be clear and in writing. Its [resources page](https://www.reddit.com/r/composer/wiki/resources/) lists books, channels, and websites for composers.
-6. Engraving and music preparation. Turning a manuscript or a sketch into a clean score and parts, for other composers, faculty, publishers, ensembles, and film and theater productions. It's priced by the hour, by the page, or by the bar. The Canadian League of Composers publishes suggested minimum rates; its 2025 hourly minimum for engraving and copying is $59 in Canadian dollars, and proofreading is $57. A premiere with live players needs a score and parts, so a composer who engraves well can find steady work.
+6. Engraving and music preparation. Turning a manuscript or a sketch into a clean score and parts, for other composers, faculty, publishers, ensembles, and film and theater productions. It's priced by the hour, by the page, or by the bar. The Canadian League of Composers publishes suggested minimum rates; its 2025 hourly minimum for engraving and copying is $59 in Canadian dollars, and proofreading is $57. Every premiere with live players needs a score and parts.
 7. Arranging and orchestration. Arrangements for a wedding band, a choir, a church, a school ensemble.
 8. Transcription. Writing down music from a recording, for publishers, bands, students, and video creators.
 9. Music for media. Student and independent films, dance, theater, podcasts, games, installations. Usually a fee, with terms for who owns the music and where it can be used.
